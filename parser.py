@@ -40,25 +40,58 @@ def main():
     output = []
 
     for item in files_data:
-        if item.get("type") == "file" and item.get("name", "").endswith(".md"):
-            file_name = item["name"]
-            raw_url = item.get("download_url")
+        if item.get("type") != "file" or not item.get("name", "").endswith(".md"):
+            continue
 
-            if file_name.lower() in ["readme.md", "index.md", "snippets.md"]:
-                continue
+        file_name = item["name"]
+        raw_url = item.get("download_url")
 
-            category_name = clean_category_name(file_name)
-            print(f"Scanning category: {category_name}...")
+        if file_name.lower() in ["readme.md", "index.md", "snippets.md"]:
+            continue
 
-            try:
-                req = urllib.request.Request(raw_url, headers=HEADERS)
-                with urllib.request.urlopen(req) as resp:
-                    lines = resp.read().decode('utf-8').splitlines()
+        category_name = clean_category_name(file_name)
+        print(f"Scanning category: {category_name}...")
 
-                current_subcategory = category_name
-                for line in lines:
-                    trimmed = line.strip()
+        try:
+            req = urllib.request.Request(raw_url, headers=HEADERS)
+            with urllib.request.urlopen(req) as resp:
+                lines = resp.read().decode('utf-8').splitlines()
 
+            current_subcategory = category_name
+            for line in lines:
+                trimmed = line.strip()
+
+                if trimmed.startswith("#"):
+                    sub = trimmed.replace("#", "").strip()
+                    if sub and "table of contents" not in sub.lower():
+                        current_subcategory = sub
+                    continue
+
+                match = regex.search(trimmed)
+                if match:
+                    title = match.group(1).strip()
+                    link = match.group(2).strip()
+                    raw_desc = match.group(3) or ""
+                    desc = clean_description(raw_desc)
+
+                    if "reddit.com" not in link and "github.com/fmhy" not in link and "Back to" not in title:
+                        output.append({
+                            "title": title,
+                            "url": link,
+                            "description": desc,
+                            "category": category_name,
+                            "subcategory": current_subcategory
+                        })
+        except Exception as e:
+            print(f"Error reading file {file_name}: {e}")
+
+    with open("fmhy_clean_data.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
+
+    print(f"\nDone! Successfully gathered {len(output)} clean items.")
+
+if __name__ == "__main__":
+    main()
                     if trimmed.startswith("#"):
                         sub = trimmed.replace("#", "").strip()
                         if sub and "table of contents" not in sub.lower():
