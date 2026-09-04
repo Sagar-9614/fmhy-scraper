@@ -11,8 +11,9 @@ permissions:
 jobs:
   scrape_and_push:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4.2.2
 
       - name: Set up Python
@@ -20,51 +21,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Create and Run Scraper
+      - name: Run Scraper Script
+        run: python parser.py
+
+      - name: Commit and Push Clean Data
         run: |
-          cat << 'EOF' > parser.py
-          import urllib.request
-          import json
-          import re
-
-          API_URL = "https://api.github.com/repos/fmhy/FMHYEdit/contents/docs"
-          HEADERS = {"User-Agent": "Mozilla/5.0", "Accept": "application/vnd.github.v3+json"}
-          LINK_REGEX = re.compile(r'\[([^\]]+)\]\((https?://[^\s\)]+)\)(?:\s*[-–—:]?\s*(.*))?')
-
-          def fetch_json(url):
-              req = urllib.request.Request(url, headers=HEADERS)
-              with urllib.request.urlopen(req) as resp:
-                  return json.loads(resp.read().decode('utf-8'))
-
-          def clean_category_name(filename):
-              return filename.replace(".md", "").replace("-", " ").replace("_", " ").title()
-
-          def clean_description(desc):
-              if not desc:
-                  return ""
-              cleaned = re.sub(r'[\{\[]([^\]\}]+)[\}\]]\([^\)]+\)', r'\1', desc)
-              cleaned = re.sub(r'https?://\S+', '', cleaned)
-              cleaned = cleaned.replace("*", "").replace("`", "").strip()
-              return re.sub(r'^[–—\-:\s]+', '', cleaned).strip()
-
-          def parse_lines(lines, category_name):
-              items = []
-              current_sub = category_name
-              for line in lines:
-                  trimmed = line.strip()
-                  if not trimmed:
-                      continue
-                  if trimmed.startswith("#"):
-                      sub = trimmed.replace("#", "").strip()
-                      if sub and "table of contents" not in sub.lower():
-                          current_sub = sub
-                      continue
-                  m = LINK_REGEX.search(trimmed)
-                  if m:
-                      title = m.group(1).strip()
-                      link = m.group(2).strip()
-                      desc = clean_description(m.group(3) or "")
-                      if "reddit.com" not in link and "github.com/fmhy" not in link and "Back to" not in title:
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add fmhy_clean_data.json
+          git commit -m "Auto-updated clean FMHY data" || exit 0
+          git push
                           items.append({
                               "title": title,
                               "url": link,
