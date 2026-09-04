@@ -1,1 +1,33 @@
+name: Auto Update FMHY Data
 
+on:
+  schedule:
+    # প্রতিদিন রাত ১২টায় স্বয়ংক্রিয়ভাবে ব্যাকগ্রাউন্ডে চলবে
+    - cron: '0 0 * * *'
+  workflow_dispatch: # ম্যানুয়ালি নিজের ইচ্ছামতো বাটন চেপে চালানোর জন্য
+
+permissions:
+  contents: write
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Scraper Script
+        run: python parser.py
+
+      - name: Commit and Push Clean Data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add fmhy_clean_data.json
+          git commit -m "Auto-updated clean FMHY data" || exit 0
+          git push
