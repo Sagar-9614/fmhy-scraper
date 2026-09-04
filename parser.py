@@ -9,7 +9,7 @@ HEADERS = {
     "Accept": "application/vnd.github.v3+json"
 }
 
-regex = re.compile(r'\[([^\]]+)\]\((https?://[^\s\)]+)\)(?:\s*[-–—:]?\s*(.*))?')
+LINK_REGEX = re.compile(r'\[([^\]]+)\]\((https?://[^\s\)]+)\)(?:\s*[-–—:]?\s*(.*))?')
 
 def fetch_json(url):
     req = urllib.request.Request(url, headers=HEADERS)
@@ -28,6 +28,37 @@ def clean_description(desc):
     cleaned = cleaned.replace("*", "").replace("`", "").strip()
     cleaned = re.sub(r'^[–—\-:\s]+', '', cleaned)
     return cleaned.strip()
+
+def parse_markdown_lines(lines, category_name):
+    items = []
+    current_subcategory = category_name
+
+    for line in lines:
+        trimmed = line.strip()
+
+        if trimmed.startswith("#"):
+            sub = trimmed.replace("#", "").strip()
+            if sub and "table of contents" not in sub.lower():
+                current_subcategory = sub
+            continue
+
+        match = LINK_REGEX.search(trimmed)
+        if match:
+            title = match.group(1).strip()
+            link = match.group(2).strip()
+            raw_desc = match.group(3) or ""
+            desc = clean_description(raw_desc)
+
+            if "reddit.com" not in link and "github.com/fmhy" not in link and "Back to" not in title:
+                items.append({
+                    "title": title,
+                    "url": link,
+                    "description": desc,
+                    "category": category_name,
+                    "subcategory": current_subcategory
+                })
+
+    return items
 
 def main():
     print("Fetching file list from FMHY repository...")
@@ -57,8 +88,18 @@ def main():
             with urllib.request.urlopen(req) as resp:
                 lines = resp.read().decode('utf-8').splitlines()
 
-            current_subcategory = category_name
-            for line in lines:
+            file_items = parse_markdown_lines(lines, category_name)
+            output.extend(file_items)
+        except Exception as e:
+            print(f"Error reading file {file_name}: {e}")
+
+    with open("fmhy_clean_data.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
+
+    print(f"\nDone! Successfully gathered {len(output)} clean items.")
+
+if __name__ == "__main__":
+    main()
                 trimmed = line.strip()
 
                 if trimmed.startswith("#"):
