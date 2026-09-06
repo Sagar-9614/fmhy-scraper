@@ -8,8 +8,10 @@ from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor
 
 # কনফিগারেশন
-REPO_API_URL = "https://api.github.com/repos/fmhy/FMHYEdit/contents"
-RAW_BASE_URL = "https://raw.githubusercontent.com/fmhy/FMHYEdit/main/"
+# আসল, বর্তমানে-লাইভ রিপো হলো fmhy/edit — আর ক্যাটাগরি .md ফাইলগুলো রুটে নয়,
+# docs/ সাবফোল্ডারে থাকে (ai.md, audio.md, gaming.md, video.md ইত্যাদি)
+REPO_API_URL = "https://api.github.com/repos/fmhy/edit/contents/docs"
+RAW_BASE_URL = "https://raw.githubusercontent.com/fmhy/edit/main/docs/"
 OUTPUT_FILE = "fmhy_clean_data.json"
 CHECK_BROKEN_LINKS = False  # দ্রুত ডেটা পাওয়ার জন্য False রাখা ভালো
 REQUEST_TIMEOUT = 10
