@@ -903,9 +903,16 @@
     "subcategory": "► Image Generation"
   },
   {
+    "title": "Gemini",
+    "url": "https://gemini.google.com/",
+    "description": "Nano Banana 2 / 20 Per Day / Google Login / Remove Watermarks, 2, 3 / Add Features / Discord",
+    "category": "Ai",
+    "subcategory": "► Image Generation"
+  },
+  {
     "title": "Google AI Mode",
     "url": "https://google.com/aimode",
-    "description": "/ Discord or Gemini / Discord - Nano Banana 2 / 20 Per Day / Google Login / Remove Watermarks, 2, 3 / Add Features",
+    "description": "/ Discord - Nano Banana 2 Lite / 20 Per Day / Google Login",
     "category": "Ai",
     "subcategory": "► Image Generation"
   },
@@ -955,6 +962,13 @@
     "title": "Perchance",
     "url": "https://perchance.org/ai-photo-generator",
     "description": "/ 2 - Chroma-Based / Unlimited / Resources / Lemmy / Subreddit / Discord",
+    "category": "Ai",
+    "subcategory": "► Image Generation"
+  },
+  {
+    "title": "⁠ChatWave Image",
+    "url": "https://chatwave.crunchflix.site/",
+    "description": "GPT Image 2 / Nano Banana 2",
     "category": "Ai",
     "subcategory": "► Image Generation"
   },
@@ -2487,7 +2501,7 @@
   {
     "title": "ArtistGrid",
     "url": "https://artistgrid.cx/",
-    "description": "Unreleased / Render / Discord / GitHub",
+    "description": "Unreleased / Discord / GitHub",
     "category": "Audio",
     "subcategory": "▷ Streaming Sites"
   },
@@ -4326,13 +4340,6 @@
     "subcategory": "▷ Playlist Tools"
   },
   {
-    "title": "Timelineify",
-    "url": "https://www.timelineify.com/",
-    "description": "Create Playlist from an Artist's Discography",
-    "category": "Audio",
-    "subcategory": "▷ Playlist Tools"
-  },
-  {
     "title": "Share Liked Songs",
     "url": "https://nonnullish.github.io/share-liked-songs/",
     "description": "Create Shareable Playlist from Liked Songs / GitHub",
@@ -5649,50 +5656,29 @@
     "subcategory": "▷ Game Soundtracks"
   },
   {
-    "title": "RetroTracks",
-    "url": "https://retro.sx/",
-    "description": "Retro Game Soundtracks / MP3",
+    "title": "Zophar's Domain",
+    "url": "https://www.zophar.net/music",
+    "description": "Retro Game Music Rips / MP3 320 Kbps / FLAC",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
   },
   {
     "title": "The 16-bit Audiophile Project",
     "url": "https://16bap.theclassicgamer.net/",
-    "description": "Retro Game Soundtracks / FLAC",
+    "description": "16-bit Game Soundtracks / FLAC",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
   },
   {
-    "title": "VGMPF",
-    "url": "https://www.vgmpf.com/Wiki/index.php",
-    "description": "Retro Game Soundtracks / MP3",
-    "category": "Audio",
-    "subcategory": "▷ Game Soundtracks"
-  },
-  {
-    "title": "Chip Player JS",
-    "url": "https://chiptune.app/",
-    "description": "Retro Game Soundtracks / Web / GitHub",
-    "category": "Audio",
-    "subcategory": "▷ Game Soundtracks"
-  },
-  {
-    "title": "Cirrus Retro",
-    "url": "https://cirrusretro.com/",
-    "description": "Retro Game Soundtracks / Web",
+    "title": "RetroTracks",
+    "url": "https://retro.sx/",
+    "description": "Retro Game Soundtracks / MP3 128 Kbps",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
   },
   {
     "title": "VGMRips",
     "url": "https://vgmrips.net/packs/",
-    "description": "Retro Game Music Rips / VGM",
-    "category": "Audio",
-    "subcategory": "▷ Game Soundtracks"
-  },
-  {
-    "title": "Zophar's",
-    "url": "https://www.zophar.net/music",
     "description": "Retro Game Music Rips / VGM",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
@@ -5705,16 +5691,23 @@
     "subcategory": "▷ Game Soundtracks"
   },
   {
-    "title": "exotica",
-    "url": "https://www.exotica.org.uk/",
-    "description": "Amiga Game Soundtracks / Retro Gaming Music Wiki",
+    "title": "⁠OC Remix",
+    "url": "https://ocremix.org/",
+    "description": "Game Music Remixes / Download / Torrent",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
   },
   {
-    "title": "⁠OC Remix",
-    "url": "https://ocremix.org/",
-    "description": "Game Music Remixes / Download / Torrent",
+    "title": "NSF j",
+    "url": "https://nsf.nesbbs.com/",
+    "description": "NES Music",
+    "category": "Audio",
+    "subcategory": "▷ Game Soundtracks"
+  },
+  {
+    "title": "HVSC",
+    "url": "https://www.hvsc.c64.org/",
+    "description": "Commodore 64 Music",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
   },
@@ -5782,16 +5775,30 @@
     "subcategory": "▷ Game Soundtracks"
   },
   {
-    "title": "NSF j",
-    "url": "https://nsf.nesbbs.com/",
-    "description": "NES Music",
+    "title": "VGMPF",
+    "url": "https://www.vgmpf.com/Wiki/index.php",
+    "description": "Retro Game Soundtracks / MP3",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
   },
   {
-    "title": "HVSC",
-    "url": "https://www.hvsc.c64.org/",
-    "description": "Commodore 64 Music",
+    "title": "exotica",
+    "url": "https://www.exotica.org.uk/",
+    "description": "Amiga Game Soundtracks / Retro Gaming Music Wiki",
+    "category": "Audio",
+    "subcategory": "▷ Game Soundtracks"
+  },
+  {
+    "title": "Chip Player JS",
+    "url": "https://chiptune.app/",
+    "description": "Retro Game Soundtracks / Web / GitHub",
+    "category": "Audio",
+    "subcategory": "▷ Game Soundtracks"
+  },
+  {
+    "title": "Cirrus Retro",
+    "url": "https://cirrusretro.com/",
+    "description": "Retro Game Soundtracks / Web",
     "category": "Audio",
     "subcategory": "▷ Game Soundtracks"
   },
@@ -8017,7 +8024,7 @@
   {
     "title": "lucida",
     "url": "https://lucida.to/",
-    "description": "/ squid.wtf / Nicotine+",
+    "description": "/ Nicotine+",
     "category": "Beginners Guide",
     "subcategory": "Music"
   },
@@ -12084,7 +12091,7 @@
   {
     "title": "Formulaer",
     "url": "https://formulaer.com/",
-    "description": ", Tally, FormBricks, Formshare, Deformity or Stylr - Form Builders",
+    "description": ", Tally, FormBricks, Formshare or Deformity - Form Builders",
     "category": "Developer Tools",
     "subcategory": "► Web Dev Tools"
   },
@@ -18536,6 +18543,13 @@
     "subcategory": "▷ Spacecraft"
   },
   {
+    "title": "⁠Visual Satellite Observer",
+    "url": "https://www.satobs.org/",
+    "description": "Satellite Viewing Guides / Information",
+    "category": "Educational",
+    "subcategory": "▷ Spacecraft"
+  },
+  {
     "title": "Spacebook",
     "url": "https://www.spacebook.com/",
     "description": "Evaluates / Tracks Satellite Collision Risks & Maneuvers",
@@ -20958,6 +20972,13 @@
     "subcategory": "▷ Chess"
   },
   {
+    "title": "Pawn Appétit",
+    "url": "https://github.com/Pawn-Appetit/pawn-appetit",
+    "description": "or En Croissant - Chess Analysis Tool / Game Databases",
+    "category": "Educational",
+    "subcategory": "▷ Chess"
+  },
+  {
     "title": "Chess Tempo",
     "url": "https://chesstempo.com/",
     "description": "Tactics Training / Endgame Solver",
@@ -20968,6 +20989,13 @@
     "title": "Scid vs. PC",
     "url": "https://scidvspc.sourceforge.net/",
     "description": "Chess Database Software",
+    "category": "Educational",
+    "subcategory": "▷ Chess"
+  },
+  {
+    "title": "⁠Maia Chess",
+    "url": "https://www.maiachess.com/",
+    "description": "Human-Like AI Chess Opponent",
     "category": "Educational",
     "subcategory": "▷ Chess"
   },
@@ -21035,9 +21063,9 @@
     "subcategory": "▷ Chess"
   },
   {
-    "title": "⁠Maia Chess",
-    "url": "https://www.maiachess.com/",
-    "description": "Human-Like AI Chess Opponent",
+    "title": "Chess Monitor",
+    "url": "https://www.chessmonitor.com/",
+    "description": "Aggregate Lichess and Chess.com Match History",
     "category": "Educational",
     "subcategory": "▷ Chess"
   },
@@ -21056,20 +21084,6 @@
     "subcategory": "▷ Chess"
   },
   {
-    "title": "WintrChess",
-    "url": "https://wintrchess.com/",
-    "description": ", 2 - Engine Analysis",
-    "category": "Educational",
-    "subcategory": "▷ Chess"
-  },
-  {
-    "title": "⁠Chess Analysis",
-    "url": "https://chess-analysis.org/",
-    "description": "Engine Analysis / Discord",
-    "category": "Educational",
-    "subcategory": "▷ Chess"
-  },
-  {
     "title": "Pawn Appétit",
     "url": "https://github.com/ChessKitchen/pawn-appetit",
     "description": "Engine Analysis",
@@ -21077,9 +21091,9 @@
     "subcategory": "▷ Chess"
   },
   {
-    "title": "Chesskit",
-    "url": "https://chesskit.org/",
-    "description": "Engine Analysis / Discord / GitHub",
+    "title": "WintrChess",
+    "url": "https://wintrchess.com/",
+    "description": ", 2, ⁠Chess Analysis / Discord or Chesskit / Discord / GitHub - Lightweight Web Engine Analysis",
     "category": "Educational",
     "subcategory": "▷ Chess"
   },
@@ -21091,16 +21105,9 @@
     "subcategory": "▷ Chess"
   },
   {
-    "title": "⁠Chessigma",
-    "url": "https://www.chessigma.com/",
-    "description": "Engine Analysis / Discord",
-    "category": "Educational",
-    "subcategory": "▷ Chess"
-  },
-  {
-    "title": "En Croissant",
-    "url": "https://encroissant.org/",
-    "description": "Chess Analysis Tool / Game Databases",
+    "title": "OpeningTree",
+    "url": "https://www.openingtree.com/",
+    "description": "Import Lichess and Chess.com Analysis",
     "category": "Educational",
     "subcategory": "▷ Chess"
   },
@@ -21122,20 +21129,6 @@
     "title": "⁠Tactic or Not",
     "url": "https://tacticornot.com/",
     "description": "Evaluate Tactics / Discord",
-    "category": "Educational",
-    "subcategory": "▷ Chess"
-  },
-  {
-    "title": "OpeningTree",
-    "url": "https://www.openingtree.com/",
-    "description": "Import Lichess and Chess.com Analysis",
-    "category": "Educational",
-    "subcategory": "▷ Chess"
-  },
-  {
-    "title": "Chess Monitor",
-    "url": "https://www.chessmonitor.com/",
-    "description": "Aggregate Lichess and Chess.com Match History",
     "category": "Educational",
     "subcategory": "▷ Chess"
   },
@@ -21380,7 +21373,7 @@
   {
     "title": "⁠Mecabricks Workshop",
     "url": "https://www.mecabricks.com/en/workshop",
-    "description": "or BrickLink Studio - Virtual LEGO Building",
+    "description": ", LeoCAD / GitHub or BrickLink Studio - Virtual LEGO Building / 3D Editors",
     "category": "Educational",
     "subcategory": "▷ LEGO"
   },
@@ -25088,13 +25081,6 @@
     "subcategory": "▷ SAT Testing"
   },
   {
-    "title": "SAT_Files_discussion",
-    "url": "https://t.me/SAT_Files_discussion",
-    "description": "SAT Exam Discussion",
-    "category": "Educational",
-    "subcategory": "▷ SAT Testing"
-  },
-  {
     "title": "PhysicsWallah",
     "url": "https://www.pw.live/",
     "description": ", Pirate Wallah or StudyShark - JEE Lessons / YouTube",
@@ -26693,7 +26679,7 @@
   {
     "title": "AnyTXT",
     "url": "https://anytxt.net/",
-    "description": ", WizFile or FluentSearch - Windows Search Engines",
+    "description": "or WizFile - Windows Search Engines",
     "category": "File Tools",
     "subcategory": "▷ File Searching"
   },
@@ -27694,7 +27680,7 @@
   {
     "title": "⁠DropDrive",
     "url": "https://dropdrive.org/",
-    "description": "100GB / 30 Days After Last Download",
+    "description": "100GB / 60 Days After Last Download",
     "category": "File Tools",
     "subcategory": "► File Hosts"
   },
@@ -28024,6 +28010,13 @@
     "title": "FileFast",
     "url": "https://file.fast/",
     "description": "5GB / Unlimited",
+    "category": "File Tools",
+    "subcategory": "► File Hosts"
+  },
+  {
+    "title": "Akira Box",
+    "url": "https://akirabox.com/",
+    "description": ", 2 - 20GB Free / 30 Days After Last Download / Use uBlock",
     "category": "File Tools",
     "subcategory": "► File Hosts"
   },
@@ -28616,13 +28609,6 @@
     "subcategory": "▷ MEGA Tools"
   },
   {
-    "title": "PCGamingWiki",
-    "url": "https://www.pcgamingwiki.com/",
-    "description": "/ Discord or ⁠Mulderland / GitHub - Game Fixes & Enhancements",
-    "category": "Gaming Tools",
-    "subcategory": "► Gaming Tools"
-  },
-  {
     "title": "Library of Codexes",
     "url": "https://libraryofcodexes.com/",
     "description": "Game Codex Library",
@@ -28633,13 +28619,6 @@
     "title": "HowLongToBeat",
     "url": "https://howlongtobeat.com/",
     "description": ", 2 - Find Average Game Lengths / Discord",
-    "category": "Gaming Tools",
-    "subcategory": "► Gaming Tools"
-  },
-  {
-    "title": "Game Pauser",
-    "url": "https://madebyjase.com/game-pauser/",
-    "description": "Pause Unpausable Cutscenes / Source Code",
     "category": "Gaming Tools",
     "subcategory": "► Gaming Tools"
   },
@@ -28961,7 +28940,7 @@
   {
     "title": "Creepy's HDR Guides",
     "url": "https://www.hdrmods.com/",
-    "description": "HDR Gaming Resources / Guides ⁠",
+    "description": "HDR Gaming Resources / Guides",
     "category": "Gaming Tools",
     "subcategory": "▷ Optimization Tools"
   },
@@ -29004,20 +28983,6 @@
     "title": "SystemRequirementsLab",
     "url": "https://www.systemrequirementslab.com/cyri/",
     "description": "or PCGameBenchmark - Game Requirements Tests",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
-  },
-  {
-    "title": "SweetFX",
-    "url": "https://sfx.thelazy.net/",
-    "description": "or ENBSeries - Game Setting Guides",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
-  },
-  {
-    "title": "TroubleChute",
-    "url": "https://www.youtube.com/c/TroubleChute/featured",
-    "description": "Gaming Optimization Guide",
     "category": "Gaming Tools",
     "subcategory": "▷ Optimization Tools"
   },
@@ -29085,23 +29050,9 @@
     "subcategory": "▷ Optimization Tools"
   },
   {
-    "title": "dgVoodoo2",
-    "url": "http://dege.freeweb.hu/dgVoodoo2/",
-    "description": "Glide & DirectX Graphics Wrapper / Windows",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
-  },
-  {
     "title": "⁠dxvk-gplasync",
     "url": "https://gitlab.com/Ph42oN/dxvk-gplasync/",
     "description": "DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction / Windows, Linux",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
-  },
-  {
-    "title": "VibranceGUI",
-    "url": "https://vibrancegui.com/",
-    "description": "Automate Digital Vibrance Control / Windows",
     "category": "Gaming Tools",
     "subcategory": "▷ Optimization Tools"
   },
@@ -29127,39 +29078,102 @@
     "subcategory": "▷ Optimization Tools"
   },
   {
+    "title": "PCGamingWiki",
+    "url": "https://www.pcgamingwiki.com/",
+    "description": "/ Discord or ⁠Mulderland / GitHub - Game Fixes & Enhancements",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "GamingSmart",
+    "url": "https://gamingsmart.com/",
+    "description": ", Sens Converter or Mouse Sensitivity - Game Sensitivity Converters / Tools",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "Game Pauser",
+    "url": "https://madebyjase.com/game-pauser/",
+    "description": "Pause Unpausable Cutscenes / Source Code",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "SweetFX",
+    "url": "https://sfx.thelazy.net/",
+    "description": ", TroubleChute or ENBSeries - Game Setting Guides",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "OpenMouse",
+    "url": "https://openmouse.app/",
+    "description": "/ Discord / GitHub or Piper - Mouse Config Tools",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "⁠Onboard Memory Manager",
+    "url": "https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager",
+    "description": "Modify Logitech G Mouse Memory",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
     "title": "WindowedBorderlessGaming",
     "url": "https://westechsolutions.net/sites/WindowedBorderlessGaming/",
     "description": ", Borderless Gaming / Discord / GitHub or FullScreenizer - Borderless Windows for All Games / Windows",
     "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
+    "subcategory": "▷ Settings / Fixes"
   },
   {
     "title": "DxWnd",
     "url": "https://sourceforge.net/projects/dxwnd/",
     "description": "Play Fullscreen Only Games in Window / Windows",
     "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
+    "subcategory": "▷ Settings / Fixes"
   },
   {
     "title": "WSGF",
     "url": "https://www.wsgf.org/",
     "description": "Widescreen Gaming Community / Solutions",
     "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
+    "subcategory": "▷ Settings / Fixes"
   },
   {
     "title": "Widescreen Fixes Pack",
     "url": "https://thirteenag.github.io/wfp",
     "description": "/ GitHub, Widescreen Fixer v3.4 or Flawless Widescreen - Widescreen Fixes / Windows",
     "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "VibranceGUI",
+    "url": "https://vibrancegui.com/",
+    "description": "Automate Digital Vibrance Control / Windows",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "dgVoodoo2",
+    "url": "http://dege.freeweb.hu/dgVoodoo2/",
+    "description": "Glide & DirectX Graphics Wrapper / Windows",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Settings / Fixes"
   },
   {
     "title": "4GB Patch",
     "url": "https://ntcore.com/?page_id=371",
     "description": "Patch x86 executables to use 4GB / Windows",
     "category": "Gaming Tools",
-    "subcategory": "▷ Optimization Tools"
+    "subcategory": "▷ Settings / Fixes"
+  },
+  {
+    "title": "Gamepadla",
+    "url": "https://gamepadla.com/",
+    "description": "Gamepad / Controller Latency Tests",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Controller Tools"
   },
   {
     "title": "DS4Windows",
@@ -29610,6 +29624,13 @@
     "subcategory": "▷ Game Maps"
   },
   {
+    "title": "Roundtable Guides Map",
+    "url": "https://roundtablehold.net/map.html",
+    "description": "Interactive Elden Ring Map",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Game Maps"
+  },
+  {
     "title": "⁠TWHL",
     "url": "https://twhl.info/vault",
     "description": "Half-Life Maps, Mods & Mapping Tutorials",
@@ -29680,23 +29701,9 @@
     "subcategory": "▷ Git Gud"
   },
   {
-    "title": "Gamepadla",
-    "url": "https://gamepadla.com/",
-    "description": "Gamepad / Controller Latency Tests",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Git Gud"
-  },
-  {
     "title": "Before I Play",
     "url": "https://beforeiplay.com/",
     "description": "Tips for any Game",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Git Gud"
-  },
-  {
-    "title": "GamingSmart",
-    "url": "https://gamingsmart.com/",
-    "description": ", Sens Converter or Mouse Sensitivity - Game Sensitivity Converters / Tools",
     "category": "Gaming Tools",
     "subcategory": "▷ Git Gud"
   },
@@ -29736,20 +29743,6 @@
     "subcategory": "▷ Git Gud"
   },
   {
-    "title": "Piper",
-    "url": "https://github.com/libratbag/piper",
-    "description": "Gaming Mouse Config Tool",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Git Gud"
-  },
-  {
-    "title": "⁠Onboard Memory Manager",
-    "url": "https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager",
-    "description": "Modify Logitech G Mouse Memory",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Git Gud"
-  },
-  {
     "title": "LiveSplit",
     "url": "https://livesplit.org/",
     "description": "Customizable Speedrun Timer",
@@ -29767,6 +29760,13 @@
     "title": "Sym.gg",
     "url": "https://sym.gg/",
     "description": "FPS Game Info & Weapon Stats / Discord",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Git Gud"
+  },
+  {
+    "title": "Roundtable Guides",
+    "url": "https://roundtablehold.net/",
+    "description": "Elden Ring Guide / Checklist",
     "category": "Gaming Tools",
     "subcategory": "▷ Git Gud"
   },
@@ -30117,6 +30117,13 @@
     "title": "⁠Works on WOA",
     "url": "https://www.worksonwoa.com/en/games/",
     "description": "Windows on ARM Game Compatibility Database",
+    "category": "Gaming Tools",
+    "subcategory": "► Tracking / Databases"
+  },
+  {
+    "title": "⁠Dark Pattern Games",
+    "url": "https://www.darkpattern.games/",
+    "description": "Addictive Mobile Game Mechanic Avoidance Database",
     "category": "Gaming Tools",
     "subcategory": "► Tracking / Databases"
   },
@@ -31124,7 +31131,7 @@
   {
     "title": "Pelican",
     "url": "https://pelican.dev/",
-    "description": "/ GitHub, Calagopus / Discord / GitHub or Pterodactyl / Discord - Game Server Management Panels",
+    "description": "/ GitHub, Calagopus / Discord / GitHub or Pterodactyl / Discord / GitHub - Game Server Management Panels",
     "category": "Gaming Tools",
     "subcategory": "▷ Multiplayer Servers"
   },
@@ -33693,7 +33700,7 @@
   {
     "title": "Serebii.net",
     "url": "https://www.serebii.net/",
-    "description": ", Pokémon Awesome, PocketMonsters.net or Pokémon Database - Pokémon Databases",
+    "description": ", ⁠The Cave of Dragonflies, ⁠Marilland, Pokémon Awesome, PocketMonsters.net or Pokémon Database - Pokémon Databases / Guides / Tools",
     "category": "Gaming Tools",
     "subcategory": "▷ Pokemon Tools"
   },
@@ -33733,13 +33740,6 @@
     "subcategory": "▷ Pokemon Tools"
   },
   {
-    "title": "⁠The Cave of Dragonflies",
-    "url": "https://www.dragonflycave.com/",
-    "description": "Pokémon Mechanics Guides / Calculators & more",
-    "category": "Gaming Tools",
-    "subcategory": "▷ Pokemon Tools"
-  },
-  {
     "title": "Pokémon Damage Calculator",
     "url": "https://www.kinglercalc.com/",
     "description": "Full Series Damage Calculator",
@@ -33764,6 +33764,13 @@
     "title": "PKHeX",
     "url": "https://github.com/kwsch/PKHeX",
     "description": "Pokémon Save File Editor",
+    "category": "Gaming Tools",
+    "subcategory": "▷ Pokemon Tools"
+  },
+  {
+    "title": "⁠Sky Editor",
+    "url": "https://projectpokemon.org/home/files/file/1509-sky-editor-save-editor-for-pokemon-mystery-dungeon/",
+    "description": "Mystery Dungeon Save File Editor",
     "category": "Gaming Tools",
     "subcategory": "▷ Pokemon Tools"
   },
@@ -34531,6 +34538,13 @@
     "subcategory": "▷ RimWorld Tools"
   },
   {
+    "title": "Void Archives",
+    "url": "https://sites.google.com/view/void-archives/",
+    "description": "Modding, Troubleshooting & Performance-Optimization Guides",
+    "category": "Gaming Tools",
+    "subcategory": "▷ RimWorld Tools"
+  },
+  {
     "title": "RimWorld Discord",
     "url": "https://discord.com/invite/rimworld",
     "description": "Official Community Discord",
@@ -34548,13 +34562,6 @@
     "title": "Workshop Walker",
     "url": "https://workshop-walker.disconsented.com/",
     "description": "Improved Steam Workshop UI / GitHub",
-    "category": "Gaming Tools",
-    "subcategory": "▷ RimWorld Tools"
-  },
-  {
-    "title": "Void Archives",
-    "url": "https://sites.google.com/view/void-archives/",
-    "description": "RimWorld Guides",
     "category": "Gaming Tools",
     "subcategory": "▷ RimWorld Tools"
   },
@@ -34708,7 +34715,7 @@
   {
     "title": "⁠GOG Revived",
     "url": "https://gog-rev.com/",
-    "description": "/ Discord or GOG Games / .onion - Download / Torrent / GOG Games Only",
+    "description": "Download / Torrent / GOG Games Only / Discord",
     "category": "Gaming",
     "subcategory": "► Download Games"
   },
@@ -34779,6 +34786,13 @@
     "title": "scene cat",
     "url": "https://rentry.co/FMHYB64#scene-cat",
     "description": "Download / Discord",
+    "category": "Gaming",
+    "subcategory": "► Download Games"
+  },
+  {
+    "title": "Glitchify Archives",
+    "url": "https://glitchify.org/",
+    "description": "Download / ROM Repacks / Discord",
     "category": "Gaming",
     "subcategory": "► Download Games"
   },
@@ -34947,13 +34961,6 @@
     "title": "Xatab Repacks",
     "url": "https://byxatab.com/",
     "description": "Torrent / Use Translator",
-    "category": "Gaming",
-    "subcategory": "▷ Game Repacks"
-  },
-  {
-    "title": "Glitchify Archives",
-    "url": "https://glitchify.org/",
-    "description": "Download / ROM Repacks / Discord",
     "category": "Gaming",
     "subcategory": "▷ Game Repacks"
   },
@@ -36869,6 +36876,13 @@
     "subcategory": "▷ Nintendo ROMs"
   },
   {
+    "title": "N R",
+    "url": "https://nintendoroms.xyz/",
+    "description": "ROMs / Switch / 3DS / Wii / GCN / Requires Telegram / Telegram",
+    "category": "Gaming",
+    "subcategory": "▷ Nintendo ROMs"
+  },
+  {
     "title": "NSWDB",
     "url": "https://www.nswdb.com",
     "description": "Switch Release Tracker",
@@ -38178,9 +38192,9 @@
     "subcategory": "▷ Chess"
   },
   {
-    "title": "Print Chess",
-    "url": "https://www.printchess.com/",
-    "description": "Printable Paper Chess Set",
+    "title": "PyChess",
+    "url": "https://www.pychess.org/",
+    "description": "Chess Platform / Discord / GitHub",
     "category": "Gaming",
     "subcategory": "▷ Chess"
   },
@@ -38188,13 +38202,6 @@
     "title": "Chess.com",
     "url": "https://www.chess.com/",
     "description": "Chess Platform / Discord",
-    "category": "Gaming",
-    "subcategory": "▷ Chess"
-  },
-  {
-    "title": "PyChess",
-    "url": "https://www.pychess.org/",
-    "description": "Chess Platform / Discord / GitHub",
     "category": "Gaming",
     "subcategory": "▷ Chess"
   },
@@ -38286,6 +38293,13 @@
     "title": "ChessBase",
     "url": "https://www.chessbase.in/",
     "description": "/ English - Indian Chess News",
+    "category": "Gaming",
+    "subcategory": "▷ Chess"
+  },
+  {
+    "title": "Print Chess",
+    "url": "https://www.printchess.com/",
+    "description": "Printable Paper Chess Set",
     "category": "Gaming",
     "subcategory": "▷ Chess"
   },
@@ -40735,7 +40749,7 @@
   {
     "title": "Huedle",
     "url": "https://huedle.com/",
-    "description": ", Color Rush, WhatTheHex or Hexcodle - Hex Code Guessing Games",
+    "description": ", WhatTheHex or Hexcodle - Hex Code Guessing Games",
     "category": "Gaming",
     "subcategory": "▷ Trivia / Guessing"
   },
@@ -42798,6 +42812,13 @@
     "subcategory": "▷ Textures / Patterns"
   },
   {
+    "title": "⁠ShareTextures",
+    "url": "https://www.sharetextures.com/",
+    "description": "Textures",
+    "category": "Image Tools",
+    "subcategory": "▷ Textures / Patterns"
+  },
+  {
     "title": "TexturesForFree",
     "url": "https://texturesforfree.com/",
     "description": "Textures",
@@ -43736,6 +43757,13 @@
     "subcategory": "▷ Art / Illustrations"
   },
   {
+    "title": "⁠Old Book Illustrations",
+    "url": "https://www.oldbookillustrations.com/",
+    "description": "Public Domain Illustrations",
+    "category": "Image Tools",
+    "subcategory": "▷ Art / Illustrations"
+  },
+  {
     "title": "Buhitter",
     "url": "https://buhitter.com/",
     "description": "X.com Illustration Search",
@@ -44039,7 +44067,7 @@
   {
     "title": "Resources",
     "url": "https://awesome-blender.netlify.app/",
-    "description": ", GitHub / Communities / Addons / Plugins / Textures / Renderer / 3D Nodes / AI Render",
+    "description": ", GitHub / Extensions / Communities / Addons / Plugins / Textures / Renderer / 3D Nodes / AI Render",
     "category": "Image Tools",
     "subcategory": "▷ 3D Modeling Apps"
   },
@@ -45447,6 +45475,13 @@
     "title": "Pikky",
     "url": "https://pikky.net/",
     "description": "20MB / Forever",
+    "category": "Image Tools",
+    "subcategory": "▷ Image Hosts"
+  },
+  {
+    "title": "⁠Lightshot",
+    "url": "https://prnt.sc/",
+    "description": "Forever",
     "category": "Image Tools",
     "subcategory": "▷ Image Hosts"
   },
@@ -52444,6 +52479,20 @@
     "subcategory": "▷ Linux Gaming"
   },
   {
+    "title": "Accela",
+    "url": "https://github.com/ciscosweater/enter-the-wired",
+    "description": "Steam Game + DLC Unlocker",
+    "category": "Linux Macos",
+    "subcategory": "▷ Linux Gaming"
+  },
+  {
+    "title": "CreamLinux",
+    "url": "https://github.com/anticitizn/creamlinux",
+    "description": "Steam DLC Unlockers / Installer",
+    "category": "Linux Macos",
+    "subcategory": "▷ Linux Gaming"
+  },
+  {
     "title": "winesapOS",
     "url": "https://github.com/winesapOS/winesapOS",
     "description": "Play Games on Storage Devices",
@@ -52468,20 +52517,6 @@
     "title": "Luxtorpeda",
     "url": "https://codeberg.org/luxtorpeda/luxtorpeda",
     "description": "or Boxtron - Run Steam Games on Linux",
-    "category": "Linux Macos",
-    "subcategory": "▷ Linux Gaming"
-  },
-  {
-    "title": "Accela",
-    "url": "https://github.com/ciscosweater/enter-the-wired",
-    "description": "Steam Game + DLC Unlocker",
-    "category": "Linux Macos",
-    "subcategory": "▷ Linux Gaming"
-  },
-  {
-    "title": "CreamLinux",
-    "url": "https://github.com/anticitizn/creamlinux",
-    "description": "Steam DLC Unlockers / Installer",
     "category": "Linux Macos",
     "subcategory": "▷ Linux Gaming"
   },
@@ -53229,8 +53264,8 @@
   },
   {
     "title": "⁠AIOMetadata",
-    "url": "https://aiometadata.elfhosted.com/",
-    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances / Configure, 2 / Note / GitHub",
+    "url": "https://github.com/cedya77/aiometadata",
+    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances / Note",
     "category": "Linux Macos",
     "subcategory": "▷ Server / Selfhosting"
   },
@@ -59922,7 +59957,7 @@
   {
     "title": "MyFoodData",
     "url": "https://www.myfooddata.com",
-    "description": "or Spelt - Food Nutrition Info",
+    "description": "Food Nutrition Info",
     "category": "Misc",
     "subcategory": "▷ Nutritional Health"
   },
@@ -62037,6 +62072,13 @@
     "title": "SteamDB",
     "url": "https://steamdb.info/sales/",
     "description": "Steam Sales / Extension / Discord",
+    "category": "Misc",
+    "subcategory": "▷ Games"
+  },
+  {
+    "title": "⁠Dark Pattern Games",
+    "url": "https://www.darkpattern.games/",
+    "description": "Addictive Mobile Game Mechanic Avoidance Database",
     "category": "Misc",
     "subcategory": "▷ Games"
   },
@@ -70420,13 +70462,6 @@
     "subcategory": "▷ Android Live TV"
   },
   {
-    "title": "IPTV Smarters Pro",
-    "url": "https://www.iptvsmarters.com/",
-    "description": "IPTV Player",
-    "category": "Mobile",
-    "subcategory": "▷ Android Live TV"
-  },
-  {
     "title": "PlayTorrio",
     "url": "https://playtorrio.xyz/",
     "description": ", 2 - TV / Sports / Subreddit / Discord / GitHub",
@@ -71962,7 +71997,7 @@
   {
     "title": "⁠8SPINE",
     "url": "https://apps.apple.com/app/8spine-the-music-app/id6755934415",
-    "description": "Module-Based Streaming / Downloading / Modules",
+    "description": "Module-Based Streaming / Downloading / Modules / Discord",
     "category": "Mobile",
     "subcategory": "► iOS Audio"
   },
@@ -76405,6 +76440,13 @@
     "subcategory": "▷ Streaming"
   },
   {
+    "title": "Abibli",
+    "url": "https://abibli.com/",
+    "description": "Movies / TV",
+    "category": "Non English",
+    "subcategory": "▷ Streaming"
+  },
+  {
     "title": "myflixbd",
     "url": "https://myflixbd.to/",
     "description": "Movies / TV / Anime",
@@ -76716,13 +76758,6 @@
     "title": "klikxxi",
     "url": "https://klikxxi.art/",
     "description": ", 2 - Movies / TV",
-    "category": "Non English",
-    "subcategory": "▷ Streaming / Menyiarkan"
-  },
-  {
-    "title": "MyNimeku",
-    "url": "https://www.mynimeku.com/",
-    "description": "Anime / Sub / 1080p",
     "category": "Non English",
     "subcategory": "▷ Streaming / Menyiarkan"
   },
@@ -79298,7 +79333,7 @@
   {
     "title": "Kinohub",
     "url": "https://on.kinohub.vip/",
-    "description": ", 2, 3 - Movies / TV / Anime / Telegram",
+    "description": ", 2, 3 - Movies / TV / Anime / Sub / Dub / 1080p / Telegram",
     "category": "Non English",
     "subcategory": "▷ Streaming / Стриминг"
   },
@@ -79312,14 +79347,14 @@
   {
     "title": "YummyAnime",
     "url": "https://ru.yummyani.me/",
-    "description": "Anime / Sub / 1080p / Telegram / Discord",
+    "description": "Anime / Sub / Dub / 1080p / Telegram / Discord",
     "category": "Non English",
     "subcategory": "▷ Streaming / Стриминг"
   },
   {
     "title": "AnimeLIB",
     "url": "https://animelib.org/",
-    "description": ", 2 - Anime / Sub / Dub / 1080p (account required)",
+    "description": "Anime / Sub / Dub / 1080p (account required) / Telegram",
     "category": "Non English",
     "subcategory": "▷ Streaming / Стриминг"
   },
@@ -79837,7 +79872,7 @@
   {
     "title": "MangaLIB",
     "url": "https://mangalib.me/",
-    "description": "Manga / Telegram",
+    "description": "Manga / Comics / Telegram",
     "category": "Non English",
     "subcategory": "▷ Reading / Чтение"
   },
@@ -79851,7 +79886,7 @@
   {
     "title": "ReManga",
     "url": "https://remanga.org/",
-    "description": "Manga / Telegram / Discord",
+    "description": "Manga / Comics / Telegram / Discord",
     "category": "Non English",
     "subcategory": "▷ Reading / Чтение"
   },
@@ -80538,13 +80573,6 @@
     "title": "LaMovie",
     "url": "https://lamovie.org/",
     "description": "Movies / TV / Anime / Telegram",
-    "category": "Non English",
-    "subcategory": "▷ Streaming / Streamear"
-  },
-  {
-    "title": "PelisPlus",
-    "url": "https://ww3.pelisplus.to/",
-    "description": "Movies / TV",
     "category": "Non English",
     "subcategory": "▷ Streaming / Streamear"
   },
@@ -84590,7 +84618,7 @@
   {
     "title": "Z-Library",
     "url": "https://z-lib.gd/",
-    "description": ", 2, 3, 4, 5 - Books / Comics / Apps / Extensions, 2 / .onion, 2 / Subreddit",
+    "description": ", 2, 3, 4, 5, 6, 7 - Books / Comics / Apps / Extensions, 2 / .onion, 2 / Subreddit",
     "category": "Reading",
     "subcategory": "► Ebooks"
   },
@@ -93347,7 +93375,7 @@
   {
     "title": "⁠TikTrack",
     "url": "https://einzzcookie.org/",
-    "description": "TikToks Insight Tools / Telegram",
+    "description": "TikToks Insight Tools, Repost Viewer & more / Telegram",
     "category": "Social Media Tools",
     "subcategory": "► TikTok Tools"
   },
@@ -95307,7 +95335,7 @@
   {
     "title": "TemporaryNumber",
     "url": "https://temporarynumber.com/",
-    "description": ", TextNow, GetFreeSMSNUmber, Smser, Receive SMS Online, My Trash Mobile, temp-sms, temporary-phone-number, storytrain, Temp Number, receive-smss, receive-sms-free, quackr, smsnator, InboxSMS, anonymsms, receivesmsonline, jiemadi, 7sim, yunjiema, yunduanxin, free-sms-receive, receivefreesms, smspinverify, receivefreesms.net, smspool, receive-smss, ⁠eSIM Plus, receivesms, PVAPins, ⁠OnlineSim, ⁠ReceiveSMSFast, Receive-SMS, ⁠Verify SMS, ⁠TempSMSOnline, SMSReceiveFree, ⁠Sanalonay, ⁠Text Verification, ⁠Online Sim, ⁠FreePhone, ⁠FreeReceiveSMS, ⁠TempBoxPro, gettempnumber, ZUSMS, PVAcodes, Anosim",
+    "description": ", TextNow, GetFreeSMSNUmber, Smser, Receive SMS Online, My Trash Mobile, temp-sms, temporary-phone-number, storytrain, Temp Number, receive-smss, receive-sms-free, quackr, smsnator, InboxSMS, anonymsms, receivesmsonline, jiemadi, 7sim, yunjiema, yunduanxin, free-sms-receive, receivefreesms, smspinverify, receivefreesms.net, smspool, receive-smss, ⁠eSIM Plus, receivesms, PVAPins, ⁠OnlineSim, ⁠ReceiveSMSFast, Receive-SMS, ⁠Verify SMS, ⁠TempSMSOnline, SMSReceiveFree, ⁠Sanalonay, ⁠Text Verification, ⁠Online Sim, ⁠FreePhone, ⁠FreeReceiveSMS, ⁠TempBoxPro, gettempnumber, ZUSMS, PVAcodes, Anosim, ⁠Receive SMS, ⁠Online Sim",
     "category": "Storage",
     "subcategory": "SMS Verification Sites"
   },
@@ -97093,6 +97121,20 @@
     "title": "HotkeyP",
     "url": "https://sourceforge.net/projects/hotkeyp/",
     "description": "or CheatKeys - Hotkey Remapping",
+    "category": "System Tools",
+    "subcategory": "▷ Mouse / Keyboard"
+  },
+  {
+    "title": "OpenMouse",
+    "url": "https://openmouse.app/",
+    "description": "/ Discord / GitHub or Piper - Mouse Config Tools",
+    "category": "System Tools",
+    "subcategory": "▷ Mouse / Keyboard"
+  },
+  {
+    "title": "⁠Onboard Memory Manager",
+    "url": "https://support.logi.com/hc/en-gb/articles/360059641133-Onboard-Memory-Manager",
+    "description": "Modify Logitech G Mouse Memory",
     "category": "System Tools",
     "subcategory": "▷ Mouse / Keyboard"
   },
@@ -100982,6 +101024,13 @@
     "subcategory": "▷ Free Fonts"
   },
   {
+    "title": "Free Font Download",
+    "url": "https://www.freefontdownload.org/",
+    "description": "",
+    "category": "Text Tools",
+    "subcategory": "▷ Free Fonts"
+  },
+  {
     "title": "Font Spring",
     "url": "https://www.fontspring.com/free",
     "description": "",
@@ -101570,6 +101619,13 @@
     "subcategory": "▷ Aggregators"
   },
   {
+    "title": "⁠The Black Hole Bay",
+    "url": "https://theblackholebay.lol/",
+    "description": "/ Discord",
+    "category": "Torrenting",
+    "subcategory": "▷ Aggregators"
+  },
+  {
     "title": "snowfl",
     "url": "https://snowfl.com/",
     "description": "",
@@ -101866,7 +101922,7 @@
   {
     "title": "webtor",
     "url": "https://webtor.io/",
-    "description": "Unlimited / Download Speed Limited / No Sign-Up",
+    "description": "Unlimited / Download Speed Limited / No Sign-Up / SDK / Self-Host",
     "category": "Torrenting",
     "subcategory": "▷ Remote Torrenting"
   },
@@ -104783,6 +104839,13 @@
     "subcategory": "▷ VFX Sites"
   },
   {
+    "title": "⁠ScenePacks",
+    "url": "https://t.me/moviescenepack",
+    "description": "",
+    "category": "Video Tools",
+    "subcategory": "▷ VFX Sites"
+  },
+  {
     "title": "AETemp",
     "url": "https://t.me/AETemp",
     "description": "",
@@ -105161,6 +105224,13 @@
     "subcategory": "▷ Stream Aggregators"
   },
   {
+    "title": "ShuttleTV",
+    "url": "https://shuttletv.su/",
+    "description": ", 2 - Movies / TV / Anime / Auto-Next / Discord",
+    "category": "Video",
+    "subcategory": "▷ Stream Aggregators"
+  },
+  {
     "title": "67Movies",
     "url": "https://67movies.st/",
     "description": "or PhantomFlix - Movies / TV / Anime / Auto-Next",
@@ -105170,7 +105240,7 @@
   {
     "title": "bCine",
     "url": "https://bcine.ru/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "or Bingey - Movies / TV / Anime / Auto-Next / Discord",
     "category": "Video",
     "subcategory": "▷ Stream Aggregators"
   },
@@ -105184,7 +105254,7 @@
   {
     "title": "7Movies",
     "url": "https://7movies.in/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": ", 2 - Movies / TV / Anime / Auto-Next / Discord",
     "category": "Video",
     "subcategory": "▷ Stream Aggregators"
   },
@@ -105196,16 +105266,16 @@
     "subcategory": "▷ Stream Aggregators"
   },
   {
-    "title": "ShuttleTV",
-    "url": "https://shuttletv.su/",
-    "description": ", 2 - Movies / TV / Anime / Auto-Next / Discord",
+    "title": "ArrowTV",
+    "url": "https://arrowtv.net/",
+    "description": ", 2 or Cinezo, 2 - Movies / TV / Anime / Auto-Next / Discord",
     "category": "Video",
     "subcategory": "▷ Stream Aggregators"
   },
   {
-    "title": "ArrowTV",
-    "url": "https://arrowtv.net/",
-    "description": ", 2 or Cinezo, 2 - Movies / TV / Anime / Auto-Next / Discord",
+    "title": "Vivarium",
+    "url": "https://vivarium.wtf/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "Video",
     "subcategory": "▷ Stream Aggregators"
   },
@@ -105227,13 +105297,6 @@
     "title": "Chillflix",
     "url": "https://chillflix.lol/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
-    "category": "Video",
-    "subcategory": "▷ Stream Aggregators"
-  },
-  {
-    "title": "Vivarium",
-    "url": "https://vivarium.wtf/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "Video",
     "subcategory": "▷ Stream Aggregators"
   },
@@ -105546,6 +105609,13 @@
     "subcategory": "▷ Stream Aggregators"
   },
   {
+    "title": "frameXTV",
+    "url": "https://framextv.tech/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "Video",
+    "subcategory": "▷ Stream Aggregators"
+  },
+  {
     "title": "Apexmovies",
     "url": "https://apexmovies.net/",
     "description": "Movies / TV / Anime",
@@ -105667,7 +105737,14 @@
   {
     "title": "Boomflix",
     "url": "https://boomflix.qzz.io/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "Video",
+    "subcategory": "▷ Dedicated-Server"
+  },
+  {
+    "title": "Atlantic",
+    "url": "https://atlantic.st/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K",
     "category": "Video",
     "subcategory": "▷ Dedicated-Server"
   },
@@ -105710,6 +105787,13 @@
     "title": "VaultPlayer",
     "url": "https://vaultplayer.co.uk/",
     "description": "Movies / TV / Anime",
+    "category": "Video",
+    "subcategory": "▷ Dedicated-Server"
+  },
+  {
+    "title": "Abibli",
+    "url": "https://abibli.com/",
+    "description": "Movies / TV",
     "category": "Video",
     "subcategory": "▷ Dedicated-Server"
   },
@@ -106080,7 +106164,7 @@
   {
     "title": "Cubeflix",
     "url": "https://cubeflix.org/discover",
-    "description": ", 2 - Movies / TV / Anime",
+    "description": "Movies / TV / Anime",
     "category": "Video",
     "subcategory": "▷ Multi-Server (Backups)"
   },
@@ -106542,7 +106626,7 @@
   {
     "title": "⁠Vyla Home",
     "url": "https://vyla.cc/",
-    "description": ", 2 - Streaming App / Windows, Linux / Discord / GitLab",
+    "description": ", 2 - Streaming App / Windows, macOS, Linux / Discord / GitLab",
     "category": "Video",
     "subcategory": "► Streaming Apps"
   },
@@ -106570,7 +106654,7 @@
   {
     "title": "AnymeX",
     "url": "https://anymex.vercel.app/",
-    "description": "Anime Streaming App / Extension Guide / Windows / Discord / GitHub",
+    "description": "Anime Streaming App / Extension Guide / Windows, macOS, Linux / Discord / GitHub",
     "category": "Video",
     "subcategory": "▷ Anime Streaming Apps"
   },
@@ -106949,6 +107033,13 @@
     "title": "⁠Anime Nexus",
     "url": "https://anime.nexus/",
     "description": "Sub / Dub",
+    "category": "Video",
+    "subcategory": "▷ Anime Streaming"
+  },
+  {
+    "title": "⁠AniChan",
+    "url": "https://anichan.net/",
+    "description": "Sub / Dub / Discord",
     "category": "Video",
     "subcategory": "▷ Anime Streaming"
   },
@@ -107926,13 +108017,6 @@
     "subcategory": "▷ Live TV"
   },
   {
-    "title": "SportOnTV",
-    "url": "https://sportontv.click/",
-    "description": "TV / Sports / Discord / Mirrors",
-    "category": "Video",
-    "subcategory": "▷ Live TV"
-  },
-  {
     "title": "HOOFOOT",
     "url": "https://hoofoot.ru/iptv/",
     "description": "TV / Sports",
@@ -108080,7 +108164,7 @@
     "subcategory": "▷ Live TV"
   },
   {
-    "title": "Baked",
+    "title": "Baked.live",
     "url": "https://baked.live/",
     "description": "Random Streams / Discord",
     "category": "Video",
@@ -108110,7 +108194,7 @@
   {
     "title": "TV.Jest",
     "url": "https://tv.jest.one/",
-    "description": ", Split TV or WorldNews24 - News",
+    "description": "or WorldNews24 - News",
     "category": "Video",
     "subcategory": "▷ Live TV"
   },
@@ -108227,6 +108311,13 @@
     "subcategory": "▷ Live Sports"
   },
   {
+    "title": "⁠Futbol-X",
+    "url": "https://www.futbol-x.xyz/",
+    "description": "Live Events / Discord",
+    "category": "Video",
+    "subcategory": "▷ Live Sports"
+  },
+  {
     "title": "HOOFOOT",
     "url": "https://hoofoot.ru/iptv/schedule",
     "description": "Stream Aggregator",
@@ -108327,7 +108418,7 @@
   {
     "title": "StreamCorner",
     "url": "https://streamcorner.st/",
-    "description": ", 2, 3, 4 or StreamNinja, 2 / Status / Discord",
+    "description": ", 2, 3, 4 / Status / Discord",
     "category": "Video",
     "subcategory": "▷ Live Sports"
   },
@@ -108339,9 +108430,9 @@
     "subcategory": "▷ Live Sports"
   },
   {
-    "title": "Mutch",
-    "url": "https://mutch.st/",
-    "description": "or Pitsport",
+    "title": "SportOnTV",
+    "url": "https://sportontv.click/",
+    "description": "TV / Sports / Discord / Mirrors",
     "category": "Video",
     "subcategory": "▷ Live Sports"
   },
@@ -108360,22 +108451,8 @@
     "subcategory": "▷ Live Sports"
   },
   {
-    "title": "⁠Palco",
-    "url": "https://palco.wtf/",
-    "description": "/ Discord",
-    "category": "Video",
-    "subcategory": "▷ Live Sports"
-  },
-  {
     "title": "xyzstreams",
     "url": "https://xyzstreams.st/",
-    "description": "",
-    "category": "Video",
-    "subcategory": "▷ Live Sports"
-  },
-  {
-    "title": "Guide TV",
-    "url": "https://guidetv.live/",
     "description": "",
     "category": "Video",
     "subcategory": "▷ Live Sports"
@@ -108423,6 +108500,20 @@
     "subcategory": "▷ Live Sports"
   },
   {
+    "title": "Baked.live",
+    "url": "https://baked.live/",
+    "description": "MMA / Wrestling / Discord",
+    "category": "Video",
+    "subcategory": "▷ Live Sports"
+  },
+  {
+    "title": "Guide TV",
+    "url": "https://guidetv.live/",
+    "description": "Football",
+    "category": "Video",
+    "subcategory": "▷ Live Sports"
+  },
+  {
     "title": "NBAMonster",
     "url": "https://nbamonster.com/",
     "description": "Basketball / Aggregator",
@@ -108433,6 +108524,13 @@
     "title": "OnHockey",
     "url": "https://onhockey.tv/",
     "description": "Hockey / Aggregator",
+    "category": "Video",
+    "subcategory": "▷ Live Sports"
+  },
+  {
+    "title": "Pitsport",
+    "url": "https://pitsport.live/",
+    "description": "Motorsports",
     "category": "Video",
     "subcategory": "▷ Live Sports"
   },
@@ -108517,6 +108615,13 @@
     "title": "FullRaces",
     "url": "https://fullraces.com/",
     "description": "Motorsport Replays",
+    "category": "Video",
+    "subcategory": "▷ Sports Replays"
+  },
+  {
+    "title": "720pier",
+    "url": "https://720pier.ru/",
+    "description": "Sports Replays / Torrents",
     "category": "Video",
     "subcategory": "▷ Sports Replays"
   },
@@ -109258,14 +109363,14 @@
   {
     "title": "DDLBase",
     "url": "https://ddlbase.net/",
-    "description": ", 2 - Movies / TV / 4K / 3D / Remuxes / Use Bypass",
+    "description": ", 2 - Movies / TV / 4K / 3D / Remuxes / Use Redirect Bypass",
     "category": "Video",
     "subcategory": "► Download Sites"
   },
   {
     "title": "Scloud",
     "url": "https://rentry.co/FMHYB64#sc",
-    "description": "Movies / TV / 4K / Use Adblocker + Linkbypasser / Telegram",
+    "description": "Movies / TV / 4K / Use Adblocker + Redirect Bypass / Telegram",
     "category": "Video",
     "subcategory": "► Download Sites"
   },
@@ -109287,20 +109392,6 @@
     "title": "MovieParadise",
     "url": "https://movieparadise.org/",
     "description": "Movies / TV / Sign-Up Code (Important)",
-    "category": "Video",
-    "subcategory": "► Download Sites"
-  },
-  {
-    "title": "Rive",
-    "url": "https://www.rivestream.app/",
-    "description": ", 2 or CorsFlix, 2, 3 - Movies / TV / Anime / Status / Discord",
-    "category": "Video",
-    "subcategory": "► Download Sites"
-  },
-  {
-    "title": "1Shows",
-    "url": "https://www.1shows.org/",
-    "description": "Movies / TV / Anime / Discord",
     "category": "Video",
     "subcategory": "► Download Sites"
   },
@@ -109347,6 +109438,13 @@
     "subcategory": "► Download Sites"
   },
   {
+    "title": "1Shows",
+    "url": "https://www.1shows.org/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "Video",
+    "subcategory": "► Download Sites"
+  },
+  {
     "title": "⁠KMMOVIES",
     "url": "https://kmmovies.shop/category/english/",
     "description": "Movies / TV",
@@ -109385,6 +109483,13 @@
     "title": "⁠HindMoviez",
     "url": "https://hindmoviez.cafe/",
     "description": "Movies / TV / Anime",
+    "category": "Video",
+    "subcategory": "► Download Sites"
+  },
+  {
+    "title": "AV1Core",
+    "url": "https://av1core.pages.dev/",
+    "description": "Movies / TV / Anime / Use Redirect Bypass / Telegram",
     "category": "Video",
     "subcategory": "► Download Sites"
   },
@@ -110146,8 +110251,8 @@
   },
   {
     "title": "⁠AIOMetadata",
-    "url": "https://aiometadata.elfhosted.com/",
-    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances / Configure, 2 / Note / GitHub",
+    "url": "https://github.com/cedya77/aiometadata",
+    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances / Note",
     "category": "Video",
     "subcategory": "▷ Stremio Tools"
   },
@@ -111279,6 +111384,13 @@
     "subcategory": "► Helpful Sites / Tools"
   },
   {
+    "title": "AnimeFillerList",
+    "url": "https://www.animefillerlist.com/",
+    "description": "or AnimeFillerGuide - Anime Filler Guides",
+    "category": "Video",
+    "subcategory": "► Helpful Sites / Tools"
+  },
+  {
     "title": "Release Group Qualities",
     "url": "https://docs.google.com/spreadsheets/u/0/d/1xz5zqrBumfMtLGA4VMt1VtOyh-47HDTv_swIYktX6AQ/htmlview",
     "description": "Movie / TV Release Group Quality Indexes",
@@ -111286,9 +111398,9 @@
     "subcategory": "► Helpful Sites / Tools"
   },
   {
-    "title": "AnimeFillerList",
-    "url": "https://www.animefillerlist.com/",
-    "description": "or AnimeFillerGuide - Anime Filler Guides",
+    "title": "⁠WEB Source Tier List",
+    "url": "https://gist.github.com/vevv/1d7037bb556c17e977b26b9f8f175853",
+    "description": "WEB-DL Quality Guide",
     "category": "Video",
     "subcategory": "► Helpful Sites / Tools"
   },
