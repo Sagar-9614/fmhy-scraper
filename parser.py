@@ -9,13 +9,14 @@ from concurrent.futures import ThreadPoolExecutor
 REPO_API_URL = "https://api.github.com/repos/fmhy/FMHYEdit/contents"
 RAW_BASE_URL = "https://raw.githubusercontent.com/fmhy/FMHYEdit/main/"
 OUTPUT_FILE = "fmhy_clean_data.json"
-CHECK_BROKEN_LINKS = False
+CHECK_BROKEN_LINKS = False  # দ্রুত ডেটা পাওয়ার জন্য False রাখা ভালো
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
 def load_previous_urls():
+    """আগের ডেটা থেকে লিংক লোড করে নতুন টুল সনাক্ত করার জন্য"""
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -52,12 +53,14 @@ def parse_markdown_content(md_text, category_name, old_urls):
     for line in lines:
         line_strip = line.strip()
 
+        # সাব-ক্যাটাগরি হেডার সনাক্তকরণ (## বা ###)
         if line_strip.startswith("## ") or line_strip.startswith("### "):
             header_title = line_strip.lstrip("#").strip()
             if header_title.lower() not in ["table of contents", "back to top"]:
                 current_subcategory = header_title
             continue
 
+        # টিপস ও গাইডলাইন সনাক্তকরণ
         if "💡" in line_strip or line_strip.startswith("> **Note**") or line_strip.startswith("> 💡"):
             tip_content = clean_markdown_text(line_strip.lstrip(">").strip())
             if len(tip_content) > 10:
@@ -74,6 +77,7 @@ def parse_markdown_content(md_text, category_name, old_urls):
                 })
             continue
 
+        # লিংক এক্সট্র্যাক্ট করা (* [Title](URL) - Description)
         link_pattern = r'^\s*[\*\-]\s*\[([^\]]+)\]\((https?://[^\)]+)\)(?:\s*-\s*(.*))?$'
         match = re.match(link_pattern, line_strip)
 
