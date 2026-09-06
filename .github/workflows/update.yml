@@ -1,86 +1,42 @@
-name: Auto Update FMHY Data
+name: FMHY Data Scraper
 
 on:
   schedule:
+    # প্রতিদিন রাত ১২টায় স্বয়ংক্রিয়ভাবে স্ক্র্যাপ করবে
     - cron: '0 0 * * *'
+  # গিটহাব থেকে ম্যানুয়ালি রান করার অপশন
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  scrape_and_push:
+  scrape-and-update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5.4.0
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Run Scraper Script
-        run: python parser.py
+        run: python scraper.py
 
       - name: Commit and Push Clean Data
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add fmhy_clean_data.json
-          git commit -m "Auto-updated clean FMHY data" || exit 0
-          git push
-                          items.append({
-                              "title": title,
-                              "url": link,
-                              "description": desc,
-                              "category": category_name,
-                              "subcategory": current_sub
-                          })
-              return items
-
-          def main():
-              print("Fetching file list...")
-              try:
-                  files_data = fetch_json(API_URL)
-              except Exception as e:
-                  print(f"Error fetching repo: {e}")
-                  return
-
-              output = []
-              for item in files_data:
-                  name = item.get("name", "")
-                  raw_url = item.get("download_url")
-                  if item.get("type") != "file" or not name.endswith(".md"):
-                      continue
-                  if name.lower() in ["readme.md", "index.md", "snippets.md"]:
-                      continue
-
-                  category = clean_category_name(name)
-                  print(f"Scanning: {category}")
-                  try:
-                      req = urllib.request.Request(raw_url, headers=HEADERS)
-                      with urllib.request.urlopen(req) as resp:
-                          raw_text = resp.read().decode('utf-8')
-                      lines = raw_text.splitlines()
-                      output.extend(parse_lines(lines, category))
-                  except Exception as e:
-                      print(f"Error with {name}: {e}")
-
-              with open("fmhy_clean_data.json", "w", encoding="utf-8") as f:
-                  json.dump(output, f, indent=2, ensure_ascii=False)
-              print(f"Completed! Total items: {len(output)}")
-
-          if __name__ == "__main__":
-              main()
-          EOF
-          python parser.py
-
-      - name: Commit and Push Clean Data
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add fmhy_clean_data.json
-          git commit -m "Auto-updated clean FMHY data" || exit 0
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update clean FMHY data [skip ci]" && git push)
