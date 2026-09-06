@@ -36,7 +36,7 @@ jobs:
       - name: Run Scraper Script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scraper.py
+        run: python parser.py
 
       - name: Commit and Push Clean Data
         run: |
