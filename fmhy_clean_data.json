@@ -5407,7 +5407,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Ripping",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -7475,7 +7475,7 @@
     "category": "audio",
     "subcategory": "▷ Song Identification",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -7618,7 +7618,7 @@
     "category": "audio",
     "subcategory": "▷ Sheet Music / Notation",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8113,7 +8113,7 @@
     "category": "audio",
     "subcategory": "▷ Audio Plugins",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -10071,7 +10071,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Game Assets",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -15461,7 +15461,7 @@
     "category": "downloading",
     "subcategory": "▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_sites)",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -15472,7 +15472,7 @@
     "category": "downloading",
     "subcategory": "▷ Indexers",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -15879,7 +15879,7 @@
     "category": "educational",
     "subcategory": "General",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -17265,7 +17265,7 @@
     "category": "educational",
     "subcategory": "▷ Engineering",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -18189,7 +18189,7 @@
     "category": "educational",
     "subcategory": "▷ Med School",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -18805,7 +18805,7 @@
     "category": "educational",
     "subcategory": "▷ Spacecraft",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -18948,7 +18948,7 @@
     "category": "educational",
     "subcategory": "▷ Rocketry",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20180,7 +20180,7 @@
     "category": "educational",
     "subcategory": "▷ Vexillology / Flags",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21709,7 +21709,7 @@
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25482,7 +25482,7 @@
     "category": "educational",
     "subcategory": "▷ AI / ML Learning",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25702,7 +25702,7 @@
     "category": "educational",
     "subcategory": "▷ JEE / NEET",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -29728,7 +29728,7 @@
     "category": "gaming-tools",
     "subcategory": "General",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -29970,7 +29970,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Settings / Fixes",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32588,7 +32588,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Multiplayer Servers",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32676,7 +32676,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Multiplayer Servers",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32885,7 +32885,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Wii U / Wii Homebrew",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32896,7 +32896,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Wii U / Wii Homebrew",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33083,7 +33083,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Playstation Homebrew",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33149,7 +33149,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Playstation Homebrew",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33226,7 +33226,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Xbox Homebrew",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33281,7 +33281,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Steam Deck",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33908,7 +33908,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Gacha Tools",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34326,7 +34326,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Visual Novel Tools",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35327,7 +35327,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ RimWorld Tools",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36427,7 +36427,7 @@
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36955,7 +36955,7 @@
     "category": "gaming",
     "subcategory": "▷ Revival Projects",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -37362,7 +37362,7 @@
     "category": "gaming",
     "subcategory": "▷ ROM Resources",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -40475,7 +40475,7 @@
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -46063,7 +46063,7 @@
     "category": "image-tools",
     "subcategory": "▷ Media Covers / Posters",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -51277,7 +51277,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Bookmark Managers",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -57591,7 +57591,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Gaming",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -58647,7 +58647,7 @@
     "category": "misc",
     "subcategory": "General",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59010,7 +59010,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59043,7 +59043,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59076,7 +59076,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59087,7 +59087,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59098,7 +59098,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59109,7 +59109,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59120,7 +59120,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59175,7 +59175,7 @@
     "category": "misc",
     "subcategory": "▷ Free Games",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59197,7 +59197,7 @@
     "category": "misc",
     "subcategory": "▷ Free Games",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59318,7 +59318,7 @@
     "category": "misc",
     "subcategory": "▷ Free Games",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59362,7 +59362,7 @@
     "category": "misc",
     "subcategory": "▷ Assistance / Charity",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59373,7 +59373,7 @@
     "category": "misc",
     "subcategory": "▷ Assistance / Charity",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59494,7 +59494,7 @@
     "category": "misc",
     "subcategory": "▷ Assistance / Charity",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59505,7 +59505,7 @@
     "category": "misc",
     "subcategory": "▷ Assistance / Charity",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59791,7 +59791,7 @@
     "category": "misc",
     "subcategory": "▷ Recipes",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59802,7 +59802,7 @@
     "category": "misc",
     "subcategory": "▷ Recipes",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59956,7 +59956,7 @@
     "category": "misc",
     "subcategory": "▷ Drinks",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60220,7 +60220,7 @@
     "category": "misc",
     "subcategory": "▷ Drinks",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60231,7 +60231,7 @@
     "category": "misc",
     "subcategory": "▷ Drinks",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60968,7 +60968,7 @@
     "category": "misc",
     "subcategory": "▷ Flights",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63212,7 +63212,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Health",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63245,7 +63245,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Health",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63256,7 +63256,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Health",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63784,7 +63784,7 @@
     "category": "misc",
     "subcategory": "▷ Porn Quitting",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64158,7 +64158,7 @@
     "category": "misc",
     "subcategory": "▷ Remote Jobs",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64433,7 +64433,7 @@
     "category": "misc",
     "subcategory": "▷ Tech Jobs",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64796,7 +64796,7 @@
     "category": "misc",
     "subcategory": "▷ Finance / Savings",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64818,7 +64818,7 @@
     "category": "misc",
     "subcategory": "▷ Finance / Savings",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65236,7 +65236,7 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65676,7 +65676,7 @@
     "category": "misc",
     "subcategory": "▷ PC Hardware / Building",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65687,7 +65687,7 @@
     "category": "misc",
     "subcategory": "▷ PC Hardware / Building",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65764,7 +65764,7 @@
     "category": "misc",
     "subcategory": "▷ TV / Monitors",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65775,7 +65775,7 @@
     "category": "misc",
     "subcategory": "▷ TV / Monitors",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65907,7 +65907,7 @@
     "category": "misc",
     "subcategory": "▷ Games",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65973,7 +65973,7 @@
     "category": "misc",
     "subcategory": "▷ Games",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66017,7 +66017,7 @@
     "category": "misc",
     "subcategory": "▷ Apps",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66039,7 +66039,7 @@
     "category": "misc",
     "subcategory": "▷ Apps",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66050,7 +66050,7 @@
     "category": "misc",
     "subcategory": "▷ Apps",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66160,7 +66160,7 @@
     "category": "misc",
     "subcategory": "▷ Price Tracking",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66655,7 +66655,7 @@
     "category": "misc",
     "subcategory": "▷ Productivity / Time Tracking",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -71220,7 +71220,7 @@
     "category": "mobile",
     "subcategory": "▷ Customization",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -73497,7 +73497,7 @@
     "category": "mobile",
     "subcategory": "▷ Emulators on Android",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76049,7 +76049,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Sideloading",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78359,7 +78359,7 @@
     "category": "non-english",
     "subcategory": "▷ Great Firewall",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -90558,7 +90558,7 @@
     "category": "privacy",
     "subcategory": "▷ Adblock Filters",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92846,7 +92846,7 @@
     "category": "reading",
     "subcategory": "General",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -93220,7 +93220,7 @@
     "category": "reading",
     "subcategory": "▷ Calibre Libraries",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94969,7 +94969,7 @@
     "category": "reading",
     "subcategory": "▷ Streaming",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99017,7 +99017,7 @@
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99094,7 +99094,7 @@
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99259,7 +99259,7 @@
     "category": "reading",
     "subcategory": "▷ Comic Recommendations",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99281,7 +99281,7 @@
     "category": "reading",
     "subcategory": "▷ Comic Recommendations",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100711,7 +100711,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Reddit Alternatives",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100755,7 +100755,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Reddit Search",
     "domain": "arctic-shift.photon-reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100788,7 +100788,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Reddit Search",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100843,7 +100843,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Subreddit Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104583,7 +104583,7 @@
     "category": "storage",
     "subcategory": "Survival",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106937,7 +106937,7 @@
     "category": "system-tools",
     "subcategory": "▷ Wallpapers",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106948,7 +106948,7 @@
     "category": "system-tools",
     "subcategory": "▷ Wallpapers",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -110490,7 +110490,7 @@
     "category": "text-tools",
     "subcategory": "▷ Free Fonts",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111117,7 +111117,7 @@
     "category": "torrenting",
     "subcategory": "▷ [Audio Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25BA_audio_torrenting)",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111249,7 +111249,7 @@
     "category": "torrenting",
     "subcategory": "▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111403,7 +111403,7 @@
     "category": "torrenting",
     "subcategory": "▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113350,7 +113350,7 @@
     "category": "video-tools",
     "subcategory": "▷ Kodi Tools",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116540,7 +116540,7 @@
     "category": "video",
     "subcategory": "▷ TV Streaming",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117607,7 +117607,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117739,7 +117739,7 @@
     "category": "video",
     "subcategory": "▷ Sports Replays",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117948,7 +117948,7 @@
     "category": "video",
     "subcategory": "▷ Sports Replays",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119059,7 +119059,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120269,7 +120269,7 @@
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
