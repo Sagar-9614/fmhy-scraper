@@ -176,9 +176,20 @@
     "is_tip": false
   },
   {
+    "title": "NVIDIA NIM",
+    "url": "https://build.nvidia.com/models",
+    "description": "Kimi K3 /  DeepSeek V4 Pro 0813 / MiniMax M3 / Unlimited / No Sign-Up",
+    "category": "ai",
+    "subcategory": "▷ Multiple Model Sites",
+    "domain": "build.nvidia.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Tryingopen",
     "url": "https://www.tryingopen.com/",
-    "description": "Kimi K3 / Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / OpenAI Bridge",
+    "description": "DeepSeek V4 Pro/ Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / OpenAI Bridge",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "tryingopen.com",
@@ -204,17 +215,6 @@
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "chatwave.crunchflix.site",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "NVIDIA NIM",
-    "url": "https://build.nvidia.com/models",
-    "description": "DeepSeek V4 Pro 0813 / MiniMax M3 / Kimi K3 / Unlimited / No Sign-Up",
-    "category": "ai",
-    "subcategory": "▷ Multiple Model Sites",
-    "domain": "build.nvidia.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -770,6 +770,17 @@
     "is_tip": false
   },
   {
+    "title": "Vibes",
+    "url": "https://vibes.ai/",
+    "description": "Unlimited / Meta Sign-Up",
+    "category": "ai",
+    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
+    "domain": "vibes.ai",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Design Arena",
     "url": "https://www.designarena.ai/",
     "description": "Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / X / Discord",
@@ -787,17 +798,6 @@
     "category": "ai",
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
     "domain": "create.wan.video",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Vibes",
-    "url": "https://vibes.ai/",
-    "description": "Unlimited / Meta Sign-Up",
-    "category": "ai",
-    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
-    "domain": "vibes.ai",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -1067,6 +1067,17 @@
     "is_tip": false
   },
   {
+    "title": "ERNIE (HF)",
+    "url": "https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo",
+    "description": "Unlimited / Editing / Sign-Up",
+    "category": "ai",
+    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
+    "domain": "huggingface.co",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "LongCat AI",
     "url": "https://longcat.ai/chat/",
     "description": "100 Daily / Editing",
@@ -1095,17 +1106,6 @@
     "category": "ai",
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
     "domain": "space.coze.cn",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "imgsys",
-    "url": "https://imgsys.org/",
-    "description": "Compare Generators / Unlimited / No Direct Mode",
-    "category": "ai",
-    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
-    "domain": "imgsys.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -2415,17 +2415,6 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Streaming",
     "domain": "youtube.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DatPiff",
-    "url": "https://datpiff.com/",
-    "description": "Hip-Hop Mixtape Legacy Archive",
-    "category": "audio",
-    "subcategory": "▷ Genre Specific Streaming",
-    "domain": "datpiff.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -3883,17 +3872,6 @@
     "is_tip": false
   },
   {
-    "title": "Pool Suite",
-    "url": "https://poolsuite.net/",
-    "description": "Summer Radio",
-    "category": "audio",
-    "subcategory": "▷ Genre Specific Radio",
-    "domain": "poolsuite.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "LISTEN.moe",
     "url": "https://listen.moe/",
     "description": "J-Pop / K-Pop Radio",
@@ -3911,17 +3889,6 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Radio",
     "domain": "rec.torontocast.stream",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Openings Moe",
-    "url": "https://openings.moe/",
-    "description": "Anime Theme Radio",
-    "category": "audio",
-    "subcategory": "▷ Genre Specific Radio",
-    "domain": "openings.moe",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -11242,9 +11209,9 @@
     "is_tip": false
   },
   {
-    "title": "AI Studio",
+    "title": "Google AI Studio",
     "url": "https://aistudio.google.com/app/apps",
-    "description": "Gemini 3.1 Pro Preview / Gemini 3.6 Flash / Google Sign-Up / Coding AI / Subreddit / Discord",
+    "description": "Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Coding AI / Subreddit / Discord",
     "category": "developer-tools",
     "subcategory": "▷ AI Web Coding",
     "domain": "aistudio.google.com",
@@ -14553,6 +14520,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠DNS Coffee",
+    "url": "https://dns.coffee/",
+    "description": "DNS Search History Tool",
+    "category": "developer-tools",
+    "subcategory": "▷ DNS Tools",
+    "domain": "dns.coffee",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "MXToolBox",
     "url": "https://mxtoolbox.com/",
     "description": "MX Record Lookup Tool",
@@ -16731,6 +16709,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Nuclear Reactor Simulator",
+    "url": "https://dalton-nrs.manchester.ac.uk/",
+    "description": "⁠Nuclear Reactor Simulator",
+    "category": "educational",
+    "subcategory": "▷ Physics",
+    "domain": "dalton-nrs.manchester.ac.uk",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Matthen",
     "url": "https://blog.matthen.com/",
     "description": "Math Animations",
@@ -18569,12 +18558,12 @@
   },
   {
     "title": "APOD",
-    "url": "https://apod.nasa.gov/",
+    "url": "https://science.nasa.gov/apod/",
     "description": "Daily NASA Astronomy Images",
     "category": "educational",
     "subcategory": "▷ Astronomy",
-    "domain": "apod.nasa.gov",
-    "is_new": false,
+    "domain": "science.nasa.gov",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -21593,9 +21582,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Maia Chess",
+    "title": "Maia Chess",
     "url": "https://www.maiachess.com/",
-    "description": "Human-Like AI Chess Opponent",
+    "description": "Human-Like AI Training Opponent & Blunder Modeling",
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "maiachess.com",
@@ -21604,31 +21593,9 @@
     "is_tip": false
   },
   {
-    "title": "ChessLab",
-    "url": "https://chesslab.me/",
-    "description": "Learning Community / Discord",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "chesslab.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Chess Results",
-    "url": "https://chess-results.com/",
-    "description": "Chess Tournament Results Database",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "chess-results.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Listudy",
     "url": "https://listudy.org/en",
-    "description": "Spaced Repetition Tactics / Blind Tactics / Pieceless Tactics",
+    "description": "Spaced Repetition Openings, Blind Tactics & Endgames",
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "listudy.org",
@@ -21637,23 +21604,45 @@
     "is_tip": false
   },
   {
-    "title": "Chessable",
-    "url": "https://www.chessable.com/",
-    "description": "Openings / Endgames",
+    "title": "Maia Chess",
+    "url": "https://www.maiachess.com/",
+    "description": "Human-Like AI Training Opponent & Blunder Modeling",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "chessable.com",
+    "domain": "maiachess.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠Syzygy Tables",
-    "url": "https://syzygy-tables.info/",
-    "description": "Practice Endgames Using Tablebase Data",
+    "title": "Blitz Tactics",
+    "url": "https://blitztactics.com/",
+    "description": "Fast-Paced Chess Puzzle Training",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "syzygy-tables.info",
+    "domain": "blitztactics.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Tactic or Not",
+    "url": "https://tacticornot.com/",
+    "description": "Evaluate Tactics / Discord",
+    "category": "educational",
+    "subcategory": "▷ Chess",
+    "domain": "tacticornot.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Shâh Kur",
+    "url": "https://shahkur.specr.net/",
+    "description": "Blindfolded Chess Practice",
+    "category": "educational",
+    "subcategory": "▷ Chess",
+    "domain": "shahkur.specr.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -21670,34 +21659,12 @@
     "is_tip": false
   },
   {
-    "title": "⁠Blitz Tactics",
-    "url": "https://blitztactics.com/",
-    "description": "Fast-Paced Chess Puzzle Training",
+    "title": "ChessLab",
+    "url": "https://chesslab.me/",
+    "description": "Learning Community / Discord",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "blitztactics.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠ChessMD",
-    "url": "https://chessmd.org/",
-    "description": "Chess Training / Match Analysis / GitHub",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "chessmd.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Chess Monitor",
-    "url": "https://www.chessmonitor.com/",
-    "description": "Aggregate Lichess and Chess.com Match History",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "chessmonitor.com",
+    "domain": "chesslab.me",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -21714,64 +21681,20 @@
     "is_tip": false
   },
   {
-    "title": "⁠Chess OCR",
-    "url": "https://helpman.komtera.lt/chessocr/",
-    "description": "Multi-Site Digital Chessboard Analysis",
+    "title": "Chess Monitor",
+    "url": "https://www.chessmonitor.com/",
+    "description": "Performance & Analytics Dashboard for Lichess and Chess.com",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "helpman.komtera.lt",
+    "domain": "chessmonitor.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠Shâh Kur",
-    "url": "https://shahkur.specr.net/",
-    "description": "Blindfolded Chess Practice",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "shahkur.specr.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Pawn Appétit",
-    "url": "https://github.com/ChessKitchen/pawn-appetit",
-    "description": "Engine Analysis",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "YottaChess",
-    "url": "https://www.yottachess.com/",
-    "description": "Professional Player Database",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "yottachess.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "OpeningTree",
-    "url": "https://www.openingtree.com/",
-    "description": "Import Lichess and Chess.com Analysis",
-    "category": "educational",
-    "subcategory": "▷ Chess",
-    "domain": "openingtree.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠ChessBlunders",
+    "title": "ChessBlunders",
     "url": "https://chessblunders.org/",
-    "description": "Analyze Chess Mistakes",
+    "description": "Analyze Match Mistakes",
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "chessblunders.org",
@@ -21780,34 +21703,56 @@
     "is_tip": false
   },
   {
-    "title": "Chess Vision",
-    "url": "https://chessvision.ai/",
-    "description": "Import Images Into Chess Engine",
+    "title": "ChessMD",
+    "url": "https://chessmd.org/",
+    "description": "Chess Training / Match Analysis / GitHub",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "chessvision.ai",
+    "domain": "chessmd.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠Tactic or Not",
-    "url": "https://tacticornot.com/",
-    "description": "Evaluate Tactics / Discord",
+    "title": "Syzygy Tables",
+    "url": "https://syzygy-tables.info/",
+    "description": "7-Piece Endgame Tablebase Explorer",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "tacticornot.com",
+    "domain": "syzygy-tables.info",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠The Week In Chess",
+    "title": "The Week In Chess",
     "url": "https://theweekinchess.com/",
     "description": "Weekly PGN Chess Game Archives",
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "theweekinchess.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ChessGames",
+    "url": "https://www.chessgames.com/",
+    "description": "Historic Master Games Archive & Discussion",
+    "category": "educational",
+    "subcategory": "▷ Chess",
+    "domain": "chessgames.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "365Chess",
+    "url": "https://www.365chess.com/",
+    "description": "Chess Database / Opening Explorer",
+    "category": "educational",
+    "subcategory": "▷ Chess",
+    "domain": "365chess.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -21824,29 +21769,29 @@
     "is_tip": false
   },
   {
-    "title": "365Chess",
-    "url": "https://www.365chess.com/",
-    "description": "Chess History / Lessons",
+    "title": "Chess Results",
+    "url": "https://chess-results.com/",
+    "description": "FIDE Tournament Results Database",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "365chess.com",
+    "domain": "chess-results.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "ChessVariants",
-    "url": "https://www.chessvariants.com/index/favorites.php",
-    "description": "Chess Variant Encyclopedia",
+    "title": "YottaChess",
+    "url": "https://www.yottachess.com/",
+    "description": "Professional Player Database",
     "category": "educational",
     "subcategory": "▷ Chess",
-    "domain": "chessvariants.com",
+    "domain": "yottachess.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠Visual History of Chessmen",
+    "title": "Visual History of Chessmen",
     "url": "https://chesshistory.github.io/",
     "description": "Chessmen History Guide",
     "category": "educational",
@@ -28272,7 +28217,7 @@
   {
     "title": "⁠Rootz",
     "url": "https://rootz.so/",
-    "description": "25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / Use uBlock / Discord",
+    "description": "25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / Use uBlock",
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "rootz.so",
@@ -28470,7 +28415,7 @@
   {
     "title": "Fast File",
     "url": "https://fast-file.com/",
-    "description": "10GB / 20 Days After Last Download / Status",
+    "description": "10GB / 20 Days After Last Download",
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "fast-file.com",
@@ -29728,17 +29673,6 @@
     "category": "gaming-tools",
     "subcategory": "General",
     "domain": "reddit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "UC.DIRECT",
-    "url": "https://union-crax.xyz/direct",
-    "description": "Game Launcher / Downloader / Windows, Linux / GitHub",
-    "category": "gaming-tools",
-    "subcategory": "▷ Game Launchers",
-    "domain": "union-crax.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -33177,12 +33111,12 @@
   },
   {
     "title": "MemcardRex",
-    "url": "https://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1",
-    "description": "PS1 Save Transfer Tools / Archive",
+    "url": "https://archive.org/details/MemcardRex1.8",
+    "description": "PS1 Save Transfer Tools",
     "category": "gaming-tools",
     "subcategory": "▷ Playstation Homebrew",
-    "domain": "shendosoft.blogspot.com",
-    "is_new": false,
+    "domain": "archive.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -39446,6 +39380,39 @@
     "is_tip": false
   },
   {
+    "title": "Kung Fu Chess",
+    "url": "https://www.kfchess.com/",
+    "description": "Real-Time Chess Without Turns",
+    "category": "gaming",
+    "subcategory": "▷ Chess",
+    "domain": "kfchess.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠HEARTH",
+    "url": "https://hexhearth.lovable.app/",
+    "description": "Hexagonal Chess",
+    "category": "gaming",
+    "subcategory": "▷ Chess",
+    "domain": "hexhearth.lovable.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Blindfold Chess",
+    "url": "https://www.blindfold-chess.online/",
+    "description": "Play Blindfold Chess Against Stockfish",
+    "category": "gaming",
+    "subcategory": "▷ Chess",
+    "domain": "blindfold-chess.online",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Echo Chess",
     "url": "https://echochess.com/",
     "description": "Morph-Style Chess / Discord",
@@ -39479,39 +39446,6 @@
     "is_tip": false
   },
   {
-    "title": "The Kilobyte's Gambit",
-    "url": "https://vole.wtf/kilobytes-gambit/",
-    "description": "Retro-Style Chess",
-    "category": "gaming",
-    "subcategory": "▷ Chess",
-    "domain": "vole.wtf",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠HEARTH",
-    "url": "https://hexhearth.lovable.app/",
-    "description": "Hexagonal Chess",
-    "category": "gaming",
-    "subcategory": "▷ Chess",
-    "domain": "hexhearth.lovable.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Kung Fu Chess",
-    "url": "https://www.kfchess.com/",
-    "description": "Real-Time Chess Without Turns",
-    "category": "gaming",
-    "subcategory": "▷ Chess",
-    "domain": "kfchess.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠picklechess",
     "url": "https://playpicklechess.com/",
     "description": "Piece-Picking Style Chess / Discord",
@@ -39523,23 +39457,23 @@
     "is_tip": false
   },
   {
-    "title": "⁠Blindfold Chess",
-    "url": "https://www.blindfold-chess.online/",
-    "description": "Play Blindfold Chess Against Stockfish",
-    "category": "gaming",
-    "subcategory": "▷ Chess",
-    "domain": "blindfold-chess.online",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Pokemon Chess",
     "url": "https://pokemonchess.com/",
     "description": "Pokémon-Style Chess / Discord",
     "category": "gaming",
     "subcategory": "▷ Chess",
     "domain": "pokemonchess.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "The Kilobyte's Gambit",
+    "url": "https://vole.wtf/kilobytes-gambit/",
+    "description": "Retro-Style Chess",
+    "category": "gaming",
+    "subcategory": "▷ Chess",
+    "domain": "vole.wtf",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -40673,17 +40607,6 @@
     "category": "gaming",
     "subcategory": "▷ Unblocked Games",
     "domain": "truffled.lol",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠anko",
-    "url": "https://useanko.xyz/",
-    "description": "Browser Games / Discord",
-    "category": "gaming",
-    "subcategory": "▷ Unblocked Games",
-    "domain": "useanko.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -55066,17 +54989,6 @@
     "is_tip": false
   },
   {
-    "title": "Accela",
-    "url": "https://github.com/ciscosweater/enter-the-wired",
-    "description": "Steam Game + DLC Unlocker",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Gaming",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "CreamLinux",
     "url": "https://github.com/anticitizn/creamlinux",
     "description": "Steam DLC Unlockers / Installer",
@@ -55948,7 +55860,7 @@
   {
     "title": "⁠AIOMetadata",
     "url": "https://github.com/cedya77/aiometadata",
-    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances / Note",
+    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances",
     "category": "linux-macos",
     "subcategory": "▷ Server / Selfhosting",
     "domain": "github.com",
@@ -58538,6 +58450,17 @@
     "subcategory": "General",
     "domain": "forumdirectory.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠JustIndex",
+    "url": "https://justindex.cc/",
+    "description": "Site Index / Mirrors / Subreddit",
+    "category": "misc",
+    "subcategory": "General",
+    "domain": "justindex.cc",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -65208,6 +65131,28 @@
     "is_tip": false
   },
   {
+    "title": "BookFinder",
+    "url": "https://bookfinder.com/",
+    "description": "Online Book Price Comparisons",
+    "category": "misc",
+    "subcategory": "▷ Crypto",
+    "domain": "bookfinder.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "eReaderIQ",
+    "url": "https://www.ereaderiq.com/",
+    "description": "Kindle Book Price Comparisons",
+    "category": "misc",
+    "subcategory": "▷ Crypto",
+    "domain": "ereaderiq.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Desenmascara",
     "url": "https://desenmascara.me/",
     "description": "Spot Counterfeit Sites",
@@ -65313,17 +65258,6 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "lowtein.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BookFinder",
-    "url": "https://bookfinder.com/",
-    "description": "Online Book Price Comparisons",
-    "category": "misc",
-    "subcategory": "▷ Crypto",
-    "domain": "bookfinder.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -73944,7 +73878,7 @@
   {
     "title": "WikWok",
     "url": "https://github.com/terrakok/Wikwok",
-    "description": "Random Wiki Article Viewer / Web App",
+    "description": "Random Wiki Article Viewer",
     "category": "mobile",
     "subcategory": "▷ Linux on Android",
     "domain": "github.com",
@@ -74076,7 +74010,7 @@
   {
     "title": "Echo",
     "url": "https://echomusicdocs.vercel.app/",
-    "description": "Multi-Platform Streaming / Discord / Github",
+    "description": "Multi-Platform Streaming / Discord / GitHub",
     "category": "mobile",
     "subcategory": "▷ Android Manga",
     "domain": "echomusicdocs.vercel.app",
@@ -80533,7 +80467,7 @@
   {
     "title": "nakastream",
     "url": "https://nakastream.tv/",
-    "description": "Movies / TV / Anime / Telegram / Discord",
+    "description": "Movies / TV / Anime / Status / Telegram / Discord",
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "nakastream.tv",
@@ -80577,7 +80511,7 @@
   {
     "title": "Stigstream",
     "url": "https://stigstream.ru/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "Movies / TV / Anime / Auto-Next",
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "stigstream.ru",
@@ -80747,6 +80681,17 @@
     "subcategory": "▷ Streaming",
     "domain": "franime.fr",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "AnimeSultra",
+    "url": "https://animesultra.org/",
+    "description": "Anime / Sub / 1080p / Telegram",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "animesultra.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -81952,7 +81897,7 @@
   {
     "title": "animedrive",
     "url": "https://animedrive.hu/",
-    "description": "Anime / Discord",
+    "description": "Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamelés",
     "domain": "animedrive.hu",
@@ -89828,7 +89773,7 @@
   {
     "title": "AnimeVietsub",
     "url": "https://animevietsub.link/",
-    "description": "Anime / Chinese Animation / Sub / 1080p / Telegram / Discord",
+    "description": "Anime / Chinese Animation / Sub / 1080p / Telegram",
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "animevietsub.link",
@@ -91179,17 +91124,6 @@
     "is_tip": false
   },
   {
-    "title": "ALPR Watch",
-    "url": "https://alpr.watch/",
-    "description": "Track Local Government Surveillance Tech Meetings",
-    "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
-    "domain": "alpr.watch",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "If An Agent Knocks",
     "url": "https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/",
     "description": "Best Practices if Contacted by Agents",
@@ -91329,6 +91263,17 @@
     "subcategory": "▷ Privacy Guides / Indexes",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠DNSLeakTest",
+    "url": "https://dnsleaktest.com/",
+    "description": "DNS Leak Test",
+    "category": "privacy",
+    "subcategory": "▷ Network Security",
+    "domain": "dnsleaktest.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92687,12 +92632,12 @@
   },
   {
     "title": "BDeBooks",
-    "url": "https://bdebooks.com/en/",
+    "url": "https://bdebooks.com/en/ebooks/",
     "description": "Books / Download",
     "category": "reading",
     "subcategory": "General",
     "domain": "bdebooks.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -99033,6 +98978,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠The Book Rex",
+    "url": "https://thebookrex.com/",
+    "description": "Book Discovery / Recommendations",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "thebookrex.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Reddit Reads",
     "url": "https://www.redditreads.com/",
     "description": "Most Popular Books from Subreddits",
@@ -99446,17 +99402,6 @@
     "category": "reading",
     "subcategory": "▷ Manga Recommendations",
     "domain": "booksunbanned.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BookFinder",
-    "url": "https://bookfinder.com/",
-    "description": "Online Book Price Comparisons",
-    "category": "reading",
-    "subcategory": "▷ Manga Recommendations",
-    "domain": "bookfinder.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -103785,6 +103730,17 @@
     "is_tip": false
   },
   {
+    "title": "Unbound",
+    "url": "https://www.nlnetlabs.nl/projects/unbound/",
+    "description": "Self-Hosted, Validating, Recursive, Caching Resolver",
+    "category": "storage",
+    "subcategory": "Free DNS Resolvers",
+    "domain": "nlnetlabs.nl",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Rethink DNS",
     "url": "https://rethinkdns.com/configure",
     "description": "",
@@ -104865,7 +104821,7 @@
   {
     "title": "Cerebro App",
     "url": "https://cerebroapp.com/",
-    "description": "Tweaked System Navigation / Github",
+    "description": "Tweaked System Navigation / GitHub",
     "category": "system-tools",
     "subcategory": "▷ System Tweaks",
     "domain": "cerebroapp.com",
@@ -113003,6 +112959,17 @@
     "is_tip": false
   },
   {
+    "title": "PlexDrive",
+    "url": "https://github.com/plexdrive/plexdrive",
+    "description": "Mount Google Drive",
+    "category": "video-tools",
+    "subcategory": "▷ Plex Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "SyncLounge",
     "url": "https://synclounge.tv/",
     "description": "Media Sync",
@@ -114092,6 +114059,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Destockd",
+    "url": "https://www.destockd.com/",
+    "description": "Stock Videos",
+    "category": "video-tools",
+    "subcategory": "▷ Stock Videos",
+    "domain": "destockd.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Pexels",
     "url": "https://www.pexels.com/",
     "description": "Stock Videos",
@@ -114367,6 +114345,17 @@
     "is_tip": false
   },
   {
+    "title": "Willow",
+    "url": "https://willow.arlen.icu/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K Guide / Telegram",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "willow.arlen.icu",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "HiveX",
     "url": "https://hivex.stream/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -114433,6 +114422,17 @@
     "is_tip": false
   },
   {
+    "title": "FRAME",
+    "url": "https://www.framemovie.online/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "framemovie.online",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cinema (BZ)",
     "url": "https://cinema.army/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram",
@@ -114466,23 +114466,12 @@
     "is_tip": false
   },
   {
-    "title": "FRAME",
-    "url": "https://www.framemovie.online/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "title": "Spacedom",
+    "url": "https://spacedom.live/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
-    "domain": "framemovie.online",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Willow",
-    "url": "https://willowmovies.com/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K Guide / Telegram",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "willowmovies.com",
+    "domain": "spacedom.live",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -114505,17 +114494,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "zxcprime.icu",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Spacedom",
-    "url": "https://spacedom.live/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "spacedom.live",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115271,7 +115249,7 @@
   {
     "title": "Snowstream",
     "url": "https://snowstream.vercel.app/",
-    "description": "Movies / TV / Anime / Discord / Telegram",
+    "description": "Movies / TV / Anime / Telegram",
     "category": "video",
     "subcategory": "▷ Multi-Server (Backups)",
     "domain": "snowstream.vercel.app",
@@ -115898,7 +115876,7 @@
   {
     "title": "⁠JustAnime",
     "url": "https://justanime.to/",
-    "description": "Sub / Dub / Auto-Next / Mirrors / Telegram / Discord",
+    "description": "Sub / Dub / Auto-Next / Mirrors / Subreddit / Discord",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "justanime.to",
@@ -116019,7 +115997,7 @@
   {
     "title": "AnimeDex",
     "url": "https://animedex.fun/",
-    "description": "Sub / Dub / Discord",
+    "description": "Sub / Dub",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animedex.fun",
@@ -116195,7 +116173,7 @@
   {
     "title": "⁠Anime Silo",
     "url": "https://animesilo.cc/",
-    "description": "Sub / Dub / Discord",
+    "description": "Sub / Dub",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animesilo.cc",
@@ -117392,17 +117370,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠zlive",
-    "url": "https://zlive.st/",
-    "description": "",
-    "category": "video",
-    "subcategory": "▷ Live Sports",
-    "domain": "zlive.st",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠CMVTV",
     "url": "https://cmvv.lovable.app/",
     "description": "Stream Aggregator / Telegram",
@@ -117431,17 +117398,6 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "freestreams-live1a.pk",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠1Ball",
-    "url": "https://1ball.pk/",
-    "description": "Stream Aggregator / Discord",
-    "category": "video",
-    "subcategory": "▷ Live Sports",
-    "domain": "1ball.pk",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118647,12 +118603,12 @@
   },
   {
     "title": "Movy",
-    "url": "https://www.movy.bz/",
+    "url": "https://www.movy.sx/",
     "description": "Movies / TV / Anime / 4K",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
-    "domain": "movy.bz",
-    "is_new": false,
+    "domain": "movy.sx",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -118674,17 +118630,6 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "multishows.top",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CineBolt",
-    "url": "https://cinebolt.org/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "cinebolt.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118747,7 +118692,7 @@
   {
     "title": "Pahe",
     "url": "https://pahe.ink/",
-    "description": "Movies / TV / Anime / 4K / Warning / Ad-Bypass / Discord",
+    "description": "Movies / TV / Anime / 4K / Warning / Discord",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "pahe.ink",
@@ -119495,7 +119440,7 @@
   {
     "title": "⁠AIOMetadata",
     "url": "https://github.com/cedya77/aiometadata",
-    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances / Note",
+    "description": "Multi-Source Metadata & Catalogs Addon / Public Instances",
     "category": "video",
     "subcategory": "▷ Stremio Tools",
     "domain": "github.com",
