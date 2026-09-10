@@ -33,6 +33,17 @@
     "is_tip": false
   },
   {
+    "title": "Tencent AI Studio",
+    "url": "https://aistudio.tencent.com/",
+    "description": "⁠Hy3 / Unlimited / Sign-Up",
+    "category": "ai",
+    "subcategory": "▷ Official Model Sites",
+    "domain": "aistudio.tencent.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠MiMo Studio",
     "url": "https://aistudio.xiaomimimo.com/",
     "description": "MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up",
@@ -199,19 +210,19 @@
   },
   {
     "title": "⁠ISH",
-    "url": "https://beta.ish.chat/",
+    "url": "https://ish.chat/",
     "description": "Claude Opus 5 / GPT-5.6 Sol / Kimi K3 / 50K Tokens Daily / Subreddit / Discord",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
-    "domain": "beta.ish.chat",
-    "is_new": false,
+    "domain": "ish.chat",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "⁠ChatWave",
     "url": "https://chatwave.crunchflix.site/",
-    "description": "Claude Opus 5 / Claude Fable 5 / GPT-5.6 Sol / Discord",
+    "description": "Claude Opus 5 / Claude Fable 5 / GPT 6 Astra / GPT-5.6 Sol / Discord",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "chatwave.crunchflix.site",
@@ -227,6 +238,17 @@
     "subcategory": "▷ Multiple Model Sites",
     "domain": "lumo.proton.me",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Ecosia AI",
+    "url": "https://www.ecosia.org/ai-chat",
+    "description": "Mistral Small 4 / Mistral Small 3.2 / Unlimited",
+    "category": "ai",
+    "subcategory": "▷ Multiple Model Sites",
+    "domain": "ecosia.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -435,7 +457,7 @@
     "category": "ai",
     "subcategory": "▷ Local AI Frontends",
     "domain": "msty.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -953,6 +975,17 @@
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
     "domain": "aistudio.google.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Ecosia AI",
+    "url": "https://www.ecosia.org/ai-chat",
+    "description": "Flux.2 Dev / Unlimited",
+    "category": "ai",
+    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
+    "domain": "ecosia.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -2278,12 +2311,12 @@
   },
   {
     "title": "The 120 Minutes Archive",
-    "url": "https://120minutes.org/",
+    "url": "https://altmusictv.com/",
     "description": "MTV's 120 Minutes Archive",
     "category": "audio",
     "subcategory": "▷ Streaming Sites",
-    "domain": "120minutes.org",
-    "is_new": false,
+    "domain": "altmusictv.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -3190,13 +3223,13 @@
     "is_tip": false
   },
   {
-    "title": "You are Listening To LA",
-    "url": "https://youarelistening.to/",
-    "description": "Ambient City Sounds & Live LAPD Police Radio",
+    "title": "SF 10-33",
+    "url": "https://somafm.com/player24/station/sf1033",
+    "description": "Ambient Music & Live San Francisco Emergency Radio",
     "category": "audio",
     "subcategory": "▷ Ambient / Relaxation",
-    "domain": "youarelistening.to",
-    "is_new": false,
+    "domain": "somafm.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -3273,7 +3306,7 @@
     "category": "audio",
     "subcategory": "▷ Ambient / Relaxation",
     "domain": "radoxo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -3295,7 +3328,7 @@
     "category": "audio",
     "subcategory": "▷ Ambient / Relaxation",
     "domain": "flicker-mini.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -3620,12 +3653,12 @@
   },
   {
     "title": "HollowEarthRadio",
-    "url": "https://www.hollowearthradio.org/",
+    "url": "https://khuh.fm/",
     "description": "Pacific Northwest Artists",
     "category": "audio",
     "subcategory": "▷ Internet Radio",
-    "domain": "hollowearthradio.org",
-    "is_new": false,
+    "domain": "khuh.fm",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -4697,17 +4730,6 @@
     "is_tip": false
   },
   {
-    "title": "BeatSpotBot",
-    "url": "https://t.me/BeatSpotBot",
-    "description": "Spotify / Apple / YouTube / FLAC / 25 Daily",
-    "category": "audio",
-    "subcategory": "▷ Telegram Bots",
-    "domain": "t.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "scdlbot",
     "url": "https://t.me/scdlbot",
     "description": "YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3",
@@ -4733,17 +4755,6 @@
     "title": "⁠AppleMusicDW Bot",
     "url": "https://t.me/applemusicdw_bot",
     "description": "Apple Music / ALAC / AAC / 50 Daily",
-    "category": "audio",
-    "subcategory": "▷ Telegram Bots",
-    "domain": "t.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "GlomaticoPinkMusicBot",
-    "url": "https://t.me/GlomaticoPinkMusicBot",
-    "description": "Apple Music Downloader / Telegram / Discord",
     "category": "audio",
     "subcategory": "▷ Telegram Bots",
     "domain": "t.me",
@@ -5929,6 +5940,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Sound Image",
+    "url": "https://soundimage.org/",
+    "description": "Music for Games",
+    "category": "audio",
+    "subcategory": "▷ Genre Specific Ripping",
+    "domain": "soundimage.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Matthew C. Wright",
     "url": "https://matthewcwright.com/",
     "description": "Royalty-Free Piano Music",
@@ -6281,28 +6303,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠EntertainMe",
-    "url": "https://www.entertainme.fun/",
-    "description": "All-in-One Media & Entertainment Tracker",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "entertainme.fun",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Odesli",
-    "url": "https://odesli.co/",
-    "description": "Song / Podcast Platform Search / Telegram Bot",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "odesli.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Ultimate Music Database",
     "url": "https://www.umdmusic.com/",
     "description": "Music Database",
@@ -6314,56 +6314,12 @@
     "is_tip": false
   },
   {
-    "title": "MyPitchFork",
-    "url": "https://mypitchfork.fun/",
-    "description": "Individual Song Rating / Tracking",
+    "title": "MusicBrainz",
+    "url": "https://musicbrainz.org/",
+    "description": "Music Database",
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
-    "domain": "mypitchfork.fun",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DAHR",
-    "url": "https://adp.library.ucsb.edu/index.php",
-    "description": "American Historical Recordings Database",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "adp.library.ucsb.edu",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Loudness War",
-    "url": "https://dr.loudness-war.info/",
-    "description": "Albums Dynamic Range Database",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "dr.loudness-war.info",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "TuneMyMusic",
-    "url": "https://www.tunemymusic.com/",
-    "description": "Transfer Playlists Between Services",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "tunemymusic.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "TheIndieRockPlaylist",
-    "url": "https://www.theindierockplaylist.com/",
-    "description": "Indie Rock Archive",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "theindierockplaylist.com",
+    "domain": "musicbrainz.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6391,23 +6347,12 @@
     "is_tip": false
   },
   {
-    "title": "⁠Six Degrees of Hip-Hop",
-    "url": "https://www.sixdegreesofhiphop.com/",
-    "description": "Hip-Hop Connections Map",
+    "title": "TheIndieRockPlaylist",
+    "url": "https://www.theindierockplaylist.com/",
+    "description": "Indie Rock Archive",
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
-    "domain": "sixdegreesofhiphop.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "IDM Discovery",
-    "url": "https://www.idmdiscovery.com/",
-    "description": "IDM Artist Archive",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "idmdiscovery.com",
+    "domain": "theindierockplaylist.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6424,34 +6369,56 @@
     "is_tip": false
   },
   {
-    "title": "⁠VocaDB",
-    "url": "https://vocadb.net/",
-    "description": "Vocaloid Database / Discord",
+    "title": "IDM Discovery",
+    "url": "https://www.idmdiscovery.com/",
+    "description": "IDM Artist Archive",
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
-    "domain": "vocadb.net",
+    "domain": "idmdiscovery.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠TouhouDB",
-    "url": "https://touhoudb.com/",
-    "description": "Touhou Music Database / Discord",
+    "title": "⁠Six Degrees of Hip-Hop",
+    "url": "https://www.sixdegreesofhiphop.com/",
+    "description": "Hip-Hop Connections Map",
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
-    "domain": "touhoudb.com",
+    "domain": "sixdegreesofhiphop.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠UtaiteDB",
-    "url": "https://utaitedb.net/",
-    "description": "Utaite Music Database / Discord",
+    "title": "Odesli",
+    "url": "https://odesli.co/",
+    "description": "Song / Podcast Platform Search / Telegram Bot",
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
-    "domain": "utaitedb.net",
+    "domain": "odesli.co",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "TuneMyMusic",
+    "url": "https://www.tunemymusic.com/",
+    "description": "Transfer Playlists Between Services",
+    "category": "audio",
+    "subcategory": "▷ Game Soundtracks",
+    "domain": "tunemymusic.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Loudness War",
+    "url": "https://dr.loudness-war.info/",
+    "description": "Albums Dynamic Range Database",
+    "category": "audio",
+    "subcategory": "▷ Game Soundtracks",
+    "domain": "dr.loudness-war.info",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6468,34 +6435,23 @@
     "is_tip": false
   },
   {
-    "title": "rate.house",
-    "url": "https://rate.house/",
-    "description": "Media Tracker",
+    "title": "MyPitchFork",
+    "url": "https://mypitchfork.fun/",
+    "description": "Individual Song Rating / Tracking",
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
-    "domain": "rate.house",
+    "domain": "mypitchfork.fun",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "libib",
-    "url": "https://www.libib.com/",
-    "description": "Desktop Media Catalog",
+    "title": "DAHR",
+    "url": "https://adp.library.ucsb.edu/index.php",
+    "description": "American Historical Recordings Database",
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
-    "domain": "libib.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MediaTracker",
-    "url": "https://github.com/bonukai/MediaTracker",
-    "description": "Self-Hosted Media Tracker",
-    "category": "audio",
-    "subcategory": "▷ Game Soundtracks",
-    "domain": "github.com",
+    "domain": "adp.library.ucsb.edu",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6518,17 +6474,6 @@
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
     "domain": "musicchartmaker.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Essential Charts",
-    "url": "https://4chanmusic.miraheze.org/wiki/Essential_Charts",
-    "description": "Album Recommendation Charts",
-    "category": "audio",
-    "subcategory": "▷ Curated Recommendations",
-    "domain": "4chanmusic.miraheze.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6567,12 +6512,23 @@
     "is_tip": false
   },
   {
-    "title": "MusicBrainz",
-    "url": "https://musicbrainz.org/",
-    "description": "Ratings / Reviews",
+    "title": "45Cat",
+    "url": "https://www.45cat.com/",
+    "description": "Vinyl Ratings / Reviews",
     "category": "audio",
     "subcategory": "▷ Curated Recommendations",
-    "domain": "musicbrainz.org",
+    "domain": "45cat.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Essential Charts",
+    "url": "https://4chanmusic.miraheze.org/wiki/Essential_Charts",
+    "description": "Album Recommendation Charts",
+    "category": "audio",
+    "subcategory": "▷ Curated Recommendations",
+    "domain": "4chanmusic.miraheze.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6611,17 +6567,6 @@
     "is_tip": false
   },
   {
-    "title": "45Cat",
-    "url": "https://www.45cat.com/",
-    "description": "Vinyl Ratings / Reviews",
-    "category": "audio",
-    "subcategory": "▷ Curated Recommendations",
-    "domain": "45cat.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "MusicTo",
     "url": "https://www.musicto.com/",
     "description": "Musician Curated Playlists",
@@ -6639,6 +6584,28 @@
     "category": "audio",
     "subcategory": "▷ Curated Recommendations",
     "domain": "digitaldreamdoor.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "OrbitMusic",
+    "url": "https://www.bbc.co.uk/orbitmusic",
+    "description": "Undiscovered Artist Recommendations / Limit Bypass, 2, 3",
+    "category": "audio",
+    "subcategory": "▷ Music Discovery",
+    "domain": "bbc.co.uk",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ArtistPath",
+    "url": "https://artistpath.cc/",
+    "description": "Find Connections Between Music Artists",
+    "category": "audio",
+    "subcategory": "▷ Music Discovery",
+    "domain": "artistpath.cc",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6666,23 +6633,23 @@
     "is_tip": false
   },
   {
-    "title": "ArtistPath",
-    "url": "https://artistpath.cc/",
-    "description": "Find Connections Between Music Artists",
+    "title": "Musicmap",
+    "url": "https://musicmap.info/",
+    "description": "Genealogy / History of Music Genres",
     "category": "audio",
     "subcategory": "▷ Music Discovery",
-    "domain": "artistpath.cc",
+    "domain": "musicmap.info",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "OrbitMusic",
-    "url": "https://www.bbc.co.uk/orbitmusic",
-    "description": "Undiscovered Artist Recommendations / Limit Bypass, 2, 3",
+    "title": "Map of Metal",
+    "url": "https://mapofmetal.com/",
+    "description": "Interactive Map of Metal History",
     "category": "audio",
     "subcategory": "▷ Music Discovery",
-    "domain": "bbc.co.uk",
+    "domain": "mapofmetal.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6705,28 +6672,6 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "chunisama.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Musicmap",
-    "url": "https://musicmap.info/",
-    "description": "Genealogy / History of Music Genres",
-    "category": "audio",
-    "subcategory": "▷ Music Discovery",
-    "domain": "musicmap.info",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Map of Metal",
-    "url": "https://mapofmetal.com/",
-    "description": "Interactive Map of Metal History",
-    "category": "audio",
-    "subcategory": "▷ Music Discovery",
-    "domain": "mapofmetal.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6776,28 +6721,6 @@
     "is_tip": false
   },
   {
-    "title": "Web Scrobbler",
-    "url": "https://github.com/web-scrobbler/web-scrobbler",
-    "description": "Scrobble Any Site",
-    "category": "audio",
-    "subcategory": "▷ Last.fm Tools",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Edit Scrobbles",
-    "url": "https://greasyfork.org/en/scripts/485278",
-    "description": "Manually Edit Scrobbles",
-    "category": "audio",
-    "subcategory": "▷ Last.fm Tools",
-    "domain": "greasyfork.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Last.fm Labs",
     "url": "https://www.last.fm/labs",
     "description": "Last.fm Library Visualizers",
@@ -6826,6 +6749,28 @@
     "category": "audio",
     "subcategory": "▷ Last.fm Tools",
     "domain": "tagcloud.rainosullivan.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Web Scrobbler",
+    "url": "https://github.com/web-scrobbler/web-scrobbler",
+    "description": "Scrobble Any Site",
+    "category": "audio",
+    "subcategory": "▷ Last.fm Tools",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Edit Scrobbles",
+    "url": "https://greasyfork.org/en/scripts/485278",
+    "description": "Manually Edit Scrobbles",
+    "category": "audio",
+    "subcategory": "▷ Last.fm Tools",
+    "domain": "greasyfork.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -7426,12 +7371,12 @@
   },
   {
     "title": "⁠Lyrical Nonsense",
-    "url": "https://www.lyrical-nonsense.com/global/",
+    "url": "https://www.utatime.com/global/",
     "description": "Japanese Song Lyrics",
     "category": "audio",
     "subcategory": "▷ Lyric Sites",
-    "domain": "lyrical-nonsense.com",
-    "is_new": false,
+    "domain": "utatime.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -9637,12 +9582,12 @@
   },
   {
     "title": "Wyzie Subs",
-    "url": "https://sub.wyzie.ru/",
+    "url": "https://sub.wyzie.io/",
     "description": "Subtitle Scraping API / NPM Package / Docs",
     "category": "developer-tools",
     "subcategory": "▷ API Tools",
-    "domain": "sub.wyzie.ru",
-    "is_new": false,
+    "domain": "sub.wyzie.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -10197,17 +10142,6 @@
     "is_tip": false
   },
   {
-    "title": "HaystackEditor",
-    "url": "https://haystackeditor.com/",
-    "description": "Canvas-Based Code Editor",
-    "category": "developer-tools",
-    "subcategory": "▷ Map Creators / Editors",
-    "domain": "haystackeditor.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Helix",
     "url": "https://helix-editor.com/",
     "description": "Kakoune & Neovim Inspired Code Editor",
@@ -10390,7 +10324,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Cloud IDEs / Collab",
     "domain": "app.coderpad.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11017,7 +10951,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Coding Agents / Extensions",
     "domain": "ai-sdk.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -12342,17 +12276,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠CS Chromium",
-    "url": "https://cs.chromium.org/",
-    "description": "Chromium Code Search",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "cs.chromium.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Directory Lister",
     "url": "https://directorylister.com/",
     "description": "Web-Based Directory Listing",
@@ -12409,12 +12332,12 @@
   },
   {
     "title": "Typebot",
-    "url": "https://typebot.io/",
+    "url": "https://typebot.com/",
     "description": "Embedded Chat App",
     "category": "developer-tools",
     "subcategory": "▷ PHP",
-    "domain": "typebot.io",
-    "is_new": false,
+    "domain": "typebot.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -12750,12 +12673,12 @@
   },
   {
     "title": "SouPalt",
-    "url": "https://soupault.app/",
+    "url": "https://soupault.net/",
     "description": "Static Website Generator with HTML Element Tree",
     "category": "developer-tools",
     "subcategory": "▷ Website Builders",
-    "domain": "soupault.app",
-    "is_new": false,
+    "domain": "soupault.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -13289,12 +13212,12 @@
   },
   {
     "title": "LambdaTest",
-    "url": "https://www.lambdatest.com/",
+    "url": "https://www.testmuai.com/",
     "description": "Cross Browser Testing Cloud",
     "category": "developer-tools",
     "subcategory": "▷ Benchmarks / Accessibility",
-    "domain": "lambdatest.com",
-    "is_new": false,
+    "domain": "testmuai.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -13723,7 +13646,7 @@
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
     "domain": "intercode.info",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -14102,17 +14025,6 @@
     "is_tip": false
   },
   {
-    "title": "Fleek",
-    "url": "https://fleek.xyz/",
-    "description": "",
-    "category": "developer-tools",
-    "subcategory": "▷ Dynamic Page Hosting",
-    "domain": "fleek.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Stormkit",
     "url": "https://www.stormkit.io/",
     "description": "",
@@ -14229,7 +14141,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Static Page Hosting",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -15962,12 +15874,12 @@
   },
   {
     "title": "FreeCourseSites",
-    "url": "https://freecoursesites.com/",
+    "url": "https://fcsnew.net/",
     "description": "Courses",
     "category": "educational",
     "subcategory": "▷ Streaming",
-    "domain": "freecoursesites.com",
-    "is_new": false,
+    "domain": "fcsnew.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -16088,17 +16000,6 @@
     "category": "educational",
     "subcategory": "▷ Downloading",
     "domain": "afratafreeh.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FreeCourseSites",
-    "url": "https://freecoursesites.com/",
-    "description": "Courses",
-    "category": "educational",
-    "subcategory": "▷ Downloading",
-    "domain": "freecoursesites.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -23612,7 +23513,7 @@
     "category": "educational",
     "subcategory": "▷ Constructed Languages",
     "domain": "neon.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24184,7 +24085,7 @@
     "category": "educational",
     "subcategory": "▷ Web Development",
     "domain": "pixactly.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24212,12 +24113,12 @@
   },
   {
     "title": "Tech Dev Guide",
-    "url": "https://techdevguide.withgoogle.com/",
+    "url": "https://www.google.com/about/careers/applications/buildyourfuture/resources/",
     "description": "Computer Science Google Courses",
     "category": "educational",
     "subcategory": "▷ Computer Science",
-    "domain": "techdevguide.withgoogle.com",
-    "is_new": false,
+    "domain": "google.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -24338,7 +24239,7 @@
     "category": "educational",
     "subcategory": "▷ Computer Science",
     "domain": "link.springer.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24998,7 +24899,7 @@
     "category": "educational",
     "subcategory": "▷ Game Development",
     "domain": "codewisp.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25290,12 +25191,12 @@
   },
   {
     "title": "DoubtNut",
-    "url": "https://www.doubtnut.com/",
+    "url": "https://allen.in/dn",
     "description": "Exam / Solutions / Help / Ad-Bypass",
     "category": "educational",
     "subcategory": "▷ AI / ML Learning",
-    "domain": "doubtnut.com",
-    "is_new": false,
+    "domain": "allen.in",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -25515,7 +25416,7 @@
     "category": "educational",
     "subcategory": "▷ SAT Testing",
     "domain": "satsuite.collegeboard.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25598,12 +25499,12 @@
   },
   {
     "title": "DoubtNut",
-    "url": "https://www.doubtnut.com/",
+    "url": "https://allen.in/dn",
     "description": "Solutions / Help / Ad-Bypass",
     "category": "educational",
     "subcategory": "▷ JEE / NEET",
-    "domain": "doubtnut.com",
-    "is_new": false,
+    "domain": "allen.in",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -25801,7 +25702,7 @@
     "category": "educational",
     "subcategory": "▷ Study / Research",
     "domain": "storm.genie.stanford.edu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25818,12 +25719,12 @@
   },
   {
     "title": "Inciteful",
-    "url": "https://inciteful.xyz/",
+    "url": "https://incitefulmed.com/academic/",
     "description": "Find Connected Literature via Citations",
     "category": "educational",
     "subcategory": "▷ Study / Research",
-    "domain": "inciteful.xyz",
-    "is_new": false,
+    "domain": "incitefulmed.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -28573,7 +28474,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "depositfiles.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -29937,7 +29838,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Settings / Fixes",
     "domain": "ntcore.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32143,12 +32044,12 @@
   },
   {
     "title": "Fika",
-    "url": "https://project-fika.gitbook.io/wiki",
+    "url": "https://wiki.project-fika.com/",
     "description": "Play Single Player Tarkov Co-Op",
     "category": "gaming-tools",
     "subcategory": "▷ Multiplayer Mods",
-    "domain": "project-fika.gitbook.io",
-    "is_new": false,
+    "domain": "wiki.project-fika.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -33088,6 +32989,17 @@
     "is_tip": false
   },
   {
+    "title": "PSVitaAlive Store",
+    "url": "https://vegettosan.github.io/PSVitaAlive/",
+    "description": "PSVita Homebrew Store / Game Downloader / GitHub",
+    "category": "gaming-tools",
+    "subcategory": "▷ Playstation Homebrew",
+    "domain": "vegettosan.github.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "PSP Archive",
     "url": "https://psp-archive.github.io/",
     "description": "PSP Homebrew Archive",
@@ -33403,6 +33315,17 @@
     "subcategory": "▷ Customization",
     "domain": "mcglint.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Cosmetica",
+    "url": "https://cosmetica.cc/",
+    "description": "Custom Capes + Cosmetics Fabric Mod",
+    "category": "gaming-tools",
+    "subcategory": "▷ Customization",
+    "domain": "cosmetica.cc",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -34485,17 +34408,6 @@
     "is_tip": false
   },
   {
-    "title": "PKHeX",
-    "url": "https://github.com/kwsch/PKHeX",
-    "description": "Pokémon Save File Editor",
-    "category": "gaming-tools",
-    "subcategory": "▷ Pokemon Tools",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Sky Editor",
     "url": "https://projectpokemon.org/home/files/file/1509-sky-editor-save-editor-for-pokemon-mystery-dungeon/",
     "description": "Mystery Dungeon Save File Editor",
@@ -34920,7 +34832,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Mario Kart Tools",
     "domain": "mkwiiki.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36977,7 +36889,7 @@
     "category": "gaming",
     "subcategory": "▷ Emulators",
     "domain": "re-two-torial.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -37714,7 +37626,7 @@
     "category": "gaming",
     "subcategory": "▷ Nintendo ROMs",
     "domain": "nswgf.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -38649,7 +38561,7 @@
     "category": "gaming",
     "subcategory": "▷ Rubiks Cube",
     "domain": "ruwix.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -39359,12 +39271,12 @@
   },
   {
     "title": "⁠HEARTH",
-    "url": "https://hexhearth.lovable.app/",
+    "url": "https://hexhearth.live/",
     "description": "Hexagonal Chess",
     "category": "gaming",
     "subcategory": "▷ Chess",
-    "domain": "hexhearth.lovable.app",
-    "is_new": false,
+    "domain": "hexhearth.live",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -39403,12 +39315,12 @@
   },
   {
     "title": "⁠Totally Normal Chess",
-    "url": "https://chesschess.horse/",
+    "url": "https://totallynormalchess.com/",
     "description": "Random-Rules Chess",
     "category": "gaming",
     "subcategory": "▷ Chess",
-    "domain": "chesschess.horse",
-    "is_new": false,
+    "domain": "totallynormalchess.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -39535,12 +39447,12 @@
   },
   {
     "title": "TCG ONE",
-    "url": "https://tcgone.net/",
+    "url": "https://tcg.one/",
     "description": "Online Pokémon Card Game / Discord",
     "category": "gaming",
     "subcategory": "▷ Card Games",
-    "domain": "tcgone.net",
-    "is_new": false,
+    "domain": "tcg.one",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -40118,12 +40030,12 @@
   },
   {
     "title": "Quenq",
-    "url": "https://quenq.com/arcade/",
-    "description": "Browser Game Aggregator",
+    "url": "https://quenq.com/",
+    "description": "Browser Game Aggregator / Discord",
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "quenq.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -40508,7 +40420,7 @@
     "category": "gaming",
     "subcategory": "▷ Indie Browser Games",
     "domain": "indie.fun",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -40734,12 +40646,12 @@
   },
   {
     "title": "TagPro",
-    "url": "https://koalabeast.com/",
+    "url": "https://tagpro.koalabeast.com/",
     "description": "Multiplayer Capture the Flag / Discord",
     "category": "gaming",
     "subcategory": "▷ Party / Multiplayer",
-    "domain": "koalabeast.com",
-    "is_new": false,
+    "domain": "tagpro.koalabeast.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -42670,12 +42582,12 @@
   },
   {
     "title": "TCG ONE",
-    "url": "https://tcgone.net/",
+    "url": "https://tcg.one/",
     "description": "Online Pokémon Card Game / Discord",
     "category": "gaming",
     "subcategory": "▷ Pokémon",
-    "domain": "tcgone.net",
-    "is_new": false,
+    "domain": "tcg.one",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -44160,7 +44072,7 @@
     "category": "image-tools",
     "subcategory": "▷ GIF Tools",
     "domain": "nicke.tech",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -44715,13 +44627,24 @@
     "is_tip": false
   },
   {
-    "title": "3D textures",
+    "title": "Icons8 Textures",
     "url": "https://icons8.com/l/3d-textures/",
     "description": "Textures",
     "category": "image-tools",
     "subcategory": "▷ Textures / Patterns",
     "domain": "icons8.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠3D Textures",
+    "url": "https://3dtextures.me/",
+    "description": "Textures",
+    "category": "image-tools",
+    "subcategory": "▷ Textures / Patterns",
+    "domain": "3dtextures.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -44755,6 +44678,17 @@
     "subcategory": "▷ Textures / Patterns",
     "domain": "transparenttextures.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Free PBR",
+    "url": "https://freepbr.com/",
+    "description": "Textures",
+    "category": "image-tools",
+    "subcategory": "▷ Textures / Patterns",
+    "domain": "freepbr.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -46877,7 +46811,7 @@
     "category": "image-tools",
     "subcategory": "▷ Image Converters",
     "domain": "online.reaconverter.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -48846,7 +48780,7 @@
     "category": "internet-tools",
     "subcategory": "▷ QR Code Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -48973,12 +48907,12 @@
   },
   {
     "title": "WebFeed",
-    "url": "https://taoshu.in/webfeed/turn-browser-into-feed-reader.html",
+    "url": "https://tao.zz.ac/webfeed/turn-browser-into-feed-reader.html",
     "description": "RSS Reader / Web-Based",
     "category": "internet-tools",
     "subcategory": "▷ RSS Readers",
-    "domain": "taoshu.in",
-    "is_new": false,
+    "domain": "tao.zz.ac",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -49490,11 +49424,11 @@
   },
   {
     "title": "All the Internet",
-    "url": "https://www.alltheinternet.com/",
+    "url": "https://www.100searchengines.com/",
     "description": "",
     "category": "internet-tools",
     "subcategory": "▷ Search Engines",
-    "domain": "alltheinternet.com",
+    "domain": "100searchengines.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -50595,7 +50529,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Temp Mail",
     "domain": "mailporary.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -54945,6 +54879,17 @@
     "is_tip": false
   },
   {
+    "title": "LuaTools",
+    "url": "https://lua.tools/",
+    "description": "Steam Game Unlocker w/ Multitool, DLC Unlocker + Auto Online Fix / GitHub",
+    "category": "linux-macos",
+    "subcategory": "▷ Linux Gaming",
+    "domain": "lua.tools",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "CreamLinux",
     "url": "https://github.com/anticitizn/creamlinux",
     "description": "Steam DLC Unlockers / Installer",
@@ -55067,12 +55012,12 @@
   },
   {
     "title": "Minigalaxy",
-    "url": "https://sharkwouter.github.io/minigalaxy/",
+    "url": "https://wijsman.de/minigalaxy/",
     "description": "GOG Client",
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
-    "domain": "sharkwouter.github.io",
-    "is_new": false,
+    "domain": "wijsman.de",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -55788,6 +55733,17 @@
     "subcategory": "▷ Server / Selfhosting",
     "domain": "tubearchivist.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠SilverBullet",
+    "url": "https://silverbullet.md/",
+    "description": "Self-Hosted Markdown Note-Taking",
+    "category": "linux-macos",
+    "subcategory": "▷ Server / Selfhosting",
+    "domain": "silverbullet.md",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -57712,7 +57668,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Internet",
     "domain": "orionbrowser.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -58235,12 +58191,12 @@
   },
   {
     "title": "superfile",
-    "url": "https://superfile.netlify.app/",
+    "url": "https://superfile.dev/",
     "description": "Terminal File Manager / GitHub",
     "category": "linux-macos",
     "subcategory": "▷ File Tools",
-    "domain": "superfile.netlify.app",
-    "is_new": false,
+    "domain": "superfile.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -60132,7 +60088,7 @@
     "category": "misc",
     "subcategory": "▷ Drinks",
     "domain": "eartheasy.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -61292,6 +61248,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Rail Island",
+    "url": "https://railisland.tw/",
+    "description": "Taiwan Live Train Map",
+    "category": "misc",
+    "subcategory": "▷ Railway Maps",
+    "domain": "railisland.tw",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠MiniLondon3D",
     "url": "https://www.minilondon3d.xyz/",
     "description": "Real-time 3D map of the London Underground",
@@ -61584,7 +61551,7 @@
     "category": "misc",
     "subcategory": "▷ Geography Maps",
     "domain": "globalnaturewatch.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63163,12 +63130,12 @@
   },
   {
     "title": "⁠INCIDecoder",
-    "url": "https://incidecoder.com/",
+    "url": "https://inkeedecoder.com/",
     "description": "Skincare Cosmetics Ingredients Databases / Search",
     "category": "misc",
     "subcategory": "▷ Physical Health",
-    "domain": "incidecoder.com",
-    "is_new": false,
+    "domain": "inkeedecoder.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -64169,7 +64136,7 @@
     "category": "misc",
     "subcategory": "▷ Remote Jobs",
     "domain": "remotefirstjobs.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64323,7 +64290,7 @@
     "category": "misc",
     "subcategory": "▷ Tech Jobs",
     "domain": "javascript.jobs",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64362,12 +64329,12 @@
   },
   {
     "title": "Interview Warmup",
-    "url": "https://grow.google/certificates/interview-warmup/",
+    "url": "https://grow.google/grow-your-career/articles/interview-tips/",
     "description": "Interview Practice",
     "category": "misc",
     "subcategory": "▷ Tech Jobs",
     "domain": "grow.google",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -65076,28 +65043,6 @@
     "is_tip": false
   },
   {
-    "title": "BookFinder",
-    "url": "https://bookfinder.com/",
-    "description": "Online Book Price Comparisons",
-    "category": "misc",
-    "subcategory": "▷ Crypto",
-    "domain": "bookfinder.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "eReaderIQ",
-    "url": "https://www.ereaderiq.com/",
-    "description": "Kindle Book Price Comparisons",
-    "category": "misc",
-    "subcategory": "▷ Crypto",
-    "domain": "ereaderiq.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Desenmascara",
     "url": "https://desenmascara.me/",
     "description": "Spot Counterfeit Sites",
@@ -65308,12 +65253,12 @@
   },
   {
     "title": "⁠INCIDecoder",
-    "url": "https://incidecoder.com/",
+    "url": "https://inkeedecoder.com/",
     "description": "Skincare Cosmetics Ingredients Databases / Search",
     "category": "misc",
     "subcategory": "▷ Crypto",
-    "domain": "incidecoder.com",
-    "is_new": false,
+    "domain": "inkeedecoder.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -65934,6 +65879,61 @@
     "is_tip": false
   },
   {
+    "title": "BookFinder",
+    "url": "https://bookfinder.com/",
+    "description": "Online Book Price Comparisons",
+    "category": "misc",
+    "subcategory": "▷ Books / Audiobooks",
+    "domain": "bookfinder.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠r/ebookdeals",
+    "url": "https://www.reddit.com/r/ebookdeals/",
+    "description": "Book Deal Tracking Subreddit",
+    "category": "misc",
+    "subcategory": "▷ Books / Audiobooks",
+    "domain": "reddit.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "CheapCharts Books",
+    "url": "https://www.cheapcharts.com/us/itunes/ebooks/on-sale",
+    "description": "Book Deal Tracking",
+    "category": "misc",
+    "subcategory": "▷ Books / Audiobooks",
+    "domain": "cheapcharts.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "CheapCharts Audiobooks",
+    "url": "https://www.cheapcharts.com/us/itunes/audiobooks/on-sale",
+    "description": "Audiobook Deal Tracking",
+    "category": "misc",
+    "subcategory": "▷ Books / Audiobooks",
+    "domain": "cheapcharts.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "eReaderIQ",
+    "url": "https://www.ereaderiq.com/",
+    "description": "Kindle Book Price Comparisons",
+    "category": "misc",
+    "subcategory": "▷ Books / Audiobooks",
+    "domain": "ereaderiq.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "MyFigureCollection",
     "url": "https://myfigurecollection.net/",
     "description": "Japanese Pop-Culture Merch Database",
@@ -66391,17 +66391,6 @@
     "category": "misc",
     "subcategory": "▷ Multi Tool Sites",
     "domain": "toolknit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "uFreeTools",
-    "url": "https://www.ufreetools.com/en/",
-    "description": "Text / Code",
-    "category": "misc",
-    "subcategory": "▷ Multi Tool Sites",
-    "domain": "ufreetools.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -70879,7 +70868,7 @@
     "category": "mobile",
     "subcategory": "▷ Telegram Clients",
     "domain": "octogram.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72397,17 +72386,6 @@
     "category": "mobile",
     "subcategory": "▷ Android Privacy",
     "domain": "justuseapp.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "NewsBang",
-    "url": "https://www.newsbang.com/",
-    "description": "News App / US Only",
-    "category": "mobile",
-    "subcategory": "▷ Android Internet",
-    "domain": "newsbang.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -74438,12 +74416,12 @@
   },
   {
     "title": "HealthyMinds",
-    "url": "https://hminnovations.org/meditation-app",
+    "url": "https://www.humin.org/wellbeing-tools/app",
     "description": "Meditation",
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
-    "domain": "hminnovations.org",
-    "is_new": false,
+    "domain": "humin.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76715,12 +76693,12 @@
   },
   {
     "title": "HealthyMinds",
-    "url": "https://hminnovations.org/meditation-app",
+    "url": "https://www.humin.org/wellbeing-tools/app",
     "description": "Meditation",
     "category": "mobile",
     "subcategory": "▷ iOS Relaxation",
-    "domain": "hminnovations.org",
-    "is_new": false,
+    "domain": "humin.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76775,17 +76753,6 @@
     "category": "mobile",
     "subcategory": "▷ iOS Relaxation",
     "domain": "apps.apple.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Eclipse",
-    "url": "https://github.com/Soupy-dev/Eclipse",
-    "description": "Movies / TV / Anime / Extension-Based / Discord",
-    "category": "mobile",
-    "subcategory": "▷ iOS Relaxation",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -77182,7 +77149,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading / تحميل",
     "domain": "mycima.gdn",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77325,7 +77292,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / البث",
     "domain": "mycima.gdn",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77369,7 +77336,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / البث",
     "domain": "kirmalk.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77534,7 +77501,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / القراءة",
     "domain": "azorafly.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78029,17 +77996,6 @@
     "category": "non-english",
     "subcategory": "▷ Reading",
     "domain": "anti-ad.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Winmoes",
-    "url": "https://winmoes.com/",
-    "description": "Anime Windows Themes / Wallpapers",
-    "category": "non-english",
-    "subcategory": "▷ Reading",
-    "domain": "winmoes.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -78612,7 +78568,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / 串流",
     "domain": "xiaobaotv.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79069,12 +79025,12 @@
   },
   {
     "title": "52shuku",
-    "url": "https://www.52shuku.vip/",
+    "url": "https://www.52shuku.net/",
     "description": "Books / Light-Novels",
     "category": "non-english",
     "subcategory": "▷ Reading / 阅读",
-    "domain": "52shuku.vip",
-    "is_new": false,
+    "domain": "52shuku.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -79124,12 +79080,12 @@
   },
   {
     "title": "qqszz",
-    "url": "https://www.qqszz.net/",
+    "url": "https://www.35ppt.com/",
     "description": "Books / Light-Novels / Requires Sign-Up",
     "category": "non-english",
     "subcategory": "▷ Reading / 阅读",
-    "domain": "qqszz.net",
-    "is_new": false,
+    "domain": "35ppt.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -79294,7 +79250,7 @@
     "category": "non-english",
     "subcategory": "▷ Light Novels",
     "domain": "jpxs123.top",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79432,12 +79388,12 @@
   },
   {
     "title": "colamanga",
-    "url": "https://www.colamanga.com/",
+    "url": "https://www.yoyomanga.com/",
     "description": "Manga",
     "category": "non-english",
     "subcategory": "▷ Manga",
-    "domain": "colamanga.com",
-    "is_new": false,
+    "domain": "yoyomanga.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -79525,7 +79481,7 @@
     "category": "non-english",
     "subcategory": "▷ Manga",
     "domain": "rumanhua2.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -80416,7 +80372,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "frembed.surf",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -81263,7 +81219,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "megakino18.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -81599,12 +81555,12 @@
   },
   {
     "title": "gamatotv",
-    "url": "https://gamatotv.info/",
+    "url": "https://gamatotv.miami/",
     "description": "Movies / TV",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "gamatotv.info",
-    "is_new": false,
+    "domain": "gamatotv.miami",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -82099,7 +82055,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading",
     "domain": "new.katmoviehd.top",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -82204,12 +82160,12 @@
   },
   {
     "title": "TamilMV",
-    "url": "https://www.1tamilmv.observer/",
+    "url": "https://www.1tamilmv.meme/",
     "description": "Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "1tamilmv.observer",
-    "is_new": false,
+    "domain": "1tamilmv.meme",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -82270,12 +82226,12 @@
   },
   {
     "title": "tamilblasters",
-    "url": "https://www.1tamilblasters.luxe/",
+    "url": "https://www.1tamilblasters.tech/",
     "description": "Movies / TV / Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "1tamilblasters.luxe",
-    "is_new": false,
+    "domain": "1tamilblasters.tech",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -82781,7 +82737,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Membaca",
     "domain": "komiku.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -82985,12 +82941,12 @@
   },
   {
     "title": "StreamingUnity",
-    "url": "https://streamingunity.dog/it",
+    "url": "https://streamingunity.vip/it",
     "description": "Movies / TV / Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "streamingunity.dog",
-    "is_new": false,
+    "domain": "streamingunity.vip",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -83007,12 +82963,12 @@
   },
   {
     "title": "CB01",
-    "url": "https://cb01uno.world/",
+    "url": "https://cb01uno.homes/",
     "description": "Movies / TV / Dub / 1080p / Telegram",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "cb01uno.world",
-    "is_new": false,
+    "domain": "cb01uno.homes",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -83760,7 +83716,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / 読書",
     "domain": "rawfree.buzz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -84244,7 +84200,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / پخش",
     "domain": "persiamovbox.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -84998,12 +84954,12 @@
   },
   {
     "title": "redecanais",
-    "url": "https://redecanais.ooo/",
+    "url": "https://redecanais.af/",
     "description": "Movies / TV / Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "redecanais.ooo",
-    "is_new": false,
+    "domain": "redecanais.af",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -85014,7 +84970,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "goyabu.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -85091,7 +85047,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "kultivi.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -85663,7 +85619,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Leitura",
     "domain": "salmosonline.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -85944,12 +85900,12 @@
   },
   {
     "title": "clicksud",
-    "url": "https://clicksud.com.in/",
+    "url": "https://click-sud.pro/",
     "description": "TV",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "clicksud.com.in",
-    "is_new": false,
+    "domain": "click-sud.pro",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -86312,7 +86268,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Стриминг",
     "domain": "kinokong.es",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -86345,7 +86301,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Стриминг",
     "domain": "kinogo.fit",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -86362,12 +86318,12 @@
   },
   {
     "title": "Kinotochka",
-    "url": "https://kinovibe.co/",
+    "url": "https://kinovibe.cc/",
     "description": "Movies / TV / Anime / Dub / 720p",
     "category": "non-english",
     "subcategory": "▷ Streaming / Стриминг",
-    "domain": "kinovibe.co",
-    "is_new": false,
+    "domain": "kinovibe.cc",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -86417,12 +86373,12 @@
   },
   {
     "title": "AniFilm",
-    "url": "https://anifilm.net/",
+    "url": "https://anifilm.pro/",
     "description": "Anime / Sub / 1080p",
     "category": "non-english",
     "subcategory": "▷ Streaming / Стриминг",
-    "domain": "anifilm.net",
-    "is_new": false,
+    "domain": "anifilm.pro",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -86439,12 +86395,12 @@
   },
   {
     "title": "Animestars",
-    "url": "https://animestars.org/",
+    "url": "https://animesss.com/",
     "description": "Anime / Sub / 1080p",
     "category": "non-english",
     "subcategory": "▷ Streaming / Стриминг",
-    "domain": "animestars.org",
-    "is_new": false,
+    "domain": "animesss.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -88177,12 +88133,12 @@
   },
   {
     "title": "Gnula.se",
-    "url": "https://gnula.se/",
+    "url": "https://ww3.gnulahd.nu/",
     "description": "TV / Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
-    "domain": "gnula.se",
-    "is_new": false,
+    "domain": "ww3.gnulahd.nu",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -88600,7 +88556,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Leer",
     "domain": "lectuepublibre6.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -89365,12 +89321,12 @@
   },
   {
     "title": "Trwebtoon",
-    "url": "https://trwebtoon.com/",
+    "url": "https://trmanga.com/",
     "description": "Manga",
     "category": "non-english",
     "subcategory": "▷ Reading / Okuma",
-    "domain": "trwebtoon.com",
-    "is_new": false,
+    "domain": "trmanga.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -89486,23 +89442,23 @@
   },
   {
     "title": "UASerials",
-    "url": "https://uaserials.pro/",
+    "url": "https://uaserials.my/",
     "description": "Movies / TV / Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming / Стрімінг",
-    "domain": "uaserials.pro",
-    "is_new": false,
+    "domain": "uaserials.my",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "KinoUKR",
-    "url": "https://kinoukr.com/",
+    "url": "http://kinoukr.tv/",
     "description": "Movies / TV / Use VPN",
     "category": "non-english",
     "subcategory": "▷ Streaming / Стрімінг",
-    "domain": "kinoukr.com",
-    "is_new": false,
+    "domain": "kinoukr.tv",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -89942,7 +89898,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Đọc",
     "domain": "ecoutezvosoreilles.be",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -90245,12 +90201,12 @@
   },
   {
     "title": "Anime Balkan",
-    "url": "https://animebalkan.gg/",
+    "url": "https://animebalkan.org/",
     "description": "Serbian / Streaming / Anime / 1080p",
     "category": "non-english",
     "subcategory": "▷ Reading / Đọc",
-    "domain": "animebalkan.gg",
-    "is_new": false,
+    "domain": "animebalkan.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -91207,7 +91163,7 @@
     "category": "privacy",
     "subcategory": "▷ Network Security",
     "domain": "i2p.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91285,6 +91241,17 @@
     "subcategory": "▷ Network Security",
     "domain": "binisoft.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "r/degoogle",
+    "url": "https://www.reddit.com/r/degoogle",
+    "description": "Google App Alternatives",
+    "category": "privacy",
+    "subcategory": "▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_privacy)",
+    "domain": "reddit.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92688,7 +92655,7 @@
   {
     "title": "Calibre",
     "url": "https://calibre-ebook.com/",
-    "description": "Ebook Manager / Downloader / Libraries / Tools",
+    "description": "Ebook Manager / Downloader / Libraries / Tools / GitHub",
     "category": "reading",
     "subcategory": "General",
     "domain": "calibre-ebook.com",
@@ -93106,7 +93073,7 @@
   {
     "title": "Sioyek",
     "url": "https://sioyek.info/",
-    "description": "PDF Reader / Windows, macOS, Linux",
+    "description": "PDF Reader / Windows, macOS, Linux / GitHub",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "sioyek.info",
@@ -93193,19 +93160,19 @@
   },
   {
     "title": "Thorium",
-    "url": "https://thorium.edrlab.org/",
-    "description": "Ebook Reader / Windows, macOS, Linux",
+    "url": "https://www.thoriumreader.com/",
+    "description": "Ebook Reader / Windows, macOS, Linux / Discord / GitHub",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
-    "domain": "thorium.edrlab.org",
-    "is_new": false,
+    "domain": "thoriumreader.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "Okular",
     "url": "https://okular.kde.org/",
-    "description": "PDF Reader / Windows, macOS, Linux",
+    "description": "PDF Reader / Windows, macOS, Linux / GitLab",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "okular.kde.org",
@@ -93215,12 +93182,12 @@
   },
   {
     "title": "Aquile Reader",
-    "url": "https://apps.microsoft.com/detail/9p08t4jltqnk",
-    "description": "Ebook Reader / Windows",
+    "url": "https://www.aquilereader.in/",
+    "description": "Ebook Reader / Windows, Android",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
-    "domain": "apps.microsoft.com",
-    "is_new": false,
+    "domain": "aquilereader.in",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -93238,7 +93205,7 @@
   {
     "title": "Foliate",
     "url": "https://johnfactotum.github.io/foliate/",
-    "description": "Ebook Reader / Linux",
+    "description": "Ebook Reader / Linux / GitHub",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "johnfactotum.github.io",
@@ -93249,7 +93216,7 @@
   {
     "title": "qPDFview",
     "url": "https://launchpad.net/qpdfview",
-    "description": "PDF Reader / Windows",
+    "description": "PDF Reader / Windows, Linux / Source Code",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "launchpad.net",
@@ -93271,7 +93238,7 @@
   {
     "title": "⁠Zathura",
     "url": "https://pwmt.org/projects/zathura/",
-    "description": "PDF Reader / Linux",
+    "description": "PDF Reader / Linux / GitHub",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "pwmt.org",
@@ -93297,17 +93264,6 @@
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "yomu-reader.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FF PDF",
-    "url": "https://github.com/sdushantha/ff-pdf/",
-    "description": "PDF / Linux",
-    "category": "reading",
-    "subcategory": "▷ Ebook Readers",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -93935,7 +93891,7 @@
     "category": "reading",
     "subcategory": "▷ Light Novels",
     "domain": "novelbuddy.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94667,12 +94623,12 @@
   },
   {
     "title": "Golden Audiobooks",
-    "url": "https://goldenaudiobook.net/",
+    "url": "https://goldenaudiobooks.com/",
     "description": "",
     "category": "reading",
     "subcategory": "▷ Downloading",
-    "domain": "goldenaudiobook.net",
-    "is_new": false,
+    "domain": "goldenaudiobooks.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -95233,7 +95189,7 @@
     "category": "reading",
     "subcategory": "▷ Manga",
     "domain": "likemanga.ink",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -95288,17 +95244,6 @@
     "category": "reading",
     "subcategory": "▷ Manga",
     "domain": "toonily.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠AquaReader",
-    "url": "https://aquareader.net/",
-    "description": "Manhua",
-    "category": "reading",
-    "subcategory": "▷ Manga",
-    "domain": "aquareader.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -97070,7 +97015,7 @@
     "category": "reading",
     "subcategory": "▷ Academic Papers",
     "domain": "link.springer.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -97180,7 +97125,7 @@
     "category": "reading",
     "subcategory": "▷ Academic Papers",
     "domain": "osf.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -97791,12 +97736,12 @@
   },
   {
     "title": "NAP",
-    "url": "https://nap.nationalacademies.org/",
+    "url": "https://www.nationalacademies.org/publications/all",
     "description": "Reports",
     "category": "reading",
     "subcategory": "▷ Manuals",
-    "domain": "nap.nationalacademies.org",
-    "is_new": false,
+    "domain": "nationalacademies.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -97879,12 +97824,12 @@
   },
   {
     "title": "Parliament Archives",
-    "url": "https://archives.parliament.uk/",
+    "url": "https://www.parliament.uk/business/publications/archives/",
     "description": "UK Parliamentary Documents",
     "category": "reading",
     "subcategory": "▷ Manuals",
-    "domain": "archives.parliament.uk",
-    "is_new": false,
+    "domain": "parliament.uk",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -99793,12 +99738,12 @@
   },
   {
     "title": "Dorion",
-    "url": "https://spikehd.github.io/projects/dorion/",
+    "url": "https://spikehd.dev/projects/dorion/",
     "description": "Discord Client Mod / GitHub",
     "category": "social-media-tools",
     "subcategory": "▷ Discord Clients",
-    "domain": "spikehd.github.io",
-    "is_new": false,
+    "domain": "spikehd.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -100199,13 +100144,13 @@
     "is_tip": false
   },
   {
-    "title": "UnFocused",
-    "url": "https://www.unfocused.org/",
+    "title": "GuildFinder",
+    "url": "https://www.guildfinder.org/",
     "description": "Server Index / Discord",
     "category": "social-media-tools",
     "subcategory": "▷ Server / Bot Indexes",
-    "domain": "unfocused.org",
-    "is_new": false,
+    "domain": "guildfinder.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -100260,7 +100205,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Server / Bot Indexes",
     "domain": "discordservers.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -101811,7 +101756,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ YouTube Archiving",
     "domain": "xfangfang.cn",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -103043,7 +102988,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Mastodon Tools",
     "domain": "emojos.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -103098,7 +103043,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Pixelfed Tools",
     "domain": "fedidb.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -103345,13 +103290,24 @@
     "is_tip": false
   },
   {
+    "title": "Screenshot Rocks",
+    "url": "https://screenshot.rocks/",
+    "description": "Create Screenshot Mockups of Websites / GitHub",
+    "category": "storage",
+    "subcategory": "App / Site Mockups",
+    "domain": "screenshot.rocks",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Tailwind Toolbox",
-    "url": "https://tailwindtoolbox.com/",
+    "url": "https://windytoolbox.com/",
     "description": "Tailwind Starter Templates & Components",
     "category": "storage",
     "subcategory": "CSS Framework Tools",
-    "domain": "tailwindtoolbox.com",
-    "is_new": false,
+    "domain": "windytoolbox.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -104379,6 +104335,28 @@
     "is_tip": false
   },
   {
+    "title": "⁠Touying",
+    "url": "https://touying-typ.github.io/",
+    "description": "Typst-Based Presentation Tool",
+    "category": "storage",
+    "subcategory": "Presentation Tools",
+    "domain": "touying-typ.github.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Slidev",
+    "url": "https://sli.dev/",
+    "description": "Markdown Presentation Slides / GitHub",
+    "category": "storage",
+    "subcategory": "Presentation Tools",
+    "domain": "sli.dev",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Slides",
     "url": "https://maaslalani.com/slides/",
     "description": "Terminal-Based Presentation Tool / GitHub",
@@ -104407,17 +104385,6 @@
     "category": "storage",
     "subcategory": "Presentation Tools",
     "domain": "inscribed.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Slidev",
-    "url": "https://sli.dev/",
-    "description": "Markdown Presentation Slides / GitHub",
-    "category": "storage",
-    "subcategory": "Presentation Tools",
-    "domain": "sli.dev",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -104463,6 +104430,17 @@
     "subcategory": "Survival",
     "domain": "kylecorry.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠3DIcons",
+    "url": "https://3dicons.co/",
+    "description": "3D SVG Icons",
+    "category": "storage",
+    "subcategory": "SVG Icons",
+    "domain": "3dicons.co",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -107377,7 +107355,7 @@
     "category": "text-tools",
     "subcategory": "▷ Translators",
     "domain": "poedit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -108295,6 +108273,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Org Mode",
+    "url": "https://orgmode.org/",
+    "description": "CLI Note-Taking / Windows, macOS, Linux",
+    "category": "text-tools",
+    "subcategory": "▷ Note-Taking",
+    "domain": "orgmode.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "ColorNote",
     "url": "https://www.colornote.com/",
     "description": "Minimal Note-Taking / Android",
@@ -108445,6 +108434,17 @@
     "subcategory": "▷ Online Editors",
     "domain": "browserpad.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Chaxus",
+    "url": "https://edit.chaxus.com/",
+    "description": "Local Saves / GitHub",
+    "category": "text-tools",
+    "subcategory": "▷ Online Editors",
+    "domain": "edit.chaxus.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -108675,7 +108675,7 @@
     "category": "text-tools",
     "subcategory": "▷ Mind Mapping",
     "domain": "freemind.sourceforge.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -109703,6 +109703,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SilverBullet",
+    "url": "https://silverbullet.md/",
+    "description": "Self-Hosted",
+    "category": "text-tools",
+    "subcategory": "▷ Markdown Editors",
+    "domain": "silverbullet.md",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠SimpleTex",
     "url": "https://simpletex.cn/",
     "description": "Convert Images to LaTeX / Markdown",
@@ -110121,6 +110132,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠FontFreak",
+    "url": "https://www.fontfreak.com/",
+    "description": "",
+    "category": "text-tools",
+    "subcategory": "▷ Free Fonts",
+    "domain": "fontfreak.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "FontsFree",
     "url": "https://fontsfree.net",
     "description": "",
@@ -110381,6 +110403,17 @@
     "subcategory": "▷ Free Fonts",
     "domain": "thegoodlineheight.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "So You Need A Typeface 2.0",
+    "url": "https://ianli.github.io/so-you-need-a-typeface/",
+    "description": "Examples of Font Styles",
+    "category": "text-tools",
+    "subcategory": "▷ Free Fonts",
+    "domain": "ianli.github.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -110744,6 +110777,17 @@
     "subcategory": "▷ Aggregators",
     "domain": "bt4gprx.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠The Black Hole Bay",
+    "url": "https://theblackholebay.lol/",
+    "description": "DHT-Based / Discord",
+    "category": "torrenting",
+    "subcategory": "▷ Aggregators",
+    "domain": "theblackholebay.lol",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -111238,17 +111282,6 @@
     "category": "torrenting",
     "subcategory": "▷ [Torrent Streaming / Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_torrent_apps)",
     "domain": "iknowwhatyoudownload.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠LonelyScreen",
-    "url": "https://www.lonelyscreen.com/",
-    "description": "AirPlay Receiver for PC / macOS",
-    "category": "video-tools",
-    "subcategory": "General",
-    "domain": "lonelyscreen.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -112355,12 +112388,12 @@
   },
   {
     "title": "VideoTogether",
-    "url": "https://2gether.video/en-us/",
+    "url": "https://videotogether.github.io/",
     "description": "App",
     "category": "video-tools",
     "subcategory": "▷ Stream Sync",
-    "domain": "2gether.video",
-    "is_new": false,
+    "domain": "videotogether.github.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -112763,7 +112796,7 @@
   {
     "title": "⁠YAMS",
     "url": "https://yams.media/",
-    "description": "Linux Media Server Auto-Install Script",
+    "description": "Linux Media Server Auto-Install Script / Discord",
     "category": "video-tools",
     "subcategory": "▷ VLC Tools",
     "domain": "yams.media",
@@ -112829,7 +112862,7 @@
   {
     "title": "Reaparr",
     "url": "https://www.reaparr.rocks/",
-    "description": "Merge Plex Libraries w/ Your Own",
+    "description": "Merge Plex Libraries w/ Your Own / Docs / Discord / GitHub",
     "category": "video-tools",
     "subcategory": "▷ Plex Tools",
     "domain": "reaparr.rocks",
@@ -112850,12 +112883,12 @@
   },
   {
     "title": "SyncLounge",
-    "url": "https://synclounge.tv/",
+    "url": "https://github.com/synclounge/synclounge",
     "description": "Media Sync",
     "category": "video-tools",
     "subcategory": "▷ Plex Tools",
-    "domain": "synclounge.tv",
-    "is_new": false,
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -112872,19 +112905,19 @@
   },
   {
     "title": "Overseerr",
-    "url": "https://overseerr.dev/",
+    "url": "https://seerr.dev/",
     "description": "User Requests / IMDb Extension",
     "category": "video-tools",
     "subcategory": "▷ Plex Tools",
-    "domain": "overseerr.dev",
-    "is_new": false,
+    "domain": "seerr.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "Pasta Tool",
     "url": "https://www.pastatool.com/",
-    "description": "Audio / Sub Changer",
+    "description": "Audio / Sub Changer / GitHub",
     "category": "video-tools",
     "subcategory": "▷ Plex Tools",
     "domain": "pastatool.com",
@@ -114103,23 +114136,23 @@
     "is_tip": false
   },
   {
-    "title": "SpenFlix",
-    "url": "https://watch.spencerdevs.xyz/",
-    "description": "Movies / TV / Anime / Auto-Next / Status",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "watch.spencerdevs.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Streamo",
     "url": "https://streamo.pro/",
     "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "streamo.pro",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "SpenFlix",
+    "url": "https://watch.spencerdevs.xyz/",
+    "description": "Movies / TV / Anime / Auto-Next / Status",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "watch.spencerdevs.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -114523,7 +114556,7 @@
   {
     "title": "⁠P-Stream Fork",
     "url": "https://pstream.cfd/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Status / Discord / Source Code",
+    "description": "Movies / TV / Anime / Auto-Next / 4K / Docs / Status / Discord / Telegram / Source Code",
     "category": "video",
     "subcategory": "▷ P-Stream Forks",
     "domain": "pstream.cfd",
@@ -114841,12 +114874,12 @@
   },
   {
     "title": "KiraStreams",
-    "url": "https://k.thekirastreams.workers.dev/",
+    "url": "https://kirastreams.pages.dev/",
     "description": "Movies / TV / Anime",
     "category": "video",
     "subcategory": "▷ Multi-Server",
-    "domain": "k.thekirastreams.workers.dev",
-    "is_new": false,
+    "domain": "kirastreams.pages.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -114950,17 +114983,6 @@
     "is_tip": false
   },
   {
-    "title": "Cubeflix",
-    "url": "https://cubeflix.org/discover",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server (Backups)",
-    "domain": "cubeflix.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Ernax",
     "url": "https://ernax.pro/",
     "description": "Movies / TV / Anime",
@@ -114990,6 +115012,17 @@
     "subcategory": "▷ Multi-Server (Backups)",
     "domain": "flnk.fun",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "WatchSeries",
+    "url": "https://watchseries.show/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server (Backups)",
+    "domain": "watchseries.show",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115390,6 +115423,17 @@
     "is_tip": false
   },
   {
+    "title": "Tape",
+    "url": "https://github.com/tapexyz/tape",
+    "description": "",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Naver",
     "url": "https://tv.naver.com/",
     "description": "",
@@ -115489,9 +115533,9 @@
     "is_tip": false
   },
   {
-    "title": "Anisurge",
+    "title": "Mizuki",
     "url": "https://www.anisurge.lol/",
-    "description": "Anime Streaming App / Windows / GitHub",
+    "description": "Anime Streaming App / Windows, macOS, Linux / GitHub",
     "category": "video",
     "subcategory": "▷ Anime Streaming Apps",
     "domain": "anisurge.lol",
@@ -115502,7 +115546,7 @@
   {
     "title": "Unyo",
     "url": "https://github.com/K3vinb5/Unyo",
-    "description": "Anime Streaming App / Windows",
+    "description": "Anime Streaming App / Windows, macOS, Linux",
     "category": "video",
     "subcategory": "▷ Anime Streaming Apps",
     "domain": "github.com",
@@ -116012,7 +116056,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "kawaiianime.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116122,7 +116166,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "donghua4k.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116486,6 +116530,17 @@
     "subcategory": "▷ Drama Streaming",
     "domain": "ondemandchina.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠DramaFren",
+    "url": "https://dramafren.org/",
+    "description": "Vertical Dramas / Mini-Series",
+    "category": "video",
+    "subcategory": "▷ Drama Streaming",
+    "domain": "dramafren.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117156,17 +117211,6 @@
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "showroom-live.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Futbol-X",
-    "url": "https://www.futbol-x.xyz/",
-    "description": "Live Events / Discord",
-    "category": "video",
-    "subcategory": "▷ Live Sports",
-    "domain": "futbol-x.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118619,7 +118663,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "4khdhub.one",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118911,12 +118955,12 @@
   },
   {
     "title": "Cinefy",
-    "url": "https://thecinefy.site/",
+    "url": "https://thecinefy.online/",
     "description": "Movies / TV",
     "category": "video",
     "subcategory": "▷ Telegram Channels",
-    "domain": "thecinefy.site",
-    "is_new": false,
+    "domain": "thecinefy.online",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -118993,18 +119037,18 @@
     "category": "video",
     "subcategory": "▷ Anime Downloading",
     "domain": "animevilla.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "AnimeSalt",
-    "url": "https://animesalt.top/",
+    "url": "https://animesalt.cx/",
     "description": "Sub / Dub",
     "category": "video",
     "subcategory": "▷ Anime Downloading",
-    "domain": "animesalt.top",
-    "is_new": false,
+    "domain": "animesalt.cx",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -119076,12 +119120,12 @@
   },
   {
     "title": "Wyzie Subs",
-    "url": "https://sub.wyzie.ru/",
+    "url": "https://sub.wyzie.io/",
     "description": "Subtitle Scraping API / NPM Package / Docs",
     "category": "video",
     "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "sub.wyzie.ru",
-    "is_new": false,
+    "domain": "sub.wyzie.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
