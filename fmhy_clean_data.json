@@ -1265,17 +1265,6 @@
     "is_tip": false
   },
   {
-    "title": "Google Flow Music",
-    "url": "https://www.flowmusic.app/",
-    "description": "",
-    "category": "ai",
-    "subcategory": "▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_upscale_.2F_restore)",
-    "domain": "flowmusic.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Mubert",
     "url": "https://mubert.com/",
     "description": "",
@@ -2008,83 +1997,6 @@
     "category": "ai",
     "subcategory": "▷ Coding Benchmarks",
     "domain": "vals.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ModelScope Finetuning",
-    "url": "https://modelscope.ai/civision/modelTraining",
-    "description": "Image Gen Model Finetuning / Up to 100 Images Per LoRA",
-    "category": "ai",
-    "subcategory": "▷ Coding Benchmarks",
-    "domain": "modelscope.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Markdown Web Browser",
-    "url": "https://github.com/Dicklesworthstone/markdown_web_browser",
-    "description": "Webpage > Markdown Converter",
-    "category": "ai",
-    "subcategory": "▷ Coding Benchmarks",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DeepSpeed",
-    "url": "https://www.deepspeed.ai/",
-    "description": "Deep Learning Optimization Library",
-    "category": "ai",
-    "subcategory": "▷ Coding Benchmarks",
-    "domain": "deepspeed.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Netron",
-    "url": "https://github.com/lutzroeder/netron",
-    "description": "Visualizer for Neural Network, Deep Learning, and Machine Learning Models",
-    "category": "ai",
-    "subcategory": "▷ Coding Benchmarks",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MMDeploy",
-    "url": "https://mmdeploy.readthedocs.io/en/latest/",
-    "description": "Deep Learning Model Deployment Toolset / GitHub",
-    "category": "ai",
-    "subcategory": "▷ Coding Benchmarks",
-    "domain": "mmdeploy.readthedocs.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ChatGPT-Next-Web",
-    "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
-    "description": "Cross-Platform ChatGPT / Gemini UI",
-    "category": "ai",
-    "subcategory": "▷ Coding Benchmarks",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Nixified",
-    "url": "https://nixified.ai/",
-    "description": "Nix Flake for AI Projects",
-    "category": "ai",
-    "subcategory": "▷ Coding Benchmarks",
-    "domain": "nixified.ai",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -5726,7 +5638,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Ripping",
     "domain": "nathannothinsez.blogspot.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -5748,7 +5660,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Ripping",
     "domain": "tapeattack.blogspot.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8679,17 +8591,6 @@
     "is_tip": false
   },
   {
-    "title": "Gaultier Blog",
-    "url": "https://gaultier.github.io/blog/x11_x64.html",
-    "description": "Learn x86-64 Assembly",
-    "category": "developer-tools",
-    "subcategory": "▷ Software Dev Tools",
-    "domain": "gaultier.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "PM2",
     "url": "https://pm2.keymetrics.io/",
     "description": "Process Manager",
@@ -8707,17 +8608,6 @@
     "category": "developer-tools",
     "subcategory": "▷ Software Dev Tools",
     "domain": "namae.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "up-for-grabs",
-    "url": "https://up-for-grabs.net/",
-    "description": "Curated List of Tasks for New Contributors",
-    "category": "developer-tools",
-    "subcategory": "▷ Software Dev Tools",
-    "domain": "up-for-grabs.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -8751,17 +8641,6 @@
     "category": "developer-tools",
     "subcategory": "▷ Software Dev Tools",
     "domain": "etebase.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "minisign",
-    "url": "https://jedisct1.github.io/minisign/",
-    "description": "Sign Files / Verify Digital Signatures / GitHub",
-    "category": "developer-tools",
-    "subcategory": "▷ Software Dev Tools",
-    "domain": "jedisct1.github.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -9356,7 +9235,7 @@
     "category": "developer-tools",
     "subcategory": "▷ GitHub Tools",
     "domain": "rahuldkjain.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -10927,7 +10806,7 @@
     "url": "https://www.openhands.dev/",
     "description": "Coding AI / GitHub",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "openhands.dev",
     "is_new": false,
     "is_broken": false,
@@ -10938,7 +10817,7 @@
     "url": "https://rentry.co/FMHYB64#cursor",
     "description": "Coding AI",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "rentry.co",
     "is_new": false,
     "is_broken": false,
@@ -10949,7 +10828,7 @@
     "url": "https://gitwit.dev/",
     "description": "Coding AI",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "gitwit.dev",
     "is_new": false,
     "is_broken": false,
@@ -10960,7 +10839,7 @@
     "url": "https://zcode.z.ai/",
     "description": "Coding AI",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "zcode.z.ai",
     "is_new": false,
     "is_broken": false,
@@ -10971,7 +10850,7 @@
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "description": "Coding AI",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -10982,7 +10861,7 @@
     "url": "https://antigravity.google/",
     "description": "Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / VSCode Marketplace / Add Skills / Usage Tracker",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "antigravity.google",
     "is_new": false,
     "is_broken": false,
@@ -10993,7 +10872,7 @@
     "url": "https://ai-sdk.dev/",
     "description": "Coding AI / GitHub",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "ai-sdk.dev",
     "is_new": false,
     "is_broken": false,
@@ -11004,7 +10883,7 @@
     "url": "https://github.com/OpenInterpreter/open-interpreter",
     "description": "Local Code Interpreter / No Sign-Up / Discord",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -11015,7 +10894,7 @@
     "url": "https://codeweb.chat/",
     "description": "Coding AI / No Sign-Up / Discord / Subreddit / GitHub",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "codeweb.chat",
     "is_new": false,
     "is_broken": false,
@@ -11026,7 +10905,7 @@
     "url": "https://supermaven.com/",
     "description": "Tab Completion Coding AI / No Sign-Up / Discord",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "supermaven.com",
     "is_new": false,
     "is_broken": false,
@@ -11037,7 +10916,7 @@
     "url": "https://www.qodo.ai/",
     "description": "Coding AI",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "qodo.ai",
     "is_new": false,
     "is_broken": false,
@@ -11048,7 +10927,7 @@
     "url": "https://ampcode.com/",
     "description": "Coding AI",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "ampcode.com",
     "is_new": false,
     "is_broken": false,
@@ -11059,7 +10938,7 @@
     "url": "https://freebuff.com/",
     "description": "Coding Agent / Cloud Sandbox / MiMo 2.5",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "freebuff.com",
     "is_new": false,
     "is_broken": false,
@@ -11070,7 +10949,7 @@
     "url": "https://jcode.sh/",
     "description": "Terminal Coding Agent",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "jcode.sh",
     "is_new": false,
     "is_broken": false,
@@ -11081,7 +10960,7 @@
     "url": "https://pi.dev/",
     "description": "Terminal Coding Agent / GitHub",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "pi.dev",
     "is_new": false,
     "is_broken": false,
@@ -11092,7 +10971,7 @@
     "url": "https://omp.sh/",
     "description": "Terminal Coding Agent / GitHub",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "omp.sh",
     "is_new": false,
     "is_broken": false,
@@ -11103,7 +10982,7 @@
     "url": "https://docs.poolside.ai/api/overview",
     "description": "Coding AI API",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "docs.poolside.ai",
     "is_new": false,
     "is_broken": false,
@@ -11114,7 +10993,7 @@
     "url": "https://getdesign.md/",
     "description": "AI-Ready Design Systems",
     "category": "developer-tools",
-    "subcategory": "▷ Coding Agents / Extensions",
+    "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "getdesign.md",
     "is_new": false,
     "is_broken": false,
@@ -11319,11 +11198,88 @@
     "is_tip": false
   },
   {
+    "title": "ModelScope Finetuning",
+    "url": "https://modelscope.ai/civision/modelTraining",
+    "description": "Image Gen Model Finetuning / Up to 100 Images Per LoRA",
+    "category": "developer-tools",
+    "subcategory": "▷ Machine Learning",
+    "domain": "modelscope.ai",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Markdown Web Browser",
+    "url": "https://github.com/Dicklesworthstone/markdown_web_browser",
+    "description": "Webpage > Markdown Converter",
+    "category": "developer-tools",
+    "subcategory": "▷ Machine Learning",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "DeepSpeed",
+    "url": "https://www.deepspeed.ai/",
+    "description": "Deep Learning Optimization Library",
+    "category": "developer-tools",
+    "subcategory": "▷ Machine Learning",
+    "domain": "deepspeed.ai",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Netron",
+    "url": "https://github.com/lutzroeder/netron",
+    "description": "Visualizer for Neural Network, Deep Learning, and Machine Learning Models",
+    "category": "developer-tools",
+    "subcategory": "▷ Machine Learning",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "MMDeploy",
+    "url": "https://mmdeploy.readthedocs.io/en/latest/",
+    "description": "Deep Learning Model Deployment Toolset / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ Machine Learning",
+    "domain": "mmdeploy.readthedocs.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ChatGPT-Next-Web",
+    "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+    "description": "Cross-Platform ChatGPT / Gemini UI",
+    "category": "developer-tools",
+    "subcategory": "▷ Machine Learning",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Nixified",
+    "url": "https://nixified.ai/",
+    "description": "Nix Flake for AI Projects",
+    "category": "developer-tools",
+    "subcategory": "▷ Machine Learning",
+    "domain": "nixified.ai",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Try It Online",
     "url": "https://tio.run/",
     "description": "Programming Language Interpreters",
     "category": "developer-tools",
-    "subcategory": "▷ Developer Utilities",
+    "subcategory": "▷ Machine Learning",
     "domain": "tio.run",
     "is_new": false,
     "is_broken": false,
@@ -11334,7 +11290,7 @@
     "url": "https://github.com/go-nunu/nunu",
     "description": "Build Go Programs",
     "category": "developer-tools",
-    "subcategory": "▷ Developer Utilities",
+    "subcategory": "▷ Machine Learning",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -11345,7 +11301,7 @@
     "url": "https://learnxinyminutes.com/",
     "description": "Programming Language Rundowns / GitHub",
     "category": "developer-tools",
-    "subcategory": "▷ Developer Utilities",
+    "subcategory": "▷ Machine Learning",
     "domain": "learnxinyminutes.com",
     "is_new": false,
     "is_broken": false,
@@ -11356,7 +11312,7 @@
     "url": "https://ide.onelang.io/",
     "description": "Convert Code to Multiple Languages",
     "category": "developer-tools",
-    "subcategory": "▷ Developer Utilities",
+    "subcategory": "▷ Machine Learning",
     "domain": "ide.onelang.io",
     "is_new": false,
     "is_broken": false,
@@ -11367,7 +11323,7 @@
     "url": "https://github.com/elbywan/crystalline",
     "description": "Crystal Language Server",
     "category": "developer-tools",
-    "subcategory": "▷ Developer Utilities",
+    "subcategory": "▷ Machine Learning",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -11378,7 +11334,7 @@
     "url": "https://jrvidal.github.io/explaine.rs/",
     "description": "Rust Syntax Explanations",
     "category": "developer-tools",
-    "subcategory": "▷ Developer Utilities",
+    "subcategory": "▷ Machine Learning",
     "domain": "jrvidal.github.io",
     "is_new": false,
     "is_broken": false,
@@ -11389,7 +11345,7 @@
     "url": "https://github.com/verus-lang/verus",
     "description": "Rust Code Verification Tool",
     "category": "developer-tools",
-    "subcategory": "▷ Developer Utilities",
+    "subcategory": "▷ Machine Learning",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -11704,34 +11660,12 @@
     "is_tip": false
   },
   {
-    "title": "Water.css",
-    "url": "https://watercss.kognise.dev/",
-    "description": "CSS Styles",
-    "category": "developer-tools",
-    "subcategory": "▷ CSS",
-    "domain": "watercss.kognise.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Style Stage",
     "url": "https://stylestage.dev/",
     "description": "Modern CSS Styles",
     "category": "developer-tools",
     "subcategory": "▷ CSS",
     "domain": "stylestage.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Hover.CSS",
-    "url": "https://ianlunn.github.io/Hover/",
-    "description": "CSS Hover Effects",
-    "category": "developer-tools",
-    "subcategory": "▷ CSS",
-    "domain": "ianlunn.github.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -11748,34 +11682,12 @@
     "is_tip": false
   },
   {
-    "title": "Buttons.cool",
-    "url": "https://www.buttons.cool/",
-    "description": "Copy CSS Buttons",
-    "category": "developer-tools",
-    "subcategory": "▷ CSS",
-    "domain": "buttons.cool",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "CSS Doodle",
     "url": "https://css-doodle.com/",
     "description": "CSS Pattern Generator",
     "category": "developer-tools",
     "subcategory": "▷ CSS",
     "domain": "css-doodle.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CSS3 Transform",
-    "url": "https://css-transform.moro.es/",
-    "description": "2D & 3D CSS Transform Functions Visualizer",
-    "category": "developer-tools",
-    "subcategory": "▷ CSS",
-    "domain": "css-transform.moro.es",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -11803,28 +11715,6 @@
     "is_tip": false
   },
   {
-    "title": "Modern JS Cheatsheet",
-    "url": "https://mbeaudru.github.io/modern-js-cheatsheet/",
-    "description": "JavaScript Cheat Sheet / GitHub",
-    "category": "developer-tools",
-    "subcategory": "▷ JavaScript",
-    "domain": "mbeaudru.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Vanilla List",
-    "url": "https://vanillalist.top/",
-    "description": "Vanilla JavaScript Repository",
-    "category": "developer-tools",
-    "subcategory": "▷ JavaScript",
-    "domain": "vanillalist.top",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Component Party",
     "url": "https://component-party.dev/",
     "description": "Web Component JS Frameworks Overview / GitHub",
@@ -11847,6 +11737,17 @@
     "is_tip": false
   },
   {
+    "title": "JS Compressor",
+    "url": "https://jscompressor.treblereel.dev/",
+    "description": "JavaScript Minifiers",
+    "category": "developer-tools",
+    "subcategory": "▷ JavaScript",
+    "domain": "jscompressor.treblereel.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Underdash",
     "url": "https://surma.github.io/underdash/",
     "description": "JavaScript Snippets",
@@ -11865,6 +11766,28 @@
     "subcategory": "▷ JavaScript",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Discord.js Guide",
+    "url": "https://discordjs.guide/",
+    "description": "Discord.js Guide",
+    "category": "developer-tools",
+    "subcategory": "▷ JavaScript",
+    "domain": "discordjs.guide",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Plate",
+    "url": "https://platejs.org/",
+    "description": "React Code Editors",
+    "category": "developer-tools",
+    "subcategory": "▷ React",
+    "domain": "platejs.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -11924,28 +11847,6 @@
     "is_tip": false
   },
   {
-    "title": "React SVG",
-    "url": "https://react-svgr.com/playground/",
-    "description": "Convert SVG to React Components",
-    "category": "developer-tools",
-    "subcategory": "▷ React",
-    "domain": "react-svgr.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Zorm",
-    "url": "https://github.com/esamattis/react-zorm",
-    "description": "Type-Safe Form for React",
-    "category": "developer-tools",
-    "subcategory": "▷ React",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Million",
     "url": "https://million.dev",
     "description": "React Replacement",
@@ -11968,13 +11869,24 @@
     "is_tip": false
   },
   {
+    "title": "UseHooks",
+    "url": "https://usehooks.com/",
+    "description": "React Hooks",
+    "category": "developer-tools",
+    "subcategory": "▷ React",
+    "domain": "usehooks.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "React Query",
-    "url": "https://tanstack.com/query/v3/",
+    "url": "https://tanstack.com/query/latest",
     "description": "Fetch, Cache and Update React Data / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ React",
     "domain": "tanstack.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -12012,13 +11924,13 @@
     "is_tip": false
   },
   {
-    "title": "react-spring",
-    "url": "https://www.react-spring.dev/",
-    "description": "React Spring Animations",
+    "title": "3v4l",
+    "url": "https://3v4l.org",
+    "description": "Online PHP Shell",
     "category": "developer-tools",
-    "subcategory": "▷ React",
-    "domain": "react-spring.dev",
-    "is_new": false,
+    "subcategory": "▷ PHP",
+    "domain": "3v4l.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -12029,50 +11941,6 @@
     "category": "developer-tools",
     "subcategory": "▷ PHP",
     "domain": "getcomposer.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "XAMPP",
-    "url": "https://www.apachefriends.org/",
-    "description": "PHP Development Environment",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "apachefriends.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "PIE",
-    "url": "https://php.github.io/pie/",
-    "description": "PHP Extension Installer / GitHub",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "php.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Clean Code PHP",
-    "url": "https://github.com/piotrplenik/clean-code-php",
-    "description": "Clean Code for PHP",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Valinor",
-    "url": "https://valinor-php.dev/latest/",
-    "description": "PHP Object Mapper / GitHub",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "valinor-php.dev",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -12166,17 +12034,6 @@
     "is_tip": false
   },
   {
-    "title": "WireFlow",
-    "url": "https://wireflow.co/",
-    "description": "Flow Prototype Maker",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "wireflow.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Dagu",
     "url": "https://github.com/dagu-org/dagu",
     "description": "WebUI Job Manager",
@@ -12184,6 +12041,17 @@
     "subcategory": "▷ PHP",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "xh",
+    "url": "https://github.com/ducaale/xh",
+    "description": "HTTP Clients / Transfer Data with URLs / IP Lookup / Recipes",
+    "category": "developer-tools",
+    "subcategory": "▷ PHP",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -12205,17 +12073,6 @@
     "category": "developer-tools",
     "subcategory": "▷ PHP",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Apache",
-    "url": "https://httpd.apache.org/",
-    "description": "HTTP Server",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "httpd.apache.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -12293,17 +12150,6 @@
     "category": "developer-tools",
     "subcategory": "▷ PHP",
     "domain": "directorylister.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BawkBox",
-    "url": "https://bawkbox.com/",
-    "description": "Website Widgets",
-    "category": "developer-tools",
-    "subcategory": "▷ PHP",
-    "domain": "bawkbox.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -12415,6 +12261,17 @@
     "subcategory": "▷ PHP",
     "domain": "localhost.run",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "tailspin",
+    "url": "https://github.com/bensadeh/tailspin",
+    "description": "Syntax Highlighter",
+    "category": "developer-tools",
+    "subcategory": "▷ PHP",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -12540,34 +12397,12 @@
     "is_tip": false
   },
   {
-    "title": "site123",
-    "url": "https://www.site123.com/",
-    "description": "Website Builder",
-    "category": "developer-tools",
-    "subcategory": "▷ Website Builders",
-    "domain": "site123.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "tilda",
     "url": "https://tilda.cc/",
     "description": "Website Builder",
     "category": "developer-tools",
     "subcategory": "▷ Website Builders",
     "domain": "tilda.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "bravenet",
-    "url": "https://www.bravenet.com/",
-    "description": "Website Builder",
-    "category": "developer-tools",
-    "subcategory": "▷ Website Builders",
-    "domain": "bravenet.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -12590,17 +12425,6 @@
     "category": "developer-tools",
     "subcategory": "▷ Website Builders",
     "domain": "framer.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Mobirise",
-    "url": "https://mobirise.com/",
-    "description": "Website Builder",
-    "category": "developer-tools",
-    "subcategory": "▷ Website Builders",
-    "domain": "mobirise.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -12650,17 +12474,6 @@
     "is_tip": false
   },
   {
-    "title": "Own Free Website",
-    "url": "https://www.own-free-website.com",
-    "description": "Website Builder",
-    "category": "developer-tools",
-    "subcategory": "▷ Website Builders",
-    "domain": "own-free-website.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Feather Wiki",
     "url": "https://feather.wiki/",
     "description": "Extensible Website Generator",
@@ -12683,34 +12496,12 @@
     "is_tip": false
   },
   {
-    "title": "Barely",
-    "url": "https://github.com/charludo/barely",
-    "description": "Python Static Website Generator",
-    "category": "developer-tools",
-    "subcategory": "▷ Website Builders",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Tails",
     "url": "https://devdojo.com/tails",
     "description": "Tailwind CSS Website Builder",
     "category": "developer-tools",
     "subcategory": "▷ Website Builders",
     "domain": "devdojo.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "8b",
-    "url": "https://8b.com/",
-    "description": "Simple Online Website Builder",
-    "category": "developer-tools",
-    "subcategory": "▷ Website Builders",
-    "domain": "8b.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -12749,6 +12540,17 @@
     "is_tip": false
   },
   {
+    "title": "Color Converter",
+    "url": "https://ozdemir.dev/color-converter/",
+    "description": "Color Code Format Converter",
+    "category": "developer-tools",
+    "subcategory": "▷ Color Schemes",
+    "domain": "ozdemir.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "PaletteGenerator",
     "url": "https://palettegenerator.com/",
     "description": "Color Palette Extractor",
@@ -12766,17 +12568,6 @@
     "category": "developer-tools",
     "subcategory": "▷ Color Schemes",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Stylify Me",
-    "url": "http://stylifyme.com/",
-    "description": "Extract Webpage Colors",
-    "category": "developer-tools",
-    "subcategory": "▷ Color Schemes",
-    "domain": "stylifyme.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -12837,28 +12628,6 @@
     "is_tip": false
   },
   {
-    "title": "OpenUI",
-    "url": "https://github.com/wandb/openui",
-    "description": "Make UI with AI",
-    "category": "developer-tools",
-    "subcategory": "▷ Frontend / UI Tools",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "SuperNova",
-    "url": "https://www.supernova.io/",
-    "description": "Design System Manager",
-    "category": "developer-tools",
-    "subcategory": "▷ Frontend / UI Tools",
-    "domain": "supernova.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Open UI",
     "url": "https://open-ui.org/",
     "description": "Open Standard UI",
@@ -12903,17 +12672,6 @@
     "is_tip": false
   },
   {
-    "title": "SREWorks",
-    "url": "https://github.com/alibaba/SREWorks",
-    "description": "Operation & Maintenance Platform",
-    "category": "developer-tools",
-    "subcategory": "▷ Frontend / UI Tools",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Scrollbar.app",
     "url": "https://scrollbar.app/",
     "description": "Design Custom Scrollbars",
@@ -12936,23 +12694,23 @@
     "is_tip": false
   },
   {
+    "title": "Bloo",
+    "url": "https://bloouikit.com/",
+    "description": "Prototype / Test Websites Idea",
+    "category": "developer-tools",
+    "subcategory": "▷ Frontend / UI Tools",
+    "domain": "bloouikit.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "WebDesignMuseum",
     "url": "https://www.webdesignmuseum.org/",
     "description": "Website Designs Over Time",
     "category": "developer-tools",
     "subcategory": "▷ Frontend / UI Tools",
     "domain": "webdesignmuseum.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Bootstrap",
-    "url": "https://getbootstrap.com/",
-    "description": "Mobile Site Creator / Icons / Snippets / UI Components / Templates, 2",
-    "category": "developer-tools",
-    "subcategory": "▷ Frontend / UI Tools",
-    "domain": "getbootstrap.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -13041,17 +12799,6 @@
     "category": "developer-tools",
     "subcategory": "▷ Frontend / UI Tools",
     "domain": "beercss.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "RoughAnnotations",
-    "url": "https://roughnotation.com/",
-    "description": "Webpage Annotations / Animations",
-    "category": "developer-tools",
-    "subcategory": "▷ Frontend / UI Tools",
-    "domain": "roughnotation.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -13173,17 +12920,6 @@
     "category": "developer-tools",
     "subcategory": "▷ Regex Tools",
     "domain": "ihateregex.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Melody",
-    "url": "https://yoav-lavi.github.io/melody/book/",
-    "description": "Compile to Regex / GitHub",
-    "category": "developer-tools",
-    "subcategory": "▷ Regex Tools",
-    "domain": "yoav-lavi.github.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -13365,13 +13101,13 @@
     "is_tip": false
   },
   {
-    "title": "SVG2JSX",
-    "url": "https://svg2jsx.com/",
-    "description": "SVG to JSX Converter",
+    "title": "Vector Express",
+    "url": "https://vector.express/",
+    "description": "Vector Converters",
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
-    "domain": "svg2jsx.com",
-    "is_new": false,
+    "domain": "vector.express",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -13437,39 +13173,6 @@
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
     "domain": "yqnn.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Blobmaker",
-    "url": "https://www.blobmaker.app/",
-    "description": "SVG Blob Generator",
-    "category": "developer-tools",
-    "subcategory": "▷ SVG Tools",
-    "domain": "blobmaker.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "JSLogo",
-    "url": "https://www.calormen.com/jslogo/",
-    "description": "Logo Interpreter",
-    "category": "developer-tools",
-    "subcategory": "▷ SVG Tools",
-    "domain": "calormen.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Pingbreak",
-    "url": "https://pingbreak.com/",
-    "description": "Site Uptime Monitor / Notifications",
-    "category": "developer-tools",
-    "subcategory": "▷ SVG Tools",
-    "domain": "pingbreak.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -14223,6 +13926,17 @@
     "is_tip": false
   },
   {
+    "title": "favicon-hash",
+    "url": "https://favicon-hash.kmsec.uk/",
+    "description": "Favicon Hash Generator",
+    "category": "developer-tools",
+    "subcategory": "▷ Static Page Hosting",
+    "domain": "favicon-hash.kmsec.uk",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "DarkVisitors",
     "url": "https://darkvisitors.com/",
     "description": "Autonomous Chatbots / Data Scraper List",
@@ -14608,6 +14322,17 @@
     "is_tip": false
   },
   {
+    "title": "minisign",
+    "url": "https://jedisct1.github.io/minisign/",
+    "description": "Sign Files / Verify Digital Signatures / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ Encryption / Certificates",
+    "domain": "jedisct1.github.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠LemmeDebug",
     "url": "https://greasyfork.org/en/scripts/537775",
     "description": "Disable Anti-Devtools for Reverse Engineering / Debugging",
@@ -14658,6 +14383,17 @@
     "category": "developer-tools",
     "subcategory": "▷ Reverse Engineering",
     "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Gaultier Blog",
+    "url": "https://gaultier.github.io/blog/x11_x64.html",
+    "description": "Learn x86-64 Assembly",
+    "category": "developer-tools",
+    "subcategory": "▷ Reverse Engineering",
+    "domain": "gaultier.github.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -16374,7 +16110,7 @@
     "category": "educational",
     "subcategory": "▷ Physics",
     "domain": "simscale.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -16418,7 +16154,7 @@
     "category": "educational",
     "subcategory": "▷ Math",
     "domain": "algebrica.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -16473,17 +16209,6 @@
     "category": "educational",
     "subcategory": "▷ Math",
     "domain": "erich-friedman.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "OEIS",
-    "url": "https://oeis.org/",
-    "description": "Encyclopedia of Integer Sequences",
-    "category": "educational",
-    "subcategory": "▷ Math",
-    "domain": "oeis.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -16704,7 +16429,7 @@
     "category": "educational",
     "subcategory": "▷ Math",
     "domain": "seeing-theory.brown.edu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19476,7 +19201,7 @@
     "category": "educational",
     "subcategory": "▷ Mythology / Folklore",
     "domain": "mythopedia.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19564,7 +19289,7 @@
     "category": "educational",
     "subcategory": "▷ World Data",
     "domain": "citypopulation.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19718,7 +19443,7 @@
     "category": "educational",
     "subcategory": "▷ Geography / Sociology",
     "domain": "thetruesize.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21291,7 +21016,7 @@
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "chessfrog.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24899,7 +24624,7 @@
     "category": "educational",
     "subcategory": "▷ AI / ML Learning",
     "domain": "deep-learning-drizzle.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25911,17 +25636,6 @@
     "category": "educational",
     "subcategory": "▷ Calculators",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠OnlineConversion",
-    "url": "https://onlineconversion.com/",
-    "description": "Conversion Calculators",
-    "category": "educational",
-    "subcategory": "▷ Calculators",
-    "domain": "onlineconversion.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -34689,7 +34403,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Geometry Dash Tools",
     "domain": "edi-d6y.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35070,7 +34784,7 @@
   {
     "title": "scene cat",
     "url": "https://rentry.co/FMHYB64#scene-cat",
-    "description": "Download / Discord",
+    "description": "Scene Release Download / Discord",
     "category": "gaming",
     "subcategory": "General",
     "domain": "rentry.co",
@@ -36064,7 +35778,7 @@
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "discord.gg",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -52938,7 +52652,7 @@
     "category": "internet-tools",
     "subcategory": "▷ OSINT Collections",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -53664,7 +53378,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Software Sites",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -54688,6 +54402,17 @@
     "subcategory": "▷ Linux Gaming",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "DLSS5VKLayer",
+    "url": "https://www.phoronix.com/news/DLSS5VKLayer",
+    "description": "Vulkan DLSS 5 Neural Rendering Layer / GitHub",
+    "category": "linux-macos",
+    "subcategory": "▷ Linux Gaming",
+    "domain": "phoronix.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -57624,7 +57349,7 @@
     "category": "linux-macos",
     "subcategory": "▷ System Tools",
     "domain": "tintd.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60143,17 +59868,6 @@
     "category": "misc",
     "subcategory": "▷ Flights",
     "domain": "azair.eu",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠SeatMaps",
-    "url": "https://seatmaps.com/",
-    "description": "Flight Seat Data / Reviews",
-    "category": "misc",
-    "subcategory": "▷ Flights",
-    "domain": "seatmaps.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -63850,7 +63564,7 @@
     "category": "misc",
     "subcategory": "▷ Tech Jobs",
     "domain": "interviews.school",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -71286,7 +71000,7 @@
     "category": "mobile",
     "subcategory": "▷ Image Tools",
     "domain": "play.google.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75504,6 +75218,17 @@
     "is_tip": false
   },
   {
+    "title": "wBlock",
+    "url": "https://apps.apple.com/app/wblock/id6746388723",
+    "description": "Safari Adblocker / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ iOS Adblocking",
+    "domain": "apps.apple.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Orion",
     "url": "https://kagi.com/orion/",
     "description": "Adblock Browser w/ Extensions / Discord",
@@ -75517,17 +75242,6 @@
   {
     "title": "⁠uBO Lite Safari",
     "url": "https://apps.apple.com/app/ublock-origin-lite/id6745342698",
-    "description": "Safari Adblocker / GitHub",
-    "category": "mobile",
-    "subcategory": "▷ iOS Adblocking",
-    "domain": "apps.apple.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "wBlock",
-    "url": "https://apps.apple.com/app/wblock/id6746388723",
     "description": "Safari Adblocker / GitHub",
     "category": "mobile",
     "subcategory": "▷ iOS Adblocking",
@@ -103428,7 +103142,7 @@
     "category": "storage",
     "subcategory": "Kanji Learning",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104253,7 +103967,7 @@
     "category": "system-tools",
     "subcategory": "▷ Terminal / CLI",
     "domain": "psmux.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104330,7 +104044,7 @@
     "category": "system-tools",
     "subcategory": "▷ Terminal / CLI",
     "domain": "wtfutil.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106432,6 +106146,17 @@
     "subcategory": "▷ Pastebins",
     "domain": "txt.fyi",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠paste.sh",
+    "url": "https://paste.sh/",
+    "description": "Plain Text / GitHub",
+    "category": "text-tools",
+    "subcategory": "▷ Pastebins",
+    "domain": "paste.sh",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -113267,6 +112992,17 @@
     "is_tip": false
   },
   {
+    "title": "Streamo",
+    "url": "https://streamo.pro/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "streamo.pro",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Chillflix",
     "url": "https://chillflix.lol/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
@@ -113284,17 +113020,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cinema.army",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Streamo",
-    "url": "https://streamo.pro/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "streamo.pro",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113335,11 +113060,11 @@
   {
     "title": "Zenox",
     "url": "https://zenox.lol/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "Movies / TV / Anime / Auto-Next / Status / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "zenox.lol",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114940,12 +114665,12 @@
   },
   {
     "title": "Senshi",
-    "url": "https://senshi.live/",
+    "url": "https://senshi.to/",
     "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
-    "domain": "senshi.live",
-    "is_new": false,
+    "domain": "senshi.to",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115660,7 +115385,7 @@
     "category": "video",
     "subcategory": "▷ Drama Streaming",
     "domain": "myasiantv.com.bz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116584,7 +116309,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "pitsport.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
