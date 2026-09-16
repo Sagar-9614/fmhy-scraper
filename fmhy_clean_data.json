@@ -2063,7 +2063,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "volta-music.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2151,7 +2151,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Sites",
     "domain": "app.volta-music.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -4378,17 +4378,6 @@
     "is_tip": false
   },
   {
-    "title": "EzConv",
-    "url": "https://ezconv.cc/",
-    "description": "YouTube / 320kb MP3",
-    "category": "audio",
-    "subcategory": "▷ Audio Ripping Sites",
-    "domain": "ezconv.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠AudioFetcher",
     "url": "https://audiofetcher.com/",
     "description": "YouTube / 320kb MP3",
@@ -5308,7 +5297,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Ripping",
     "domain": "dieordiy2.blogspot.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -5440,7 +5429,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Ripping",
     "domain": "oldschoolmetalmusicz.blogspot.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -5506,7 +5495,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Ripping",
     "domain": "forwardwiththesong.blogspot.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -5517,7 +5506,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Ripping",
     "domain": "urbanaspirines.blogspot.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8058,7 +8047,7 @@
     "category": "audio",
     "subcategory": "▷ Audio Plugins",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8322,7 +8311,7 @@
     "category": "developer-tools",
     "subcategory": "General",
     "domain": "frontenddogma.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8333,7 +8322,7 @@
     "category": "developer-tools",
     "subcategory": "General",
     "domain": "cyberinsider.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11083,7 +11072,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "cmux.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -13178,6 +13167,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠morphicons",
+    "url": "https://www.morphicons.com/",
+    "description": "SVG Icon Morphing Tool / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ SVG Tools",
+    "domain": "morphicons.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "FrameSVG",
     "url": "https://framesvg.romelium.cc/",
     "description": "GIF to Animated SVG / GitHub",
@@ -13217,6 +13217,17 @@
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
     "domain": "vector.express",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠GLORP",
+    "url": "https://zack-gphom.itch.io/glorp-pixel-to-svg",
+    "description": "Convert Pixel Art to Optimized SVGs / Windows / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ SVG Tools",
+    "domain": "zack-gphom.itch.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -13294,7 +13305,7 @@
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
     "domain": "rentry.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -16165,7 +16176,7 @@
     "category": "educational",
     "subcategory": "▷ Physics",
     "domain": "quantumflytrap.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -17144,7 +17155,7 @@
     "category": "educational",
     "subcategory": "▷ Biology",
     "domain": "vester.si",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -18057,7 +18068,7 @@
     "category": "educational",
     "subcategory": "▷ Astronomy",
     "domain": "sky.esa.int",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19179,7 +19190,7 @@
     "category": "educational",
     "subcategory": "▷ Military / Conflict History",
     "domain": "battleorder.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19278,7 +19289,7 @@
     "category": "educational",
     "subcategory": "▷ Military / Conflict History",
     "domain": "shipbucket.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19437,17 +19448,6 @@
     "is_tip": false
   },
   {
-    "title": "EverySecond",
-    "url": "https://everysecond.io/",
-    "description": "Visualize Per Second World Data",
-    "category": "educational",
-    "subcategory": "▷ World Data",
-    "domain": "everysecond.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠CityPopulation",
     "url": "https://citypopulation.de/",
     "description": "Location / Population Data",
@@ -19498,7 +19498,7 @@
     "category": "educational",
     "subcategory": "▷ World Data",
     "domain": "sipri.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -27874,6 +27874,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Origrid",
+    "url": "https://origrid.io/",
+    "description": "100GB / 25GB / 7 Days (30 w/ Account)",
+    "category": "file-tools",
+    "subcategory": "▷ P2P Transfer",
+    "domain": "origrid.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "hostb",
     "url": "https://hostb.org/",
     "description": "Unlimited / 30 Days After Last Download / Source Code",
@@ -32918,7 +32929,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Technical Tools",
     "domain": "bedrock.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33777,6 +33788,17 @@
     "subcategory": "▷ Visual Novel Tools",
     "domain": "ultrarumble.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Little Big Archive",
+    "url": "https://littlebigarchive.com/",
+    "description": "LittleBigPlanet Community Level & Asset Archive",
+    "category": "gaming-tools",
+    "subcategory": "▷ Visual Novel Tools",
+    "domain": "littlebigarchive.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -37923,7 +37945,7 @@
     "category": "gaming",
     "subcategory": "▷ Retro Browser Emulators",
     "domain": "brainbashers.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -39215,6 +39237,17 @@
     "is_tip": false
   },
   {
+    "title": "DB Evolution",
+    "url": "https://www.txori.com/dbdevolution",
+    "description": "Dragon Ball Fighting Game",
+    "category": "gaming",
+    "subcategory": "▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)",
+    "domain": "txori.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Cut the Rope Home",
     "url": "https://ctrhome.github.io/play/",
     "description": "Cut the Rope Games",
@@ -39441,17 +39474,6 @@
     "category": "gaming",
     "subcategory": "▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)",
     "domain": "pulsus.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DB Evolution",
-    "url": "https://www.txori.com/dbdevolution",
-    "description": "Dragon Ball Fighting Game",
-    "category": "gaming",
-    "subcategory": "▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)",
-    "domain": "txori.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -43434,17 +43456,6 @@
     "category": "image-tools",
     "subcategory": "▷ Pixel Art / Sprite Sheets",
     "domain": "deepblizzard.itch.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠GLORP",
-    "url": "https://zack-gphom.itch.io/glorp-pixel-to-svg",
-    "description": "Convert Pixel Art to Optimized SVGs / Windows / GitHub",
-    "category": "image-tools",
-    "subcategory": "▷ Pixel Art / Sprite Sheets",
-    "domain": "zack-gphom.itch.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -50655,6 +50666,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠KBNT",
+    "url": "https://kbnt.ghomistty.com/",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "kbnt.ghomistty.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cling",
     "url": "https://cling.com/",
     "description": "",
@@ -50672,6 +50694,105 @@
     "category": "internet-tools",
     "subcategory": "▷ Bookmark Managers",
     "domain": "fmhy.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "mtab",
+    "url": "https://github.com/maxhu08/mtab",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "nightTab",
+    "url": "https://github.com/zombieFox/nightTab",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠TablissNG",
+    "url": "https://github.com/BookCatKid/TablissNG/",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "MaterialYouNewTab",
+    "url": "https://github.com/prem-k-r/MaterialYouNewTab",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "hexagonTab",
+    "url": "https://github.com/zombieFox/hexagonTab",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Perfect Home",
+    "url": "https://github.com/perfect-things/perfect-home",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Yet Another Speed Dial",
+    "url": "https://github.com/conceptualspace/yet-another-speed-dial",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Infinity New Tab",
+    "url": "https://en.infinitynewtab.com/",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "en.infinitynewtab.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Momentum",
+    "url": "https://momentumdash.com/",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Bookmark Managers",
+    "domain": "momentumdash.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -50787,110 +50908,11 @@
     "is_tip": false
   },
   {
-    "title": "mtab",
-    "url": "https://github.com/maxhu08/mtab",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "nightTab",
-    "url": "https://github.com/zombieFox/nightTab",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠TablissNG",
-    "url": "https://github.com/BookCatKid/TablissNG/",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MaterialYouNewTab",
-    "url": "https://github.com/prem-k-r/MaterialYouNewTab",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "hexagonTab",
-    "url": "https://github.com/zombieFox/hexagonTab",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Perfect Home",
-    "url": "https://github.com/perfect-things/perfect-home",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Yet Another Speed Dial",
-    "url": "https://github.com/conceptualspace/yet-another-speed-dial",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Infinity New Tab",
-    "url": "https://en.infinitynewtab.com/",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "en.infinitynewtab.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Momentum",
-    "url": "https://momentumdash.com/",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
-    "domain": "momentumdash.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Browser Tamer",
     "url": "https://www.aloneguid.uk/projects/bt/",
     "description": "Multi-Browser Link Redirector & Profile Switcher / GitHub",
     "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
+    "subcategory": "▷ Bookmark Managers",
     "domain": "aloneguid.uk",
     "is_new": false,
     "is_broken": false,
@@ -50901,7 +50923,7 @@
     "url": "https://justthebrowser.com/",
     "description": "Browser Debloat Script / Guide / GitHub",
     "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
+    "subcategory": "▷ Bookmark Managers",
     "domain": "justthebrowser.com",
     "is_new": false,
     "is_broken": false,
@@ -50912,7 +50934,7 @@
     "url": "https://vsynctester.com/",
     "description": "Browser VSYNC Test / Firefox Broken",
     "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
+    "subcategory": "▷ Bookmark Managers",
     "domain": "vsynctester.com",
     "is_new": false,
     "is_broken": false,
@@ -50923,7 +50945,7 @@
     "url": "https://github.com/U-C-S/Hurl",
     "description": "Select Browser on URL Clicks",
     "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
+    "subcategory": "▷ Bookmark Managers",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -50934,7 +50956,7 @@
     "url": "https://github.com/darktohka/clean-flash-builds/",
     "description": "Flash Downloads",
     "category": "internet-tools",
-    "subcategory": "▷ Custom New Tab Pages",
+    "subcategory": "▷ Bookmark Managers",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -53983,7 +54005,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Audio",
     "domain": "volta-music.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56557,7 +56579,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Audio",
     "domain": "volta-music.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56799,7 +56821,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Gaming",
     "domain": "portingkit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56810,7 +56832,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Gaming",
     "domain": "playonmac.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56821,7 +56843,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Gaming",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63646,17 +63668,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Remote Frontend Jobs",
-    "url": "https://remotefrontendjobs.com/",
-    "description": "Find Remote Frontend Jobs",
-    "category": "misc",
-    "subcategory": "▷ Tech Jobs",
-    "domain": "remotefrontendjobs.com",
-    "is_new": true,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Authentic Jobs",
     "url": "https://authenticjobs.com/",
     "description": "Find Developer / Designer Jobs",
@@ -65357,7 +65368,7 @@
     "category": "misc",
     "subcategory": "▷ Books / Audiobooks",
     "domain": "omnibusreaders.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -67579,7 +67590,7 @@
     "category": "misc",
     "subcategory": "▷ Interactive",
     "domain": "stowaway.live",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -73365,7 +73376,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Manga",
     "domain": "volta-music.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76005,7 +76016,7 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "volta-music.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -80471,7 +80482,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Lecture",
     "domain": "betterbahn.eu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -83694,7 +83705,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / پخش",
     "domain": "streaming.cineverse.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -88633,7 +88644,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / İzleme",
     "domain": "anihub.com.tr",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -98159,7 +98170,7 @@
     "category": "reading",
     "subcategory": "▷ Comic Tracking / Databases",
     "domain": "omnibusreaders.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114527,7 +114538,7 @@
     "category": "video",
     "subcategory": "▷ Free w/ Ads",
     "domain": "streaming.cineverse.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116479,6 +116490,17 @@
     "is_tip": false
   },
   {
+    "title": "Reedsports",
+    "url": "https://reedstreams.to/",
+    "description": "",
+    "category": "video",
+    "subcategory": "▷ Live Sports",
+    "domain": "reedstreams.to",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "MainPortal66",
     "url": "https://mainportal66.com/",
     "description": "",
@@ -118091,7 +118113,7 @@
     "category": "video",
     "subcategory": "▷ Telegram Channels",
     "domain": "cinefy.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
