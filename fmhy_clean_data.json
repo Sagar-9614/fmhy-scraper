@@ -10786,7 +10786,7 @@
     "category": "developer-tools",
     "subcategory": "▷ VSCode Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11215,7 +11215,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Developer Utilities",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -16693,7 +16693,7 @@
     "category": "educational",
     "subcategory": "▷ Engineering",
     "domain": "matweb.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19311,7 +19311,7 @@
     "category": "educational",
     "subcategory": "▷ Military / Conflict History",
     "domain": "navweaps.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32830,7 +32830,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Hosting Tools",
     "domain": "playeranalytics.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -46602,7 +46602,7 @@
     "category": "image-tools",
     "subcategory": "▷ Image Viewers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -50012,7 +50012,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Temp Mail",
     "domain": "tempmailhub.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -54362,13 +54362,13 @@
     "is_tip": false
   },
   {
-    "title": "Proton-LinUwUx",
-    "url": "https://codeberg.org/xshaduwulfx/proton-linuwux",
-    "description": "Automated Proton Builds for Hypervisor(-less) Denuvo Bypass",
+    "title": "LinUwUx",
+    "url": "https://github.com/brcly/linuwux-runtime",
+    "description": "LDPRELOAD Library for Hypervisor(-less) Denuvo Bypass",
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
-    "domain": "codeberg.org",
-    "is_new": false,
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -59780,7 +59780,7 @@
     "category": "misc",
     "subcategory": "▷ Drinks",
     "domain": "cfb.guide",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60693,7 +60693,7 @@
     "category": "misc",
     "subcategory": "▷ Railway Maps",
     "domain": "hkmtrmap.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -61507,7 +61507,7 @@
     "category": "misc",
     "subcategory": "▷ Infrastructure Maps",
     "domain": "ioda.inetintel.cc.gatech.edu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63459,17 +63459,6 @@
     "is_tip": false
   },
   {
-    "title": "MTurk",
-    "url": "https://www.mturk.com/",
-    "description": "Online Task Work",
-    "category": "misc",
-    "subcategory": "▷ Remote Jobs",
-    "domain": "mturk.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Volunteers Base",
     "url": "https://volunteersbase.com/",
     "description": "Volunteer Work Exchange / Work for Stay Network",
@@ -64488,7 +64477,7 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "blu-ray.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64499,7 +64488,7 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "justwatch.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64532,7 +64521,7 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "search.streamcheck.pro",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -71269,17 +71258,6 @@
     "is_tip": false
   },
   {
-    "title": "CamScanner",
-    "url": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
-    "description": "Scan & Digitize Documents",
-    "category": "mobile",
-    "subcategory": "▷ Image Tools",
-    "domain": "play.google.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Color Camera",
     "url": "https://play.google.com/store/apps/details?id=theindusdeveloper.com.colorcamera",
     "description": "Change Image Colors",
@@ -71297,7 +71275,7 @@
     "category": "mobile",
     "subcategory": "▷ Image Tools",
     "domain": "tone.yojihan.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -74069,7 +74047,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
     "domain": "zangetsu.online",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -74773,7 +74751,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "tone.yojihan.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75928,7 +75906,7 @@
     "category": "mobile",
     "subcategory": "▷ Telegram Channels",
     "domain": "t.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -98390,7 +98368,7 @@
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "rentry.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -103065,7 +103043,7 @@
     "category": "storage",
     "subcategory": "Free DNS Resolvers",
     "domain": "dns.fuzzing.uk",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105760,7 +105738,7 @@
     "category": "system-tools",
     "subcategory": "▷ Windows Repair",
     "domain": "discord.gg",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -109742,7 +109720,7 @@
     "category": "text-tools",
     "subcategory": "▷ Free Fonts",
     "domain": "hyperglot.rosettatype.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -110066,6 +110044,28 @@
     "is_tip": false
   },
   {
+    "title": "BT4G",
+    "url": "https://bt4gprx.com/",
+    "description": "",
+    "category": "torrenting",
+    "subcategory": "▷ Aggregators",
+    "domain": "bt4gprx.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "FileMood",
+    "url": "https://filemood.com/",
+    "description": "",
+    "category": "torrenting",
+    "subcategory": "▷ Aggregators",
+    "domain": "filemood.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "TorrentQuest",
     "url": "https://torrentquest.com/",
     "description": "",
@@ -110094,28 +110094,6 @@
     "category": "torrenting",
     "subcategory": "▷ Aggregators",
     "domain": "cleanbay.netlify.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FileMood",
-    "url": "https://filemood.com/",
-    "description": "",
-    "category": "torrenting",
-    "subcategory": "▷ Aggregators",
-    "domain": "filemood.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BT4G",
-    "url": "https://bt4gprx.com/",
-    "description": "",
-    "category": "torrenting",
-    "subcategory": "▷ Aggregators",
-    "domain": "bt4gprx.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113372,72 +113350,6 @@
     "category": "video-tools",
     "subcategory": "▷ Stock Videos",
     "domain": "movietools.info",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Vivarium",
-    "url": "https://vivarium.wtf/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "vivarium.wtf",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Movie Night",
-    "url": "https://movienig.ht/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "movienig.ht",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Streamo",
-    "url": "https://streamo.pro/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "streamo.pro",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Chillflix",
-    "url": "https://chillflix.lol/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "chillflix.lol",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Cinema (BZ)",
-    "url": "https://cinema.army/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "cinema.army",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "SpenFlix",
-    "url": "https://watch.spencerdevs.xyz/",
-    "description": "Movies / TV / Anime / Auto-Next / Status",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "watch.spencerdevs.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117167,7 +117079,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Tools",
     "domain": "search.streamcheck.pro",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
