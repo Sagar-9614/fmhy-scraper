@@ -1392,7 +1392,7 @@
     "category": "ai",
     "subcategory": "▷ Voice Change / Clone",
     "domain": "voicestudio.sh",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -1870,17 +1870,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠IUMB",
-    "url": "https://pellaml.github.io/iumb/",
-    "description": "AI Mathematics Benchmarks / Leaderboard",
-    "category": "ai",
-    "subcategory": "▷ Specialized Benchmarks",
-    "domain": "pellaml.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "MathArena",
     "url": "https://matharena.ai/",
     "description": "AI Mathematics Benchmarks / Competitions",
@@ -1925,23 +1914,23 @@
     "is_tip": false
   },
   {
+    "title": "⁠Tripstitch",
+    "url": "https://tripstitch.app/benchmarks/",
+    "description": "AI Trip Planning Benchmarks",
+    "category": "ai",
+    "subcategory": "▷ Specialized Benchmarks",
+    "domain": "tripstitch.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠LLMs Bullshit Benchmark",
     "url": "https://petergpt.github.io/bullshit-benchmark/viewer/index.html",
     "description": "Broken Premise Detection Benchmarks",
     "category": "ai",
     "subcategory": "▷ Specialized Benchmarks",
     "domain": "petergpt.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ChessArena",
-    "url": "https://www.chessarena.ai/",
-    "description": "AI Chess Benchmarks",
-    "category": "ai",
-    "subcategory": "▷ Specialized Benchmarks",
-    "domain": "chessarena.ai",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -11237,7 +11226,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Developer Utilities",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20455,7 +20444,7 @@
     "category": "educational",
     "subcategory": "▷ Survival / Preparedness",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20466,7 +20455,7 @@
     "category": "educational",
     "subcategory": "▷ Survival / Preparedness",
     "domain": "exploremarmaris.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20499,7 +20488,7 @@
     "category": "educational",
     "subcategory": "▷ Survival / Preparedness",
     "domain": "cd3wdproject.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20510,7 +20499,7 @@
     "category": "educational",
     "subcategory": "▷ Survival / Preparedness",
     "domain": "fluidicice.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20532,7 +20521,7 @@
     "category": "educational",
     "subcategory": "▷ Survival / Preparedness",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24921,7 +24910,7 @@
     "category": "educational",
     "subcategory": "▷ AI / ML Learning",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25647,17 +25636,6 @@
     "category": "educational",
     "subcategory": "▷ Study / Research",
     "domain": "calculatecgpa.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CalculateCGPA",
-    "url": "https://cgpacalcs.com/",
-    "description": "Calculate GPA",
-    "category": "educational",
-    "subcategory": "▷ Study / Research",
-    "domain": "cgpacalcs.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -26483,7 +26461,7 @@
     "category": "file-tools",
     "subcategory": "▷ Download Managers",
     "domain": "rayburst.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -30201,7 +30179,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "trueachievements.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -31242,7 +31220,7 @@
   {
     "title": "UWPHook",
     "url": "https://briano.dev/UWPHook/",
-    "description": "Add Windows Store Games to Steam",
+    "description": "Add Windows Store Games to Steam / GitHub",
     "category": "gaming-tools",
     "subcategory": "▷ Store Tools",
     "domain": "briano.dev",
@@ -40271,6 +40249,17 @@
     "is_tip": false
   },
   {
+    "title": "Anko",
+    "url": "https://useanko.xyz/g?source=anko",
+    "description": "Browser Games",
+    "category": "gaming",
+    "subcategory": "▷ Unblocked Games",
+    "domain": "useanko.xyz",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠GuessMe",
     "url": "https://guessme.io/",
     "description": "Majority Answers Guessing Game / Discord",
@@ -40729,6 +40718,17 @@
     "subcategory": "▷ Shooter",
     "domain": "debug-survivor.leek.io",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Redcoats",
+    "url": "https://redcoats.io/",
+    "description": "Revolutionary War PVP FPS",
+    "category": "gaming",
+    "subcategory": "▷ Shooter",
+    "domain": "redcoats.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -42829,7 +42829,7 @@
     "category": "image-tools",
     "subcategory": "▷ Upscale / Restore",
     "domain": "upscal.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -45634,7 +45634,7 @@
     "category": "image-tools",
     "subcategory": "▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_wallpapers)",
     "domain": "bimobject.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66561,13 +66561,13 @@
     "is_tip": false
   },
   {
-    "title": "Earth 2050",
-    "url": "https://2050.earth/",
-    "description": "Future Predictions",
+    "title": "A Collection of Unsaid Things",
+    "url": "https://somethingsarebetterleftunsaid.vercel.app/",
+    "description": "Anonymous Unsent Message Archive",
     "category": "misc",
     "subcategory": "▷ Chat / Forums",
-    "domain": "2050.earth",
-    "is_new": false,
+    "domain": "somethingsarebetterleftunsaid.vercel.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -66578,6 +66578,17 @@
     "category": "misc",
     "subcategory": "▷ Chat / Forums",
     "domain": "postsecret.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Earth 2050",
+    "url": "https://2050.earth/",
+    "description": "Future Predictions",
+    "category": "misc",
+    "subcategory": "▷ Chat / Forums",
+    "domain": "2050.earth",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -74663,7 +74674,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "apps.apple.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -88748,17 +88759,6 @@
     "is_tip": false
   },
   {
-    "title": "Türk Anime",
-    "url": "https://www.turkanime.co/",
-    "description": "Anime / Region Locked / Downloader",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / İzleme",
-    "domain": "turkanime.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "AsyaAnimeleri",
     "url": "https://asyaanimeleri.top/",
     "description": "Anime",
@@ -100810,7 +100810,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Players / Frontends",
     "domain": "yout-ube.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106739,7 +106739,7 @@
     "category": "text-tools",
     "subcategory": "▷ Audio Transcription",
     "domain": "voicestudio.sh",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -108466,7 +108466,7 @@
     "category": "text-tools",
     "subcategory": "▷ Writing Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111645,7 +111645,7 @@
     "category": "video-tools",
     "subcategory": "▷ Stream Sync",
     "domain": "syncup.tv",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -112338,7 +112338,7 @@
     "category": "video-tools",
     "subcategory": "▷ Kodi Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -112383,6 +112383,17 @@
     "subcategory": "▷ Kodi Tools",
     "domain": "t.me",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "yoink.tools",
+    "url": "https://yoink.tools/",
+    "description": "Multi-Site / Online",
+    "category": "video-tools",
+    "subcategory": "▷ Kodi Tools",
+    "domain": "yoink.tools",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -113355,6 +113366,17 @@
     "is_tip": false
   },
   {
+    "title": "Cinema (BZ)",
+    "url": "https://cinema.army/",
+    "description": "Movies / TV / Anime / Auto-Next / Telegram",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "cinema.army",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "MovieBite",
     "url": "https://moviebite.org/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
@@ -113487,6 +113509,17 @@
     "is_tip": false
   },
   {
+    "title": "Lightflix",
+    "url": "https://lightflix.app/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "lightflix.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "FlyStream",
     "url": "https://flystream.net/",
     "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
@@ -113582,6 +113615,17 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "allyoucanwatch.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "3eyedraven",
+    "url": "https://3eyedraven.watch/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "3eyedraven.watch",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -114120,7 +114164,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "fluxtv.co.uk",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114549,7 +114593,7 @@
     "category": "video",
     "subcategory": "▷ Free w/ Ads",
     "domain": "yow.tv",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115067,6 +115111,17 @@
     "subcategory": "▷ Anime Streaming",
     "domain": "anime.uniquestream.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "KoToTV",
+    "url": "https://kototv.to/",
+    "description": "Sub / Dub / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "kototv.to",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115715,7 +115770,7 @@
     "category": "video",
     "subcategory": "▷ Drama Streaming",
     "domain": "k-drama.in",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116485,7 +116540,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "watchsports.su",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116496,7 +116551,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "livetv.sx",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116530,6 +116585,17 @@
     "subcategory": "▷ Live Sports",
     "domain": "v2.sportsurge.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Matchora",
+    "url": "https://matchora.to/",
+    "description": "",
+    "category": "video",
+    "subcategory": "▷ Live Sports",
+    "domain": "matchora.to",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117233,7 +117299,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "hashtagiptv.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117656,6 +117722,17 @@
     "is_tip": false
   },
   {
+    "title": "Cinejoy",
+    "url": "https://cinejoy.pk/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "cinejoy.pk",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Medeberiya",
     "url": "https://medeberiya.net/",
     "description": "Movie / TV",
@@ -118025,7 +118102,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "todaytvseries1.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118047,17 +118124,6 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "tvshows.ac",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "TVSBoy",
-    "url": "https://tvsboy.com/",
-    "description": "TV / 720p",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "tvsboy.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118168,6 +118234,17 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "toku.fun",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "TVSBoy",
+    "url": "https://tvsboy.com/",
+    "description": "TV / 720p / Requires Debrid",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "tvsboy.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
