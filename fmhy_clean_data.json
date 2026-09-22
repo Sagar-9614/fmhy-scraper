@@ -1920,7 +1920,7 @@
     "category": "ai",
     "subcategory": "▷ Specialized Benchmarks",
     "domain": "tripstitch.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -7414,6 +7414,17 @@
     "is_tip": false
   },
   {
+    "title": "lrc.red",
+    "url": "https://lrc.red/",
+    "description": "Download Synced Lyrics",
+    "category": "audio",
+    "subcategory": "▷ Karaoke / Synced Lyrics",
+    "domain": "lrc.red",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Spotify Karaoke",
     "url": "https://github.com/haroldalan/spotify-karaoke",
     "description": "Karaoke, Romanization + Translation for Spotify Web Player Lyrics",
@@ -10890,17 +10901,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠ZCode",
-    "url": "https://zcode.z.ai/",
-    "description": "Coding AI",
-    "category": "developer-tools",
-    "subcategory": "▷ Coding Harnesses / Extensions",
-    "domain": "zcode.z.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠DeepSeek Harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "description": "Coding AI",
@@ -10973,6 +10973,17 @@
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "qodo.ai",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠ZCode",
+    "url": "https://zcode.z.ai/",
+    "description": "Coding AI / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ Coding Harnesses / Extensions",
+    "domain": "zcode.z.ai",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -11798,6 +11809,17 @@
     "category": "developer-tools",
     "subcategory": "▷ CSS",
     "domain": "animista.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Tailwind Toolbox",
+    "url": "https://windytoolbox.com/",
+    "description": "Tailwind Starter Templates & Components",
+    "category": "developer-tools",
+    "subcategory": "▷ CSS",
+    "domain": "windytoolbox.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -13992,17 +14014,6 @@
     "is_tip": false
   },
   {
-    "title": "X-Force Exchange",
-    "url": "https://exchange.xforce.ibmcloud.com/",
-    "description": "Security Threat Intelligence Platform",
-    "category": "developer-tools",
-    "subcategory": "▷ Static Page Hosting",
-    "domain": "exchange.xforce.ibmcloud.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "OpenSCA-CLI",
     "url": "https://github.com/XmirrorSecurity/OpenSCA-cli",
     "description": "Composition Analysis for Third Party Components",
@@ -14146,34 +14157,12 @@
     "is_tip": false
   },
   {
-    "title": "Infosec Resources",
-    "url": "https://github.com/stong/infosec-resources",
-    "description": "Cybersecurity Resources",
-    "category": "developer-tools",
-    "subcategory": "▷ Cybersecurity Indexes",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "CyberSecTools",
     "url": "https://cybersectools.com/",
     "description": "Cybersecurity Resources",
     "category": "developer-tools",
     "subcategory": "▷ Cybersecurity Indexes",
     "domain": "cybersectools.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "My Infosec Awesome",
-    "url": "https://github.com/pe3zx/my-infosec-awesome",
-    "description": "Infosec Resources",
-    "category": "developer-tools",
-    "subcategory": "▷ Cybersecurity Indexes",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -15384,17 +15373,6 @@
     "category": "downloading",
     "subcategory": "▷ Downloaders",
     "domain": "nullbeat.thevolecitor.qzz.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Debridr",
-    "url": "https://debridr.com/",
-    "description": "Bypass Premium Link Limits",
-    "category": "downloading",
-    "subcategory": "▷ Downloaders",
-    "domain": "debridr.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -28490,28 +28468,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Rootz",
-    "url": "https://rootz.so/",
-    "description": "25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / Use uBlock",
-    "category": "file-tools",
-    "subcategory": "▷ P2P Transfer",
-    "domain": "rootz.so",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DataNodes",
-    "url": "https://datanodes.to/",
-    "description": "5GB / 5 Days (After Last Download) / 25GB / 7 Days After Last Download (w/ Account) / Use uBlock / Discord / Warning",
-    "category": "file-tools",
-    "subcategory": "▷ P2P Transfer",
-    "domain": "datanodes.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Limited Upload Hosts",
     "url": "https://rentry.org/xc48kg",
     "description": "More Hosts / 1GB or Below",
@@ -40255,7 +40211,7 @@
     "category": "gaming",
     "subcategory": "▷ Unblocked Games",
     "domain": "useanko.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -40273,7 +40229,7 @@
   {
     "title": "⁠What's A Mook?",
     "url": "https://whatsamook.games/",
-    "description": "Multiplayer / Party Games",
+    "description": "Multiplayer / Party Games / Discord",
     "category": "gaming",
     "subcategory": "▷ Party / Multiplayer",
     "domain": "whatsamook.games",
@@ -40427,7 +40383,7 @@
   {
     "title": "Tensor Trust",
     "url": "https://tensortrust.ai/",
-    "description": "AI Prompting Multiplayer Skill Game",
+    "description": "AI Prompting Multiplayer Skill Game / Discord",
     "category": "gaming",
     "subcategory": "▷ Party / Multiplayer",
     "domain": "tensortrust.ai",
@@ -40728,7 +40684,7 @@
     "category": "gaming",
     "subcategory": "▷ Shooter",
     "domain": "redcoats.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -52118,6 +52074,17 @@
     "is_tip": false
   },
   {
+    "title": "Userscripts",
+    "url": "https://apps.apple.com/us/app/userscripts/id1463298887",
+    "description": "Safari Userscript Manager / GitHub",
+    "category": "internet-tools",
+    "subcategory": "▷ Safari Extensions",
+    "domain": "apps.apple.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "CSE",
     "url": "https://cizzuk.net/projects/cse/",
     "description": "Custom Search Engine / GitHub",
@@ -60150,7 +60117,7 @@
   {
     "title": "AZair",
     "url": "https://www.azair.eu/",
-    "description": "Compare / Search European & Middle East Flights",
+    "description": "Find Budget European & Middle East Flights",
     "category": "misc",
     "subcategory": "▷ Flights",
     "domain": "azair.eu",
@@ -66567,7 +66534,7 @@
     "category": "misc",
     "subcategory": "▷ Chat / Forums",
     "domain": "somethingsarebetterleftunsaid.vercel.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76088,12 +76055,12 @@
   },
   {
     "title": "EeveeSpotifyRevivedPublic",
-    "url": "https://github.com/Meeep1/EeveeSpotifyRevivedPublic",
+    "url": "https://github.com/SideloadLabs/EeveeSpotifyReincarnated",
     "description": "Spotify / Ad-Free / Sideloaded",
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "github.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76253,12 +76220,12 @@
   },
   {
     "title": "EeveeSpotifyRevivedPublic",
-    "url": "https://github.com/Meeep1/EeveeSpotifyRevivedPublic",
+    "url": "https://github.com/SideloadLabs/EeveeSpotifyReincarnated",
     "description": "Spotify / Ad-Free / Sideloaded",
     "category": "mobile",
     "subcategory": "▷ iOS Podcasts / Radio",
     "domain": "github.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -87560,6 +87527,17 @@
     "is_tip": false
   },
   {
+    "title": "Doramasflix",
+    "url": "https://doramasflix.co/",
+    "description": "Movies / TV",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / Streamear",
+    "domain": "doramasflix.co",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Zoowomaniacos",
     "url": "https://zoowomaniacos.org/",
     "description": "Movies / TV / Rare Films",
@@ -87705,7 +87683,7 @@
   {
     "title": "Gnula.se",
     "url": "https://ww3.gnulahd.nu/",
-    "description": "TV / Anime",
+    "description": "TV / Anime / Mirrors",
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
     "domain": "ww3.gnulahd.nu",
@@ -87798,6 +87776,17 @@
     "subcategory": "▷ Streaming / Streamear",
     "domain": "seriesperu.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Doramasflix",
+    "url": "https://doramasflix.co/",
+    "description": "Asian Drama / Sub / Latino / Telegram",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / Streamear",
+    "domain": "doramasflix.co",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -102806,17 +102795,6 @@
     "is_tip": false
   },
   {
-    "title": "Tailwind Toolbox",
-    "url": "https://windytoolbox.com/",
-    "description": "Tailwind Starter Templates & Components",
-    "category": "storage",
-    "subcategory": "CSS Framework Tools",
-    "domain": "windytoolbox.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "flowchart fun",
     "url": "https://flowchart.fun/",
     "description": "Generate Flowchart from Text / GitHub",
@@ -112393,7 +112371,7 @@
     "category": "video-tools",
     "subcategory": "▷ Kodi Tools",
     "domain": "yoink.tools",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -112415,17 +112393,6 @@
     "category": "video-tools",
     "subcategory": "▷ Kodi Tools",
     "domain": "videofk.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Lostnode",
-    "url": "https://dl.lostnode.lol/",
-    "description": "Multi-Site / Online",
-    "category": "video-tools",
-    "subcategory": "▷ Kodi Tools",
-    "domain": "dl.lostnode.lol",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113234,6 +113201,17 @@
     "is_tip": false
   },
   {
+    "title": "Moving Image Archive",
+    "url": "https://www.movingimagearchive.com/",
+    "description": "Stock Videos",
+    "category": "video-tools",
+    "subcategory": "▷ Stock Videos",
+    "domain": "movingimagearchive.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Pexels",
     "url": "https://www.pexels.com/",
     "description": "Stock Videos",
@@ -113366,12 +113344,34 @@
     "is_tip": false
   },
   {
+    "title": "Spacedom",
+    "url": "https://spacedom.live/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "spacedom.live",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cinema (BZ)",
     "url": "https://cinema.army/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cinema.army",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Chillflix",
+    "url": "https://chillflix.lol/",
+    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "chillflix.lol",
     "is_new": true,
     "is_broken": false,
     "is_tip": false
@@ -113394,17 +113394,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cinetaro.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Spacedom",
-    "url": "https://spacedom.live/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "spacedom.live",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113515,7 +113504,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "lightflix.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113625,7 +113614,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "3eyedraven.watch",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113714,6 +113703,17 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "kofi.mov",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "koddo",
+    "url": "https://koddo.ch/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "koddo.ch",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -114197,17 +114197,6 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "candlestream.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Cine",
-    "url": "https://cine.su/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "cine.su",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115121,7 +115110,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "kototv.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115335,17 +115324,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Anime Silo",
-    "url": "https://animesilo.cc/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "animesilo.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Kawaii Anime",
     "url": "https://kawaiianime.cc/",
     "description": "Sub / Dub",
@@ -115385,17 +115363,6 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "banime.dedyn.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Animelok",
-    "url": "https://animelok.live/",
-    "description": "Sub / Dub / Mirrors / Telegram / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "animelok.live",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116325,17 +116292,6 @@
     "is_tip": false
   },
   {
-    "title": "Heartive",
-    "url": "https://heartivelovestv.pages.dev/live/",
-    "description": "TV / Sports",
-    "category": "video",
-    "subcategory": "▷ Live TV",
-    "domain": "heartivelovestv.pages.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "CXtv",
     "url": "https://www.cxtvlive.com/",
     "description": "TV / Sports",
@@ -116595,7 +116551,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "matchora.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117728,7 +117684,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "cinejoy.pk",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117762,6 +117718,17 @@
     "subcategory": "▷ Android TV / Firestick",
     "domain": "kmmovies.shop",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Streamo",
+    "url": "https://streamo.pro/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "streamo.pro",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
