@@ -1650,6 +1650,17 @@
     "is_tip": false
   },
   {
+    "title": "Jailbreak Listings",
+    "url": "https://rentry.org/jb-listing",
+    "description": "Prompt Directories / Jailbreaks",
+    "category": "ai",
+    "subcategory": "▷ AI Prompts",
+    "domain": "rentry.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠System Prompts Leaks",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
     "description": "AI System Prompts",
@@ -7420,7 +7431,7 @@
     "category": "audio",
     "subcategory": "▷ Karaoke / Synced Lyrics",
     "domain": "lrc.red",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8147,6 +8158,17 @@
     "subcategory": "▷ SFX / Samples",
     "domain": "sounds.spriters-resource.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠SourceSFX",
+    "url": "https://sourcesfx.com/",
+    "description": "Source Engine Sound Effects Database",
+    "category": "audio",
+    "subcategory": "▷ SFX / Samples",
+    "domain": "sourcesfx.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -23023,6 +23045,72 @@
     "is_tip": false
   },
   {
+    "title": "Guru99",
+    "url": "https://www.guru99.com/",
+    "description": "Software / Web Development",
+    "category": "educational",
+    "subcategory": "▷ Constructed Languages",
+    "domain": "guru99.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Codelabs",
+    "url": "https://codelabs.developers.google.com/",
+    "description": "Project Based Tutorials",
+    "category": "educational",
+    "subcategory": "▷ Constructed Languages",
+    "domain": "codelabs.developers.google.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "The SHA-256 Project",
+    "url": "https://github.com/oconnor663/sha256_project",
+    "description": "Learn to Develop SHA-256",
+    "category": "educational",
+    "subcategory": "▷ Constructed Languages",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "calmcode",
+    "url": "https://calmcode.io/",
+    "description": "Video Tutorials",
+    "category": "educational",
+    "subcategory": "▷ Constructed Languages",
+    "domain": "calmcode.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "zetcode",
+    "url": "https://zetcode.com/",
+    "description": "Programming Notes / Ebooks",
+    "category": "educational",
+    "subcategory": "▷ Constructed Languages",
+    "domain": "zetcode.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Ebook Foundation",
+    "url": "https://ebookfoundation.github.io/free-programming-books/",
+    "description": "Programming Ebooks",
+    "category": "educational",
+    "subcategory": "▷ Constructed Languages",
+    "domain": "ebookfoundation.github.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "First Timers Only",
     "url": "https://www.firsttimersonly.com/",
     "description": "Contribution Guide for Beginners",
@@ -23183,17 +23271,6 @@
     "category": "educational",
     "subcategory": "▷ Constructed Languages",
     "domain": "adventofcode.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Project Based Learning",
-    "url": "https://github.com/practical-tutorials/project-based-learning",
-    "description": "Collection of Project-Based Tutorials",
-    "category": "educational",
-    "subcategory": "▷ Constructed Languages",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -23436,72 +23513,6 @@
     "category": "educational",
     "subcategory": "▷ Constructed Languages",
     "domain": "botwiki.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Guru99",
-    "url": "https://www.guru99.com/",
-    "description": "Software / Web Development",
-    "category": "educational",
-    "subcategory": "► Coding Tutorials",
-    "domain": "guru99.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Codelabs",
-    "url": "https://codelabs.developers.google.com/",
-    "description": "Project Based Tutorials",
-    "category": "educational",
-    "subcategory": "► Coding Tutorials",
-    "domain": "codelabs.developers.google.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "The SHA-256 Project",
-    "url": "https://github.com/oconnor663/sha256_project",
-    "description": "Learn to Develop SHA-256",
-    "category": "educational",
-    "subcategory": "► Coding Tutorials",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "calmcode",
-    "url": "https://calmcode.io/",
-    "description": "Video Tutorials",
-    "category": "educational",
-    "subcategory": "► Coding Tutorials",
-    "domain": "calmcode.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "zetcode",
-    "url": "https://zetcode.com/",
-    "description": "Programming Notes / Ebooks",
-    "category": "educational",
-    "subcategory": "► Coding Tutorials",
-    "domain": "zetcode.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Ebook Foundation",
-    "url": "https://ebookfoundation.github.io/free-programming-books/",
-    "description": "Programming Ebooks",
-    "category": "educational",
-    "subcategory": "► Coding Tutorials",
-    "domain": "ebookfoundation.github.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -52080,7 +52091,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Safari Extensions",
     "domain": "apps.apple.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -54413,6 +54424,17 @@
     "subcategory": "▷ Linux Gaming",
     "domain": "gamingonlinux.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "appnetica",
+    "url": "https://appnetica.com/?platform=linux",
+    "description": "Linux Games",
+    "category": "linux-macos",
+    "subcategory": "▷ Linux Gaming",
+    "domain": "appnetica.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -56833,6 +56855,17 @@
     "subcategory": "▷ Mac Gaming",
     "domain": "rutracker.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "appnetica",
+    "url": "https://appnetica.com/?platform=mac",
+    "description": "Mac Games",
+    "category": "linux-macos",
+    "subcategory": "▷ Mac Gaming",
+    "domain": "appnetica.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -66704,17 +66737,6 @@
     "is_tip": false
   },
   {
-    "title": "Floor796",
-    "url": "https://floor796.com/",
-    "description": "Ever-Expanding Animated Scene",
-    "category": "misc",
-    "subcategory": "▷ Image / Video",
-    "domain": "floor796.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ThisXDoesNotExist",
     "url": "https://thisxdoesnotexist.com/",
     "description": "Realistic-Looking Fake Versions of Things",
@@ -76060,6 +76082,17 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "SpotC++",
+    "url": "https://spotc.yodaluca.dev/",
+    "description": "Spotify / Ad-Free / Sideloaded / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ Social Media Apps",
+    "domain": "spotc.yodaluca.dev",
     "is_new": true,
     "is_broken": false,
     "is_tip": false
@@ -76225,6 +76258,17 @@
     "category": "mobile",
     "subcategory": "▷ iOS Podcasts / Radio",
     "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "SpotC++",
+    "url": "https://spotc.yodaluca.dev/",
+    "description": "Spotify / Ad-Free / Sideloaded / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ iOS Podcasts / Radio",
+    "domain": "spotc.yodaluca.dev",
     "is_new": true,
     "is_broken": false,
     "is_tip": false
@@ -87533,7 +87577,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
     "domain": "doramasflix.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -87786,7 +87830,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
     "domain": "doramasflix.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111782,6 +111826,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠JumpSkip",
+    "url": "https://github.com/ElectricArdvark/jumpskip",
+    "description": "Intro / Outro Skipping Script for MPV",
+    "category": "video-tools",
+    "subcategory": "▷ MPV Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "ThumbFast",
     "url": "https://github.com/po5/thumbfast",
     "description": "MPV Thumbnails",
@@ -113207,7 +113262,7 @@
     "category": "video-tools",
     "subcategory": "▷ Stock Videos",
     "domain": "movingimagearchive.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113372,7 +113427,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "chillflix.lol",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113713,7 +113768,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "koddo.ch",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115077,17 +115132,6 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anidoor.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Lunar",
-    "url": "https://lunarx.to/",
-    "description": "Sub / Dub / Telegram / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "lunarx.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117728,7 +117772,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "streamo.pro",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119368,6 +119412,17 @@
     "subcategory": "▷ Recommendation Tools",
     "domain": "movielens.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Nothing To Watch",
+    "url": "https://nothing-to-watch.port80.ch/",
+    "description": "Interactive Movie Discovery Visualization / Uses 250MB / GitHub",
+    "category": "video",
+    "subcategory": "▷ Recommendation Tools",
+    "domain": "nothing-to-watch.port80.ch",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
