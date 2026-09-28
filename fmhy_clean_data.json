@@ -1909,7 +1909,7 @@
     "category": "ai",
     "subcategory": "▷ Specialized Benchmarks",
     "domain": "huggingface.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2025,12 +2025,12 @@
   },
   {
     "title": "Sonora",
-    "url": "https://github.com/nolight132/sonora",
-    "description": "YouTube Music Client / Discord",
+    "url": "https://sonorahq.org/",
+    "description": "YouTube Music Client / Discord / GitHub",
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
-    "domain": "github.com",
-    "is_new": false,
+    "domain": "sonorahq.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -4318,7 +4318,7 @@
     "category": "audio",
     "subcategory": "▷ Audio Ripping Sites",
     "domain": "popify.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -7019,12 +7019,12 @@
   },
   {
     "title": "Sonora",
-    "url": "https://github.com/nolight132/sonora",
-    "description": "Audio Player / Subsonic Player / Windows, macOS, Linux / Discord",
+    "url": "https://sonorahq.org/",
+    "description": "Audio Player / Subsonic Player / Windows, macOS, Linux / Discord / GitHub",
     "category": "audio",
     "subcategory": "▷ Audio Players",
-    "domain": "github.com",
-    "is_new": false,
+    "domain": "sonorahq.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -7442,7 +7442,7 @@
     "category": "audio",
     "subcategory": "▷ Karaoke / Synced Lyrics",
     "domain": "karaoke.zoryva.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -16682,7 +16682,7 @@
     "category": "educational",
     "subcategory": "▷ Engineering",
     "domain": "hackster.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21082,7 +21082,7 @@
     "category": "educational",
     "subcategory": "▷ Art / Editing",
     "domain": "theetheringtonbrothers.blogspot.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21522,7 +21522,7 @@
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "olympiadstats.fun",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21698,7 +21698,7 @@
     "category": "educational",
     "subcategory": "▷ Dungeons & Dragons",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -22754,7 +22754,7 @@
     "category": "educational",
     "subcategory": "▷ European",
     "domain": "lrc.la.utexas.edu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24690,7 +24690,7 @@
     "category": "educational",
     "subcategory": "▷ Cybersecurity",
     "domain": "shenouda.nl",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33143,17 +33143,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Vanilla RTX",
-    "url": "https://github.com/cubeir/Vanilla-RTX-App",
-    "description": "Bedrock RTX Pack Manager",
-    "category": "gaming-tools",
-    "subcategory": "▷ Customization",
-    "domain": "github.com",
-    "is_new": true,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ConvertMCPack",
     "url": "https://convertmcpack.net/",
     "description": "Pack Converters",
@@ -35119,6 +35108,17 @@
     "subcategory": "General",
     "domain": "g4u.to",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "SteamUnderground",
+    "url": "https://steamunderground.net/",
+    "description": "Download / Pre-Installed / Use Adblock / Discord",
+    "category": "gaming",
+    "subcategory": "General",
+    "domain": "steamunderground.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -38143,7 +38143,7 @@
     "category": "gaming",
     "subcategory": "▷ Retro Browser Emulators",
     "domain": "0x00-8191.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -39767,11 +39767,11 @@
   {
     "title": "⁠wasm.rip",
     "url": "https://wasm.rip/",
-    "description": "Browser PC Game Ports",
+    "description": "Browser PC Game Ports / Discord / GitHub",
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "wasm.rip",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -45832,7 +45832,7 @@
     "category": "image-tools",
     "subcategory": "▷ 3D Modeling Tools",
     "domain": "ilove3d.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -47207,7 +47207,7 @@
     "category": "image-tools",
     "subcategory": "▷ Color Pickers",
     "domain": "dofsimulator.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -47977,7 +47977,7 @@
     "category": "internet-tools",
     "subcategory": "▷ QR Code Tools",
     "domain": "midasqr.is-local.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -49792,7 +49792,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Temp Mail",
     "domain": "tempmail.cloud",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -53081,7 +53081,7 @@
     "category": "linux-macos",
     "subcategory": "▷ CLI Cheat Sheets",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -57646,7 +57646,7 @@
     "category": "misc",
     "subcategory": "General",
     "domain": "wispydocs.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -61507,7 +61507,7 @@
     "category": "misc",
     "subcategory": "▷ Satellite / Earth Data",
     "domain": "geowhisperer.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64708,7 +64708,7 @@
     "category": "misc",
     "subcategory": "▷ Electronics / Tech",
     "domain": "vr-compare.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65731,7 +65731,7 @@
     "category": "misc",
     "subcategory": "▷ Multi Tool Sites",
     "domain": "delphi.tools",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -70582,7 +70582,7 @@
     "category": "mobile",
     "subcategory": "▷ Keyboard Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -70736,7 +70736,7 @@
     "category": "mobile",
     "subcategory": "▷ Number / SMS",
     "domain": "davx5.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72309,7 +72309,7 @@
     "category": "mobile",
     "subcategory": "▷ Date & Time",
     "domain": "davx5.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -86752,7 +86752,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading / Descargar",
     "domain": "somosmovies.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -86786,6 +86786,17 @@
     "subcategory": "▷ Downloading / Descargar",
     "domain": "latinomegahd.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Descargatepelis",
+    "url": "https://descargatepelis.com/",
+    "description": "Movies / TV / Telegram",
+    "category": "non-english",
+    "subcategory": "▷ Downloading / Descargar",
+    "domain": "descargatepelis.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -87402,6 +87413,17 @@
     "subcategory": "▷ Streaming / Streamear",
     "domain": "doramasflix.co",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Descargatepelis",
+    "url": "https://descargatepelis.com/",
+    "description": "Movies / TV / Telegram",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / Streamear",
+    "domain": "descargatepelis.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92109,7 +92131,7 @@
     "category": "reading",
     "subcategory": "General",
     "domain": "t.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -98192,7 +98214,7 @@
     "category": "reading",
     "subcategory": "▷ Comic Tracking / Databases",
     "domain": "versedb.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -101981,6 +102003,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠BXD Enhancer",
+    "url": "https://method.billoxd.site/",
+    "description": "Bypass TikTok Compression",
+    "category": "social-media-tools",
+    "subcategory": "▷ Viewers / Downloaders",
+    "domain": "method.billoxd.site",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "TikTok Chat Reader",
     "url": "https://tiktok-chat-reader.zerody.one/",
     "description": "Live TikTok Chat Reader",
@@ -105573,7 +105606,7 @@
     "category": "system-tools",
     "subcategory": "▷ Windows Activation",
     "domain": "rentry.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -109758,17 +109791,6 @@
     "is_tip": false
   },
   {
-    "title": "Cleanbay",
-    "url": "https://cleanbay.netlify.app/",
-    "description": "",
-    "category": "torrenting",
-    "subcategory": "▷ Aggregators",
-    "domain": "cleanbay.netlify.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠The Black Hole Bay",
     "url": "https://theblackholebay.lol/",
     "description": "DHT-Based / Discord",
@@ -113124,24 +113146,13 @@
     "is_tip": false
   },
   {
-    "title": "VaultPlayer",
-    "url": "https://vaultplayer.co.uk/",
-    "description": "Movies / TV",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "vaultplayer.co.uk",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Toflix",
     "url": "https://toflix.co/",
     "description": "Movies / TV / Anime / Auto-Next",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "toflix.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113196,17 +113207,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "lightflix.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Boomflix",
-    "url": "https://boomflix.pages.dev/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "boomflix.pages.dev",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113322,6 +113322,28 @@
     "is_tip": false
   },
   {
+    "title": "VaultPlayer",
+    "url": "https://vaultplayer.co.uk/",
+    "description": "Movies / TV / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "vaultplayer.co.uk",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "dulo",
+    "url": "https://dulo.mov/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "dulo.mov",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Flixtrz",
     "url": "https://flixtrz.com/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -113329,6 +113351,17 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "flixtrz.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "moanatv.",
+    "url": "https://lfmx.app/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "lfmx.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -114807,17 +114840,6 @@
     "is_tip": false
   },
   {
-    "title": "KuroAnime",
-    "url": "https://kuroanime.lol/",
-    "description": "Sub / Dub / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "kuroanime.lol",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠NekoWatch",
     "url": "https://nekowatch.xyz/",
     "description": "Sub / Dub / Auto-Next / Discord",
@@ -114967,7 +114989,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anixo.online",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115957,17 +115979,6 @@
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "titantv.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Live24",
-    "url": "https://livelive24.com/",
-    "description": "TV / Sports",
-    "category": "video",
-    "subcategory": "▷ Live TV",
-    "domain": "livelive24.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117557,17 +117568,6 @@
     "is_tip": false
   },
   {
-    "title": "Pahe",
-    "url": "https://pahe.ink/",
-    "description": "Movies / TV / Anime / 4K / Warning / Discord",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "pahe.ink",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "StagaTV",
     "url": "https://www.stagatv.com/",
     "description": "Movies / TV",
@@ -117772,6 +117772,17 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "tvshows.ac",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Pahe",
+    "url": "https://pahe.ink/",
+    "description": "Movies / TV / Anime / 4K / Warning / Discord",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "pahe.ink",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
