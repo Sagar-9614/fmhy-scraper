@@ -2030,7 +2030,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "sonorahq.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -4319,6 +4319,17 @@
     "subcategory": "▷ Audio Ripping Sites",
     "domain": "popify.cc",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Octave",
+    "url": "https://octavestreaming.com/",
+    "description": "Multi-Site / LAC / Dolby Atmos / AAC (320) / MP3 (128) / Discord",
+    "category": "audio",
+    "subcategory": "▷ Audio Ripping Sites",
+    "domain": "octavestreaming.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -7024,7 +7035,7 @@
     "category": "audio",
     "subcategory": "▷ Audio Players",
     "domain": "sonorahq.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -13433,7 +13444,7 @@
   {
     "title": "Pyfunceble",
     "url": "https://pyfunceble.github.io/#/",
-    "description": "Domain Availability App",
+    "description": "Domain Availability App / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
     "domain": "pyfunceble.github.io",
@@ -13521,7 +13532,7 @@
   {
     "title": "overscript",
     "url": "https://overscript.net/",
-    "description": "Imageboard Hosting",
+    "description": "Imageboard Hosting / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
     "domain": "overscript.net",
@@ -13565,7 +13576,7 @@
   {
     "title": "redirect.name",
     "url": "https://redirect.name/",
-    "description": "URL Forwarding",
+    "description": "URL Forwarding / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ SVG Tools",
     "domain": "redirect.name",
@@ -16484,17 +16495,6 @@
     "category": "educational",
     "subcategory": "▷ Math",
     "domain": "mathjax.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ISciDAVis",
-    "url": "https://sourceforge.net/projects/scidavis/",
-    "description": "Scientific Data Plotter",
-    "category": "educational",
-    "subcategory": "▷ Math",
-    "domain": "sourceforge.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -21923,17 +21923,6 @@
     "is_tip": false
   },
   {
-    "title": "Verbix",
-    "url": "https://www.verbix.com/",
-    "description": "Verb Conjugator",
-    "category": "educational",
-    "subcategory": "▷ Multi-Language",
-    "domain": "verbix.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ListLang",
     "url": "https://www.listlang.com/",
     "description": "Most Used Words in Any Language",
@@ -24629,6 +24618,17 @@
     "is_tip": false
   },
   {
+    "title": "BFE.dev",
+    "url": "https://bigfrontend.dev/",
+    "description": "Learn Frontend Development / Interactive",
+    "category": "educational",
+    "subcategory": "▷ UI / UX",
+    "domain": "bigfrontend.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "HTML Dog",
     "url": "https://htmldog.com/",
     "description": "Frontend Tutorials & Examples",
@@ -26070,6 +26070,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Lexicoff",
+    "url": "https://lexicoff.com/",
+    "description": "Offline Dictionary",
+    "category": "educational",
+    "subcategory": "▷ Dictionaries / Thesaurus",
+    "domain": "lexicoff.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Wordnik",
     "url": "https://www.wordnik.com/",
     "description": "Dictionary",
@@ -26633,7 +26644,7 @@
   {
     "title": "Varia",
     "url": "https://github.com/giantpinkrobots/varia",
-    "description": "Download Manager / Firefox / Chrome / Windows, macOS, Linux",
+    "description": "Download Manager / Firefox / Chrome / Extesnsion / Windows, macOS, Linux",
     "category": "file-tools",
     "subcategory": "▷ Download Managers",
     "domain": "github.com",
@@ -31163,6 +31174,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SmokeAPI",
+    "url": "https://github.com/acidicoala/SmokeAPI",
+    "description": "Steam DLC Unlocker",
+    "category": "gaming-tools",
+    "subcategory": "▷ DLC Unlock / DRM Bypass",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "CreamInstaller Revival",
     "url": "https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539",
     "description": "Steam DLC Unlocker / GitHub",
@@ -35118,7 +35140,7 @@
     "category": "gaming",
     "subcategory": "General",
     "domain": "steamunderground.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -39833,7 +39855,7 @@
   {
     "title": "Y8",
     "url": "https://www.y8.com/",
-    "description": "Browser Game Aggregator",
+    "description": "Browser Game Aggregator / Discord",
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "y8.com",
@@ -39976,7 +39998,7 @@
   {
     "title": "⁠Play Games",
     "url": "https://www.play-games.com/",
-    "description": "Browser Game Aggregator",
+    "description": "Browser Game Aggregator / Discord",
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "play-games.com",
@@ -47751,17 +47773,6 @@
     "is_tip": false
   },
   {
-    "title": "WAO",
-    "url": "https://dedg3.com/wao/",
-    "description": "WhatsApp Client / Windows, macOS",
-    "category": "internet-tools",
-    "subcategory": "▷ Chat Tools",
-    "domain": "dedg3.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "WAIncognito",
     "url": "https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil",
     "description": "Disable WhatsApp Read Receipts & Presence Updates / Web",
@@ -47823,17 +47834,6 @@
     "category": "internet-tools",
     "subcategory": "▷ Chat Tools",
     "domain": "brie.fi",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Talky",
-    "url": "https://talky.io/",
-    "description": "Video Chat / Web",
-    "category": "internet-tools",
-    "subcategory": "▷ Chat Tools",
-    "domain": "talky.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -47911,17 +47911,6 @@
     "category": "internet-tools",
     "subcategory": "▷ Chat Tools",
     "domain": "profanity-im.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "xabber",
-    "url": "https://www.xabber.com/",
-    "description": "XMPP Client / Android, Web",
-    "category": "internet-tools",
-    "subcategory": "▷ Chat Tools",
-    "domain": "xabber.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -48015,34 +48004,12 @@
     "is_tip": false
   },
   {
-    "title": "ZapQR",
-    "url": "https://zapqr.net/en",
-    "description": "Generator / Customizable",
-    "category": "internet-tools",
-    "subcategory": "▷ QR Code Tools",
-    "domain": "zapqr.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠FreeQRApp",
     "url": "https://freeqrapp.com/",
     "description": "Generator / Customizable",
     "category": "internet-tools",
     "subcategory": "▷ QR Code Tools",
     "domain": "freeqrapp.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "2QR",
-    "url": "https://2qr.info/",
-    "description": "Generator",
-    "category": "internet-tools",
-    "subcategory": "▷ QR Code Tools",
-    "domain": "2qr.info",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -48312,6 +48279,17 @@
     "is_tip": false
   },
   {
+    "title": "Raw Web",
+    "url": "https://rawweb.org/",
+    "description": "Blog Search",
+    "category": "internet-tools",
+    "subcategory": "▷ RSS Feed Generators",
+    "domain": "rawweb.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "VHSearch",
     "url": "https://vhs.neocities.org/",
     "description": "Neocities Search Engine",
@@ -48384,28 +48362,6 @@
     "category": "internet-tools",
     "subcategory": "▷ RSS Feed Generators",
     "domain": "rfc.fyi",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "OCCRP Aleph",
-    "url": "https://aleph.occrp.org/",
-    "description": "Public Records / Leaks Search",
-    "category": "internet-tools",
-    "subcategory": "▷ RSS Feed Generators",
-    "domain": "aleph.occrp.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "OpenOwnership",
-    "url": "https://register.openownership.org/",
-    "description": "Company Ownership Search",
-    "category": "internet-tools",
-    "subcategory": "▷ RSS Feed Generators",
-    "domain": "register.openownership.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -56518,28 +56474,6 @@
     "is_tip": false
   },
   {
-    "title": "Darkroom",
-    "url": "https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746",
-    "description": "Image / Video Editor",
-    "category": "linux-macos",
-    "subcategory": "▷ Mac Image",
-    "domain": "apps.apple.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "SeaShore",
-    "url": "https://sourceforge.net/projects/seashore/",
-    "description": "Image Editor",
-    "category": "linux-macos",
-    "subcategory": "▷ Mac Image",
-    "domain": "sourceforge.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ImageOptim",
     "url": "https://imageoptim.com/mac",
     "description": "Image Optimization",
@@ -57427,6 +57361,17 @@
     "subcategory": "▷ System Tools",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Sushitrain",
+    "url": "https://github.com/pixelspark/sushitrain",
+    "description": "iOS + macOS File Sync / SyncThing",
+    "category": "linux-macos",
+    "subcategory": "▷ File Tools",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -59928,45 +59873,12 @@
     "is_tip": false
   },
   {
-    "title": "AZair",
-    "url": "https://www.azair.eu/",
-    "description": "Find Budget European & Middle East Flights",
-    "category": "misc",
-    "subcategory": "▷ Flights",
-    "domain": "azair.eu",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "seats.aero",
-    "url": "https://seats.aero/",
-    "description": "Flight Search Engine / X / Discord",
-    "category": "misc",
-    "subcategory": "▷ Flights",
-    "domain": "seats.aero",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Matrix",
     "url": "https://matrix.itasoftware.com/",
     "description": "Airfare Search",
     "category": "misc",
     "subcategory": "▷ Flights",
     "domain": "matrix.itasoftware.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FlightConnections",
-    "url": "https://www.flightconnections.com/",
-    "description": "Interactive Flight Routes",
-    "category": "misc",
-    "subcategory": "▷ Flights",
-    "domain": "flightconnections.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -60011,17 +59923,6 @@
     "category": "misc",
     "subcategory": "▷ Flights",
     "domain": "adsb.im",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Notamify",
-    "url": "https://notamify.com/",
-    "description": "Decode NOTAMs / Track Flight Delays",
-    "category": "misc",
-    "subcategory": "▷ Flights",
-    "domain": "notamify.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -67672,17 +67573,6 @@
     "is_tip": false
   },
   {
-    "title": "Fidget Page",
-    "url": "https://www.fidgetpage.com/",
-    "description": "Play with Fidget Spinner",
-    "category": "misc",
-    "subcategory": "▷ Interactive",
-    "domain": "fidgetpage.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Keep calm and poke me.",
     "url": "https://calm.ovh/",
     "description": "Poke & Pull",
@@ -74371,6 +74261,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Sushitrain",
+    "url": "https://github.com/pixelspark/sushitrain",
+    "description": "iOS + macOS File Sync / SyncThing",
+    "category": "mobile",
+    "subcategory": "▷ Android YouTube Apps",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Sia Storage",
     "url": "https://sia.storage",
     "description": "Cloud Storage / 50GB / GitHub",
@@ -75917,17 +75818,6 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "spoti.pw",
-    "url": "https://t.me/eeveespotify_hazel",
-    "description": "Spotify / Ad-Free / Sideloaded / GitHub",
-    "category": "mobile",
-    "subcategory": "▷ Social Media Apps",
-    "domain": "t.me",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -81466,6 +81356,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Bollyflix",
+    "url": "https://bollyflix.bi/",
+    "description": "Movies / TV / 1080p",
+    "category": "non-english",
+    "subcategory": "▷ Downloading",
+    "domain": "bollyflix.bi",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "KMMovies",
     "url": "https://kmmovies.life/",
     "description": "Movies / TV / Anime / 1080p",
@@ -86796,7 +86697,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading / Descargar",
     "domain": "descargatepelis.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -87363,12 +87264,12 @@
   },
   {
     "title": "Cinezo",
-    "url": "https://www.cinezo.org/",
+    "url": "https://www.cinezo.st/",
     "description": "Movies / TV / Anime / Auto-Next / Watch Parties / Discord",
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
-    "domain": "cinezo.org",
-    "is_new": false,
+    "domain": "cinezo.st",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -87423,7 +87324,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
     "domain": "descargatepelis.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92061,7 +91962,7 @@
   {
     "title": "⁠eBookoz",
     "url": "https://ebookoz.net/",
-    "description": "Books",
+    "description": "Books / Download / Forum",
     "category": "reading",
     "subcategory": "General",
     "domain": "ebookoz.net",
@@ -92132,6 +92033,17 @@
     "subcategory": "General",
     "domain": "t.me",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "eBooks1001",
+    "url": "https://ebooks1001.com/",
+    "description": "Books / Download / Requires Debrid",
+    "category": "reading",
+    "subcategory": "General",
+    "domain": "ebooks1001.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -102009,7 +101921,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Viewers / Downloaders",
     "domain": "method.billoxd.site",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106955,7 +106867,7 @@
   {
     "title": "Kompad",
     "url": "https://github.com/hudy9x/kompad",
-    "description": "Text Editor / Web Based",
+    "description": "Text Editor / Web",
     "category": "text-tools",
     "subcategory": "▷ Typing Lessons",
     "domain": "github.com",
@@ -107466,6 +107378,17 @@
     "subcategory": "▷ Online Editors",
     "domain": "edit.chaxus.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "EdenText",
+    "url": "https://edentext.app/",
+    "description": "Local Saves / GitHub",
+    "category": "text-tools",
+    "subcategory": "▷ Online Editors",
+    "domain": "edentext.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -110297,9 +110220,42 @@
     "is_tip": false
   },
   {
+    "title": "⁠uxplay-windows",
+    "url": "https://github.com/leapbtw/uxplay-windows",
+    "description": "AirPlay Receiver / Windows",
+    "category": "video-tools",
+    "subcategory": "General",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Deep-Live-Cam",
+    "url": "https://github.com/hacksider/Deep-Live-Cam",
+    "description": "Video Face Swap / Windows, macOS, Linux",
+    "category": "video-tools",
+    "subcategory": "General",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Rope",
+    "url": "https://github.com/Hillobar/Rope",
+    "description": "Video Face Swap Tools / Windows / Discord",
+    "category": "video-tools",
+    "subcategory": "General",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "VideoHelp Forum",
     "url": "https://forum.videohelp.com/",
-    "description": "All Things Media / Video",
+    "description": "All Things Media Discussion / Web",
     "category": "video-tools",
     "subcategory": "General",
     "domain": "forum.videohelp.com",
@@ -110310,7 +110266,7 @@
   {
     "title": "videoduplicatefinder",
     "url": "https://github.com/0x90d/videoduplicatefinder",
-    "description": "Duplicate Video Finder",
+    "description": "Duplicate Video Finder / Windows, macOS, Linux, Docker",
     "category": "video-tools",
     "subcategory": "General",
     "domain": "github.com",
@@ -110321,7 +110277,7 @@
   {
     "title": "MkvDefaultTrackChanger",
     "url": "https://mkvdefaulttrackchanger.pages.dev/",
-    "description": "Easily Change Default MKV Subtitle / Audio Tracks / GitHub",
+    "description": "Change Default MKV Subtitle / Audio Tracks / Windows, macOS, Linux / GitHub",
     "category": "video-tools",
     "subcategory": "General",
     "domain": "mkvdefaulttrackchanger.pages.dev",
@@ -110330,44 +110286,33 @@
     "is_tip": false
   },
   {
-    "title": "⁠MP4Recover",
-    "url": "https://github.com/ActiveTK/MP4Recover",
-    "description": "Recover Broken MP4 Files",
+    "title": "ImgBurn",
+    "url": "https://www.majorgeeks.com/files/details/imgburn.html",
+    "description": "CD / DVD Burning / Windows",
     "category": "video-tools",
-    "subcategory": "General",
-    "domain": "github.com",
-    "is_new": false,
+    "subcategory": "▷ Physical Media Tools",
+    "domain": "majorgeeks.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "VHS Decode",
-    "url": "https://github.com/oyvindln/vhs-decode",
-    "description": "VHS Decoder",
+    "title": "DVDStyler",
+    "url": "https://sourceforge.net/projects/dvdstyler/",
+    "description": "CD / DVD Burning / Windows, macOS, Linux",
     "category": "video-tools",
-    "subcategory": "General",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "VidClue",
-    "url": "https://vidclue.com/",
-    "description": "Short Form Video Inspiration",
-    "category": "video-tools",
-    "subcategory": "General",
-    "domain": "vidclue.com",
-    "is_new": false,
+    "subcategory": "▷ Physical Media Tools",
+    "domain": "sourceforge.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "DGDemux",
     "url": "https://www.rationalqm.us/dgdemux/dgdemux.html",
-    "description": "Blu-ray/UHD Disk Demuxer",
+    "description": "Blu-ray/UHD Disk Demuxer / Windows, Linux",
     "category": "video-tools",
-    "subcategory": "▷ Disc Utilities",
+    "subcategory": "▷ Physical Media Tools",
     "domain": "rationalqm.us",
     "is_new": false,
     "is_broken": false,
@@ -110376,9 +110321,9 @@
   {
     "title": "PgcDemux",
     "url": "https://www.videohelp.com/software/PgcDemux",
-    "description": "DVD Disk Demuxer",
+    "description": "DVD Disk Demuxer / Windows",
     "category": "video-tools",
-    "subcategory": "▷ Disc Utilities",
+    "subcategory": "▷ Physical Media Tools",
     "domain": "videohelp.com",
     "is_new": false,
     "is_broken": false,
@@ -110387,21 +110332,10 @@
   {
     "title": "BatchGuy",
     "url": "https://github.com/yaboy58/BatchGuy",
-    "description": "Blu-ray Ripping",
+    "description": "Blu-ray Ripping / Windows",
     "category": "video-tools",
-    "subcategory": "▷ Disc Utilities",
+    "subcategory": "▷ Physical Media Tools",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "UHD Drives Flashing Guide",
-    "url": "https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634",
-    "description": "",
-    "category": "video-tools",
-    "subcategory": "▷ Disc Utilities",
-    "domain": "forum.makemkv.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -110409,10 +110343,21 @@
   {
     "title": "Redump",
     "url": "https://redump.info/",
-    "description": "Disc Preservation Info Project",
+    "description": "Disc Preservation Info Project / Web",
     "category": "video-tools",
-    "subcategory": "▷ Disc Utilities",
+    "subcategory": "▷ Physical Media Tools",
     "domain": "redump.info",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "VHS Decode",
+    "url": "https://github.com/oyvindln/vhs-decode",
+    "description": "VHS Decoder / Windows, macOS, Linux",
+    "category": "video-tools",
+    "subcategory": "▷ Physical Media Tools",
+    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -110622,17 +110567,6 @@
     "category": "video-tools",
     "subcategory": "▷ Screen Recording",
     "domain": "mythtv.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Cursorful",
-    "url": "https://cursorful.com/",
-    "description": "Browser Screen Recording",
-    "category": "video-tools",
-    "subcategory": "▷ Screen Recording",
-    "domain": "cursorful.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113190,17 +113124,6 @@
     "is_tip": false
   },
   {
-    "title": "Cinemove",
-    "url": "https://cinemove.cc/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "cinemove.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Lightflix",
     "url": "https://lightflix.app/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -113300,6 +113223,17 @@
     "is_tip": false
   },
   {
+    "title": "moanatv.",
+    "url": "https://lfmx.app/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "lfmx.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "All You Can Watch",
     "url": "https://allyoucanwatch.net/",
     "description": "Movies / TV / Anime / Telegram / Discord",
@@ -113339,7 +113273,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "dulo.mov",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113351,17 +113285,6 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "flixtrz.com",
     "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "moanatv.",
-    "url": "https://lfmx.app/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "lfmx.app",
-    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -113615,6 +113538,17 @@
     "subcategory": "▷ P-Stream Forks",
     "domain": "peestream.in",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Cineby (gdn)",
+    "url": "https://cineby.gdn/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ P-Stream Forks",
+    "domain": "cineby.gdn",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115060,6 +114994,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Anikage",
+    "url": "https://anikage.cc/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "anikage.cc",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Yenime",
     "url": "https://yenime.net/",
     "description": "Sub / Dub / Discord",
@@ -115100,6 +115045,17 @@
     "subcategory": "▷ Anime Streaming",
     "domain": "yomi.to",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Ani.pm",
+    "url": "https://ani.pm/",
+    "description": "Sub / Dub / Discord",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "ani.pm",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115419,6 +115375,17 @@
     "subcategory": "▷ TV Streaming",
     "domain": "disneynow.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Red Bull TV",
+    "url": "https://www.redbull.tv/",
+    "description": "Full Red Bull TV Episodes / Movies",
+    "category": "video",
+    "subcategory": "▷ TV Streaming",
+    "domain": "redbull.tv",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117036,6 +117003,17 @@
     "subcategory": "▷ IPTV Players",
     "domain": "channelstore.roku.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Twoku",
+    "url": "https://github.com/worldreboot/twitch-reloaded-roku",
+    "description": "Improved Roku Twitch Client",
+    "category": "video",
+    "subcategory": "▷ IPTV Players",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
