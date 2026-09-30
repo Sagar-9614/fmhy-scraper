@@ -4325,11 +4325,11 @@
   {
     "title": "⁠Octave",
     "url": "https://octavestreaming.com/",
-    "description": "Multi-Site / LAC / Dolby Atmos / AAC (320) / MP3 (128) / Discord",
+    "description": "Multi-Site / FLAC / Dolby Atmos / AAC (320) / MP3 (128) / Discord",
     "category": "audio",
     "subcategory": "▷ Audio Ripping Sites",
     "domain": "octavestreaming.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24624,7 +24624,7 @@
     "category": "educational",
     "subcategory": "▷ UI / UX",
     "domain": "bigfrontend.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -26076,7 +26076,7 @@
     "category": "educational",
     "subcategory": "▷ Dictionaries / Thesaurus",
     "domain": "lexicoff.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28611,6 +28611,17 @@
     "is_tip": false
   },
   {
+    "title": "Proton Drive",
+    "url": "https://proton.me/drive",
+    "description": "5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / Discord / Note",
+    "category": "file-tools",
+    "subcategory": "▷ Cloud Storage",
+    "domain": "proton.me",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "disk.yandex",
     "url": "https://disk.yandex.com/",
     "description": "5GB / 2 Years / ~$2.61 (4TB Personal)",
@@ -28705,17 +28716,6 @@
     "category": "file-tools",
     "subcategory": "▷ Cloud Storage",
     "domain": "keybase.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Proton Drive",
-    "url": "https://proton.me/drive",
-    "description": "5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / Discord / Note",
-    "category": "file-tools",
-    "subcategory": "▷ Cloud Storage",
-    "domain": "proton.me",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -31180,7 +31180,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ DLC Unlock / DRM Bypass",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -48285,7 +48285,7 @@
     "category": "internet-tools",
     "subcategory": "▷ RSS Feed Generators",
     "domain": "rawweb.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -57371,7 +57371,7 @@
     "category": "linux-macos",
     "subcategory": "▷ File Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72754,13 +72754,13 @@
     "is_tip": false
   },
   {
-    "title": "postmarketOS",
-    "url": "https://www.postmarketos.org/",
+    "title": "Nura",
+    "url": "https://nura.eco/",
     "description": "Alpine-Based",
     "category": "mobile",
     "subcategory": "▷ Linux on Android",
-    "domain": "postmarketos.org",
-    "is_new": false,
+    "domain": "nura.eco",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -74267,7 +74267,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75252,12 +75252,12 @@
   },
   {
     "title": "Feather",
-    "url": "https://github.com/khcrysalis/Feather",
+    "url": "https://github.com/claration/feather",
     "description": "App Signer (iOS 15.0 & Above) / Requires Apple Dev Certificate",
     "category": "mobile",
     "subcategory": "▷ iOS Sideloading",
     "domain": "github.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -81362,7 +81362,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading",
     "domain": "bollyflix.bi",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -81715,6 +81715,17 @@
     "subcategory": "▷ Streaming",
     "domain": "cloudy.pk",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠MX Player on Prime",
+    "url": "https://www.primevideo.com/collection/streamfree?tr=in",
+    "description": "Movies / TV / Free w/ Ads",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "primevideo.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -87269,7 +87280,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
     "domain": "cinezo.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92043,7 +92054,7 @@
     "category": "reading",
     "subcategory": "General",
     "domain": "ebooks1001.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107388,7 +107399,7 @@
     "category": "text-tools",
     "subcategory": "▷ Online Editors",
     "domain": "edentext.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -110226,7 +110237,7 @@
     "category": "video-tools",
     "subcategory": "General",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -110237,7 +110248,7 @@
     "category": "video-tools",
     "subcategory": "General",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -110248,7 +110259,7 @@
     "category": "video-tools",
     "subcategory": "General",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -110292,7 +110303,7 @@
     "category": "video-tools",
     "subcategory": "▷ Physical Media Tools",
     "domain": "majorgeeks.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -110303,7 +110314,7 @@
     "category": "video-tools",
     "subcategory": "▷ Physical Media Tools",
     "domain": "sourceforge.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -112981,6 +112992,17 @@
     "is_tip": false
   },
   {
+    "title": "FlyStream",
+    "url": "https://flystream.net/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "flystream.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Spacedom",
     "url": "https://spacedom.live/",
     "description": "Movies / TV / Anime / Auto-Next / Discord",
@@ -113135,17 +113157,6 @@
     "is_tip": false
   },
   {
-    "title": "FlyStream",
-    "url": "https://flystream.net/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "flystream.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Overlook",
     "url": "https://overlook.cx/",
     "description": "Movies / TV / Anime / Discord",
@@ -113170,7 +113181,7 @@
   {
     "title": "Cineapse",
     "url": "https://www.cineapse.net/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K",
+    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cineapse.net",
@@ -113548,7 +113559,7 @@
     "category": "video",
     "subcategory": "▷ P-Stream Forks",
     "domain": "cineby.gdn",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115000,7 +115011,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anikage.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115055,7 +115066,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "ani.pm",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115385,7 +115396,7 @@
     "category": "video",
     "subcategory": "▷ TV Streaming",
     "domain": "redbull.tv",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117013,7 +117024,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
