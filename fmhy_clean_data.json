@@ -79,7 +79,7 @@
   {
     "title": "Claude",
     "url": "https://claude.ai/",
-    "description": "Claude Sonnet 5 / Requires Sign-Up + Sometimes Phone  / Add Features / Resources / Learning, 2 / Usage Tracker / Subreddit / Discord",
+    "description": "Claude Sonnet 5.5 / Requires Sign-Up + Sometimes Phone  / Add Features / Resources / Learning, 2 / Usage Tracker / Subreddit / Discord",
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "claude.ai",
@@ -200,7 +200,7 @@
   {
     "title": "⁠Tryingopen",
     "url": "https://www.tryingopen.com/",
-    "description": "DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Unlimited (12 per chat) / OpenAI Bridge",
+    "description": "DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Kimi K3 / Unlimited (12 per chat) / OpenAI Bridge",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "tryingopen.com",
@@ -4325,7 +4325,7 @@
   {
     "title": "⁠Octave",
     "url": "https://octavestreaming.com/",
-    "description": "Multi-Site / FLAC / Dolby Atmos / AAC (320) / MP3 (128) / Discord",
+    "description": "Multi-Site / FLAC / Dolby Atmos / AAC (320) / MP3 (128) / Requires Discord / Discord",
     "category": "audio",
     "subcategory": "▷ Audio Ripping Sites",
     "domain": "octavestreaming.com",
@@ -15180,6 +15180,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠ReleaseHive",
+    "url": "https://releasehive.com/",
+    "description": "Video / Audio / Books / Requires Debrid",
+    "category": "downloading",
+    "subcategory": "▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_software_sites2)",
+    "domain": "releasehive.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "File Host Search",
     "url": "https://cse.google.com/cse?cx=90a35b59cee2a42e1",
     "description": "",
@@ -15868,17 +15879,6 @@
     "category": "educational",
     "subcategory": "▷ Downloading",
     "domain": "afaik.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠simloops",
-    "url": "https://www.simloops.com/communities",
-    "description": "Educational Simulations",
-    "category": "educational",
-    "subcategory": "▷ Downloading",
-    "domain": "simloops.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -18480,6 +18480,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠F-16.net",
+    "url": "https://www.f-16.net/",
+    "description": "F-16 Information, History, Images, Stories & more",
+    "category": "educational",
+    "subcategory": "▷ Spacecraft",
+    "domain": "f-16.net",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠HeliStart",
     "url": "http://www.helistart.com/",
     "description": "Helicopter Aerodynamics / Flight Mechanics Guides + History",
@@ -19411,6 +19422,17 @@
     "subcategory": "▷ Military / Conflict History",
     "domain": "haraldjoergens.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠F-16.net",
+    "url": "https://www.f-16.net/",
+    "description": "F-16, F-22 and F-35 Info, History, Images, Stories & more",
+    "category": "educational",
+    "subcategory": "▷ Military / Conflict History",
+    "domain": "f-16.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -29293,6 +29315,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Kryoto Desktop",
+    "url": "https://kryo.to/desktop",
+    "description": "Game Launcher / Downloader / Windows, Linux / Discord / GitHub",
+    "category": "gaming-tools",
+    "subcategory": "▷ Game Launchers",
+    "domain": "kryo.to",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Fit Launcher",
     "url": "https://github.com/CarrotRub/Fit-Launcher/",
     "description": "Unofficial Game Launcher / Torrent Client / Downloader / Windows, Linux / Discord",
@@ -33209,6 +33242,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Vanilla RTX",
+    "url": "https://github.com/cubeir/Vanilla-RTX-App",
+    "description": "RTX Manager for Bedrock",
+    "category": "gaming-tools",
+    "subcategory": "▷ Customization",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Mine-imator",
     "url": "https://www.mineimator.com/",
     "description": "Animation Tool / 2.0 Version / Forum / Discord / GitHub",
@@ -35134,17 +35178,6 @@
     "is_tip": false
   },
   {
-    "title": "SteamUnderground",
-    "url": "https://steamunderground.net/",
-    "description": "Download / Pre-Installed / Use Adblock / Discord",
-    "category": "gaming",
-    "subcategory": "General",
-    "domain": "steamunderground.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "scene cat",
     "url": "https://rentry.co/FMHYB64#scene-cat",
     "description": "Scene Release Download / Discord",
@@ -35244,34 +35277,12 @@
     "is_tip": false
   },
   {
-    "title": "CG Games",
-    "url": "https://www.cg-gamespc.net/",
-    "description": "Download",
-    "category": "gaming",
-    "subcategory": "General",
-    "domain": "cg-gamespc.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "GamePCFull",
     "url": "https://gamepcfull.com/",
     "description": "Download",
     "category": "gaming",
     "subcategory": "General",
     "domain": "gamepcfull.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Reloaded Steam",
-    "url": "https://reloadedsteam.com/",
-    "description": "Download / Pre-Installed / Use Adblock / Discord",
-    "category": "gaming",
-    "subcategory": "General",
-    "domain": "reloadedsteam.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -35284,6 +35295,17 @@
     "subcategory": "General",
     "domain": "steamgg.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠The Dark Games",
+    "url": "https://the-dark-games.com/",
+    "description": "Download / Pre-Installed / Use Adblock / Subreddit",
+    "category": "gaming",
+    "subcategory": "General",
+    "domain": "the-dark-games.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -35932,17 +35954,6 @@
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "decomp.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "GithubLauncher",
-    "url": "https://github.com/SirDiabo/GithubLauncher",
-    "description": "Launch / Manage Recompiled Games ⁠",
-    "category": "gaming",
-    "subcategory": "▷ Decomps / Ports",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -47454,6 +47465,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Reticulum",
+    "url": "https://reticulum.network/",
+    "description": "Cryptographic Mesh Networking Stack",
+    "category": "internet-tools",
+    "subcategory": "▷ Network Tools",
+    "domain": "reticulum.network",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Meshtastic",
     "url": "https://meshtastic.org/",
     "description": "Off-Grid Mesh Network Communication Guide",
@@ -48560,17 +48582,6 @@
     "category": "internet-tools",
     "subcategory": "▷ Search Engines",
     "domain": "webcrawler.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Million Short",
-    "url": "https://millionshort.com/",
-    "description": "",
-    "category": "internet-tools",
-    "subcategory": "▷ Search Engines",
-    "domain": "millionshort.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -60441,6 +60452,17 @@
     "subcategory": "▷ Railway Maps",
     "domain": "vr.fi",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Tokyo in Cross-Section",
+    "url": "https://maps.chizutodesign.com/tokyo-danmenzu/",
+    "description": "Tokyo Railway Map",
+    "category": "misc",
+    "subcategory": "▷ Railway Maps",
+    "domain": "maps.chizutodesign.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -72760,7 +72782,7 @@
     "category": "mobile",
     "subcategory": "▷ Linux on Android",
     "domain": "nura.eco",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75257,7 +75279,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Sideloading",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76265,7 +76287,7 @@
   {
     "title": "MaxTube",
     "url": "https://github.com/Mark02-2012/MaxTube",
-    "description": "Modded YouTube App / GitHub",
+    "description": "Modded YouTube App",
     "category": "mobile",
     "subcategory": "▷ iOS YouTube Apps",
     "domain": "github.com",
@@ -81725,7 +81747,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "primevideo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94118,6 +94140,17 @@
   {
     "title": "Audible (selected)",
     "url": "https://t.me/+GV_tJ_U7em04YjU9",
+    "description": "Telegram",
+    "category": "reading",
+    "subcategory": "▷ Downloading",
+    "domain": "t.me",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Dynasty",
+    "url": "https://t.me/dynastyapprovals",
     "description": "Telegram",
     "category": "reading",
     "subcategory": "▷ Downloading",
@@ -113014,6 +113047,17 @@
     "is_tip": false
   },
   {
+    "title": "MovieBite",
+    "url": "https://moviebite.org/",
+    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "moviebite.org",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cinema (BZ)",
     "url": "https://cinema.army/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram",
@@ -113031,17 +113075,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "chillflix.lol",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MovieBite",
-    "url": "https://moviebite.org/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "moviebite.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113075,6 +113108,17 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "gaiaflix.live",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "dulo",
+    "url": "https://dulo.mov/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "dulo.mov",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113273,17 +113317,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "vaultplayer.co.uk",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "dulo",
-    "url": "https://dulo.mov/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "dulo.mov",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113548,17 +113581,6 @@
     "category": "video",
     "subcategory": "▷ P-Stream Forks",
     "domain": "peestream.in",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Cineby (gdn)",
-    "url": "https://cineby.gdn/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ P-Stream Forks",
-    "domain": "cineby.gdn",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113972,12 +113994,12 @@
   },
   {
     "title": "WatchSeries",
-    "url": "https://watchseries.show/",
+    "url": "https://watchseries.free/",
     "description": "Movies / TV / Anime",
     "category": "video",
     "subcategory": "▷ Multi-Server",
-    "domain": "watchseries.show",
-    "is_new": false,
+    "domain": "watchseries.free",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117502,39 +117524,6 @@
     "is_tip": false
   },
   {
-    "title": "Sinflix",
-    "url": "https://rentry.co/FMHYB64#sinflix",
-    "description": "Asian Drama",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "rentry.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DramaSuki",
-    "url": "https://rentry.co/FMHYB64#dramasuki",
-    "description": "Asian Drama",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "rentry.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "KimoiTV",
-    "url": "https://kimoitv.com/",
-    "description": "Asian Drama",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "kimoitv.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "OlaMovies",
     "url": "https://olamovies.dad/",
     "description": "Movies / TV / 4K / Requires Google Account / Use Adblock / Requests",
@@ -117821,61 +117810,6 @@
     "is_tip": false
   },
   {
-    "title": "r/DownUnderTV",
-    "url": "https://www.reddit.com/r/DownUnderTV/",
-    "description": "AU / NZ TV",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "reddit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CondensedAudioCatalog",
-    "url": "https://condensedaudiocatalog.com/",
-    "description": "Asian Drama",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "condensedaudiocatalog.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "nKiri",
-    "url": "https://thenkiri.com/",
-    "description": "Asian Drama / 720p",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "thenkiri.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "RareDoramas",
-    "url": "https://www.raredoramas.com/",
-    "description": "Rare JDrama / 480p",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "raredoramas.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Toku.fun",
-    "url": "https://toku.fun/",
-    "description": "Japanese Superhero Movies / 360p",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "toku.fun",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "TVSBoy",
     "url": "https://tvsboy.com/",
     "description": "TV / 720p / Requires Debrid",
@@ -117926,6 +117860,83 @@
     "category": "video",
     "subcategory": "▷ Telegram Channels",
     "domain": "phonofilm.cc",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Sinflix",
+    "url": "https://rentry.co/FMHYB64#sinflix",
+    "description": "Asian Drama",
+    "category": "video",
+    "subcategory": "▷ Specialty Downloading",
+    "domain": "rentry.co",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "DramaSuki",
+    "url": "https://rentry.co/FMHYB64#dramasuki",
+    "description": "Asian Drama",
+    "category": "video",
+    "subcategory": "▷ Specialty Downloading",
+    "domain": "rentry.co",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "KimoiTV",
+    "url": "https://kimoitv.com/",
+    "description": "Asian Drama",
+    "category": "video",
+    "subcategory": "▷ Specialty Downloading",
+    "domain": "kimoitv.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "CondensedAudioCatalog",
+    "url": "https://condensedaudiocatalog.com/",
+    "description": "Asian Drama",
+    "category": "video",
+    "subcategory": "▷ Specialty Downloading",
+    "domain": "condensedaudiocatalog.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "nKiri",
+    "url": "https://thenkiri.com/",
+    "description": "Asian Drama / 720p",
+    "category": "video",
+    "subcategory": "▷ Specialty Downloading",
+    "domain": "thenkiri.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "RareDoramas",
+    "url": "https://www.raredoramas.com/",
+    "description": "Rare JDrama / 480p",
+    "category": "video",
+    "subcategory": "▷ Specialty Downloading",
+    "domain": "raredoramas.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Toku.fun",
+    "url": "https://toku.fun/",
+    "description": "Japanese Superhero Movies / 360p",
+    "category": "video",
+    "subcategory": "▷ Specialty Downloading",
+    "domain": "toku.fun",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
