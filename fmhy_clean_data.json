@@ -825,17 +825,6 @@
     "is_tip": false
   },
   {
-    "title": "Qwen",
-    "url": "https://chat.qwen.ai/",
-    "description": "5/12 Per Hour / Discord / GitHub",
-    "category": "ai",
-    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
-    "domain": "chat.qwen.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "AIFreeVideo",
     "url": "https://aifreevideo.com/",
     "description": "Unlimited / MiniMax Video-01 / Sign-Up",
@@ -4380,7 +4369,7 @@
   {
     "title": "⁠AudioFetcher",
     "url": "https://audiofetcher.com/",
-    "description": "YouTube / FLAC / 320kb MP3",
+    "description": "YouTube / 320kb MP3",
     "category": "audio",
     "subcategory": "▷ Audio Ripping Sites",
     "domain": "audiofetcher.com",
@@ -18887,6 +18876,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Pantheon",
+    "url": "https://pantheon.world/",
+    "description": "Historical Figure Database + Trivia",
+    "category": "educational",
+    "subcategory": "▷ Simulators",
+    "domain": "pantheon.world",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Shorpy",
     "url": "https://shorpy.com/",
     "description": "Historical Photos",
@@ -19587,6 +19587,17 @@
     "subcategory": "▷ World Data",
     "domain": "city-data.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Pantheon",
+    "url": "https://pantheon.world/",
+    "description": "Historical Figure Database + Trivia",
+    "category": "educational",
+    "subcategory": "▷ World Data",
+    "domain": "pantheon.world",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -20632,6 +20643,17 @@
     "subcategory": "▷ Survival / Preparedness",
     "domain": "reddit.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Project NOMAD",
+    "url": "https://www.projectnomad.us/",
+    "description": "Self-Contained Offline Knowledge + Off-Grid Database / GitHub",
+    "category": "educational",
+    "subcategory": "▷ Survival / Preparedness",
+    "domain": "projectnomad.us",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -28078,7 +28100,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "datanodes.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34287,6 +34309,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠PKForge",
+    "url": "https://github.com/sofianeelhor/PKForge",
+    "description": "Pokémon Save Editor & Bank / Android / Discord",
+    "category": "gaming-tools",
+    "subcategory": "▷ Pokemon Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Sky Editor",
     "url": "https://projectpokemon.org/home/files/file/1509-sky-editor-save-editor-for-pokemon-mystery-dungeon/",
     "description": "Mystery Dungeon Save File Editor",
@@ -35167,13 +35200,13 @@
     "is_tip": false
   },
   {
-    "title": "scene cat",
-    "url": "https://rentry.co/FMHYB64#scene-cat",
-    "description": "Scene Release Download / Discord",
+    "title": "warez-chan",
+    "url": "https://rentry.co/FMHYB64#warez-chan",
+    "description": "Scene Release Downloads",
     "category": "gaming",
     "subcategory": "General",
     "domain": "rentry.co",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -42724,6 +42757,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Schist",
+    "url": "https://try.schist.app/",
+    "description": "Full-Featured / GitHub",
+    "category": "image-tools",
+    "subcategory": "▷ Online Editors",
+    "domain": "try.schist.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠PaintFE (Web)",
     "url": "https://www.paintfe.com/online/",
     "description": "Full-Featured",
@@ -45540,17 +45584,6 @@
     "is_tip": false
   },
   {
-    "title": "STLFinder",
-    "url": "https://www.stlfinder.com/",
-    "description": "Multi-Site Search",
-    "category": "image-tools",
-    "subcategory": "▷ [Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_wallpapers)",
-    "domain": "stlfinder.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "3D Warehouse",
     "url": "https://3dwarehouse.sketchup.com/",
     "description": "3D Models Compatible with SketchUp / Requires Sign-Up",
@@ -47472,6 +47505,17 @@
     "subcategory": "▷ Network Tools",
     "domain": "meshtastic.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Project NOMAD",
+    "url": "https://www.projectnomad.us/",
+    "description": "Self-Contained Offline Knowledge + Off-Grid Database / GitHub",
+    "category": "internet-tools",
+    "subcategory": "▷ Network Tools",
+    "domain": "projectnomad.us",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -54483,17 +54527,6 @@
     "is_tip": false
   },
   {
-    "title": "Howdy",
-    "url": "https://github.com/boltgolt/howdy",
-    "description": "Linux Facial Authentication",
-    "category": "linux-macos",
-    "subcategory": "▷ Adblock / Privacy",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "USBGuard",
     "url": "https://github.com/USBGuard/usbguard",
     "description": "Implement USB Device Authorization Policies",
@@ -55556,7 +55589,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Window Managers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -55864,17 +55897,6 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Themes",
     "domain": "codexbar.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ViennaRSS",
-    "url": "https://www.vienna-rss.com/",
-    "description": "RSS Feed Reader",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Themes",
-    "domain": "vienna-rss.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -59044,6 +59066,17 @@
     "subcategory": "▷ Drinks",
     "domain": "reddit.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Gem",
+    "url": "https://gem.app/",
+    "description": "Secondhand Clothing Multi-Store Search",
+    "category": "misc",
+    "subcategory": "▷ Drinks",
+    "domain": "gem.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -64317,6 +64350,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Gem",
+    "url": "https://gem.app/",
+    "description": "Secondhand Clothing Multi-Store Search",
+    "category": "misc",
+    "subcategory": "▷ Crypto",
+    "domain": "gem.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "r/MaleFashionAdvice Spreadsheet",
     "url": "https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/",
     "description": "Male Clothing Brand / Price Spreadsheet",
@@ -65362,6 +65406,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠anruler",
+    "url": "https://anruler.com/",
+    "description": "Online Ruler",
+    "category": "misc",
+    "subcategory": "▷ Price Tracking",
+    "domain": "anruler.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Paper Sizes",
     "url": "https://papersizes.io/",
     "description": "Common Paper Sizes",
@@ -66242,6 +66297,17 @@
     "is_tip": false
   },
   {
+    "title": "Spirits and Such",
+    "url": "https://spiritsandsuch.org/en",
+    "description": "Arataka Reigen Homepage / Text Board, Image Board, Games & more",
+    "category": "misc",
+    "subcategory": "▷ Chat / Forums",
+    "domain": "spiritsandsuch.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "MyCast",
     "url": "https://www.mycast.io/",
     "description": "Dream Casting Discussions",
@@ -66402,7 +66468,7 @@
     "category": "misc",
     "subcategory": "▷ Image / Video",
     "domain": "hkphantasm.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72096,7 +72162,7 @@
   {
     "title": "Google Sheets",
     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets",
-    "description": "Document Editor / Reader",
+    "description": "Spreadsheet Editor / Reader",
     "category": "mobile",
     "subcategory": "▷ Android Text Tools",
     "domain": "play.google.com",
@@ -75561,21 +75627,10 @@
   {
     "title": "IPA Archive",
     "url": "https://stuffed18.github.io/ipa-archive-updated",
-    "description": "Search Engine",
+    "description": "App Archive / Search Engine",
     "category": "mobile",
     "subcategory": "▷ iOS Privacy",
     "domain": "stuffed18.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "iOSObscura",
-    "url": "https://archive.org/details/iOSObscura",
-    "description": "Old App Archive / Search Engine",
-    "category": "mobile",
-    "subcategory": "▷ iOS Privacy",
-    "domain": "archive.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -76699,6 +76754,17 @@
     "subcategory": "▷ Streaming / البث",
     "domain": "mycima.gdn",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠ahwak tv",
+    "url": "https://yam.ahwaktv.net/",
+    "description": "Movies / TV",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / البث",
+    "domain": "yam.ahwaktv.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -91922,7 +91988,7 @@
     "category": "privacy",
     "subcategory": "▷ Proxy Sites",
     "domain": "titaniumnetwork.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94563,6 +94629,17 @@
     "subcategory": "▷ Comics",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠OniSaga",
+    "url": "https://onisaga.com/",
+    "description": "",
+    "category": "reading",
+    "subcategory": "▷ Manga",
+    "domain": "onisaga.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -102564,7 +102641,7 @@
     "is_tip": false
   },
   {
-    "title": "Chan",
+    "title": "Chance",
     "url": "https://github.com/moffatman/chan",
     "description": "4chan Mobile Apps",
     "category": "social-media-tools",
@@ -103000,6 +103077,17 @@
     "subcategory": "Free DNS Resolvers",
     "domain": "rethinkdns.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "DNSBunker",
+    "url": "https://dnsbunker.org/",
+    "description": "",
+    "category": "storage",
+    "subcategory": "Free DNS Resolvers",
+    "domain": "dnsbunker.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117713,7 +117801,7 @@
   {
     "title": "SolidarityCinema",
     "url": "https://www.solidaritycinema.com/",
-    "description": "Movies",
+    "description": "Movies / Discord",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "solidaritycinema.com",
@@ -119059,7 +119147,7 @@
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "movy.fyi",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
