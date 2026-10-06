@@ -15549,7 +15549,7 @@
     "category": "educational",
     "subcategory": "General",
     "domain": "ihavenotv.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -38143,7 +38143,7 @@
     "category": "gaming",
     "subcategory": "▷ Retro Browser Emulators",
     "domain": "javagames.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -42906,7 +42906,7 @@
     "category": "image-tools",
     "subcategory": "▷ Content Removers",
     "domain": "bg0.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -42917,7 +42917,7 @@
     "category": "image-tools",
     "subcategory": "▷ Content Removers",
     "domain": "pixelcut.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -46030,7 +46030,7 @@
     "category": "image-tools",
     "subcategory": "▷ 3D Modeling Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -47009,7 +47009,7 @@
     "category": "image-tools",
     "subcategory": "▷ Image Hosts",
     "domain": "anonpic.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -49891,7 +49891,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Temp Mail",
     "domain": "meowmail.in",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -61705,7 +61705,7 @@
     "category": "misc",
     "subcategory": "▷ Satellite / Earth Data",
     "domain": "whatthefuckjusthappenedtoday.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -73101,7 +73101,7 @@
     "category": "mobile",
     "subcategory": "▷ Linux on Android",
     "domain": "firesidereader.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -73629,7 +73629,7 @@
     "category": "mobile",
     "subcategory": "▷ YouTube Music",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75466,7 +75466,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Sideloading",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76555,7 +76555,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS YouTube Apps",
     "domain": "firesidereader.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -88303,7 +88303,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Leer",
     "domain": "animebbg.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94650,7 +94650,7 @@
     "category": "reading",
     "subcategory": "▷ Manga",
     "domain": "lilymanga.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -101635,7 +101635,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Twitter/X Customization",
     "domain": "witchsky.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106706,7 +106706,7 @@
     "category": "text-tools",
     "subcategory": "▷ Grammar Check",
     "domain": "translate.kagi.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107443,7 +107443,7 @@
     "category": "text-tools",
     "subcategory": "▷ Whiteboards / Handwritten",
     "domain": "lucid.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107454,7 +107454,7 @@
     "category": "text-tools",
     "subcategory": "▷ Whiteboards / Handwritten",
     "domain": "creately.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107465,7 +107465,7 @@
     "category": "text-tools",
     "subcategory": "▷ Whiteboards / Handwritten",
     "domain": "miro.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -109192,7 +109192,7 @@
     "category": "text-tools",
     "subcategory": "▷ Free Fonts",
     "domain": "tunera.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113449,7 +113449,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "atlantic.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115198,7 +115198,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "banime.top",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
