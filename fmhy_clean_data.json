@@ -2004,7 +2004,7 @@
   {
     "title": "WAVE",
     "url": "https://waveapp.pages.dev/",
-    "description": "YouTube Music Client / FLAC",
+    "description": "YouTube Music Client / FLAC / GitHub",
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "waveapp.pages.dev",
@@ -3784,34 +3784,12 @@
     "is_tip": false
   },
   {
-    "title": "LISTEN.moe",
-    "url": "https://listen.moe/",
-    "description": "J-Pop / K-Pop Radio",
+    "title": "Di.fm",
+    "url": "https://www.di.fm/",
+    "description": "Electronic Radio",
     "category": "audio",
     "subcategory": "▷ Genre Specific Radio",
-    "domain": "listen.moe",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "J1 Radio",
-    "url": "https://rec.torontocast.stream/player/",
-    "description": "J-Pop Radio",
-    "category": "audio",
-    "subcategory": "▷ Genre Specific Radio",
-    "domain": "rec.torontocast.stream",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "420.moe",
-    "url": "https://420.moe/",
-    "description": "420 Radio",
-    "category": "audio",
-    "subcategory": "▷ Genre Specific Radio",
-    "domain": "420.moe",
+    "domain": "di.fm",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -3850,20 +3828,31 @@
     "is_tip": false
   },
   {
-    "title": "Di.fm",
-    "url": "https://www.di.fm/",
-    "description": "Electronic Radio",
+    "title": "HappyHardcore",
+    "url": "https://www.happyhardcore.com/radio/",
+    "description": "Hardcore Dance Radio",
     "category": "audio",
     "subcategory": "▷ Genre Specific Radio",
-    "domain": "di.fm",
+    "domain": "happyhardcore.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Death.FM",
+    "url": "https://death.fm/",
+    "description": "Metal Radio / Community",
+    "category": "audio",
+    "subcategory": "▷ Genre Specific Radio",
+    "domain": "death.fm",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "CoreRadio",
     "url": "https://coreradio.online/listen",
-    "description": "Metalcore / Hardcore / Deathcore",
+    "description": "Metalcore / Hardcore / Deathcore Radio",
     "category": "audio",
     "subcategory": "▷ Genre Specific Radio",
     "domain": "coreradio.online",
@@ -3872,12 +3861,34 @@
     "is_tip": false
   },
   {
-    "title": "HappyHardcore",
-    "url": "https://www.happyhardcore.com/radio/",
-    "description": "Hardcore Dance Radio",
+    "title": "LISTEN.moe",
+    "url": "https://listen.moe/",
+    "description": "J-Pop / K-Pop Radio",
     "category": "audio",
     "subcategory": "▷ Genre Specific Radio",
-    "domain": "happyhardcore.com",
+    "domain": "listen.moe",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "J1 Radio",
+    "url": "https://rec.torontocast.stream/player/",
+    "description": "J-Pop Radio",
+    "category": "audio",
+    "subcategory": "▷ Genre Specific Radio",
+    "domain": "rec.torontocast.stream",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "420.moe",
+    "url": "https://420.moe/",
+    "description": "420 Radio",
+    "category": "audio",
+    "subcategory": "▷ Genre Specific Radio",
+    "domain": "420.moe",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -14454,17 +14465,6 @@
     "is_tip": false
   },
   {
-    "title": "HTTPToolkit",
-    "url": "https://httptoolkit.com/",
-    "description": "Intercept, Debug, and Mock HTTP(S)",
-    "category": "developer-tools",
-    "subcategory": "▷ Encryption / Certificates",
-    "domain": "httptoolkit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "TLSRef",
     "url": "https://configurator.tlsref.org/",
     "description": "SSL Configuration Generator",
@@ -22000,17 +22000,6 @@
     "is_tip": false
   },
   {
-    "title": "LearnWithOliver",
-    "url": "https://www.learnwitholiver.com/",
-    "description": "Language Learning Flashcards",
-    "category": "educational",
-    "subcategory": "▷ Multi-Language",
-    "domain": "learnwitholiver.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ListLang",
     "url": "https://www.listlang.com/",
     "description": "Most Used Words in Any Language",
@@ -28145,6 +28134,17 @@
     "subcategory": "▷ P2P Transfer",
     "domain": "mediafire.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠pone",
+    "url": "https://pone.rs/",
+    "description": "1GB / Forever",
+    "category": "file-tools",
+    "subcategory": "▷ P2P Transfer",
+    "domain": "pone.rs",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -35024,6 +35024,17 @@
     "is_tip": false
   },
   {
+    "title": "Dripzels",
+    "url": "https://dripzels.com/",
+    "description": "Preview Avatar Clothing",
+    "category": "gaming-tools",
+    "subcategory": "▷ Roblox Tools",
+    "domain": "dripzels.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Roblox Web APIs",
     "url": "https://github.com/matthewdean/roblox-web-apis",
     "description": "Roblox APIs",
@@ -36003,17 +36014,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠PortsDR",
-    "url": "https://portsdr.com/",
-    "description": "Game Decompilations / Ports",
-    "category": "gaming",
-    "subcategory": "▷ Decomps / Ports",
-    "domain": "portsdr.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠decomp.dev",
     "url": "https://decomp.dev/",
     "description": "Decompilation Progress Reports / Tracking",
@@ -36170,7 +36170,7 @@
   {
     "title": "Infinity Blade PC",
     "url": "https://www.reddit.com/r/infinityblade",
-    "description": "Infinity Blade I/II PC Ports / Discord",
+    "description": "Infinity Blade I/II/III PC Ports / Discord",
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "reddit.com",
@@ -36218,28 +36218,6 @@
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "discord.gg",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Mugen",
-    "url": "https://emulation.gametechwiki.com/index.php/Mugen",
-    "description": "2D Fighting Game Engine / Resources, 2, 3, 4",
-    "category": "gaming",
-    "subcategory": "▷ Remakes / Recreations",
-    "domain": "emulation.gametechwiki.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Ikemen GO",
-    "url": "https://ikemen-engine.github.io/",
-    "description": "2D Fighting Game Engine / Guides / Discord / GitHub",
-    "category": "gaming",
-    "subcategory": "▷ Remakes / Recreations",
-    "domain": "ikemen-engine.github.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -46581,6 +46559,17 @@
     "subcategory": "▷ Image Viewers",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Zeiger",
+    "url": "https://zeigerviewer.com/",
+    "description": "",
+    "category": "image-tools",
+    "subcategory": "▷ Image Viewers",
+    "domain": "zeigerviewer.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -57233,17 +57222,6 @@
     "is_tip": false
   },
   {
-    "title": "AlDente",
-    "url": "https://apphousekitchen.com/",
-    "description": "Charging Manager",
-    "category": "linux-macos",
-    "subcategory": "▷ System Tools",
-    "domain": "apphousekitchen.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "BatteryBuddy",
     "url": "https://batterybuddy.app/",
     "description": "Cute Battery Indicator",
@@ -60385,17 +60363,6 @@
     "category": "misc",
     "subcategory": "▷ Navigation / Transport",
     "domain": "minitokyo3d.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Hong Kong Transit 3D",
-    "url": "https://hktransit3d.pages.dev/",
-    "description": "Hong Kong Public Transport Map",
-    "category": "misc",
-    "subcategory": "▷ Navigation / Transport",
-    "domain": "hktransit3d.pages.dev",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -64119,17 +64086,6 @@
     "is_tip": false
   },
   {
-    "title": "MortgageCalculator",
-    "url": "https://www.mortgagecalculator.site/",
-    "description": "Mortgage Calculator",
-    "category": "misc",
-    "subcategory": "▷ Finance / Savings",
-    "domain": "mortgagecalculator.site",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "BitcoinTalk",
     "url": "https://bitcointalk.org/",
     "description": "Bitcoin Forum",
@@ -64906,17 +64862,6 @@
     "category": "misc",
     "subcategory": "▷ PC Hardware / Building",
     "domain": "reddit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Mini PC Guide / Comparisons",
-    "url": "https://docs.google.com/spreadsheets/d/1MSVzjTK5bubSo7_pltKbWausKWoVUYynNdouj4GlIdE",
-    "description": "",
-    "category": "misc",
-    "subcategory": "▷ PC Hardware / Building",
-    "domain": "docs.google.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -73658,7 +73603,7 @@
   {
     "title": "WAVE",
     "url": "https://waveapp.pages.dev/",
-    "description": "YouTube Music Player / FLAC",
+    "description": "YouTube Music Player / FLAC / GitHub",
     "category": "mobile",
     "subcategory": "▷ YouTube Music",
     "domain": "waveapp.pages.dev",
@@ -74492,9 +74437,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠touchHLE (Fork)",
+    "title": "⁠Applesauce",
     "url": "https://github.com/johnny901901901/touchHLE",
-    "description": "Run Legacy 32-bit iOS Games on Modern Devices",
+    "description": "Run Legacy 32-bit iOS Games on Modern iDevices",
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
@@ -75461,12 +75406,12 @@
   },
   {
     "title": "LiveContainer",
-    "url": "https://github.com/LiveContainerMirror/LiveContainer",
+    "url": "https://github.com/LiveContainer/LiveContainer",
     "description": "iOS App Container Launcher",
     "category": "mobile",
     "subcategory": "▷ iOS Sideloading",
     "domain": "github.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76056,7 +76001,7 @@
   {
     "title": "WAVE",
     "url": "https://waveapp.pages.dev/",
-    "description": "YouTube Music / Ad-Free / FLAC",
+    "description": "YouTube Music / Ad-Free / FLAC / GitHub",
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "waveapp.pages.dev",
@@ -76879,17 +76824,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠ahwak tv",
-    "url": "https://yam.ahwaktv.net/",
-    "description": "Movies / TV",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / البث",
-    "domain": "yam.ahwaktv.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Laroza TV",
     "url": "https://llaroza.monster/",
     "description": "Movies / TV",
@@ -76919,6 +76853,17 @@
     "subcategory": "▷ Streaming / البث",
     "domain": "ristoanime.me",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Anime Phoenix",
+    "url": "https://anime-phoenix.com/",
+    "description": "Anime",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / البث",
+    "domain": "anime-phoenix.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -77556,17 +77501,6 @@
     "category": "non-english",
     "subcategory": "▷ Reading",
     "domain": "bangumi.moe",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Tool.lu",
-    "url": "https://tool.lu/",
-    "description": "Online Tools",
-    "category": "non-english",
-    "subcategory": "▷ Reading",
-    "domain": "tool.lu",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -78661,17 +78595,6 @@
     "is_tip": false
   },
   {
-    "title": "yodu",
-    "url": "https://www.yodu.org/",
-    "description": "Books / Light-Novels",
-    "category": "non-english",
-    "subcategory": "▷ Reading / 阅读",
-    "domain": "yodu.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "256zw",
     "url": "https://www.256zw.org/",
     "description": "Light-Novels",
@@ -78942,17 +78865,6 @@
     "category": "non-english",
     "subcategory": "▷ Manga",
     "domain": "manhuagui.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "colamanga",
-    "url": "https://www.yoyomanga.com/",
-    "description": "Manga",
-    "category": "non-english",
-    "subcategory": "▷ Manga",
-    "domain": "yoyomanga.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -91344,17 +91256,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Nilch",
-    "url": "https://nilch.org/",
-    "description": "AI Free / Metasearch",
-    "category": "privacy",
-    "subcategory": "▷ Search Engines",
-    "domain": "nilch.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "search!",
     "url": "https://search.tiago.zip/",
     "description": "AI Free / Metasearch / GitHub",
@@ -102905,6 +102806,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Tiarap",
+    "url": "https://tiar.app/",
+    "description": "",
+    "category": "storage",
+    "subcategory": "Free DNS Resolvers",
+    "domain": "tiar.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Artemis",
     "url": "https://dns.fuzzing.uk/",
     "description": "Piracy Site DNS Resolver / GitHub",
@@ -102944,17 +102856,6 @@
     "category": "storage",
     "subcategory": "Free DNS Resolvers",
     "domain": "dnsbunker.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Tiarap",
-    "url": "https://tiar.app/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "tiar.app",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -108933,6 +108834,17 @@
     "is_tip": false
   },
   {
+    "title": "Tunera Type Foundry",
+    "url": "https://www.tunera.xyz/",
+    "description": "Open Source",
+    "category": "text-tools",
+    "subcategory": "▷ Open Source / Freeware",
+    "domain": "tunera.xyz",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Bunny Fonts",
     "url": "https://fonts.bunny.net/",
     "description": "Open Source",
@@ -109181,17 +109093,6 @@
     "category": "text-tools",
     "subcategory": "▷ Free Fonts",
     "domain": "freefontsfamily.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Tunera Type Foundry",
-    "url": "https://www.tunera.xyz/",
-    "description": "",
-    "category": "text-tools",
-    "subcategory": "▷ Free Fonts",
-    "domain": "tunera.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113146,6 +113047,17 @@
     "is_tip": false
   },
   {
+    "title": "SpenFlix",
+    "url": "https://watch.spencerdevs.xyz/",
+    "description": "Movies / TV / Anime / Auto-Next / Status",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "watch.spencerdevs.xyz",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "FlyStream",
     "url": "https://flystream.net/",
     "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
@@ -113443,17 +113355,6 @@
     "is_tip": false
   },
   {
-    "title": "Atlantic",
-    "url": "https://atlantic.st/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "atlantic.st",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "VaultPlayer",
     "url": "https://vaultplayer.co.uk/",
     "description": "Movies / TV / Auto-Next",
@@ -113493,17 +113394,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "smashystream.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "NOVERA",
-    "url": "https://novera.tv/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "novera.tv",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113559,17 +113449,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "popwatch.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Surface Stream",
-    "url": "https://watchsurface.stream/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "watchsurface.stream",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -114693,6 +114572,28 @@
     "subcategory": "▷ Video Streaming",
     "domain": "deafvideo.tv",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Atlas",
+    "url": "https://atlas.hls.lol/",
+    "description": "Streaming App / Windows",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "atlas.hls.lol",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Vega-Desktop",
+    "url": "https://github.com/vega-org/vega-desktop",
+    "description": "Streaming App / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117370,6 +117271,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Vega-Desktop",
+    "url": "https://github.com/vega-org/vega-desktop",
+    "description": "Streaming App",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "ARVIO",
     "url": "https://arvio.tv/",
     "description": "TV Media Server w/ Stremio Addons + IPTV Support / GitHub",
@@ -119158,17 +119070,6 @@
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "phi-phenomenon.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Sight and Sound",
-    "url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/",
-    "description": "Movie Top 250 List",
-    "category": "video",
-    "subcategory": "▷ Recommendation Tools",
-    "domain": "bfi.org.uk",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
