@@ -14322,6 +14322,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠DNS.is",
+    "url": "https://dns.is/",
+    "description": "DNS Resolution Check",
+    "category": "developer-tools",
+    "subcategory": "▷ DNS Tools",
+    "domain": "dns.is",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠DNS Coffee",
     "url": "https://dns.coffee/",
     "description": "DNS Search History Tool",
@@ -14361,7 +14372,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Web Security",
     "domain": "crawlerzoo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -16859,6 +16870,17 @@
     "subcategory": "▷ Engineering",
     "domain": "hdlbits.01xz.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Last Minute Engineers",
+    "url": "https://lastminuteengineers.com/",
+    "description": "Electronics Engineering Learning",
+    "category": "educational",
+    "subcategory": "▷ Engineering",
+    "domain": "lastminuteengineers.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -21478,7 +21500,7 @@
     "category": "educational",
     "subcategory": "▷ Chess",
     "domain": "chessort.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21853,6 +21875,17 @@
     "subcategory": "▷ LEGO",
     "domain": "rebrickable.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Brickfact",
+    "url": "https://brickfact.com/",
+    "description": "LEGO Set Database / Price Tracker",
+    "category": "educational",
+    "subcategory": "▷ LEGO",
+    "domain": "brickfact.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -28078,7 +28111,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "new.fileditch.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28177,7 +28210,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "marafile.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33154,6 +33187,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠OneClient",
+    "url": "https://polyfrost.org/projects/oneclient",
+    "description": "Feature-Rich Launcher",
+    "category": "gaming-tools",
+    "subcategory": "▷ Premium Only Launchers",
+    "domain": "polyfrost.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Toolcoin",
     "url": "https://toolcoin.site/",
     "description": "Bedrock Marketplace DLCs",
@@ -36104,7 +36148,7 @@
   {
     "title": "Ship of Harkinian",
     "url": "https://www.shipofharkinian.com/",
-    "description": "Ocarina of Time Port / GitHub",
+    "description": "Ocarina of Time Port / Discord / GitHub",
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "shipofharkinian.com",
@@ -37890,7 +37934,7 @@
     "category": "gaming",
     "subcategory": "▷ Playstation ROMs",
     "domain": "catalog.gfs-dlps.workers.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -37901,7 +37945,7 @@
     "category": "gaming",
     "subcategory": "▷ Playstation ROMs",
     "domain": "pippo26442999.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -40482,7 +40526,7 @@
   {
     "title": "Truffled",
     "url": "https://truffled.lol/g",
-    "description": "Browser Games / Ports",
+    "description": "Browser Games / Ports / Discord",
     "category": "gaming",
     "subcategory": "▷ Unblocked Games",
     "domain": "truffled.lol",
@@ -41653,6 +41697,17 @@
     "subcategory": "▷ Strategy",
     "domain": "freecivweb.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Gem Tower Defense",
+    "url": "https://www.gemtowerdefense.com/",
+    "description": "Gem Combo-Style Tower Defense",
+    "category": "gaming",
+    "subcategory": "▷ Strategy",
+    "domain": "gemtowerdefense.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -57162,7 +57217,7 @@
     "category": "linux-macos",
     "subcategory": "▷ System Tools",
     "domain": "opendisplay.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -58423,7 +58478,7 @@
   {
     "title": "GG.deals Free",
     "url": "https://gg.deals/news/?availability=1&type=6",
-    "description": "Games",
+    "description": "Games / Extension / Discord",
     "category": "misc",
     "subcategory": "▷ Free Games",
     "domain": "gg.deals",
@@ -60407,17 +60462,6 @@
     "category": "misc",
     "subcategory": "▷ Navigation / Transport",
     "domain": "anytrip.com.au",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠London Live",
-    "url": "https://london.pengrubin.com/",
-    "description": "London Public Transport Map",
-    "category": "misc",
-    "subcategory": "▷ Navigation / Transport",
-    "domain": "london.pengrubin.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -65406,6 +65450,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Brickfact",
+    "url": "https://brickfact.com/",
+    "description": "LEGO Set Database / Price Tracker",
+    "category": "misc",
+    "subcategory": "▷ Toys / Collectibles",
+    "domain": "brickfact.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠MinifigScan",
     "url": "https://pacolabs.com/MinifigScan/",
     "description": "LEGO Minifigure Blind Box Identification Tool",
@@ -68145,17 +68200,6 @@
     "is_tip": false
   },
   {
-    "title": "The Pudding",
-    "url": "https://pudding.cool/",
-    "description": "Explains Ideas w/ Visual Essays",
-    "category": "misc",
-    "subcategory": "▷ Interesting",
-    "domain": "pudding.cool",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "DamnInteresting",
     "url": "https://www.damninteresting.com/",
     "description": "Interesting Stories",
@@ -68283,7 +68327,7 @@
     "category": "misc",
     "subcategory": "▷ Interesting",
     "domain": "infiniteconversation.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -70483,7 +70527,7 @@
     "category": "mobile",
     "subcategory": "▷ Customization",
     "domain": "mobile.alphacoders.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -71793,6 +71837,17 @@
     "subcategory": "▷ Android Privacy",
     "domain": "codeberg.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠HMA-OSS",
+    "url": "https://github.com/frknkrc44/HMA-OSS",
+    "description": "Hide Applist",
+    "category": "mobile",
+    "subcategory": "▷ Android Privacy",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -73238,6 +73293,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Aftergleam",
+    "url": "https://aftergleam.app/",
+    "description": "Research Paper Reader / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ Linux on Android",
+    "domain": "aftergleam.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Wikipedia",
     "url": "https://play.google.com/store/apps/details?id=org.wikipedia",
     "description": "Wikipedia App / Beta / F-Droid",
@@ -74377,7 +74443,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75636,17 +75702,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠ShrubLibrary",
-    "url": "https://shrublibrary.pages.dev/",
-    "description": "IPA Repo Aggregator / Search Engine / Discord",
-    "category": "mobile",
-    "subcategory": "▷ iOS Privacy",
-    "domain": "shrublibrary.pages.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "AppDB",
     "url": "https://appdb.to",
     "description": "App Library",
@@ -76758,17 +76813,6 @@
     "is_tip": false
   },
   {
-    "title": "egydead",
-    "url": "https://tv10.egydead.live/",
-    "description": "Movies / TV / Anime / Sub / 1080p / Use Adblock",
-    "category": "non-english",
-    "subcategory": "▷ Downloading / تحميل",
-    "domain": "tv10.egydead.live",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "FilmCity",
     "url": "https://m.filmcity12.com/",
     "description": "Movies",
@@ -76830,17 +76874,6 @@
     "category": "non-english",
     "subcategory": "▷ Torrenting / التورنت",
     "domain": "arabp2p.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "egydead",
-    "url": "https://tv10.egydead.live/",
-    "description": "Movies / TV / Anime / Sub / 1080p / Use Adblock",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / البث",
-    "domain": "tv10.egydead.live",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -84095,23 +84128,23 @@
     "is_tip": false
   },
   {
+    "title": "OgladajAnime",
+    "url": "https://ogladajanime.pl/",
+    "description": "Anime / Sub / 1080p",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "ogladajanime.pl",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Desu-Online",
     "url": "https://desu-online.pl/",
     "description": "Anime / Sub / 1080p",
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "desu-online.pl",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Shinden",
-    "url": "https://shinden.pl/",
-    "description": "Anime / Sub / 1080p / Discord",
-    "category": "non-english",
-    "subcategory": "▷ Streaming",
-    "domain": "shinden.pl",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -88704,28 +88737,6 @@
     "is_tip": false
   },
   {
-    "title": "Anizm",
-    "url": "https://anizm.net/",
-    "description": "Anime",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / İzleme",
-    "domain": "anizm.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "TR Anime İzle",
-    "url": "https://www.tranimeizle.io/",
-    "description": "Anime / Region Locked",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / İzleme",
-    "domain": "tranimeizle.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠AniHub",
     "url": "https://anihub.com.tr/",
     "description": "Anime / Region Locked",
@@ -90669,6 +90680,17 @@
     "subcategory": "▷ Network Security",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠wifit3",
+    "url": "https://github.com/derv82/wifit3",
+    "description": "USB Wi-Fi Auditing Tool",
+    "category": "privacy",
+    "subcategory": "▷ Network Security",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92792,6 +92814,17 @@
     "subcategory": "▷ E-Reader Tools",
     "domain": "comparisontabl.es",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠eBook Fonts Showcase",
+    "url": "https://ebook-fonts.nicoverbruggen.be/",
+    "description": "Custom E-Reader Typography + Font Preview Tool",
+    "category": "reading",
+    "subcategory": "▷ E-Reader Tools",
+    "domain": "ebook-fonts.nicoverbruggen.be",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -96580,6 +96613,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Aftergleam",
+    "url": "https://aftergleam.app/",
+    "description": "Research Paper Reader / Android / GitHub",
+    "category": "reading",
+    "subcategory": "▷ Academic Papers",
+    "domain": "aftergleam.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Legal Core",
     "url": "https://core.ac.uk/",
     "description": "Papers / Academic",
@@ -97841,6 +97885,17 @@
     "subcategory": "▷ Dharmic",
     "domain": "booknotification.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Bookfeed.io",
+    "url": "https://bookfeed.io/",
+    "description": "Author Release RSS Feeds",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "bookfeed.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -101294,7 +101349,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Twitch Players",
     "domain": "test2-fawn-eta.vercel.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -101871,23 +101926,23 @@
     "is_tip": false
   },
   {
-    "title": "⁠TikFinity",
-    "url": "https://tikfinity.zerody.one/",
-    "description": "TikTok Live Toolkit / Discord",
-    "category": "social-media-tools",
-    "subcategory": "▷ Viewers / Downloaders",
-    "domain": "tikfinity.zerody.one",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠BXD Enhancer",
     "url": "https://method.billoxd.site/",
     "description": "Bypass TikTok Compression",
     "category": "social-media-tools",
     "subcategory": "▷ Viewers / Downloaders",
     "domain": "method.billoxd.site",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠TikFinity",
+    "url": "https://tikfinity.zerody.one/",
+    "description": "TikTok Live Toolkit / Discord",
+    "category": "social-media-tools",
+    "subcategory": "▷ Viewers / Downloaders",
+    "domain": "tikfinity.zerody.one",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -102878,17 +102933,6 @@
     "category": "storage",
     "subcategory": "EmulatorJS / NeptunJS",
     "domain": "neogeofun.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Tiarap",
-    "url": "https://tiar.app/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "tiar.app",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -107483,7 +107527,7 @@
   {
     "title": "Browserpad",
     "url": "https://browserpad.org/",
-    "description": "Local  / GitHub",
+    "description": "Local / GitHub",
     "category": "text-tools",
     "subcategory": "▷ Online Editors",
     "domain": "browserpad.org",
@@ -113157,6 +113201,17 @@
     "is_tip": false
   },
   {
+    "title": "BingeBang",
+    "url": "https://bingebang.st/",
+    "description": "Movies / TV / Anime / Auto-Next / Status / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "bingebang.st",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cinema (BZ)",
     "url": "https://cinema.army/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram",
@@ -113185,6 +113240,17 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "lfmx.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Cinemove",
+    "url": "https://cinemove.cc/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "cinemove.cc",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113289,17 +113355,6 @@
     "is_tip": false
   },
   {
-    "title": "Cinemove",
-    "url": "https://cinemove.cc/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "cinemove.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Lightflix",
     "url": "https://lightflix.app/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -113355,28 +113410,6 @@
     "is_tip": false
   },
   {
-    "title": "M-Zone",
-    "url": "https://m-zone.org/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "m-zone.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BingeBang",
-    "url": "https://bingebang.st/",
-    "description": "Movies / TV / Anime / Auto-Next / Status / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "bingebang.st",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "FRAME",
     "url": "https://www.framemovie.online/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -113421,23 +113454,34 @@
     "is_tip": false
   },
   {
-    "title": "VaultPlayer",
-    "url": "https://vaultplayer.co.uk/",
-    "description": "Movies / TV / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "vaultplayer.co.uk",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Flixtrz",
     "url": "https://flixtrz.com/",
     "description": "Movies / TV / Anime / Auto-Next",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "flixtrz.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ThugTV",
+    "url": "https://thugtv.online/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "thugtv.online",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "VaultPlayer",
+    "url": "https://vaultplayer.co.uk/",
+    "description": "Movies / TV / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "vaultplayer.co.uk",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113487,6 +113531,28 @@
     "is_tip": false
   },
   {
+    "title": "Youplex",
+    "url": "https://youplex.site/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "youplex.site",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "PopcornTime",
+    "url": "https://popwatch.to/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "popwatch.to",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Screenscape",
     "url": "https://screenscape.me/",
     "description": "Movies / TV / Anime / Auto-Next / Telegram",
@@ -113498,23 +113564,23 @@
     "is_tip": false
   },
   {
+    "title": "GreyBox",
+    "url": "https://greywatchbox.pages.dev/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "greywatchbox.pages.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Kofi",
     "url": "https://kofi.mov/",
     "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "kofi.mov",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "PopcornTime",
-    "url": "https://popwatch.to/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "popwatch.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113883,6 +113949,17 @@
     "is_tip": false
   },
   {
+    "title": "Flixmix",
+    "url": "https://flixmix.site/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "flixmix.site",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "321Movies",
     "url": "https://321movies.xyz/",
     "description": "Movies / TV / Anime / Discord",
@@ -113922,17 +113999,6 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "koddo.ch",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ThugTV",
-    "url": "https://thugtv.online/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "thugtv.online",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113978,6 +114044,17 @@
     "subcategory": "▷ Multi-Server",
     "domain": "reelzone.icu",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "All About Movies",
+    "url": "https://allaboutmovies.xyz/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "allaboutmovies.xyz",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -114125,6 +114202,17 @@
     "is_tip": false
   },
   {
+    "title": "MilkBox",
+    "url": "https://milkbox.sytes.net/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "milkbox.sytes.net",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Zerostream",
     "url": "https://zerostream.alwaysdata.net/",
     "description": "Movies / TV / Anime",
@@ -114220,6 +114308,17 @@
     "subcategory": "▷ Multi-Server",
     "domain": "meowly.qzz.io",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "RabbitMeow",
+    "url": "https://rabbitmeow.online/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "rabbitmeow.online",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -114664,6 +114763,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Showberry",
+    "url": "https://github.com/Dackerie/showberry",
+    "description": "Streaming App / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "mov-cli",
     "url": "https://mov-cli.github.io/",
     "description": "Streaming CLI / Plugins / Windows, macOS, Linux / Discord / GitHub",
@@ -115071,17 +115181,6 @@
     "is_tip": false
   },
   {
-    "title": "AniDB (.app)",
-    "url": "https://anidb.app/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "anidb.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Enma",
     "url": "https://www.enma.lol/",
     "description": "Sub / Dub / Auto-Next / Discord",
@@ -115275,7 +115374,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "multinime.site",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116095,12 +116194,12 @@
   },
   {
     "title": "Cinevid",
-    "url": "https://cinevid.st/iptv/",
+    "url": "https://cinevid.st/channels",
     "description": "TV / Sports",
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "cinevid.st",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -116326,12 +116425,12 @@
   },
   {
     "title": "Cinevid",
-    "url": "https://cinevid.st/iptv/schedule",
+    "url": "https://cinevid.st/events",
     "description": "",
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "cinevid.st",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -116353,7 +116452,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "aurasports.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117370,6 +117469,17 @@
     "is_tip": false
   },
   {
+    "title": "Vyla TV",
+    "url": "https://vyla.cc/products/tv",
+    "description": "Streaming App / GitLab",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "vyla.cc",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "ARVIO",
     "url": "https://arvio.tv/",
     "description": "TV Media Server w/ Stremio Addons + IPTV Support / GitHub",
@@ -117535,6 +117645,17 @@
     "is_tip": false
   },
   {
+    "title": "ShowBox",
+    "url": "https://www.showbox.media/",
+    "description": "Movies / TV / Anime / 4K / Use Throwaway Gmail",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "showbox.media",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Medeberiya",
     "url": "https://medeberiya.net/",
     "description": "Movie / TV",
@@ -117585,17 +117706,6 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "rentry.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ShowBox",
-    "url": "https://www.showbox.media/",
-    "description": "Movies / TV / Anime / 4K / Use Throwaway Gmail",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "showbox.media",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118476,7 +118586,7 @@
     "category": "video",
     "subcategory": "▷ Stremio Tools",
     "domain": "dvdeez.top",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118487,7 +118597,7 @@
     "category": "video",
     "subcategory": "▷ Stremio Tools",
     "domain": "youplex.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
