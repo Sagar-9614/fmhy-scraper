@@ -7519,7 +7519,7 @@
     "category": "audio",
     "subcategory": "▷ Karaoke / Synced Lyrics",
     "domain": "unison.betterlyrics.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24877,7 +24877,7 @@
     "category": "educational",
     "subcategory": "▷ Cybersecurity",
     "domain": "blog.emilua.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -27968,7 +27968,7 @@
     "category": "file-tools",
     "subcategory": "▷ PDF Conversion Tools",
     "domain": "seal.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32241,6 +32241,17 @@
     "is_tip": false
   },
   {
+    "title": "OpenFusion",
+    "url": "https://openfusion.dev/",
+    "description": "FusionFall Server Revival / GitHub",
+    "category": "gaming-tools",
+    "subcategory": "▷ Multiplayer Servers",
+    "domain": "openfusion.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "OpenExonaut",
     "url": "https://rentry.co/FMHYB64#openexonaut",
     "description": "Cartoon Network's Project Exonaut Multiplayer Revival",
@@ -33215,7 +33226,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Premium Only Launchers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33226,7 +33237,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Premium Only Launchers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34821,7 +34832,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Mario Kart Tools",
     "domain": "discord.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35283,7 +35294,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Undertale / Deltarune Tools",
     "domain": "discord.gg",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36314,17 +36325,6 @@
     "title": "⁠Flying With Gauss",
     "url": "https://discord.gg/CqgMJC7zsx",
     "description": "GoldSrc Game Ports for Android + Other Platforms",
-    "category": "gaming",
-    "subcategory": "▷ Decomps / Ports",
-    "domain": "discord.gg",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Undertale: New Hope",
-    "url": "https://discord.gg/QMrzvQrSj",
-    "description": "Deltarune + Undertale Mobile Ports",
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "discord.gg",
@@ -40546,6 +40546,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Obsidian",
+    "url": "https://playobsidian.com/store",
+    "description": "Browser Games / Ports",
+    "category": "gaming",
+    "subcategory": "▷ Unblocked Games",
+    "domain": "playobsidian.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Truffled",
     "url": "https://truffled.lol/g",
     "description": "Browser Games / Ports / Discord",
@@ -42103,7 +42114,7 @@
     "category": "gaming",
     "subcategory": "▷ Trivia / Guessing",
     "domain": "roughly.is",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -44127,7 +44138,7 @@
     "category": "image-tools",
     "subcategory": "▷ [Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)",
     "domain": "everywhere.tools",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60390,6 +60401,17 @@
     "is_tip": false
   },
   {
+    "title": "Fires Near Me Australia",
+    "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.rfs.firesnearme.national",
+    "description": "Australian Bush Fires Map / Tracker / Android",
+    "category": "misc",
+    "subcategory": "▷ Flights",
+    "domain": "play.google.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠CrashAtlas",
     "url": "https://crashatlas.com/",
     "description": "Aviation Accident Database / Map",
@@ -74663,7 +74685,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "apps.apple.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76599,7 +76621,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76940,17 +76962,6 @@
     "category": "non-english",
     "subcategory": "▷ Torrenting / التورنت",
     "domain": "arabp2p.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FajerShow",
-    "url": "https://fajer.show",
-    "description": "Movies / TV / Cartoons / Sub / 720p",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / البث",
-    "domain": "fajer.show",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -87275,12 +87286,12 @@
   },
   {
     "title": "DonTorrent",
-    "url": "https://donproxies.com/",
+    "url": "https://dontorrent.moi/",
     "description": "Movies / TV / Documentaries / Castilian / .onion / Status / Telegram",
     "category": "non-english",
     "subcategory": "▷ Torrenting / Torrentear",
-    "domain": "donproxies.com",
-    "is_new": false,
+    "domain": "dontorrent.moi",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -87313,17 +87324,6 @@
     "category": "non-english",
     "subcategory": "▷ Torrenting / Torrentear",
     "domain": "calidadtorrent.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "PediaTorrent",
-    "url": "https://pediatorrent.com/",
-    "description": "Movies / TV / Documentaries / Castilian",
-    "category": "non-english",
-    "subcategory": "▷ Torrenting / Torrentear",
-    "domain": "pediatorrent.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -93995,6 +93995,17 @@
     "is_tip": false
   },
   {
+    "title": "Audiobook CSE",
+    "url": "https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd",
+    "description": "Multi-Site Audiobook Search",
+    "category": "reading",
+    "subcategory": "▷ Downloading",
+    "domain": "cse.google.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "AudioBooksBee",
     "url": "https://audiobooksbee.com/",
     "description": "",
@@ -94541,6 +94552,17 @@
     "subcategory": "▷ Manga",
     "domain": "mangaball.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Toonkotsu",
+    "url": "https://toonkotsu.com/",
+    "description": "",
+    "category": "reading",
+    "subcategory": "▷ Manga",
+    "domain": "toonkotsu.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115330,7 +115352,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "zen-bu.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115341,7 +115363,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "aniclover.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116204,23 +116226,23 @@
     "is_tip": false
   },
   {
-    "title": "1TUbe",
-    "url": "https://www.1tube.org/live-tv",
-    "description": "TV / Sports",
-    "category": "video",
-    "subcategory": "▷ Live TV",
-    "domain": "1tube.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Cinevid",
     "url": "https://cinevid.st/channels",
     "description": "TV / Sports",
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "cinevid.st",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "1TUbe",
+    "url": "https://www.1tube.org/live-tv",
+    "description": "TV / Sports",
+    "category": "video",
+    "subcategory": "▷ Live TV",
+    "domain": "1tube.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116435,12 +116457,12 @@
     "is_tip": false
   },
   {
-    "title": "LiveTV",
-    "url": "https://livetv.sx/enx/",
+    "title": "⁠AuraSports",
+    "url": "https://aurasports.xyz/",
     "description": "",
     "category": "video",
     "subcategory": "▷ Live Sports",
-    "domain": "livetv.sx",
+    "domain": "aurasports.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116457,23 +116479,23 @@
     "is_tip": false
   },
   {
+    "title": "LiveTV",
+    "url": "https://livetv.sx/enx/",
+    "description": "",
+    "category": "video",
+    "subcategory": "▷ Live Sports",
+    "domain": "livetv.sx",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "xyzstreams",
     "url": "https://xyzstreams.st/",
     "description": "",
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "xyzstreams.st",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠AuraSports",
-    "url": "https://aurasports.xyz/",
-    "description": "",
-    "category": "video",
-    "subcategory": "▷ Live Sports",
-    "domain": "aurasports.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117827,7 +117849,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "hdhub4u.bi",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
