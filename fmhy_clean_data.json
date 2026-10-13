@@ -17243,7 +17243,7 @@
     "category": "educational",
     "subcategory": "▷ Biology",
     "domain": "a-z-animals.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -17386,7 +17386,7 @@
     "category": "educational",
     "subcategory": "▷ Biology",
     "domain": "movebank.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21659,6 +21659,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Chess Second",
+    "url": "https://chess-second.com/",
+    "description": "FIDE Player Stats, Rating Histories & Opponent Scouting",
+    "category": "educational",
+    "subcategory": "▷ Chess",
+    "domain": "chess-second.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Olympiad Stats",
     "url": "https://www.olympiadstats.fun/",
     "description": "Chess Olympiad Statistics / Round Analysis",
@@ -25747,6 +25758,17 @@
     "subcategory": "▷ Study / Research",
     "domain": "studyn.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Study Together",
+    "url": "https://discord.gg/study",
+    "description": "Study / Productivity Focused Server",
+    "category": "educational",
+    "subcategory": "▷ Study / Research",
+    "domain": "discord.gg",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -36148,7 +36170,7 @@
   {
     "title": "whdload",
     "url": "https://www.whdload.de/",
-    "description": "Amiga Games",
+    "description": "Amiga Games6",
     "category": "gaming",
     "subcategory": "▷ Abandonware / Retro",
     "domain": "whdload.de",
@@ -39101,6 +39123,17 @@
     "subcategory": "▷ Word Games",
     "domain": "cyfam.github.io",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Quackle",
+    "url": "https://www.quackle.org/",
+    "description": "Scrabble AI, Game Analysis & Strategy Trainer / Windows, macOS, Linux / GitHub",
+    "category": "gaming",
+    "subcategory": "▷ Word Games",
+    "domain": "quackle.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -65967,6 +66000,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠WebBrowserTools",
+    "url": "https://webbrowsertools.com/",
+    "description": "Code / Text / Image",
+    "category": "misc",
+    "subcategory": "▷ Multi Tool Sites",
+    "domain": "webbrowsertools.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "IPVoid",
     "url": "https://www.ipvoid.com/",
     "description": "Text / IP",
@@ -71414,7 +71458,7 @@
   {
     "title": "De-Vanced",
     "url": "https://morphe-patches.software/?github=RookieEnough/De-Vanced#bundles",
-    "description": "Photo / Video Gallery / Unlimited / Tools",
+    "description": "Photo / Video Gallery / Unlimited / Tools / Warning",
     "category": "mobile",
     "subcategory": "▷ Image Galleries",
     "domain": "morphe-patches.software",
@@ -72360,7 +72404,7 @@
   {
     "title": "Google Sheets",
     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets",
-    "description": "Spreadsheet Editor / Reader",
+    "description": "Spreadsheet Editor / Reader / Online",
     "category": "mobile",
     "subcategory": "▷ Android Text Tools",
     "domain": "play.google.com",
@@ -79954,7 +79998,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "pirvab.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -102960,6 +103004,17 @@
     "is_tip": false
   },
   {
+    "title": "DNS Forge",
+    "url": "https://dnsforge.de/",
+    "description": "",
+    "category": "storage",
+    "subcategory": "Free DNS Resolvers",
+    "domain": "dnsforge.de",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Hurricane Electric",
     "url": "https://dns.he.net/",
     "description": "",
@@ -110561,6 +110616,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠CryptFiles",
+    "url": "https://cryptfiles.cloud/",
+    "description": "Unlimited / Forever",
+    "category": "video-tools",
+    "subcategory": "▷ Video File Hosts",
+    "domain": "cryptfiles.cloud",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Vidmoly",
     "url": "https://vidmoly.me/",
     "description": "15TB / 1 Year",
@@ -113256,17 +113322,6 @@
     "is_tip": false
   },
   {
-    "title": "Toflix",
-    "url": "https://toflix.co/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "toflix.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Cinegram",
     "url": "https://cinegram.tv/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -113537,7 +113592,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "framextv.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113861,6 +113916,17 @@
     "is_tip": false
   },
   {
+    "title": "Toflix",
+    "url": "https://toflix.co/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "toflix.co",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Youflex",
     "url": "https://youflex.top/",
     "description": "Movies / TV / Anime",
@@ -114142,7 +114208,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "milkbox.ddns.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114352,6 +114418,17 @@
     "subcategory": "▷ Stream Lounges",
     "domain": "vaughn.live",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Toonami Aftermath",
+    "url": "https://www.toonamiaftermath.com/",
+    "description": "Toonami Livestream / Chat",
+    "category": "video",
+    "subcategory": "▷ Stream Lounges",
+    "domain": "toonamiaftermath.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115126,6 +115203,17 @@
     "is_tip": false
   },
   {
+    "title": "KuroAnime",
+    "url": "https://kuroanime.lol/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "kuroanime.lol",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Enma",
     "url": "https://www.enma.lol/",
     "description": "Sub / Dub / Auto-Next / Discord",
@@ -115176,7 +115264,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animelover.site",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115187,28 +115275,6 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anikage.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Yenime",
-    "url": "https://yenime.net/",
-    "description": "Sub / Dub / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "yenime.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "AnimeNoSub",
-    "url": "https://animenosub.to/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "animenosub.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115231,28 +115297,6 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animeonsen.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Babyanime",
-    "url": "https://babyanime.top/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "babyanime.top",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠AniClipse",
-    "url": "https://aniclipse.com/",
-    "description": "Sub / Dub / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "aniclipse.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
