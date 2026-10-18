@@ -4384,7 +4384,7 @@
     "category": "audio",
     "subcategory": "▷ Audio Ripping Sites",
     "domain": "cybrox.pro",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8861,7 +8861,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Mobile Dev Tools",
     "domain": "xtool.sh",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11270,7 +11270,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Developer Utilities",
     "domain": "whichai.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -13041,7 +13041,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Frontend / UI Tools",
     "domain": "blurha.sh",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -14135,6 +14135,17 @@
     "is_tip": false
   },
   {
+    "title": "YARA",
+    "url": "https://virustotal.github.io/yara/",
+    "description": "Malware Identification Tool / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ Static Page Hosting",
+    "domain": "virustotal.github.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "OpenSCA-CLI",
     "url": "https://github.com/XmirrorSecurity/OpenSCA-cli",
     "description": "Composition Analysis for Third Party Components",
@@ -14171,6 +14182,17 @@
     "title": "Greenbone",
     "url": "https://github.com/greenbone",
     "description": "Vulnerability Management",
+    "category": "developer-tools",
+    "subcategory": "▷ Static Page Hosting",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Grype",
+    "url": "https://github.com/anchore/grype",
+    "description": "Container Images Vulnerability Scanner",
     "category": "developer-tools",
     "subcategory": "▷ Static Page Hosting",
     "domain": "github.com",
@@ -15829,17 +15851,6 @@
     "is_tip": false
   },
   {
-    "title": "Gresham College",
-    "url": "https://www.gresham.ac.uk/",
-    "description": "Lectures / YouTube",
-    "category": "educational",
-    "subcategory": "▷ Streaming",
-    "domain": "gresham.ac.uk",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Paul G. Allen School",
     "url": "https://www.youtube.com/@uwcse/",
     "description": "Lectures",
@@ -16847,7 +16858,7 @@
     "category": "educational",
     "subcategory": "▷ Engineering",
     "domain": "howtomechatronics.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19355,7 +19366,7 @@
     "category": "educational",
     "subcategory": "▷ Tech History",
     "domain": "gbhwdb.gekkio.fi",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20543,6 +20554,17 @@
     "category": "educational",
     "subcategory": "▷ Philosophy",
     "domain": "arvindguptatoys.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Antique Pattern Library",
+    "url": "https://www.antiquepatternlibrary.org/",
+    "description": "Antique Pattern Library / Knitting + Crochet",
+    "category": "educational",
+    "subcategory": "▷ Philosophy",
+    "domain": "antiquepatternlibrary.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -22160,7 +22182,7 @@
     "category": "educational",
     "subcategory": "▷ Multi-Language",
     "domain": "elararchive.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -31092,7 +31114,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "gbhwdb.gekkio.fi",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35316,7 +35338,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Geometry Dash Tools",
     "domain": "gdtree.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35712,17 +35734,6 @@
     "category": "gaming",
     "subcategory": "General",
     "domain": "g4u.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Glitchify Archives",
-    "url": "https://glitchify.org/",
-    "description": "Download / ROM Repacks / Discord",
-    "category": "gaming",
-    "subcategory": "General",
-    "domain": "glitchify.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -36548,7 +36559,7 @@
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36614,7 +36625,7 @@
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -40178,7 +40189,7 @@
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "ported2browser.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41289,7 +41300,7 @@
     "category": "gaming",
     "subcategory": "▷ Shooter",
     "domain": "stickfrag.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -43329,13 +43340,24 @@
     "is_tip": false
   },
   {
+    "title": "BG Bye",
+    "url": "https://bgbye.io/",
+    "description": "Background Remover / Web / GitHub",
+    "category": "image-tools",
+    "subcategory": "▷ Content Removers",
+    "domain": "bgbye.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠BrainDeadBackgroundRemover",
     "url": "https://github.com/BizaNator/BrainDeadBackgroundRemover",
     "description": "Background Remover / Windows",
     "category": "image-tools",
     "subcategory": "▷ Content Removers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -44006,7 +44028,7 @@
     "category": "image-tools",
     "subcategory": "▷ Pixel Art / Sprite Sheets",
     "domain": "xprite.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -46635,7 +46657,7 @@
     "category": "image-tools",
     "subcategory": "▷ CAD Engineering",
     "domain": "perspectivefix.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -50094,11 +50116,44 @@
     "is_tip": false
   },
   {
+    "title": "IsLegitSite",
+    "url": "https://www.islegitsite.com/",
+    "description": "9 Blocklist Engines Scan",
+    "category": "internet-tools",
+    "subcategory": "▷ Site Info / Legitimacy",
+    "domain": "islegitsite.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ZScaler",
+    "url": "https://zulu.zscaler.com/",
+    "description": "",
+    "category": "internet-tools",
+    "subcategory": "▷ Site Info / Legitimacy",
+    "domain": "zulu.zscaler.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Talos",
+    "url": "https://talosintelligence.com/",
+    "description": "Reputation Rating / Content Tags / Blocklist Flag",
+    "category": "internet-tools",
+    "subcategory": "▷ Site Info / Legitimacy",
+    "domain": "talosintelligence.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Delta Chat",
     "url": "https://delta.chat/",
     "description": "Email-Based Messenger",
     "category": "internet-tools",
-    "subcategory": "▷ Down Site Checkers",
+    "subcategory": "▷ Site Info / Legitimacy",
     "domain": "delta.chat",
     "is_new": false,
     "is_broken": false,
@@ -50109,7 +50164,7 @@
     "url": "https://useplaintext.email/",
     "description": "How to Use Plaintext Email",
     "category": "internet-tools",
-    "subcategory": "▷ Down Site Checkers",
+    "subcategory": "▷ Site Info / Legitimacy",
     "domain": "useplaintext.email",
     "is_new": false,
     "is_broken": false,
@@ -50120,7 +50175,7 @@
     "url": "https://github.com/GAM-team/got-your-back",
     "description": "Backup Gmail Messages",
     "category": "internet-tools",
-    "subcategory": "▷ Down Site Checkers",
+    "subcategory": "▷ Site Info / Legitimacy",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -50131,7 +50186,7 @@
     "url": "https://extractemailaddress.com/",
     "description": "Extract Emails, URLs, and Numbers from Text",
     "category": "internet-tools",
-    "subcategory": "▷ Down Site Checkers",
+    "subcategory": "▷ Site Info / Legitimacy",
     "domain": "extractemailaddress.com",
     "is_new": false,
     "is_broken": false,
@@ -50142,7 +50197,7 @@
     "url": "https://scr.im/",
     "description": "Email Captcha Protection",
     "category": "internet-tools",
-    "subcategory": "▷ Down Site Checkers",
+    "subcategory": "▷ Site Info / Legitimacy",
     "domain": "scr.im",
     "is_new": false,
     "is_broken": false,
@@ -51574,17 +51629,6 @@
     "category": "internet-tools",
     "subcategory": "▷ Browser Extensions",
     "domain": "readaloud.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "GlobalSpeed",
-    "url": "https://github.com/polywock/globalSpeed",
-    "description": "Set Default Video / Audio Speed",
-    "category": "internet-tools",
-    "subcategory": "▷ Browser Extensions",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -54847,12 +54891,12 @@
   },
   {
     "title": "Vice",
-    "url": "https://eklonofficial.github.io/Vice-Website/",
-    "description": "Game Clipping App / GitHub",
+    "url": "https://github.com/eklonofficial/Vice",
+    "description": "Game Clipping App",
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
-    "domain": "eklonofficial.github.io",
-    "is_new": false,
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -58592,7 +58636,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "openweird.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59644,7 +59688,7 @@
   {
     "title": "Antique Pattern Library",
     "url": "https://www.antiquepatternlibrary.org/",
-    "description": "Antique Pattern Library",
+    "description": "Antique Pattern Library / Knitting + Crochet",
     "category": "misc",
     "subcategory": "▷ Drinks",
     "domain": "antiquepatternlibrary.org",
@@ -68855,7 +68899,7 @@
     "category": "misc",
     "subcategory": "▷ Media / Lore",
     "domain": "fanlore.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -74982,7 +75026,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76885,7 +76929,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Relaxation",
     "domain": "apps.apple.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77979,17 +78023,6 @@
     "is_tip": false
   },
   {
-    "title": "bookspointer",
-    "url": "https://bookspointer.com/",
-    "description": "Books",
-    "category": "non-english",
-    "subcategory": "▷ Reading / পড়া",
-    "domain": "bookspointer.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "jyotirjagat",
     "url": "https://jyotirjagat.wordpress.com/",
     "description": "Books",
@@ -78315,17 +78348,6 @@
     "category": "non-english",
     "subcategory": "▷ Reading",
     "domain": "fuun.fun",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BookStack",
-    "url": "https://www.bookstack.cn/",
-    "description": "Developer / Programming Guides",
-    "category": "non-english",
-    "subcategory": "▷ Reading",
-    "domain": "bookstack.cn",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -79184,7 +79206,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / 阅读",
     "domain": "wenku.mojimoon.top",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -82126,28 +82148,6 @@
     "is_tip": false
   },
   {
-    "title": "DownloadHub",
-    "url": "https://d10.downloadhub.food/",
-    "description": "Movies / TV / Sub / Dub / 1080p / Telegram",
-    "category": "non-english",
-    "subcategory": "▷ Downloading",
-    "domain": "d10.downloadhub.food",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MoviesLeech",
-    "url": "https://moviesleech.club/",
-    "description": "Movies / TV / Sub",
-    "category": "non-english",
-    "subcategory": "▷ Downloading",
-    "domain": "moviesleech.club",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "KatMovieHD",
     "url": "https://new.katmoviehd.top/",
     "description": "Movies / TV / Anime / Sub / Dub / 1080p",
@@ -82342,6 +82342,17 @@
     "subcategory": "▷ Streaming",
     "domain": "1tamilblasters.tech",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "BollyZone",
+    "url": "https://www.bollyzone.to/",
+    "description": "Movies / TV / 1080p",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "bollyzone.to",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -84387,17 +84398,6 @@
     "category": "non-english",
     "subcategory": "▷ Reading / خواندن",
     "domain": "animesub.info",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MineWiki",
-    "url": "https://minewiki.pl/",
-    "description": "Minecraft Wiki / Discord",
-    "category": "non-english",
-    "subcategory": "▷ Reading / خواندن",
-    "domain": "minewiki.pl",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -86768,17 +86768,6 @@
     "is_tip": false
   },
   {
-    "title": "OpenEDU",
-    "url": "https://openedu.ru/",
-    "description": "Courses",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / Стриминг",
-    "domain": "openedu.ru",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Teach.in",
     "url": "https://teach-in.ru/",
     "description": "Lectures",
@@ -87071,7 +87060,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Чтение",
     "domain": "com-x.life",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -89188,17 +89177,6 @@
     "is_tip": false
   },
   {
-    "title": "Diziizle",
-    "url": "https://www.diziizle.now/",
-    "description": "TV",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / İzleme",
-    "domain": "diziizle.now",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Dizibox",
     "url": "https://www.dizibox.live/",
     "description": "TV / Sub / 1080p",
@@ -90596,6 +90574,17 @@
     "is_tip": false
   },
   {
+    "title": "Microsoft Safety Scanner",
+    "url": "https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download",
+    "description": "On-Demand AV Scanner",
+    "category": "privacy",
+    "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
+    "domain": "learn.microsoft.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠rifteyy",
     "url": "https://rifteyy.org/",
     "description": "Malware Removal Guides / Blog",
@@ -90607,45 +90596,12 @@
     "is_tip": false
   },
   {
-    "title": "Sandboxie Plus",
-    "url": "https://sandboxie-plus.com/",
-    "description": "Sandbox Environment / Guide / GitHub",
+    "title": "pyWhat",
+    "url": "https://github.com/bee-san/pyWhat",
+    "description": "Identify Anything / Discord",
     "category": "privacy",
     "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
-    "domain": "sandboxie-plus.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Windows Sandbox",
-    "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview",
-    "description": "Full Virtual Machine Sandbox Environment",
-    "category": "privacy",
-    "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
-    "domain": "learn.microsoft.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Dangerzone",
-    "url": "https://dangerzone.rocks/",
-    "description": "Convert Malicious PDFs to Safe Files / GitHub",
-    "category": "privacy",
-    "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
-    "domain": "dangerzone.rocks",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Ransomware.live",
-    "url": "https://www.ransomware.live/",
-    "description": "Live Ransomware Monitor",
-    "category": "privacy",
-    "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
-    "domain": "ransomware.live",
+    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -90673,6 +90629,17 @@
     "is_tip": false
   },
   {
+    "title": "Winitor",
+    "url": "https://www.winitor.com/",
+    "description": "EXE Malware Assessment",
+    "category": "privacy",
+    "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
+    "domain": "winitor.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "ConfigureDefender",
     "url": "https://github.com/AndyFul/ConfigureDefender",
     "description": "Configure Windows Defender Settings",
@@ -90684,34 +90651,45 @@
     "is_tip": false
   },
   {
+    "title": "ANY.RUN",
+    "url": "https://any.run/",
+    "description": "Online Sandbox / Discord / Note",
+    "category": "privacy",
+    "subcategory": "▷ Sandboxes / VMs",
+    "domain": "any.run",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Sandboxie Plus",
+    "url": "https://sandboxie-plus.com/",
+    "description": "Local Sandbox Environment / Guide / GitHub",
+    "category": "privacy",
+    "subcategory": "▷ Sandboxes / VMs",
+    "domain": "sandboxie-plus.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Windows Sandbox",
+    "url": "https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview",
+    "description": "Full Local Virtual Machine Sandbox Environment",
+    "category": "privacy",
+    "subcategory": "▷ Sandboxes / VMs",
+    "domain": "learn.microsoft.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Jotti",
     "url": "https://virusscan.jotti.org/en",
     "description": "Online File Scanner",
     "category": "privacy",
-    "subcategory": "▷ File Scanners",
+    "subcategory": "▷ Online Scanners",
     "domain": "virusscan.jotti.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Farbar",
-    "url": "https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/",
-    "description": "Local File Scanner / Guide",
-    "category": "privacy",
-    "subcategory": "▷ File Scanners",
-    "domain": "bleepingcomputer.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Microsoft Safety Scanner",
-    "url": "https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download",
-    "description": "On-demand AV Scanner",
-    "category": "privacy",
-    "subcategory": "▷ File Scanners",
-    "domain": "learn.microsoft.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -90721,96 +90699,19 @@
     "url": "https://manalyzer.org/",
     "description": "PE File Scanner / GitHub",
     "category": "privacy",
-    "subcategory": "▷ File Scanners",
+    "subcategory": "▷ Online Scanners",
     "domain": "manalyzer.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "YARA",
-    "url": "https://virustotal.github.io/yara/",
-    "description": "Malware Identification Tool / GitHub",
+    "title": "Dangerzone",
+    "url": "https://dangerzone.rocks/",
+    "description": "Convert Malicious PDFs to Safe Files / GitHub",
     "category": "privacy",
-    "subcategory": "▷ File Scanners",
-    "domain": "virustotal.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Winitor",
-    "url": "https://www.winitor.com/",
-    "description": "EXE Malware Assessment",
-    "category": "privacy",
-    "subcategory": "▷ File Scanners",
-    "domain": "winitor.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "pyWhat",
-    "url": "https://github.com/bee-san/pyWhat",
-    "description": "Identify Anything / Discord",
-    "category": "privacy",
-    "subcategory": "▷ File Scanners",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Grype",
-    "url": "https://github.com/anchore/grype",
-    "description": "Container Images Vulnerability Scanner",
-    "category": "privacy",
-    "subcategory": "▷ File Scanners",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ScamAdviser",
-    "url": "https://www.scamadviser.com/",
-    "description": "Trust Score",
-    "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
-    "domain": "scamadviser.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "IsLegitSite",
-    "url": "https://www.islegitsite.com/",
-    "description": "9 Blocklist Engines Scan",
-    "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
-    "domain": "islegitsite.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ZScaler",
-    "url": "https://zulu.zscaler.com/",
-    "description": "",
-    "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
-    "domain": "zulu.zscaler.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Talos",
-    "url": "https://talosintelligence.com/",
-    "description": "Reputation Rating / Content Tags / Blocklist Flag",
-    "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
-    "domain": "talosintelligence.com",
+    "subcategory": "▷ Online Scanners",
+    "domain": "dangerzone.rocks",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -90820,7 +90721,7 @@
     "url": "https://www.w10privacy.de/english-home/",
     "description": "Privacy and Data Protection Tools",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "w10privacy.de",
     "is_new": false,
     "is_broken": false,
@@ -90831,7 +90732,7 @@
     "url": "https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89",
     "description": "Disable Windows 10/11 Telemetry",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "gist.github.com",
     "is_new": false,
     "is_broken": false,
@@ -90842,7 +90743,7 @@
     "url": "https://github.com/AlexxIT/go2rtc",
     "description": "Security Camera Bridge + Stream Manager",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -90853,7 +90754,7 @@
     "url": "https://www.te-home.net/",
     "description": "Security Software",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "te-home.net",
     "is_new": false,
     "is_broken": false,
@@ -90864,7 +90765,7 @@
     "url": "https://yourdigitalrights.org/",
     "description": "Get Organizations to Delete Your Personal Data",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "yourdigitalrights.org",
     "is_new": false,
     "is_broken": false,
@@ -90875,7 +90776,7 @@
     "url": "https://www.datarequests.org/",
     "description": "GDPR Request Generator / Tools / GitHub",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "datarequests.org",
     "is_new": false,
     "is_broken": false,
@@ -90886,7 +90787,7 @@
     "url": "https://github.com/Surfer-Org/Protocol",
     "description": "Multi-Platform User Data Exporter / Discord",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -90897,7 +90798,7 @@
     "url": "https://gnupg.org/",
     "description": "Data / Communication Encryption Tool / Installer / Key Manager",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "gnupg.org",
     "is_new": false,
     "is_broken": false,
@@ -90908,7 +90809,7 @@
     "url": "https://alcazarsec.github.io/portable-secret/",
     "description": "Self-Contained HTML Files that Decrypt Locally in Browser / GitHub",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "alcazarsec.github.io",
     "is_new": false,
     "is_broken": false,
@@ -90919,7 +90820,7 @@
     "url": "https://www.forensicfocus.com/forums/",
     "description": "Digital Forensics Discussion Forums / Discord",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "forensicfocus.com",
     "is_new": false,
     "is_broken": false,
@@ -90930,7 +90831,7 @@
     "url": "https://www.surveillancewatch.io/",
     "description": "Surveillance Company Connections",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "surveillancewatch.io",
     "is_new": false,
     "is_broken": false,
@@ -90941,7 +90842,7 @@
     "url": "https://www.atlasofsurveillance.org/",
     "description": "Police / Surveillance Tech Map",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "atlasofsurveillance.org",
     "is_new": false,
     "is_broken": false,
@@ -90952,7 +90853,7 @@
     "url": "https://map.sparrowmap.com/",
     "description": "Police Vehicle Map / Community Camera Network",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "map.sparrowmap.com",
     "is_new": false,
     "is_broken": false,
@@ -90963,7 +90864,7 @@
     "url": "https://eyesonflock.com/",
     "description": "AI Flock Surveillance Database / Tracking",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "eyesonflock.com",
     "is_new": false,
     "is_broken": false,
@@ -90974,7 +90875,7 @@
     "url": "https://haveibeenflocked.com/",
     "description": "Check to See if Your Plate Has Been Tagged by Flock Surveillance",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "haveibeenflocked.com",
     "is_new": false,
     "is_broken": false,
@@ -90985,7 +90886,7 @@
     "url": "https://docs.google.com/document/d/176Yds1p63Q3iaKilw0luChMzlJhODdiPvF2I4g9eIXo/",
     "description": "Best Practices if Contacted by Agents",
     "category": "privacy",
-    "subcategory": "▷ Site Legitimacy Check",
+    "subcategory": "▷ Online Scanners",
     "domain": "docs.google.com",
     "is_new": false,
     "is_broken": false,
@@ -93473,7 +93374,7 @@
     "category": "reading",
     "subcategory": "▷ Kindle Tools",
     "domain": "kindle.hrincar.eu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94985,6 +94886,28 @@
     "is_tip": false
   },
   {
+    "title": "⁠bManga",
+    "url": "https://bmanga.dedyn.io/",
+    "description": "Multi-Site Manga Aggregator",
+    "category": "reading",
+    "subcategory": "▷ Manga",
+    "domain": "bmanga.dedyn.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Cubari Proxy",
+    "url": "https://proxy.cubari.moe/",
+    "description": "Multi-Site Manga Aggregator / Discord",
+    "category": "reading",
+    "subcategory": "▷ Manga",
+    "domain": "proxy.cubari.moe",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "MangaKatana",
     "url": "https://mangakatana.com/",
     "description": "",
@@ -95062,34 +94985,12 @@
     "is_tip": false
   },
   {
-    "title": "⁠bManga",
-    "url": "https://bmanga.dedyn.io/",
-    "description": "",
-    "category": "reading",
-    "subcategory": "▷ Manga",
-    "domain": "bmanga.dedyn.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Like Manga",
     "url": "https://likemanga.ink/",
     "description": "",
     "category": "reading",
     "subcategory": "▷ Manga",
     "domain": "likemanga.ink",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Cubari Proxy",
-    "url": "https://proxy.cubari.moe/",
-    "description": "Multi Site Web Client / Discord",
-    "category": "reading",
-    "subcategory": "▷ Manga",
-    "domain": "proxy.cubari.moe",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -95838,17 +95739,6 @@
     "category": "reading",
     "subcategory": "▷ Magazines",
     "domain": "v2.sherpa.ac.uk",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Science Forums",
-    "url": "https://www.scienceforums.net/",
-    "description": "Forums / Science",
-    "category": "reading",
-    "subcategory": "▷ Magazines",
-    "domain": "scienceforums.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -98340,6 +98230,17 @@
     "is_tip": false
   },
   {
+    "title": "SikhBookClub",
+    "url": "https://sikhbookclub.com/",
+    "description": "Sikhism Book / Sign-Up",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "sikhbookclub.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Jainism Library of Jain Literature",
     "url": "https://www.atmadharma.com/index.html",
     "description": "Esoterica / Jainism",
@@ -99264,6 +99165,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠StoryLooker",
+    "url": "https://storylooker.com/",
+    "description": "Snapchat Frontends / Viewers",
+    "category": "social-media-tools",
+    "subcategory": "General",
+    "domain": "storylooker.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠grapper",
     "url": "https://grapper.gab.net.eu.org/",
     "description": "Vine Video Archive / Username Required",
@@ -99513,6 +99425,17 @@
     "subcategory": "General",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "axinstagram",
+    "url": "https://axinstagram.com/",
+    "description": "Fix Instagram Embeds / GitHub",
+    "category": "social-media-tools",
+    "subcategory": "General",
+    "domain": "axinstagram.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -101299,17 +101222,6 @@
     "is_tip": false
   },
   {
-    "title": "Video Speed Controller",
-    "url": "https://github.com/igrigorik/videospeed",
-    "description": "Control Speed of YouTube Videos",
-    "category": "social-media-tools",
-    "subcategory": "▷ Video Tools",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "TubeSync",
     "url": "https://github.com/meeb/tubesync",
     "description": "Sync YouTube Channels / Playlists to a Media Server",
@@ -102333,17 +102245,6 @@
     "is_tip": false
   },
   {
-    "title": "Image Counter",
-    "url": "https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter",
-    "description": "Count Page Images",
-    "category": "social-media-tools",
-    "subcategory": "▷ Twitter/X Customization",
-    "domain": "openuserjs.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "InstaAddict",
     "url": "https://github.com/Androz2091/instaddict",
     "description": "Instagram Addiction Test",
@@ -102665,11 +102566,22 @@
   {
     "title": "pixelfed",
     "url": "https://pixelfed.org/",
-    "description": "Decentralized Image Sharing Social Network / Requires Sign-Up / Tools / Android / GitHub",
+    "description": "Decentralized Image Sharing Social Network / Requires Sign-Up / Tools / Android",
     "category": "social-media-tools",
     "subcategory": "▷ Viewers / Downloaders",
     "domain": "pixelfed.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "FediDB",
+    "url": "https://fedidb.org/",
+    "description": "Network Statistics",
+    "category": "social-media-tools",
+    "subcategory": "▷ Viewers / Downloaders",
+    "domain": "fedidb.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -102911,17 +102823,6 @@
     "category": "social-media-tools",
     "subcategory": "▷ Lemmy Tools",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "The Federation Pixelfed",
-    "url": "https://the-federation.info/platform/26",
-    "description": "Pixelfed Instances",
-    "category": "social-media-tools",
-    "subcategory": "▷ Pixelfed Tools",
-    "domain": "the-federation.info",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -104143,17 +104044,6 @@
     "category": "storage",
     "subcategory": "Presentation Tools",
     "domain": "maaslalani.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "searx.party",
-    "url": "https://searx.party/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Searx Instances",
-    "domain": "searx.party",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -106053,7 +105943,7 @@
   {
     "title": "LegacyUpdate",
     "url": "https://legacyupdate.net/",
-    "description": "Fix Windows Updates for Legacy Editions / Discord / GitHub",
+    "description": "Fix Windows Updates for Legacy Versions / Discord / GitHub",
     "category": "system-tools",
     "subcategory": "▷ Windows Updates",
     "domain": "legacyupdate.net",
@@ -106299,7 +106189,7 @@
     "category": "system-tools",
     "subcategory": "▷ Windows Repair",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106552,7 +106442,7 @@
     "category": "system-tools",
     "subcategory": "▷ Wallpapers",
     "domain": "4kwallpapers.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -108752,7 +108642,7 @@
     "category": "text-tools",
     "subcategory": "▷ Spreadsheet Editors",
     "domain": "perspectivefix.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -112734,7 +112624,7 @@
     "category": "video-tools",
     "subcategory": "▷ Kodi Tools",
     "domain": "cybrox.pro",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113786,11 +113676,11 @@
   {
     "title": "CineLite",
     "url": "https://cinelite.xyz/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "Movies / TV / Anime / Auto-Next / 4K",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cinelite.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113966,7 +113856,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cineruv.website",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114725,7 +114615,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "ev01.ws",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115566,6 +115456,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠JJBA",
+    "url": "https://jjba.lol/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "jjba.lol",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Aniclover",
     "url": "https://aniclover.cc/",
     "description": "Sub / Dub",
@@ -115616,7 +115517,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "tsukuyomi.tv",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115671,7 +115572,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animetvplus.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120330,12 +120231,12 @@
   },
   {
     "title": "Sprocket School",
-    "url": "https://www.sprocketschool.org/",
+    "url": "https://www.sprocketschool.org/wiki/Main_Page",
     "description": "Film Exhibition Wiki",
     "category": "video",
     "subcategory": "▷ Download Subtitles",
     "domain": "sprocketschool.org",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   }
