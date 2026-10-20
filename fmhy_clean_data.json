@@ -211,7 +211,7 @@
   {
     "title": "⁠Tryingopen",
     "url": "https://www.tryingopen.com/",
-    "description": "DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Kimi K3 / Unlimited (12 per chat) / OpenAI Bridge",
+    "description": "DeepSeek V4 Pro / Qwen3.8 27B / GLM-5.3-Flash / Kimi K3 / Unlimited (12 per chat)",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "tryingopen.com",
@@ -2119,6 +2119,17 @@
     "subcategory": "▷ Streaming Apps",
     "domain": "muffon.netlify.app",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Squidify Desktop",
+    "url": "https://github.com/kobayashi90/squidify-desktop",
+    "description": "Game & Anime Soundtracks Streaming App",
+    "category": "audio",
+    "subcategory": "▷ Streaming Apps",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -10544,7 +10555,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Android Code Editors",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11337,6 +11348,17 @@
     "subcategory": "▷ Developer Utilities",
     "domain": "ccusage.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Asciify",
+    "url": "https://asciify.org/",
+    "description": "ASCII Engine for Coding Agents",
+    "category": "developer-tools",
+    "subcategory": "▷ Developer Utilities",
+    "domain": "asciify.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -18392,6 +18414,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Historic Spacecraft",
+    "url": "https://historicspacecraft.com/",
+    "description": "Spacecraft / Rocket Photos & illustrations",
+    "category": "educational",
+    "subcategory": "▷ Spacecraft",
+    "domain": "historicspacecraft.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠HeroicRelics",
     "url": "http://heroicrelics.org/",
     "description": "Spacecraft Technical Information Archive",
@@ -19718,6 +19751,17 @@
     "category": "educational",
     "subcategory": "▷ Mythology / Folklore",
     "domain": "mythology.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "BlackDrago",
+    "url": "https://www.blackdrago.com/",
+    "description": "Dragon Encyclopedia",
+    "category": "educational",
+    "subcategory": "▷ Mythology / Folklore",
+    "domain": "blackdrago.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -25773,17 +25817,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠CSRankings",
-    "url": "https://csrankings.org/",
-    "description": "Publication Activity of Computer Science Colleges per Topic",
-    "category": "educational",
-    "subcategory": "▷ JEE / NEET",
-    "domain": "csrankings.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Wordwall",
     "url": "https://wordwall.net/",
     "description": "Lesson Creator",
@@ -25868,6 +25901,17 @@
     "subcategory": "▷ Study Tools",
     "domain": "studytoolkit.vercel.app",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Schoolhouse",
+    "url": "https://schoolhouse.world/",
+    "description": "Free Online Tutoring",
+    "category": "educational",
+    "subcategory": "▷ Study Tools",
+    "domain": "schoolhouse.world",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -28144,7 +28188,7 @@
     "category": "file-tools",
     "subcategory": "▷ PDF Conversion Tools",
     "domain": "transfert.free.fr",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28413,6 +28457,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Plik",
+    "url": "https://up2store.de/",
+    "description": "50GB / Forever",
+    "category": "file-tools",
+    "subcategory": "▷ P2P Transfer",
+    "domain": "up2store.de",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠MaraFile",
     "url": "https://marafile.cc/",
     "description": "1GB / Forever",
@@ -28446,6 +28501,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠ATM",
+    "url": "https://atm.rip/",
+    "description": "10GB / Forever",
+    "category": "file-tools",
+    "subcategory": "▷ P2P Transfer",
+    "domain": "atm.rip",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Origrid",
     "url": "https://origrid.io/",
     "description": "100GB / 25GB / 7 Days After Last Download (30 w/ Account, Never w/ Plus)",
@@ -28463,7 +28529,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "dropmefiles.com.ua",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28562,7 +28628,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "upload.bg",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28782,7 +28848,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "2share.su",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28793,7 +28859,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "nippydrop.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28859,7 +28925,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "sendgb.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28881,7 +28947,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "dosyaupload.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -29212,6 +29278,17 @@
     "subcategory": "▷ Cloud Storage",
     "domain": "mrowl.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Koofr",
+    "url": "https://koofr.eu/",
+    "description": "10GB / Forever / ~$10 (1TB Suitcase)",
+    "category": "file-tools",
+    "subcategory": "▷ Cloud Storage",
+    "domain": "koofr.eu",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -29827,7 +29904,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Optimization Tools",
     "domain": "scskiller.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34078,6 +34155,39 @@
     "is_tip": false
   },
   {
+    "title": "osu!",
+    "url": "https://osu.ppy.sh/home",
+    "description": "Rhythm Game / Discord / GitHub",
+    "category": "gaming-tools",
+    "subcategory": "▷ Rhythm Tools",
+    "domain": "osu.ppy.sh",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠osu-winello",
+    "url": "https://github.com/NelloKudo/osu-winello/",
+    "description": "osu! Installer for Linux",
+    "category": "gaming-tools",
+    "subcategory": "▷ Rhythm Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "osu!droid",
+    "url": "https://osudroid.moe/",
+    "description": "osu! for Android / Discord / GitHub",
+    "category": "gaming-tools",
+    "subcategory": "▷ Rhythm Tools",
+    "domain": "osudroid.moe",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "YARG",
     "url": "https://yarg.in/",
     "description": "Rock Band Clone / Launcher / Discord / GitHub",
@@ -34151,6 +34261,17 @@
     "subcategory": "▷ Rhythm Tools",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "McOsu",
+    "url": "https://store.steampowered.com/app/607260/McOsu/",
+    "description": "Osu! Tatakae! Ouendan Clone / Discord",
+    "category": "gaming-tools",
+    "subcategory": "▷ Rhythm Tools",
+    "domain": "store.steampowered.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -34436,7 +34557,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Tabletop Tools",
     "domain": "cros.land",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34458,7 +34579,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Tabletop Tools",
     "domain": "endstep.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34480,7 +34601,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Tabletop Tools",
     "domain": "duelingbook.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -37219,7 +37340,7 @@
     "category": "gaming",
     "subcategory": "▷ Emulators",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -37979,6 +38100,17 @@
     "subcategory": "▷ Nintendo ROMs",
     "domain": "nxbrew.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "NSWPURE",
+    "url": "https://nswpure.com/",
+    "description": "ROMs / Switch",
+    "category": "gaming",
+    "subcategory": "▷ Nintendo ROMs",
+    "domain": "nswpure.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -40167,7 +40299,7 @@
     "category": "gaming",
     "subcategory": "▷ [Dungeons & Dragons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_dungeons_.26amp.3B_dragons)",
     "domain": "crazycattle3d.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -40986,6 +41118,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Neon Wardens",
+    "url": "https://neonwardens.com/",
+    "description": "Multiplayer Elemental Tower Defense",
+    "category": "gaming",
+    "subcategory": "▷ Party / Multiplayer",
+    "domain": "neonwardens.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Make It Meme",
     "url": "https://makeitmeme.com/",
     "description": "Meme Party Game / Discord",
@@ -41202,6 +41345,116 @@
     "subcategory": "▷ Party / Multiplayer",
     "domain": "tix.tax",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "q13x's Distros",
+    "url": "https://eaglercraft.q13x.com/",
+    "description": "Custom Eaglercraft Clients",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "eaglercraft.q13x.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Eaglercraft.dev",
+    "url": "https://eaglercraft.dev/",
+    "description": "Eaglercraft Client Directory & Launcher",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "eaglercraft.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "EaglerCraftX",
+    "url": "https://client.eaglercraft.win/",
+    "description": "Eaglercraft Mirror / Alt Versions",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "client.eaglercraft.win",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "MessCraft",
+    "url": "https://mess.eu.org/",
+    "description": "Eaglercraft Server Network / Site List / Discord",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "mess.eu.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Hiracraft",
+    "url": "https://craft.hira.im/",
+    "description": "Eaglercraft Mirror",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "craft.hira.im",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ClassiCube",
+    "url": "https://www.classicube.net/",
+    "description": "Browser-Based Minecraft Clone / Discord / GitHub",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "classicube.net",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Bloxd",
+    "url": "https://bloxd.io/",
+    "description": "Browser-Based Minecraft Clone / Texture Editor / Assets / Discord",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "bloxd.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "MiniBlox",
+    "url": "https://miniblox.io/",
+    "description": "Browser-Based Minecraft Clone / Discord",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "miniblox.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "EaglerForge",
+    "url": "https://eaglerforge.github.io/",
+    "description": "Eaglercraft Mod Loader",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "eaglerforge.github.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "EaglercraftXServer",
+    "url": "https://modrinth.com/organization/eaglercraftxserver",
+    "description": "Improved Eaglercraft Server Tool / GitHub",
+    "category": "gaming",
+    "subcategory": "▷ Browser Minecraft",
+    "domain": "modrinth.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -41751,17 +42004,6 @@
     "category": "gaming",
     "subcategory": "▷ Simulation",
     "domain": "hackerwars.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Startup Simulator",
-    "url": "https://toggl.com/startup-simulator/",
-    "description": "Startup Simulation Game",
-    "category": "gaming",
-    "subcategory": "▷ Simulation",
-    "domain": "toggl.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -43445,7 +43687,7 @@
     "category": "image-tools",
     "subcategory": "▷ Content Removers",
     "domain": "scadavide55.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -44678,6 +44920,17 @@
     "subcategory": "▷ Design Apps",
     "domain": "create.vista.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Doory",
+    "url": "https://doory.art/",
+    "description": "Design App / Web / GitHub",
+    "category": "image-tools",
+    "subcategory": "▷ Design Apps",
+    "domain": "doory.art",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -48076,7 +48329,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Network Tools",
     "domain": "globalping.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -50255,6 +50508,17 @@
     "subcategory": "▷ Site Info / Legitimacy",
     "domain": "talosintelligence.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Tranco",
+    "url": "https://tranco-list.eu/query",
+    "description": "Domain Popularity Rank Chart",
+    "category": "internet-tools",
+    "subcategory": "▷ Site Info / Legitimacy",
+    "domain": "tranco-list.eu",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -55143,6 +55407,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠osu-winello",
+    "url": "https://github.com/NelloKudo/osu-winello/",
+    "description": "osu! Installer for Linux",
+    "category": "linux-macos",
+    "subcategory": "▷ Linux Gaming",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Lynis",
     "url": "https://github.com/CISOfy/lynis",
     "description": "Linux Security Auditing Tool",
@@ -57129,7 +57404,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Audio",
     "domain": "silkwave.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59263,7 +59538,7 @@
     "category": "misc",
     "subcategory": "▷ Assistance / Charity",
     "domain": "savethefood.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59780,7 +60055,7 @@
     "category": "misc",
     "subcategory": "▷ Drinks",
     "domain": "doppel.fit",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63069,7 +63344,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Health",
     "domain": "upload.wikimedia.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63432,7 +63707,7 @@
     "category": "misc",
     "subcategory": "▷ Nutritional Health",
     "domain": "caffeineinformer.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64642,7 +64917,7 @@
     "category": "misc",
     "subcategory": "▷ Investing / Market Research",
     "domain": "portfolio-performance.info",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64664,7 +64939,7 @@
     "category": "misc",
     "subcategory": "▷ Investing / Market Research",
     "domain": "bogleheads.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64708,7 +64983,7 @@
     "category": "misc",
     "subcategory": "▷ Investing / Market Research",
     "domain": "am.jpmorgan.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64752,7 +65027,7 @@
     "category": "misc",
     "subcategory": "▷ Investing / Market Research",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65093,7 +65368,7 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "doppel.fit",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -67876,7 +68151,7 @@
     "category": "misc",
     "subcategory": "▷ Interactive",
     "domain": "funwithcomputervision.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -69152,7 +69427,7 @@
     "category": "misc",
     "subcategory": "▷ Media / Lore",
     "domain": "celeryman.fun",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -69256,23 +69531,23 @@
     "is_tip": false
   },
   {
+    "title": "Demons of the Deep",
+    "url": "https://seademons.weebly.com/",
+    "description": "Demon Encyclopedia",
+    "category": "misc",
+    "subcategory": "▷ Mysteries / Paranormal",
+    "domain": "seademons.weebly.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "BFRO",
     "url": "https://bfro.net/",
     "description": "Bigfoot Research Site",
     "category": "misc",
     "subcategory": "▷ Mysteries / Paranormal",
     "domain": "bfro.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BlackDrago",
-    "url": "https://www.blackdrago.com/",
-    "description": "Dragon Encyclopedia",
-    "category": "misc",
-    "subcategory": "▷ Mysteries / Paranormal",
-    "domain": "blackdrago.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -70516,7 +70791,7 @@
     "category": "mobile",
     "subcategory": "▷ FOSS APKs",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -74052,6 +74327,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Xangetsu",
+    "url": "https://projectjust.xyz/xangetsu",
+    "description": "Manga Reader",
+    "category": "mobile",
+    "subcategory": "▷ Android Manga",
+    "domain": "projectjust.xyz",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Kinoko",
     "url": "https://github.com/gsioteam/kinoko",
     "description": "Manga File Viewer",
@@ -74399,7 +74685,7 @@
     "category": "mobile",
     "subcategory": "▷ YouTube Music",
     "domain": "bitchord.kushagrasingh.in",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -74778,6 +75064,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠P-Stream (cfd)",
+    "url": "https://github.com/pennythiefuk/P-Stream-Releases",
+    "description": "Movies / TV / Anime",
+    "category": "mobile",
+    "subcategory": "▷ Android Relaxation",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Zangetsu",
     "url": "https://zangetsu.online/",
     "description": "Movies / TV / Anime / Discord / GitHub",
@@ -74994,6 +75291,17 @@
     "subcategory": "▷ Android Video Players",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Xangetsu",
+    "url": "https://projectjust.xyz/xangetsu",
+    "description": "",
+    "category": "mobile",
+    "subcategory": "▷ Android Anime",
+    "domain": "projectjust.xyz",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76791,6 +77099,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Vitrine",
+    "url": "https://github.com/My-Name-Is-Jeff/vitrine",
+    "description": "Spotify / Ad-Free / Sideloaded",
+    "category": "mobile",
+    "subcategory": "▷ Social Media Apps",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Taurus",
     "url": "https://github.com/samj-exe/taurus",
     "description": "Spotify / Ad-Free / Sideloaded / Discord",
@@ -77611,7 +77930,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading / تحميل",
     "domain": "sama3y.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -82698,17 +83017,6 @@
     "is_tip": false
   },
   {
-    "title": "Kartoons",
-    "url": "https://kartoons.me/",
-    "description": "Cartoons / Discord",
-    "category": "non-english",
-    "subcategory": "▷ Streaming",
-    "domain": "kartoons.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "mxplayer",
     "url": "https://www.mxplayer.in/",
     "description": "Movies",
@@ -83144,17 +83452,6 @@
     "category": "non-english",
     "subcategory": "▷ Downloading / Scaricare",
     "domain": "overday.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Ipersphera",
-    "url": "https://www.ipersphera.com/",
-    "description": "Movies / TV / Sub",
-    "category": "non-english",
-    "subcategory": "▷ Downloading / Scaricare",
-    "domain": "ipersphera.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -87170,7 +87467,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Чтение",
     "domain": "hexnovels.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -89898,7 +90195,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Đọc",
     "domain": "thu-tram.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -90794,6 +91091,17 @@
     "is_tip": false
   },
   {
+    "title": "Detect It Easy",
+    "url": "https://github.com/horsicq/detect-it-easy",
+    "description": "File Identification + Static Inspection Tool",
+    "category": "privacy",
+    "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "No More Ransom",
     "url": "https://www.nomoreransom.org/en/decryption-tools.html",
     "description": "Ransomware Decryption Tools",
@@ -90888,7 +91196,7 @@
     "category": "privacy",
     "subcategory": "▷ Online Scanners",
     "domain": "hybrid-analysis.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99440,17 +99748,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Nelly",
-    "url": "https://nelly.tools/",
-    "description": "Discord Web Tools",
-    "category": "social-media-tools",
-    "subcategory": "General",
-    "domain": "nelly.tools",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "AnswersOverflow",
     "url": "https://www.answeroverflow.com/",
     "description": "Discord Search Engine / GitHub",
@@ -107316,13 +107613,35 @@
     "is_tip": false
   },
   {
+    "title": "⁠AnimGifMoji",
+    "url": "https://www.animgifmoji.com/",
+    "description": "GIF to Emoji Converter",
+    "category": "text-tools",
+    "subcategory": "▷ Emojis / Emoticons",
+    "domain": "animgifmoji.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Animated Noto Emojis",
+    "url": "https://googlefonts.github.io/noto-emoji-animation/",
+    "description": "Google Animated Emojis",
+    "category": "text-tools",
+    "subcategory": "▷ Emojis / Emoticons",
+    "domain": "googlefonts.github.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Animated Fluent Emojis",
     "url": "https://animated-fluent-emoji.vercel.app/",
-    "description": "Microsoft Fluent Animated Emojis / GitHub",
+    "description": "Microsoft Animated Emojis / GitHub",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "animated-fluent-emoji.vercel.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107331,7 +107650,7 @@
     "url": "https://cultofthepartyparrot.com/",
     "description": "Party Parrot Emojis",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "cultofthepartyparrot.com",
     "is_new": false,
     "is_broken": false,
@@ -107342,7 +107661,7 @@
     "url": "https://madelinemiller.dev/apps/emojify/",
     "description": "Emojify Text",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "madelinemiller.dev",
     "is_new": false,
     "is_broken": false,
@@ -107353,7 +107672,7 @@
     "url": "https://asciify.dev/unicode",
     "description": "ASCII & Unicode Reference",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "asciify.dev",
     "is_new": false,
     "is_broken": false,
@@ -107364,7 +107683,7 @@
     "url": "https://copychar.cc/",
     "description": "Special Characters Index",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "copychar.cc",
     "is_new": false,
     "is_broken": false,
@@ -107375,7 +107694,7 @@
     "url": "https://graphemica.com/",
     "description": "Typography Reference",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "graphemica.com",
     "is_new": false,
     "is_broken": false,
@@ -107386,7 +107705,7 @@
     "url": "https://unifoundry.com/",
     "description": "Unifont Repository",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "unifoundry.com",
     "is_new": false,
     "is_broken": false,
@@ -107397,7 +107716,7 @@
     "url": "https://github.com/character-map-uwp/Character-Map-UWP",
     "description": "Custom Font & Emojis / Windows",
     "category": "text-tools",
-    "subcategory": "▷ Emoticons",
+    "subcategory": "▷ Emojis / Emoticons",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -113845,7 +114164,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "stellar.gdn",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114092,6 +114411,17 @@
     "is_tip": false
   },
   {
+    "title": "Zoryva X",
+    "url": "https://zoryva.me/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "zoryva.me",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "PopcornTime",
     "url": "https://popwatch.to/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -114120,7 +114450,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "greyboxtv.vercel.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114505,7 +114835,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "kaitotv.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115500,6 +115830,17 @@
     "is_tip": false
   },
   {
+    "title": "Senshi",
+    "url": "https://senshi.to/",
+    "description": "Sub / Dub / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "senshi.to",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠JustAnime",
     "url": "https://justanime.to/",
     "description": "Sub / Dub / Auto-Next / Mirrors / Subreddit / Discord",
@@ -115517,7 +115858,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "kazora.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115566,17 +115907,6 @@
     "is_tip": false
   },
   {
-    "title": "Senshi",
-    "url": "https://senshi.to/",
-    "description": "Sub / Dub / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "senshi.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "AniZone",
     "url": "https://anizone.to/",
     "description": "Sub",
@@ -115601,7 +115931,7 @@
   {
     "title": "⁠Anime Nexus",
     "url": "https://anime.nexus/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anime.nexus",
@@ -115693,7 +116023,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anv.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116287,7 +116617,7 @@
     "category": "video",
     "subcategory": "▷ Drama Streaming",
     "domain": "kissneo.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
