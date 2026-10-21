@@ -2129,7 +2129,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11358,7 +11358,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Developer Utilities",
     "domain": "asciify.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -18420,7 +18420,7 @@
     "category": "educational",
     "subcategory": "▷ Spacecraft",
     "domain": "historicspacecraft.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -25911,7 +25911,7 @@
     "category": "educational",
     "subcategory": "▷ Study Tools",
     "domain": "schoolhouse.world",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28463,7 +28463,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "up2store.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28507,7 +28507,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "atm.rip",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -29288,7 +29288,7 @@
     "category": "file-tools",
     "subcategory": "▷ Cloud Storage",
     "domain": "koofr.eu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34161,7 +34161,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Rhythm Tools",
     "domain": "osu.ppy.sh",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34172,7 +34172,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Rhythm Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34183,7 +34183,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Rhythm Tools",
     "domain": "osudroid.moe",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34271,7 +34271,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Rhythm Tools",
     "domain": "store.steampowered.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -38110,7 +38110,7 @@
     "category": "gaming",
     "subcategory": "▷ Nintendo ROMs",
     "domain": "nswpure.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41124,7 +41124,7 @@
     "category": "gaming",
     "subcategory": "▷ Party / Multiplayer",
     "domain": "neonwardens.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41355,7 +41355,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "eaglercraft.q13x.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41366,7 +41366,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "eaglercraft.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41377,7 +41377,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "client.eaglercraft.win",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41388,7 +41388,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "mess.eu.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41399,7 +41399,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "craft.hira.im",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41410,7 +41410,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "classicube.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41421,7 +41421,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "bloxd.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41432,7 +41432,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "miniblox.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41443,7 +41443,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "eaglerforge.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41454,7 +41454,7 @@
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "modrinth.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -44930,7 +44930,7 @@
     "category": "image-tools",
     "subcategory": "▷ Design Apps",
     "domain": "doory.art",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -50518,7 +50518,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Site Info / Legitimacy",
     "domain": "tranco-list.eu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -55413,7 +55413,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -69537,7 +69537,7 @@
     "category": "misc",
     "subcategory": "▷ Mysteries / Paranormal",
     "domain": "seademons.weebly.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -74333,7 +74333,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Manga",
     "domain": "projectjust.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75070,7 +75070,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75301,7 +75301,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Anime",
     "domain": "projectjust.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77105,7 +77105,7 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91097,7 +91097,7 @@
     "category": "privacy",
     "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107630,7 +107630,7 @@
     "category": "text-tools",
     "subcategory": "▷ Emojis / Emoticons",
     "domain": "googlefonts.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -114417,7 +114417,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "zoryva.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
