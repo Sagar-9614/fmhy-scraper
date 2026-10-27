@@ -35,7 +35,7 @@
   {
     "title": "Tencent AI Studio",
     "url": "https://aistudio.tencent.com/",
-    "description": "⁠Hy3 / Unlimited / Sign-Up",
+    "description": "Hy4 Preview / Unlimited / Sign-Up",
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "aistudio.tencent.com",
@@ -112,7 +112,7 @@
   {
     "title": "MiniMax AI",
     "url": "https://agent.minimax.io/",
-    "description": "MiniMax M3 / Agent / Sign-Up / GitHub",
+    "description": "MiniMax M3.1 Flash / Agent / Sign-Up / GitHub",
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "agent.minimax.io",
@@ -189,7 +189,7 @@
   {
     "title": "⁠Inception",
     "url": "https://chat.inceptionlabs.ai/",
-    "description": "Mercury 2 / Unlimited",
+    "description": "Mercury 3 / Unlimited",
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "chat.inceptionlabs.ai",
@@ -1524,7 +1524,7 @@
     "category": "ai",
     "subcategory": "▷ Voice Removal / Separation",
     "domain": "paseo.sh",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -12276,6 +12276,17 @@
     "is_tip": false
   },
   {
+    "title": "Wisp",
+    "url": "https://wispweb.dev/",
+    "description": "Web Framework for Rust / Source Code",
+    "category": "developer-tools",
+    "subcategory": "▷ PHP",
+    "domain": "wispweb.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Tabler",
     "url": "https://tabler.io/",
     "description": "Site Admin Dashboard",
@@ -17705,7 +17716,7 @@
     "category": "educational",
     "subcategory": "▷ Biology",
     "domain": "biointeractive.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28859,7 +28870,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "filez.stream",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -29200,7 +29211,7 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "filesyard.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33728,7 +33739,7 @@
   {
     "title": "PS4 Package Extractor",
     "url": "https://www.nexusmods.com/bloodborne/mods/194",
-    "description": "PS4 Package Extraction Tool",
+    "description": "PS4 Package Extraction Tool / Multi-Game",
     "category": "gaming-tools",
     "subcategory": "▷ Playstation Homebrew",
     "domain": "nexusmods.com",
@@ -34997,7 +35008,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Tabletop Tools",
     "domain": "handouts.cthulhuarchitect.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -38847,7 +38858,7 @@
     "category": "gaming",
     "subcategory": "▷ Playstation ROMs",
     "domain": "chdstation.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -42433,7 +42444,7 @@
     "category": "gaming",
     "subcategory": "▷ Racing / Driving",
     "domain": "roadrash.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -44314,7 +44325,7 @@
     "category": "image-tools",
     "subcategory": "▷ Upscale / Restore",
     "domain": "waifuxl.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -51636,7 +51647,7 @@
   {
     "title": "⁠Emcognito",
     "url": "https://emcognito.com/",
-    "description": "Unlimited Shared / 100 Forwards Monthly / No Catch-All",
+    "description": "Unlimited Shared / 35 Forwards Monthly / No Catch-All",
     "category": "internet-tools",
     "subcategory": "▷ Email Aliasing",
     "domain": "emcognito.com",
@@ -69322,6 +69333,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠infiniDomino",
+    "url": "https://infinidomino.io/",
+    "description": "Endless Dominoes",
+    "category": "misc",
+    "subcategory": "▷ Interactive",
+    "domain": "infinidomino.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Keep calm and poke me.",
     "url": "https://calm.ovh/",
     "description": "Poke & Pull",
@@ -78694,13 +78716,13 @@
     "is_tip": false
   },
   {
-    "title": "witanime",
-    "url": "https://www.witanime.net/",
+    "title": "WitAnime",
+    "url": "https://witanime.site/",
     "description": "Anime / Sub / 1080p",
     "category": "non-english",
     "subcategory": "▷ Streaming / البث",
-    "domain": "witanime.net",
-    "is_new": false,
+    "domain": "witanime.site",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -81087,7 +81109,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamování",
     "domain": "mrkaj.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -81791,7 +81813,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "flixvision.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104313,7 +104335,7 @@
     "is_tip": false
   },
   {
-    "title": "flowchart fun",
+    "title": "Flowchart Fun",
     "url": "https://flowchart.fun/",
     "description": "Generate Flowchart from Text / GitHub",
     "category": "storage",
@@ -114930,7 +114952,7 @@
   {
     "title": "GreyBox",
     "url": "https://greyboxtv.pages.dev/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "greyboxtv.pages.dev",
@@ -114961,17 +114983,6 @@
     "is_tip": false
   },
   {
-    "title": "Cinegram",
-    "url": "https://cinegram.tv/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "cinegram.tv",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Willow",
     "url": "https://willow.arlen.icu/",
     "description": "Movies / TV / Anime / Auto-Next / 4K Guide",
@@ -114979,6 +114990,17 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "willow.arlen.icu",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "RIVO",
+    "url": "https://rivo.st/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "rivo.st",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115005,13 +115027,13 @@
     "is_tip": false
   },
   {
-    "title": "Stigstream",
-    "url": "https://stigstream.ru/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "title": "Zenox",
+    "url": "https://zenox.lol/",
+    "description": "Movies / TV / Anime / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
-    "domain": "stigstream.ru",
-    "is_new": false,
+    "domain": "zenox.lol",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115154,7 +115176,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "koddo.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115254,6 +115276,17 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "framextv.xyz",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "All About Movies",
+    "url": "https://allaboutmovies.pages.dev/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "allaboutmovies.pages.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115561,7 +115594,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "flixway.ru",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115594,7 +115627,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "flyflix.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115660,7 +115693,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "onoflix.live",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116705,7 +116738,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "yenime.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116860,6 +116893,17 @@
     "subcategory": "▷ Anime Streaming",
     "domain": "watchanimez.me",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Zanix",
+    "url": "https://zanix.tr/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "zanix.tr",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117464,7 +117508,7 @@
     "category": "video",
     "subcategory": "▷ Classics / Public Domain",
     "domain": "filmpreservation.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117475,7 +117519,7 @@
     "category": "video",
     "subcategory": "▷ Classics / Public Domain",
     "domain": "cinetimes.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117486,7 +117530,7 @@
     "category": "video",
     "subcategory": "▷ Classics / Public Domain",
     "domain": "publicdomainmovie.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117497,7 +117541,7 @@
     "category": "video",
     "subcategory": "▷ Classics / Public Domain",
     "domain": "youtube.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117552,7 +117596,7 @@
     "category": "video",
     "subcategory": "▷ Classics / Public Domain",
     "domain": "silent-hall-of-fame.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
