@@ -77,17 +77,6 @@
     "is_tip": false
   },
   {
-    "title": "Microsoft Copilot",
-    "url": "https://copilot.microsoft.com",
-    "description": "GPT-5.2 (Think Deeper) / Sign-Up / Limits",
-    "category": "ai",
-    "subcategory": "▷ Official Model Sites",
-    "domain": "copilot.microsoft.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Claude",
     "url": "https://claude.ai/",
     "description": "Claude Sonnet 5.5 / Requires Sign-Up + Sometimes Phone  / Add Features / Resources / Learning, 2 / Usage Tracker / Subreddit / Discord",
@@ -116,6 +105,17 @@
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "agent.minimax.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Microsoft Copilot",
+    "url": "https://copilot.microsoft.com",
+    "description": "GPT-5.2 (Think Deeper) / Sign-Up / Limits",
+    "category": "ai",
+    "subcategory": "▷ Official Model Sites",
+    "domain": "copilot.microsoft.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -215,17 +215,6 @@
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "tryingopen.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠ChatWave",
-    "url": "https://chat.thewave.cv/",
-    "description": "Claude Opus 5 / Claude Fable 5 / GPT 6 Astra / GPT-5.6 Sol / Discord",
-    "category": "ai",
-    "subcategory": "▷ Multiple Model Sites",
-    "domain": "chat.thewave.cv",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -15565,6 +15554,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Get4All",
+    "url": "https://get4all.org/",
+    "description": "Premium Link Bypass / Use UBO + Redirect Bypassers",
+    "category": "downloading",
+    "subcategory": "▷ Downloaders",
+    "domain": "get4all.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Rip Anything From Anywhere",
     "url": "https://anything.rip/",
     "description": "Multi-Site Bypass",
@@ -16914,6 +16914,17 @@
     "subcategory": "▷ Math",
     "domain": "hscmathsbytopic.firsteducation.com.au",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Vim/LaTeX Mathematics Note-Taking Guide",
+    "url": "https://castel.dev/post/lecture-notes-1/",
+    "description": "",
+    "category": "educational",
+    "subcategory": "▷ Math",
+    "domain": "castel.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -20687,6 +20698,28 @@
     "subcategory": "▷ Economics",
     "domain": "hungermap.wfp.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Wealth Shown to Scale",
+    "url": "https://evolving-thoughts.github.io/1-pixel-wealth/",
+    "description": "Global Wealth Inequality Visualization",
+    "category": "educational",
+    "subcategory": "▷ Economics",
+    "domain": "evolving-thoughts.github.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Wealth Inequality in America",
+    "url": "https://dreamagainusa.org/",
+    "description": "America Wealth Inequality Visualization",
+    "category": "educational",
+    "subcategory": "▷ Economics",
+    "domain": "dreamagainusa.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -27115,6 +27148,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Encyclopedia 2000",
+    "url": "https://encyclopedia2000.com/",
+    "description": "2000s-Style Desktop Encyclopedia / GitHub",
+    "category": "educational",
+    "subcategory": "▷ Encyclopedias",
+    "domain": "encyclopedia2000.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Britannica",
     "url": "https://www.britannica.com/",
     "description": "",
@@ -27418,7 +27462,7 @@
     "category": "file-tools",
     "subcategory": "▷ Download Managers",
     "domain": "hydra.javad.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28683,7 +28727,7 @@
     "category": "file-tools",
     "subcategory": "▷ PDF Conversion Tools",
     "domain": "file.pizza",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28963,17 +29007,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Filester",
-    "url": "https://filester.me/",
-    "description": "10GB / 45 Days After Last Download",
-    "category": "file-tools",
-    "subcategory": "▷ P2P Transfer",
-    "domain": "filester.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Stashr",
     "url": "https://stashr.wtf/",
     "description": "1GB / 30 days",
@@ -29025,6 +29058,17 @@
     "subcategory": "▷ P2P Transfer",
     "domain": "dropmefiles.com.ua",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠filedrop",
+    "url": "https://r7zxn.cc/filedrop/",
+    "description": "10GB / 30 Days",
+    "category": "file-tools",
+    "subcategory": "▷ P2P Transfer",
+    "domain": "r7zxn.cc",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -30525,6 +30569,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Xbox Full Screen Experience Tool",
+    "url": "https://github.com/8bit2qubit/XboxFullScreenExperienceTool",
+    "description": "Enable Xbox Full Screen Mode on Windows 11",
+    "category": "gaming-tools",
+    "subcategory": "▷ Settings / Fixes",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "x360ce",
     "url": "https://www.x360ce.com/",
     "description": "DS4 / 360 Controller Emulator / GitHub",
@@ -31983,7 +32038,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ History / Preservation",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32226,6 +32281,17 @@
     "subcategory": "▷ DLC Unlock / DRM Bypass",
     "domain": "lua.tools",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Pub's Lounge",
+    "url": "https://discord.gg/pubslounge",
+    "description": "DRM Bypass / Activation Server",
+    "category": "gaming-tools",
+    "subcategory": "▷ DLC Unlock / DRM Bypass",
+    "domain": "discord.gg",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -33029,6 +33095,17 @@
     "subcategory": "▷ Multiplayer Servers",
     "domain": "rentry.co",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Beat Revival",
+    "url": "https://www.beatrevival.me/",
+    "description": "Mirror's Edge: Catalyst Online Revival / Discord",
+    "category": "gaming-tools",
+    "subcategory": "▷ Multiplayer Servers",
+    "domain": "beatrevival.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -34777,7 +34854,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Rhythm Tools",
     "domain": "rhadvance.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36703,6 +36780,17 @@
     "subcategory": "▷ Game Repacks",
     "domain": "rentry.co",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Necromanthus",
+    "url": "https://necromanthus.com/",
+    "description": "3D Shockwave Games",
+    "category": "gaming",
+    "subcategory": "▷ [Mac Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_gaming)",
+    "domain": "necromanthus.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -41630,7 +41718,7 @@
     "category": "gaming",
     "subcategory": "▷ Party / Multiplayer",
     "domain": "multi.golf",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41751,7 +41839,7 @@
     "category": "gaming",
     "subcategory": "▷ Party / Multiplayer",
     "domain": "pomme.us",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -47559,7 +47647,7 @@
     "category": "image-tools",
     "subcategory": "▷ CAD Engineering",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -47993,185 +48081,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Imagine",
-    "url": "https://www.nyam.pe.kr/dev/imagine/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "nyam.pe.kr",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "qimgv",
-    "url": "https://github.com/easymodo/qimgv",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "oculante",
-    "url": "https://github.com/woelper/oculante",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Zeiger",
-    "url": "https://zeigerviewer.com/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "zeigerviewer.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠FlyPhotos",
-    "url": "https://github.com/riyasy/FlyPhotos",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "QuickView",
-    "url": "https://github.com/justnullname/QuickView",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "PhotoQt",
-    "url": "https://github.com/luspi/photoqt",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Minimal Image Viewer",
-    "url": "https://github.com/deminimis/minimalimageviewer",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "PicView",
-    "url": "https://picview.org/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "picview.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ImagefanReloaded",
-    "url": "https://github.com/mihnea-radulescu/imagefanreloaded",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Image Eye",
-    "url": "https://www.fmjsoft.com/imageeye.html",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "fmjsoft.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Quick Picture Viewer",
-    "url": "https://moduleart.github.io/quick-picture-viewer/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "moduleart.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "HoneyView",
-    "url": "https://en.bandisoft.com/honeyview/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "en.bandisoft.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "picturama",
-    "url": "https://picturama.github.io/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "picturama.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "narrative",
-    "url": "https://narrative.so/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "narrative.so",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "G'MIC",
-    "url": "https://gmic.eu/",
-    "description": "",
-    "category": "image-tools",
-    "subcategory": "▷ Image Viewers",
-    "domain": "gmic.eu",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "FlipFlip",
     "url": "https://github.com/ififfy/flipflip/",
-    "description": "Image Slideshow",
+    "description": "Image Slideshow / Windows, macOS, Linux",
     "category": "image-tools",
     "subcategory": "▷ Image Viewers",
     "domain": "github.com",
@@ -49038,17 +48950,6 @@
     "is_tip": false
   },
   {
-    "title": "Arcai",
-    "url": "https://arcai.com/",
-    "description": "WiFi Speed Control",
-    "category": "internet-tools",
-    "subcategory": "▷ Network Tools",
-    "domain": "arcai.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "SwitchHosts",
     "url": "https://github.com/oldj/SwitchHosts",
     "description": "Windows Hosts File Editor",
@@ -49359,7 +49260,7 @@
   {
     "title": "WAIncognito",
     "url": "https://chromewebstore.google.com/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil",
-    "description": "Disable WhatsApp Read Receipts & Presence Updates / Web",
+    "description": "Disable WhatsApp Read Receipts & Presence Updates / Web / GitHub",
     "category": "internet-tools",
     "subcategory": "▷ Chat Tools",
     "domain": "chromewebstore.google.com",
@@ -55688,7 +55589,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Productivity / Calendars",
     "domain": "useplanify.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56656,7 +56557,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Server / Selfhosting",
     "domain": "mailflare.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63784,7 +63685,7 @@
     "category": "misc",
     "subcategory": "▷ Hacker News Tools",
     "domain": "oj-hn.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -65995,7 +65896,7 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "picclick.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66479,7 +66380,7 @@
     "category": "misc",
     "subcategory": "▷ PC Hardware / Building",
     "domain": "perunitprice.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66809,7 +66710,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Media / Streaming",
     "domain": "blu-ray.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66820,7 +66721,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Media / Streaming",
     "domain": "dvdbeaver.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66831,7 +66732,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Media / Streaming",
     "domain": "highdefdigest.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66842,7 +66743,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Media / Streaming",
     "domain": "releases.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66853,7 +66754,18 @@
     "category": "misc",
     "subcategory": "▷ Physical Media / Streaming",
     "domain": "dvdsreleasedates.com",
-    "is_new": true,
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Caps-A-Holic",
+    "url": "https://caps-a-holic.com/",
+    "description": "Compare Movie Release Quality / Details",
+    "category": "misc",
+    "subcategory": "▷ Physical Media / Streaming",
+    "domain": "caps-a-holic.com",
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -69317,17 +69229,6 @@
     "category": "misc",
     "subcategory": "▷ Interactive",
     "domain": "stowaway.live",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "OpenScope",
-    "url": "https://www.openscope.io/",
-    "description": "Air Traffic Control Simulator",
-    "category": "misc",
-    "subcategory": "▷ Interactive",
-    "domain": "openscope.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -73062,6 +72963,17 @@
     "is_tip": false
   },
   {
+    "title": "Lumen",
+    "url": "https://lumen-photos.app/",
+    "description": "Photo / Video Gallery / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ Image Galleries",
+    "domain": "lumen-photos.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Photoo",
     "url": "https://github.com/xigua222/photoo/blob/main/README_EN.md",
     "description": "Photo Organizer / Gallery",
@@ -75262,6 +75174,28 @@
     "is_tip": false
   },
   {
+    "title": "Octave",
+    "url": "https://octavestreaming.com/download",
+    "description": "Streaming / Lossless / Requires Discord / Discord",
+    "category": "mobile",
+    "subcategory": "▷ Android Manga",
+    "domain": "octavestreaming.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Spotify (official)",
+    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+    "description": "Spotify App / Warning",
+    "category": "mobile",
+    "subcategory": "▷ Android Manga",
+    "domain": "play.google.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "SoundCloud",
     "url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
     "description": "Streaming",
@@ -76373,6 +76307,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SimplyFilter SMS",
+    "url": "https://github.com/adibendahan/SimplyFilterSMS-iOS",
+    "description": "Block Spam Texts / Filter Rules",
+    "category": "mobile",
+    "subcategory": "▷ Android YouTube Apps",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "The National Do Not Call Registry",
     "url": "https://www.donotcall.gov/",
     "description": "Opt Out of Telemarketing Calls",
@@ -76435,6 +76380,17 @@
     "subcategory": "▷ Android YouTube Apps",
     "domain": "chefkiss.dev",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Delayed OTAs",
+    "url": "https://dhinakg.github.io/delayed-otas.html",
+    "description": "Upgrade iOS Devices Using Delayed OTA Profiles",
+    "category": "mobile",
+    "subcategory": "▷ Android YouTube Apps",
+    "domain": "dhinakg.github.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -77968,6 +77924,17 @@
     "is_tip": false
   },
   {
+    "title": "Octave",
+    "url": "https://octavestreaming.com/download",
+    "description": "Streaming / Lossless / Requires Discord / Discord",
+    "category": "mobile",
+    "subcategory": "▷ Social Media Apps",
+    "domain": "octavestreaming.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Shimu",
     "url": "https://help.shiopa.com/docs/shimu#get-shimu",
     "description": "Streaming",
@@ -78040,7 +78007,7 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78101,12 +78068,12 @@
   },
   {
     "title": "EeveSpotifyReincarnated",
-    "url": "https://github.com/SideloadLabs/EeveeSpotifyReincarnated",
-    "description": "Spotify / Ad-Free / Sideloaded",
+    "url": "https://t.me/eeveespotify_hazel",
+    "description": "Spotify / Ad-Free / Sideloaded / GitHub / 2",
     "category": "mobile",
     "subcategory": "▷ iOS Podcasts / Radio",
-    "domain": "github.com",
-    "is_new": false,
+    "domain": "t.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -78678,7 +78645,7 @@
     "category": "non-english",
     "subcategory": "General",
     "domain": "elfehrest.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78716,7 +78683,7 @@
     "is_tip": false
   },
   {
-    "title": "⁠My Cima",
+    "title": "MyCima",
     "url": "https://mycima.gdn/",
     "description": "Movies / TV / Anime / Hard Subs",
     "category": "non-english",
@@ -78804,7 +78771,7 @@
     "is_tip": false
   },
   {
-    "title": "egybest",
+    "title": "EgyBest",
     "url": "https://egybest.la/",
     "description": "Movies / TV / Anime",
     "category": "non-english",
@@ -78870,7 +78837,7 @@
     "is_tip": false
   },
   {
-    "title": "ristoanime",
+    "title": "RistoAnime",
     "url": "https://ristoanime.me/",
     "description": "Anime",
     "category": "non-english",
@@ -78893,11 +78860,11 @@
   },
   {
     "title": "Kawaii Anime",
-    "url": "https://kirmalk.com/",
+    "url": "https://kawaiianime.cc/",
     "description": "Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming / البث",
-    "domain": "kirmalk.com",
+    "domain": "kawaiianime.cc",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -78925,18 +78892,7 @@
     "is_tip": false
   },
   {
-    "title": "Anime Slayer",
-    "url": "https://animeslayer.to/",
-    "description": "Anime / 1080p / Android App / Discord",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / البث",
-    "domain": "animeslayer.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "animezid",
+    "title": "AnimeZid",
     "url": "https://animezid.cam/",
     "description": "Anime / Cartoons",
     "category": "non-english",
@@ -79085,7 +79041,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / القراءة",
     "domain": "8ghrb.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79152,6 +79108,17 @@
     "subcategory": "▷ Reading / القراءة",
     "domain": "stellarsaber.pro",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Arab Comics",
+    "url": "https://arabcomics.net/",
+    "description": "Comics / Signup Required",
+    "category": "non-english",
+    "subcategory": "▷ Reading / القراءة",
+    "domain": "arabcomics.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -83926,6 +83893,17 @@
     "subcategory": "▷ Streaming",
     "domain": "desitv.to",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠All In One Live TV",
+    "url": "https://allinonelivetv.pages.dev/",
+    "description": "Live TV",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "allinonelivetv.pages.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -89227,7 +89205,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
     "domain": "cinubo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -93027,6 +93005,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠CanaryTokens",
+    "url": "https://canarytokens.org/nest/",
+    "description": "Breach Detection Tokens / Instant Notifications",
+    "category": "privacy",
+    "subcategory": "▷ Data Breach Monitoring",
+    "domain": "canarytokens.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Intelligence X",
     "url": "https://intelx.io/",
     "description": "Password Breach Check / GitHub",
@@ -96432,7 +96421,7 @@
     "category": "reading",
     "subcategory": "▷ Manga",
     "domain": "freemanhwa.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111496,17 +111485,6 @@
     "is_tip": false
   },
   {
-    "title": "Text-Generator",
-    "url": "https://text-generator.app/",
-    "description": "",
-    "category": "text-tools",
-    "subcategory": "▷ Unicode Text Generators",
-    "domain": "text-generator.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "FontGenOnline",
     "url": "https://fontgenonline.com/",
     "description": "",
@@ -115236,6 +115214,17 @@
     "is_tip": false
   },
   {
+    "title": "Koddo",
+    "url": "https://koddo.to/",
+    "description": "Movies / TV / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "koddo.to",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cinetaro",
     "url": "https://cinetaro.to/",
     "description": "Movies / TV / Anime / Auto-Next / Discord",
@@ -116732,6 +116721,17 @@
     "is_tip": false
   },
   {
+    "title": "Yenime",
+    "url": "https://yenime.net/",
+    "description": "Sub / Dub / Discord",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "yenime.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Senshi",
     "url": "https://senshi.to/",
     "description": "Sub / Dub / Auto-Next",
@@ -116760,6 +116760,17 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "kazora.cc",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Gotaku",
+    "url": "https://gotaku.to/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "gotaku.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116853,17 +116864,6 @@
     "is_tip": false
   },
   {
-    "title": "Yenime",
-    "url": "https://yenime.net/",
-    "description": "Sub / Dub / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "yenime.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠AniChan",
     "url": "https://anichan.to/",
     "description": "Sub / Dub",
@@ -116936,17 +116936,6 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anify.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Gotaku",
-    "url": "https://gotaku.to/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "gotaku.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117502,23 +117491,23 @@
     "is_tip": false
   },
   {
+    "title": "KatDrama",
+    "url": "https://k-drama.in/",
+    "description": "TV / Movies",
+    "category": "video",
+    "subcategory": "▷ Drama Streaming",
+    "domain": "k-drama.in",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Einthusan",
     "url": "https://einthusan.tv/intro/",
     "description": "Movies / VPN May Be Required",
     "category": "video",
     "subcategory": "▷ Drama Streaming",
     "domain": "einthusan.tv",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠KDrama",
-    "url": "https://k-drama.in/",
-    "description": "TV / Movies",
-    "category": "video",
-    "subcategory": "▷ Drama Streaming",
-    "domain": "k-drama.in",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -121204,7 +121193,7 @@
     "category": "video",
     "subcategory": "▷ Calendar / Upcoming",
     "domain": "releases.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -121215,7 +121204,7 @@
     "category": "video",
     "subcategory": "▷ Calendar / Upcoming",
     "domain": "midloop.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -121600,17 +121589,6 @@
     "category": "video",
     "subcategory": "▷ Download Subtitles",
     "domain": "tennojim.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Caps-A-Holic",
-    "url": "https://caps-a-holic.com/",
-    "description": "Compare Movie Release Quality / Details",
-    "category": "video",
-    "subcategory": "▷ Download Subtitles",
-    "domain": "caps-a-holic.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
