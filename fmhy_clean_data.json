@@ -2090,17 +2090,6 @@
     "is_tip": false
   },
   {
-    "title": "Mornye",
-    "url": "https://github.com/mornyeapp/Mornye-Desktop",
-    "description": "Streaming",
-    "category": "audio",
-    "subcategory": "▷ Streaming Apps",
-    "domain": "github.com",
-    "is_new": true,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Nuclear",
     "url": "https://nuclearplayer.com/",
     "description": "Streaming / Discord / GitHub",
@@ -6551,7 +6540,7 @@
     "category": "audio",
     "subcategory": "▷ Curated Recommendations",
     "domain": "twgeema.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6617,7 +6606,7 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "hate5six.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6628,7 +6617,7 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "playlost.fm",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6661,7 +6650,7 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "radiooooo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6672,7 +6661,7 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "bestsellingalbums.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6760,7 +6749,7 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "superfridaychart.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -7036,6 +7025,17 @@
     "subcategory": "▷ Audio Players",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Mornye",
+    "url": "https://desktop.mornye.com/",
+    "description": "Audio Player / Windows, macOS, Linux / GitHub",
+    "category": "audio",
+    "subcategory": "▷ Audio Players",
+    "domain": "desktop.mornye.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -10648,6 +10648,17 @@
     "is_tip": false
   },
   {
+    "title": "Dracula",
+    "url": "https://draculatheme.com/",
+    "description": "Code Editor Themes",
+    "category": "developer-tools",
+    "subcategory": "▷ Coding Tools",
+    "domain": "draculatheme.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Freeze",
     "url": "https://github.com/charmbracelet/freeze",
     "description": "Generate Images of Code / Terminal Output",
@@ -11056,12 +11067,12 @@
   },
   {
     "title": "Code Web Chat",
-    "url": "https://codeweb.chat/",
-    "description": "Coding AI / No Sign-Up / Discord / Subreddit / GitHub",
+    "url": "https://github.com/robertpiosik/CodeWebChat",
+    "description": "Coding AI / No Sign-Up / Discord / Subreddit",
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
-    "domain": "codeweb.chat",
-    "is_new": false,
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -26736,7 +26747,7 @@
     "category": "educational",
     "subcategory": "▷ Research Tools",
     "domain": "citationtree.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28518,7 +28529,7 @@
     "category": "file-tools",
     "subcategory": "▷ Online PDF Toolkits",
     "domain": "pdfkind.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32373,17 +32384,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Pub's Lounge",
-    "url": "https://discord.gg/pubslounge",
-    "description": "DRM Bypass / Activation Server",
-    "category": "gaming-tools",
-    "subcategory": "▷ DLC Unlock / DRM Bypass",
-    "domain": "discord.gg",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Anadius",
     "url": "https://rentry.co/FMHYB64#anadius",
     "description": "EA DLC Unlocker",
@@ -34949,7 +34949,7 @@
   {
     "title": "Rhythm Heaven Advance",
     "url": "https://rhadvance.github.io/",
-    "description": "Rhythm Heaven Advance PC Port / GItHub",
+    "description": "Rhythm Tengoku English Patch / GitHub",
     "category": "gaming-tools",
     "subcategory": "▷ Rhythm Tools",
     "domain": "rhadvance.github.io",
@@ -35790,6 +35790,17 @@
     "subcategory": "▷ Pokemon Tools",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Ironmon Tracker",
+    "url": "https://github.com/besteon/Ironmon-Tracker",
+    "description": "Live Tracker for Ironmon Challenges",
+    "category": "gaming-tools",
+    "subcategory": "▷ Pokemon Tools",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -38777,7 +38788,7 @@
   {
     "title": "ROMSLAB",
     "url": "https://romslab.com/",
-    "description": "ROMs / Switch / Telegram / Discord",
+    "description": "ROMs / Switch 2 / Switch / Telegram / Discord",
     "category": "gaming",
     "subcategory": "▷ Nintendo ROMs",
     "domain": "romslab.com",
@@ -38788,7 +38799,7 @@
   {
     "title": "NXbrew",
     "url": "https://nxbrew.net/",
-    "description": "ROMs / Switch",
+    "description": "ROMs / Switch 2 / Switch",
     "category": "gaming",
     "subcategory": "▷ Nintendo ROMs",
     "domain": "nxbrew.net",
@@ -40399,6 +40410,17 @@
     "subcategory": "▷ Word Games",
     "domain": "lidraughts.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠The Old King's Crown",
+    "url": "https://oldkingscrown.fly.dev/",
+    "description": "⁠The Old King's Crown Browser Adaptation",
+    "category": "gaming",
+    "subcategory": "▷ Word Games",
+    "domain": "oldkingscrown.fly.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -42143,7 +42165,7 @@
   {
     "title": "MessCraft",
     "url": "https://mess.eu.org/",
-    "description": "Eaglercraft Server Network / Site List / Discord",
+    "description": "Eaglercraft Server Network / Discord",
     "category": "gaming",
     "subcategory": "▷ Browser Minecraft",
     "domain": "mess.eu.org",
@@ -51711,6 +51733,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Anon.li",
+    "url": "https://anon.li/",
+    "description": "10 Shared / Catch-All",
+    "category": "internet-tools",
+    "subcategory": "▷ Email Aliasing",
+    "domain": "anon.li",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "addy.io",
     "url": "https://addy.io/",
     "description": "10 Shared / 10MB Monthly Bandwidth / Catch-All / GitHub",
@@ -54423,7 +54456,7 @@
     "category": "linux-macos",
     "subcategory": "▷ CLI Cheat Sheets",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -54544,7 +54577,7 @@
     "category": "linux-macos",
     "subcategory": "▷ CLI Cheat Sheets",
     "domain": "discord.gg",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59791,17 +59824,6 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "cloudhiker.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠OpenWeird",
-    "url": "https://openweird.com/",
-    "description": "Find Random Strange Sites",
-    "category": "misc",
-    "subcategory": "▷ Random Sites / Discovery",
-    "domain": "openweird.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -65802,17 +65824,6 @@
     "is_tip": false
   },
   {
-    "title": "TradingView Webhook Bot",
-    "url": "https://github.com/fabston/TradingView-Webhook-Bot",
-    "description": "TradingView Alert Automation",
-    "category": "misc",
-    "subcategory": "▷ Investing / Market Research",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Kitco",
     "url": "https://www.kitco.com/",
     "description": "Precious Metals Prices / Calculators",
@@ -71621,17 +71632,6 @@
     "is_tip": false
   },
   {
-    "title": "AyraProject",
-    "url": "https://t.me/AyraProject",
-    "description": "Custom ROM / Ports",
-    "category": "mobile",
-    "subcategory": "▷ Telegram Channels",
-    "domain": "t.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Orion Store",
     "url": "https://orionstore.pages.dev/",
     "description": "FOSS App Store",
@@ -72848,6 +72848,17 @@
     "category": "mobile",
     "subcategory": "▷ Root Managers",
     "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "AyraProject",
+    "url": "https://t.me/AyraProject",
+    "description": "Custom ROM / Ports",
+    "category": "mobile",
+    "subcategory": "▷ Operating Systems",
+    "domain": "t.me",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -74712,17 +74723,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠GameNative",
-    "url": "https://gamenative.app/",
-    "description": "Game Emulator / Launcher / Discord / GitHub",
-    "category": "mobile",
-    "subcategory": "▷ Emulators on Android",
-    "domain": "gamenative.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠DroidDeck",
     "url": "https://github.com/Droid-Deck/DroidDeck",
     "description": "SteamOS + Big Picture Mode for Android / Discord",
@@ -75977,6 +75977,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "mobile",
+    "subcategory": "▷ Android Relaxation",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Atlantic",
     "url": "https://atlantic.st/android",
     "description": "Movies / TV / Anime",
@@ -76061,6 +76072,17 @@
     "subcategory": "▷ Android Relaxation",
     "domain": "loklok.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠AIOStreams",
+    "url": "https://docs.aiostreams.viren070.me/apps/",
+    "description": "Movies / TV / Anime / Debrid or Usenet Required",
+    "category": "mobile",
+    "subcategory": "▷ Android Relaxation",
+    "domain": "docs.aiostreams.viren070.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76428,17 +76450,6 @@
     "is_tip": false
   },
   {
-    "title": "Keka",
-    "url": "https://testflight.apple.com/join/gPYINGCJ",
-    "description": "File Archiver",
-    "category": "mobile",
-    "subcategory": "▷ Android YouTube Apps",
-    "domain": "testflight.apple.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "fGet",
     "url": "https://apps.apple.com/app/fget-file-manager-browser/id1582654012",
     "description": "Download Manager",
@@ -76643,17 +76654,6 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "microsoft.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Pass4Wallet",
-    "url": "https://apps.apple.com/app/pass4wallet-store-cards/id1423106610",
-    "description": "Create Custom Cards for Apple Wallet App",
-    "category": "mobile",
-    "subcategory": "▷ Android YouTube Apps",
-    "domain": "apps.apple.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -78441,6 +78441,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "mobile",
+    "subcategory": "▷ iOS Relaxation",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Pluto",
     "url": "https://apps.apple.com/app/id751712884",
     "description": "Movies / TV",
@@ -78903,6 +78914,17 @@
     "is_tip": false
   },
   {
+    "title": "TukTukCinema",
+    "url": "https://tuktukcinemas.com/",
+    "description": "Movies / TV / Anime",
+    "category": "non-english",
+    "subcategory": "▷ Downloading / تحميل",
+    "domain": "tuktukcinemas.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "TopCinema",
     "url": "https://topcinema.io/",
     "description": "Movies / TV / Anime / Use Adblock",
@@ -79009,6 +79031,17 @@
     "subcategory": "▷ Streaming / البث",
     "domain": "llaroza.monster",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "TukTukCinema",
+    "url": "https://tuktukcinemas.com/",
+    "description": "Movies / TV / Anime",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / البث",
+    "domain": "tuktukcinemas.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -84673,7 +84706,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "animeunity.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91401,7 +91434,7 @@
   {
     "title": "⁠Albkanale",
     "url": "https://albkanale.com/",
-    "description": "Albanian Live TV Android App + Web Versions",
+    "description": "Albanian / Live TV / Android",
     "category": "non-english",
     "subcategory": "▷ Reading / Đọc",
     "domain": "albkanale.com",
@@ -92851,6 +92884,17 @@
     "is_tip": false
   },
   {
+    "title": "arkenfox",
+    "url": "https://github.com/arkenfox/user.js",
+    "description": "Firefox Privacy Tweak / Video / GUI / Warning",
+    "category": "privacy",
+    "subcategory": "▷ Browser Privacy",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Encrypted SNI",
     "url": "https://www.cloudflare.com/ssl/encrypted-sni/",
     "description": "Cloudflare Browser Check",
@@ -94094,7 +94138,7 @@
     "is_tip": false
   },
   {
-    "title": "Calibre",
+    "title": "calibre",
     "url": "https://calibre-ebook.com/",
     "description": "Plugin-Based Book Downloader / Manager / Libraries / Tools / GitHub",
     "category": "reading",
@@ -96569,13 +96613,13 @@
     "is_tip": false
   },
   {
-    "title": "Like Manga",
-    "url": "https://likemanga.ink/",
+    "title": "Mgread",
+    "url": "https://mgread.io/",
     "description": "",
     "category": "reading",
     "subcategory": "▷ Manga",
-    "domain": "likemanga.ink",
-    "is_new": false,
+    "domain": "mgread.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -99847,9 +99891,31 @@
     "is_tip": false
   },
   {
-    "title": "⁠Book Notification",
+    "title": "WorldCat",
+    "url": "https://search.worldcat.org/",
+    "description": "Global Library Catalogue / Book Editions / Library Holdings",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "search.worldcat.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "BookBrainz",
+    "url": "https://bookbrainz.org/",
+    "description": "Open Book Metadata Database / API",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "bookbrainz.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Book Notification",
     "url": "https://www.booknotification.com/",
-    "description": "Book / Author Release Notifications",
+    "description": "Author & Series Tracking / New Release Alerts / Reading Orders",
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "booknotification.com",
@@ -99858,9 +99924,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Bookfeed.io",
+    "title": "Bookfeed.io",
     "url": "https://bookfeed.io/",
-    "description": "Author Release RSS Feeds",
+    "description": "RSS Feeds for New Releases by Favourite Authors",
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "bookfeed.io",
@@ -99869,45 +99935,45 @@
     "is_tip": false
   },
   {
-    "title": "LibraryThing",
-    "url": "https://www.librarything.com/",
-    "description": "Tracking / Reviews / Recommendations / Database",
+    "title": "ISFDB",
+    "url": "https://www.isfdb.org/",
+    "description": "Science Fiction / Fantasy / Horror Bibliographic Database / Awards / Publication Histories",
     "category": "reading",
     "subcategory": "▷ Dharmic",
-    "domain": "librarything.com",
+    "domain": "isfdb.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Fantastic Fiction",
+    "url": "https://www.fantasticfiction.com/",
+    "description": "Author Bibliographies / Book Series / New Releases",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "fantasticfiction.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠EntertainMe",
-    "url": "https://www.entertainme.fun/",
-    "description": "Tracking / Recommendations",
+    "title": "Book Series in Order",
+    "url": "https://www.bookseriesinorder.com/",
+    "description": "Author Bibliographies / Publication & Chronological Reading Orders",
     "category": "reading",
     "subcategory": "▷ Dharmic",
-    "domain": "entertainme.fun",
+    "domain": "bookseriesinorder.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "CandlApp",
-    "url": "https://www.candlapp.com/",
-    "description": "Tracking / Recommendations",
+    "title": "BookHype",
+    "url": "https://bookhype.com/",
+    "description": "Reading Tracker / Book Release Calendar / Series Tracking",
     "category": "reading",
     "subcategory": "▷ Dharmic",
-    "domain": "candlapp.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Oku",
-    "url": "https://oku.club/",
-    "description": "Tracking",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "oku.club",
+    "domain": "bookhype.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -99915,7 +99981,7 @@
   {
     "title": "BookWyrm",
     "url": "https://joinbookwyrm.com/",
-    "description": "Tracking / Official Instance",
+    "description": "Open-Source Federated Reading Tracker / Official Instance / GitHub",
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "joinbookwyrm.com",
@@ -99926,7 +99992,7 @@
   {
     "title": "Literal",
     "url": "https://literal.club/",
-    "description": "Social Tracking Platform",
+    "description": "Social Reading Tracker / Reviews / Reading Lists",
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "literal.club",
@@ -99935,9 +100001,53 @@
     "is_tip": false
   },
   {
+    "title": "Oku",
+    "url": "https://oku.club/",
+    "description": "Book Tracking / Reading Goals / Collections / Statistics",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "oku.club",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Candl",
+    "url": "https://www.candlapp.com/",
+    "description": "Private Reading Tracker / Notes / Statistics / Spaced Repetition",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "candlapp.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Libib",
+    "url": "https://www.libib.com/",
+    "description": "Personal Library Cataloguing / ISBN Scanning / Web & Mobile",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "libib.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "All My Books",
+    "url": "https://www.bolidesoft.com/allmybooks.html",
+    "description": "Desktop Book Collection Manager / Windows",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "bolidesoft.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Anobii",
     "url": "https://www.anobii.com/",
-    "description": "Book Cataloguing / Reviews",
+    "description": "Book Cataloguing / Reviews / Reading Community",
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "anobii.com",
@@ -99946,12 +100056,45 @@
     "is_tip": false
   },
   {
-    "title": "Ratings Filter",
-    "url": "https://www.book-filter.com/",
-    "description": "Goodreads / Storygraph Rating Aggregator + Filter",
+    "title": "Litsy",
+    "url": "https://www.litsy.com/",
+    "description": "Social Reading / Reviews / Book Community",
     "category": "reading",
     "subcategory": "▷ Dharmic",
-    "domain": "book-filter.com",
+    "domain": "litsy.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "EntertainMe",
+    "url": "https://www.entertainme.fun/",
+    "description": "Multi-Media Tracking / Books / Films / Games",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "entertainme.fun",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "rate.house",
+    "url": "https://rate.house/",
+    "description": "Multi-Media Ratings / Reviews / Tracking",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "rate.house",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Yamtrack",
+    "url": "https://github.com/FuzzyGrim/Yamtrack",
+    "description": "Self-Hosted Media Tracker / Books / Films / TV / Games",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -99959,7 +100102,7 @@
   {
     "title": "Listal",
     "url": "https://www.listal.com/",
-    "description": "Book Database",
+    "description": "Media Collection Tracking / Reviews / Lists",
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "listal.com",
@@ -99968,12 +100111,56 @@
     "is_tip": false
   },
   {
+    "title": "Ratings Filter",
+    "url": "https://www.book-filter.com/",
+    "description": "Filter Books by Goodreads & StoryGraph Ratings",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "book-filter.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Books Search",
     "url": "https://books-search.typesense.org/",
-    "description": "Book Database",
+    "description": "Fast Open Library Book Database Search",
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "books-search.typesense.org",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Romance.io",
+    "url": "https://www.romance.io/",
+    "description": "Romance Book Database / Tropes / Content Warnings / Ratings",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "romance.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "nooSFere",
+    "url": "https://www.noosfere.org/",
+    "description": "French-Language Science Fiction Bibliographic Database",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "noosfere.org",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Uchronia",
+    "url": "https://www.uchronia.net/",
+    "description": "Alternate History Fiction Bibliography / Series / Divergence Points",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "uchronia.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -99985,94 +100172,6 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "docs.google.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ISFDB",
-    "url": "https://isfdb.org/",
-    "description": "Speculative Fiction",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "isfdb.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Uchronia",
-    "url": "https://www.uchronia.net/",
-    "description": "Fictional \"What If\" History",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "uchronia.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Fantastic Fiction",
-    "url": "https://www.fantasticfiction.com/",
-    "description": "Fiction Tracking / Database",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "fantasticfiction.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "nooSFere",
-    "url": "https://www.noosfere.org/",
-    "description": "Science Fiction",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "noosfere.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Romance.io",
-    "url": "https://www.romance.io/",
-    "description": "Romance Database",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "romance.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Tolkien Gateway",
-    "url": "https://tolkiengateway.net/",
-    "description": "J.R.R. Tolkien Content Encyclopedia / Wiki",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "tolkiengateway.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Talpa Search",
-    "url": "https://www.talpasearch.com/",
-    "description": "Find Books by Describing Them",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "talpasearch.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Book Series in Order",
-    "url": "https://www.bookseriesinorder.com/",
-    "description": "Book Character / Author Release Orders",
-    "category": "reading",
-    "subcategory": "▷ Dharmic",
-    "domain": "bookseriesinorder.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -100166,141 +100265,20 @@
     "is_tip": false
   },
   {
-    "title": "r/ifyoulikeblank",
-    "url": "https://www.reddit.com/r/ifyoulikeblank/",
-    "description": "Personalized Recommendation Subreddit",
+    "title": "LibraryThing Awards",
+    "url": "https://www.librarything.com/award",
+    "description": "Literary Awards / Winners & Nominees",
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
-    "domain": "reddit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BookHype",
-    "url": "https://bookhype.com/",
-    "description": "Book Discovery / Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "bookhype.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Dan's Library",
-    "url": "https://rentry.co/danslibrary/",
-    "description": "Book Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "rentry.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠The Book Rex",
-    "url": "https://thebookrex.com/",
-    "description": "Book Discovery / Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "thebookrex.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Reddit Reads",
-    "url": "https://www.redditreads.com/",
-    "description": "Most Popular Books from Subreddits",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "redditreads.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Gnooks",
-    "url": "https://www.gnooks.com/",
-    "description": "Book Discovery / Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "gnooks.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "RecommendMeABook",
-    "url": "https://recommendmeabook.com/",
-    "description": "First Page Book Teasers",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "recommendmeabook.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "WhichBook",
-    "url": "https://www.whichbook.net/",
-    "description": "Mood-Based Book Discovery",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "whichbook.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "TasteDive",
-    "url": "https://tastedive.com/books",
-    "description": "Discovery and Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "tastedive.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠r/TrueLit Top 100 Lists",
-    "url": "https://www.reddit.com/r/TrueLit/wiki/top100lists",
-    "description": "Book Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "reddit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Readow",
-    "url": "https://readow.ai/",
-    "description": "Book Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "readow.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠The Greatest Literature",
-    "url": "https://editoreric.com/",
-    "description": "Book Recommendations / Top Lists",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "editoreric.com",
-    "is_new": false,
+    "domain": "librarything.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "Book DNA",
     "url": "https://bookdna.com/",
-    "description": "Book Recommendations",
+    "description": "Author-Curated Recommendations / Themed Reading Lists",
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "bookdna.com",
@@ -100309,53 +100287,9 @@
     "is_tip": false
   },
   {
-    "title": "Greater Books",
-    "url": "http://www.greaterbooks.com/",
-    "description": "Book Recommendations",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "greaterbooks.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Uncovered",
-    "url": "https://uncovered.ink/",
-    "description": "Book Sample / Recommendation Tool",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "uncovered.ink",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Literature-Map",
-    "url": "https://www.literature-map.com/",
-    "description": "Author Discovery by Genre",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "literature-map.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Break the Bubble!",
-    "url": "https://abooklike.foo/escape",
-    "description": "Challenge Narrow Tastes",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "abooklike.foo",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Most Recommended Books",
     "url": "https://www.mostrecommendedbooks.com/",
-    "description": "Book Recommendations",
+    "description": "Recommendations from Influential People",
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "mostrecommendedbooks.com",
@@ -100364,9 +100298,119 @@
     "is_tip": false
   },
   {
+    "title": "r/suggestmeabook",
+    "url": "https://www.reddit.com/r/suggestmeabook/",
+    "description": "Community Recommendations",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "reddit.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "The Book Rex",
+    "url": "https://thebookrex.com/",
+    "description": "Fiction Discovery by Genre / Tropes / Content Warnings",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "thebookrex.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Dan's Library",
+    "url": "https://rentry.co/danslibrary/",
+    "description": "Curated Recommendations",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "rentry.co",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "r/TrueLit Top 100 Lists",
+    "url": "https://www.reddit.com/r/TrueLit/wiki/top100lists",
+    "description": "Community-Ranked Literary Fiction",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "reddit.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "The Greatest Literature",
+    "url": "https://editoreric.com/",
+    "description": "Classic Literature Rankings / Literary Canon",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "editoreric.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Greater Books",
+    "url": "http://www.greaterbooks.com/",
+    "description": "Recommendations / Reading Lists",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "greaterbooks.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "5000 Best",
+    "url": "http://5000best.com/books/",
+    "description": "Top 5000 Books / Rankings",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "5000best.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Break the Bubble!",
+    "url": "https://abooklike.foo/escape",
+    "description": "Discover Books Outside Your Usual Reading Tastes",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "abooklike.foo",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "TasteDive",
+    "url": "https://tastedive.com/books",
+    "description": "Similar Book Recommendations",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "tastedive.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Readow",
+    "url": "https://readow.ai/",
+    "description": "AI-Based Recommendations",
+    "category": "reading",
+    "subcategory": "▷ Book Recommendations",
+    "domain": "readow.ai",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Hacker Recommended Books",
     "url": "https://hacker-recommended-books.vercel.app/",
-    "description": "Book Recommendations",
+    "description": "Recommendations from Hacker News",
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "hacker-recommended-books.vercel.app",
@@ -100376,44 +100420,22 @@
   },
   {
     "title": "Mind Expanding Books",
-    "url": "https://mindexpandingbooks.com",
-    "description": "Book Recommendations / GitHub",
+    "url": "https://mindexpandingbooks.com/",
+    "description": "Curated Recommendations / GitHub",
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "mindexpandingbooks.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "Litsy",
-    "url": "https://www.litsy.com/",
-    "description": "Book Recommendation / Photo Sharing Community",
+    "title": "Reddit Reads",
+    "url": "https://www.redditreads.com/",
+    "description": "Historical Most-Mentioned Books on Reddit / Data Through March 2023",
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
-    "domain": "litsy.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Bookmarks Review",
-    "url": "https://bookmarks.reviews/",
-    "description": "Book Review Aggregator",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "bookmarks.reviews",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "5000 Best",
-    "url": "http://5000best.com/books/",
-    "description": "Top 5000 Books",
-    "category": "reading",
-    "subcategory": "▷ Book Recommendations",
-    "domain": "5000best.com",
+    "domain": "redditreads.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -113291,7 +113313,7 @@
   {
     "title": "PotPlayer",
     "url": "https://potplayer.tv/",
-    "description": "Video Player / Twitch Addon / YouTube Addon / Guide",
+    "description": "Video Player / Twitch Addon / YouTube Addon",
     "category": "video-tools",
     "subcategory": "▷ [Mac Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)",
     "domain": "potplayer.tv",
@@ -115260,10 +115282,21 @@
   {
     "title": "Zenox",
     "url": "https://zenox.lol/",
-    "description": "Movies / TV / Anime / 4K / Discord",
+    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "zenox.lol",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Nexa",
+    "url": "https://nexa.mov/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "nexa.mov",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115297,6 +115330,17 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cinema.army",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Koddo",
+    "url": "https://koddo.to/",
+    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "koddo.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115423,28 +115467,6 @@
     "is_tip": false
   },
   {
-    "title": "Koddo",
-    "url": "https://koddo.to/",
-    "description": "Movies / TV / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "koddo.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Cinetaro",
-    "url": "https://cinetaro.to/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "cinetaro.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Flixtrz",
     "url": "https://flixtrz.com/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -115462,17 +115484,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "consumit.online",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Nexa",
-    "url": "https://nexa.mov/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "nexa.mov",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116677,6 +116688,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Streaming App / Extension-Based / Windows, macOS, Linux / Discord",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠WatchWave",
     "url": "https://watchwave.pro/",
     "description": "Streaming App / Download in Top Right / Windows",
@@ -116684,6 +116706,17 @@
     "subcategory": "▷ Video Streaming",
     "domain": "watchwave.pro",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠AIOStreams",
+    "url": "https://docs.aiostreams.viren070.me/apps/",
+    "description": "Streaming App / Debrid or Usenet Required / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "docs.aiostreams.viren070.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -116974,17 +117007,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Gotaku",
-    "url": "https://gotaku.to/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "gotaku.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Kazora",
     "url": "https://kazora.cc/",
     "description": "Sub / Dub / Auto-Next / Discord",
@@ -117014,6 +117036,17 @@
     "subcategory": "▷ Anime Streaming",
     "domain": "kaa.lt",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Kuroko",
+    "url": "https://kuroko.cc/",
+    "description": "Sub / Dub / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "kuroko.cc",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117194,17 +117227,6 @@
     "is_tip": false
   },
   {
-    "title": "animeTVplus",
-    "url": "https://animetvplus.xyz/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "animetvplus.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Shonen",
     "url": "https://shonen.to/",
     "description": "Sub / Dub / Auto-Next",
@@ -117212,6 +117234,17 @@
     "subcategory": "▷ Anime Streaming",
     "domain": "shonen.to",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Tatakai",
+    "url": "https://tatakai.me/browse",
+    "description": "Sub / Dub / Extension-Based",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "tatakai.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -119229,6 +119262,28 @@
     "is_tip": false
   },
   {
+    "title": "⁠AIOStreams",
+    "url": "https://docs.aiostreams.viren070.me/apps/",
+    "description": "Streaming App / Debrid or Usenet Required",
+    "category": "video",
+    "subcategory": "▷ IPTV Players",
+    "domain": "docs.aiostreams.viren070.me",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Luna",
+    "url": "https://github.com/cranci1/Luna",
+    "description": "Streaming App / tvOS / Extension-Based / Modules / Discord",
+    "category": "video",
+    "subcategory": "▷ IPTV Players",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "YTCast",
     "url": "https://github.com/MarcoLucidi01/ytcast",
     "description": "Cast YouTube Videos to Smart TV",
@@ -119323,17 +119378,6 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "redd.it",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Luna",
-    "url": "https://github.com/cranci1/Luna",
-    "description": "Streaming App / tvOS / Extension-Based / Modules / Discord",
-    "category": "video",
-    "subcategory": "▷ IPTV Players",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -119493,6 +119537,28 @@
     "is_tip": false
   },
   {
+    "title": "Syncler",
+    "url": "https://syncler.net/",
+    "description": "Streaming App / Providers",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "syncler.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Streaming App / Extension Based / Discord",
+    "category": "video",
+    "subcategory": "▷ Android TV / Firestick",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Vyla TV",
     "url": "https://vyla.cc/products/tv",
     "description": "Streaming App / GitLab",
@@ -119543,17 +119609,6 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Syncler",
-    "url": "https://syncler.net/",
-    "description": "Streaming App / Providers",
-    "category": "video",
-    "subcategory": "▷ Android TV / Firestick",
-    "domain": "syncler.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -120413,6 +120468,17 @@
     "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Torrent Streaming App / Stremio Addon Support / Discord",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -121754,17 +121820,6 @@
     "category": "video",
     "subcategory": "▷ Download Subtitles",
     "domain": "transcripts.foreverdreaming.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Media Stack DIY",
-    "url": "https://tennojim.xyz/article/media_stack_diy",
-    "description": "High Quality Streaming Guide",
-    "category": "video",
-    "subcategory": "▷ Download Subtitles",
-    "domain": "tennojim.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
