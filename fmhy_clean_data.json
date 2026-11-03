@@ -484,6 +484,17 @@
     "is_tip": false
   },
   {
+    "title": "Kelivo",
+    "url": "https://github.com/Chevey339/kelivo",
+    "description": "Desktop App",
+    "category": "ai",
+    "subcategory": "▷ Local AI Frontends",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Lemonade",
     "url": "https://lemonade-server.ai/",
     "description": "Desktop App / Discord / GitHub",
@@ -1232,6 +1243,17 @@
     "is_tip": false
   },
   {
+    "title": "Google Flow Music",
+    "url": "https://www.flowmusic.app/",
+    "description": "",
+    "category": "ai",
+    "subcategory": "▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_upscale_.2F_restore)",
+    "domain": "flowmusic.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Waveformer",
     "url": "https://github.com/fofr/waveformer",
     "description": "",
@@ -1529,6 +1551,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠gpu-unlock",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "description": "Unlock Full Tensor throughput on NVIDIA GPUs / Linux",
+    "category": "ai",
+    "subcategory": "▷ Voice Removal / Separation",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠LightSession",
     "url": "https://github.com/11me/light-session",
     "description": "Fix ChatGPT Lag",
@@ -1634,17 +1667,6 @@
     "category": "ai",
     "subcategory": "▷ Model Weights",
     "domain": "huggingbay.xyz",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Hugging Face",
-    "url": "https://huggingface.co/",
-    "description": "Open-Source AI Model Hub, Datasets & Spaces",
-    "category": "ai",
-    "subcategory": "▷ Model Weights",
-    "domain": "huggingface.co",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -2075,6 +2097,17 @@
     "subcategory": "▷ Streaming Apps",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Flow Desktop",
+    "url": "https://github.com/Flow-Tube/Flow-Desktop",
+    "description": "YouTube Music Client",
+    "category": "audio",
+    "subcategory": "▷ Streaming Apps",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -3806,6 +3839,17 @@
     "is_tip": false
   },
   {
+    "title": "Scientific Sound Asia",
+    "url": "https://www.scientificsound.asia/radio-station/",
+    "description": "Underground / Asian Electronic Radio ⁠",
+    "category": "audio",
+    "subcategory": "▷ Genre Specific Radio",
+    "domain": "scientificsound.asia",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Rekt FM",
     "url": "https://rekt.network/",
     "description": "Chill / Space / Dark / Horror Synth / EBSM / EDM Radio",
@@ -3890,6 +3934,17 @@
     "subcategory": "▷ Genre Specific Radio",
     "domain": "rec.torontocast.stream",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Kobold.FM",
+    "url": "https://kobold.messy.quest/",
+    "description": "Dungeon Synth & Fantasy Ambient Radio",
+    "category": "audio",
+    "subcategory": "▷ Genre Specific Radio",
+    "domain": "kobold.messy.quest",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -7035,7 +7090,7 @@
     "category": "audio",
     "subcategory": "▷ Audio Players",
     "domain": "desktop.mornye.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -10654,7 +10709,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Coding Tools",
     "domain": "draculatheme.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11023,12 +11078,12 @@
   },
   {
     "title": "⁠DeepSeek Harness",
-    "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "description": "Coding AI / Multi-Bot Team Plugin",
+    "url": "https://deepseek.com/harness/",
+    "description": "Coding AI / Multi-Bot Team Plugin / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
-    "domain": "github.com",
-    "is_new": false,
+    "domain": "deepseek.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -11066,13 +11121,24 @@
     "is_tip": false
   },
   {
+    "title": "⁠T3 Code",
+    "url": "https://t3.codes/",
+    "description": "Multi-Platform Agent Client / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ Coding Harnesses / Extensions",
+    "domain": "t3.codes",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Code Web Chat",
     "url": "https://github.com/robertpiosik/CodeWebChat",
     "description": "Coding AI / No Sign-Up / Discord / Subreddit",
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11134,7 +11200,7 @@
   {
     "title": "⁠jcode",
     "url": "https://jcode.sh/",
-    "description": "Terminal Coding Agent",
+    "description": "Terminal Coding Agent / Discord / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "jcode.sh",
@@ -20770,7 +20836,7 @@
   {
     "title": "⁠Wealth Shown to Scale",
     "url": "https://evolving-thoughts.github.io/1-pixel-wealth/",
-    "description": "Global Wealth Inequality Visualization",
+    "description": "Global Wealth Inequality Visualization / GitHub",
     "category": "educational",
     "subcategory": "▷ Economics",
     "domain": "evolving-thoughts.github.io",
@@ -23833,6 +23899,17 @@
     "subcategory": "▷ Sign Languages",
     "domain": "learn.nzsl.nz",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Danfish Gold",
+    "url": "https://isl.danfishgold.com/#en",
+    "description": "Israeli Sign Language Dictionary",
+    "category": "educational",
+    "subcategory": "▷ Sign Languages",
+    "domain": "isl.danfishgold.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -32769,6 +32846,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Project Reclaimer",
+    "url": "https://projectreclaimer.dev/",
+    "description": "Halo 3 / ODST Multiplayer Mod",
+    "category": "gaming-tools",
+    "subcategory": "▷ Multiplayer Mods",
+    "domain": "projectreclaimer.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Balatro Multiplayer",
     "url": "https://balatromp.com/",
     "description": "Balatro Multiplayer Mod / Discord / GitHub",
@@ -35800,7 +35888,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Pokemon Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -39886,17 +39974,6 @@
     "is_tip": false
   },
   {
-    "title": "Hovercats",
-    "url": "https://hovercats.gg/",
-    "description": "Multiplayer Crosswords",
-    "category": "gaming",
-    "subcategory": "▷ Crosswords",
-    "domain": "hovercats.gg",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Truncate",
     "url": "https://truncate.town/",
     "description": "Crossword Strategy Game",
@@ -40420,7 +40497,7 @@
     "category": "gaming",
     "subcategory": "▷ Word Games",
     "domain": "oldkingscrown.fly.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -47146,17 +47223,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Boorusama",
-    "url": "https://play.google.com/store/apps/details?id=com.degenk.boorusama",
-    "description": "Multi-Booru App / Android",
-    "category": "image-tools",
-    "subcategory": "▷ Art / Illustrations",
-    "domain": "play.google.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "imgbrd-grabber",
     "url": "https://www.bionus.org/imgbrd-grabber/",
     "description": "Booru Image Downloader",
@@ -51337,17 +51403,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠DuckSpam",
-    "url": "https://duckspam.com/",
-    "description": "Forever / Forever / 1 Domain",
-    "category": "internet-tools",
-    "subcategory": "▷ Temp Mail",
-    "domain": "duckspam.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "TemporaryMail.com",
     "url": "https://temporarymail.com/",
     "description": "Forever (use once every 14 days) / 7 Domains",
@@ -51739,7 +51794,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Email Aliasing",
     "domain": "anon.li",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -57695,17 +57750,6 @@
     "is_tip": false
   },
   {
-    "title": "Taskpaper",
-    "url": "https://www.taskpaper.com/",
-    "description": "Plain Text To-Do Lists",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Themes",
-    "domain": "taskpaper.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "BibDesk",
     "url": "https://bibdesk.sourceforge.io/",
     "description": "Bibliography Manager",
@@ -59686,17 +59730,6 @@
     "is_tip": false
   },
   {
-    "title": "Visit A Random Website",
-    "url": "https://visitarandomwebsite.com/",
-    "description": "Find Random Sites",
-    "category": "misc",
-    "subcategory": "▷ Random Sites / Discovery",
-    "domain": "visitarandomwebsite.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "BoredButton",
     "url": "https://www.boredbutton.com/",
     "description": "Find Random Sites",
@@ -59741,17 +59774,6 @@
     "is_tip": false
   },
   {
-    "title": "OpenBulkURL",
-    "url": "https://openbulkurl.com/random/",
-    "description": "Find Random Sites",
-    "category": "misc",
-    "subcategory": "▷ Random Sites / Discovery",
-    "domain": "openbulkurl.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ViralWalk",
     "url": "https://www.viralwalk.com/",
     "description": "Find Random Sites",
@@ -59780,17 +59802,6 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "portalpioneer.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "WhatsMYIP",
-    "url": "http://random.whatsmyip.org/",
-    "description": "Find Random Sites",
-    "category": "misc",
-    "subcategory": "▷ Random Sites / Discovery",
-    "domain": "random.whatsmyip.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -64136,17 +64147,6 @@
     "category": "misc",
     "subcategory": "▷ Physical Health",
     "domain": "rentry.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Bevel",
-    "url": "https://www.bevel.health/",
-    "description": "Wearable Watch Health Data App",
-    "category": "misc",
-    "subcategory": "▷ Physical Health",
-    "domain": "bevel.health",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -75983,7 +75983,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76082,7 +76082,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
     "domain": "docs.aiostreams.viren070.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77935,6 +77935,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Spy_G’s Vault",
+    "url": "https://t.me/spyg_vault",
+    "description": "Tweaked Apps",
+    "category": "mobile",
+    "subcategory": "▷ Telegram Channels",
+    "domain": "t.me",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "GLESign",
     "url": "https://t.me/glesign",
     "description": "Tweaked Apps / Games & Game Ports",
@@ -78265,7 +78276,7 @@
     "is_tip": false
   },
   {
-    "title": "EeveSpotifyReincarnated",
+    "title": "EeveeSpotifyReincarnated",
     "url": "https://t.me/eeveespotify_hazel",
     "description": "Spotify / Ad-Free / Sideloaded / GitHub / 2",
     "category": "mobile",
@@ -78447,7 +78458,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Relaxation",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78920,7 +78931,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading / تحميل",
     "domain": "tuktukcinemas.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79041,7 +79052,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / البث",
     "domain": "tuktukcinemas.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -83321,6 +83332,17 @@
     "subcategory": "▷ Torrenting",
     "domain": "t.me",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Danfish Gold",
+    "url": "https://isl.danfishgold.com/",
+    "description": "Israeli Sign Language Dictionary",
+    "category": "non-english",
+    "subcategory": "▷ Torrenting",
+    "domain": "isl.danfishgold.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92851,23 +92873,23 @@
     "is_tip": false
   },
   {
-    "title": "Helium Browser",
-    "url": "https://helium.computer/",
-    "description": "Privacy Chromium Browser",
-    "category": "privacy",
-    "subcategory": "▷ Browser Privacy",
-    "domain": "helium.computer",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Brave Browser",
     "url": "https://brave.com/",
     "description": "Privacy Chromium Browser / Debloat / Hardening / Origin (Linux) / Subreddit / GitHub",
     "category": "privacy",
     "subcategory": "▷ Browser Privacy",
     "domain": "brave.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Helium Browser",
+    "url": "https://helium.computer/",
+    "description": "Privacy Chromium Browser",
+    "category": "privacy",
+    "subcategory": "▷ Browser Privacy",
+    "domain": "helium.computer",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -92890,7 +92912,7 @@
     "category": "privacy",
     "subcategory": "▷ Browser Privacy",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -96619,7 +96641,7 @@
     "category": "reading",
     "subcategory": "▷ Manga",
     "domain": "mgread.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99897,7 +99919,7 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "search.worldcat.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99908,7 +99930,7 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "bookbrainz.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99941,7 +99963,7 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "isfdb.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100029,7 +100051,7 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "libib.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100040,7 +100062,7 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "bolidesoft.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100084,7 +100106,7 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "rate.house",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100271,7 +100293,7 @@
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "librarything.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100304,7 +100326,7 @@
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -100425,7 +100447,7 @@
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "mindexpandingbooks.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -102812,17 +102834,6 @@
     "category": "social-media-tools",
     "subcategory": "▷ Video Tools",
     "domain": "mattw.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "yt_clipper",
-    "url": "https://github.com/exwm/yt_clipper",
-    "description": "Crop YouTube Videos / Create Clips",
-    "category": "social-media-tools",
-    "subcategory": "▷ Video Tools",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -105765,17 +105776,6 @@
     "is_tip": false
   },
   {
-    "title": "CoreTemp",
-    "url": "https://www.alcpu.com/CoreTemp/",
-    "description": "Process Monitor",
-    "category": "system-tools",
-    "subcategory": "General",
-    "domain": "alcpu.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Why Is This Running?",
     "url": "https://github.com/pranshuparmar/witr",
     "description": "Process Tracing / Debugging",
@@ -106051,45 +106051,12 @@
     "is_tip": false
   },
   {
-    "title": "RuckZuck",
-    "url": "https://ruckzuck.tools/",
-    "description": "Package Manager",
-    "category": "system-tools",
-    "subcategory": "▷ Package Managers",
-    "domain": "ruckzuck.tools",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "RepoHub",
-    "url": "https://github.com/yusufipk/RepoHub",
-    "description": "Package Manager / Web-Based",
-    "category": "system-tools",
-    "subcategory": "▷ Package Managers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Topgrade",
     "url": "https://github.com/topgrade-rs/topgrade",
     "description": "CLI Package Manager",
     "category": "system-tools",
     "subcategory": "▷ Package Managers",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Silent Install",
-    "url": "https://www.silentinstall.org/",
-    "description": "Build Multi-Program Installers",
-    "category": "system-tools",
-    "subcategory": "▷ Package Managers",
-    "domain": "silentinstall.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115346,6 +115313,17 @@
     "is_tip": false
   },
   {
+    "title": "RIVO",
+    "url": "https://rivo.st/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "rivo.st",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "GreyBox",
     "url": "https://greyboxtv.pages.dev/",
     "description": "Movies / TV / Anime / Auto-Next / Discord",
@@ -115374,17 +115352,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "willowmovies.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "RIVO",
-    "url": "https://rivo.st/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "rivo.st",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115918,24 +115885,13 @@
     "is_tip": false
   },
   {
-    "title": "Flixway",
-    "url": "https://flixway.ru/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "flixway.ru",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "321Movies",
-    "url": "https://321movies.xyz/",
+    "url": "https://fedsr.us/",
     "description": "Movies / TV / Anime / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
-    "domain": "321movies.xyz",
-    "is_new": false,
+    "domain": "fedsr.us",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115973,17 +115929,6 @@
     "is_tip": false
   },
   {
-    "title": "ReelZone",
-    "url": "https://reelzone.icu/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "reelzone.icu",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Heartive",
     "url": "https://heartivelovestv.pages.dev/",
     "description": "Movies / TV / Anime",
@@ -116006,17 +115951,6 @@
     "is_tip": false
   },
   {
-    "title": "Flicker",
-    "url": "https://flicker-mini.pages.dev/",
-    "description": "Movies / TV / Anime / Proxy / Subreddit / Note",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "flicker-mini.pages.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ONOFLIX",
     "url": "https://onoflix.live/",
     "description": "Movies / TV / Anime / Discord",
@@ -116034,28 +115968,6 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "bingeflix.tv",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "7REELS",
-    "url": "https://7reels.cc/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "7reels.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Ernax",
-    "url": "https://ernax.pro/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "ernax.pro",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116133,17 +116045,6 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "snowstream.vercel.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "StreamGoblin",
-    "url": "https://streamgoblin.cc/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "streamgoblin.cc",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116694,7 +116595,7 @@
     "category": "video",
     "subcategory": "▷ Video Streaming",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116716,7 +116617,7 @@
     "category": "video",
     "subcategory": "▷ Video Streaming",
     "domain": "docs.aiostreams.viren070.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116777,12 +116678,12 @@
   },
   {
     "title": "Mizuki",
-    "url": "https://www.anisurge.lol/",
+    "url": "http://mizuki.to/",
     "description": "Anime Streaming App / Windows, macOS, Linux / GitHub",
     "category": "video",
     "subcategory": "▷ Anime Streaming Apps",
-    "domain": "anisurge.lol",
-    "is_new": false,
+    "domain": "mizuki.to",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -117046,7 +116947,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "kuroko.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117244,7 +117145,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "tatakai.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119268,7 +119169,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "docs.aiostreams.viren070.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119554,7 +119455,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119693,7 +119594,7 @@
   {
     "title": "Cinetaro",
     "url": "https://cinetaro.to/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "Movies / TV / Anime / 4K / HEVC / Discord",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "cinetaro.to",
@@ -119704,7 +119605,7 @@
   {
     "title": "LightDLMovies",
     "url": "https://rentry.co/FMHYB64#lightdl",
-    "description": "Movies / TV / Use Adblock",
+    "description": "Movies / TV / 1080p / HEVC / Use Adblock",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "rentry.co",
@@ -119726,7 +119627,7 @@
   {
     "title": "⁠4KHDHub",
     "url": "https://4khdhub.one/",
-    "description": "Movies / TV / 4K",
+    "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "4khdhub.one",
@@ -119737,7 +119638,7 @@
   {
     "title": "ShowBox",
     "url": "https://www.showbox.media/",
-    "description": "Movies / TV / Anime / 4K / Use Throwaway Gmail",
+    "description": "Movies / TV / Anime / 4K / HEVC / Use Throwaway Gmail",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "showbox.media",
@@ -119748,7 +119649,7 @@
   {
     "title": "⁠Medeberiya",
     "url": "https://medeberiya.net/",
-    "description": "Movie / TV",
+    "description": "Movie / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "medeberiya.net",
@@ -119759,7 +119660,7 @@
   {
     "title": "1Shows",
     "url": "http://1shows.org",
-    "description": "Movies / TV / Anime",
+    "description": "Movies / TV / Anime / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "1shows.org",
@@ -119770,7 +119671,7 @@
   {
     "title": "⁠KMMOVIES",
     "url": "https://kmmovies.shop/category/english/",
-    "description": "Movies / TV",
+    "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "kmmovies.shop",
@@ -119781,7 +119682,7 @@
   {
     "title": "Ripper's Archive",
     "url": "https://rentry.co/FMHYB64#rippers-archive",
-    "description": "Movies / TV / Anime",
+    "description": "Movies / TV / Anime / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "rentry.co",
@@ -119792,7 +119693,7 @@
   {
     "title": "KatMovieHD",
     "url": "https://new.katmoviehd.top/",
-    "description": "Movies / TV / Anime",
+    "description": "Movies / TV / Anime / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "new.katmoviehd.top",
@@ -119803,7 +119704,7 @@
   {
     "title": "⁠HindMoviez",
     "url": "https://hindmoviez.cafe/",
-    "description": "Movies / TV / Anime",
+    "description": "Movies / TV / Anime / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "hindmoviez.cafe",
@@ -119814,7 +119715,7 @@
   {
     "title": "HdMoviesHub",
     "url": "https://hdmovieshub.fyi/",
-    "description": "Movies / TV",
+    "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "hdmovieshub.fyi",
@@ -119825,7 +119726,7 @@
   {
     "title": "MultiShows",
     "url": "https://multishows.top/",
-    "description": "Movies / TV / Anime / Use Red Download Button (Below Videos) / Telegram",
+    "description": "Movies / TV / Anime / 4K / HEVC / Use Red Download Button (Below Videos) / Telegram",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "multishows.top",
@@ -119836,7 +119737,7 @@
   {
     "title": "OlaMovies",
     "url": "https://olamovies.dad/",
-    "description": "Movies / TV / 4K / Requires Google Account / Use Adblock / Requests",
+    "description": "Movies / TV / 4K / HEVC / Requires Google Account / Use Adblock / Requests",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "olamovies.dad",
@@ -119847,7 +119748,7 @@
   {
     "title": "PSArips",
     "url": "https://psa.wf/",
-    "description": "Movies / TV / 4K",
+    "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "psa.wf",
@@ -119858,7 +119759,7 @@
   {
     "title": "HDHub4u",
     "url": "https://hdhub4u.bi/",
-    "description": "Movies / TV / 1080p / 4K",
+    "description": "Movies / TV / 1080p / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "hdhub4u.bi",
@@ -119869,7 +119770,7 @@
   {
     "title": "StagaTV",
     "url": "https://www.stagatv.com/",
-    "description": "Movies / TV",
+    "description": "Movies / TV / 540p / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "stagatv.com",
@@ -119880,7 +119781,7 @@
   {
     "title": "Willow",
     "url": "https://willowmovies.com/",
-    "description": "Movies / TV / Anime",
+    "description": "Movies / TV / Anime / 1080p",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "willowmovies.com",
@@ -119891,7 +119792,7 @@
   {
     "title": "Movies Ni Pipay",
     "url": "https://moviesnipipay.me/",
-    "description": "Movies / TV",
+    "description": "Movies / TV / 1080p",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "moviesnipipay.me",
@@ -119902,7 +119803,7 @@
   {
     "title": "RLSXTVT",
     "url": "https://rlsxtvt.icu/",
-    "description": "Movies / TV",
+    "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "rlsxtvt.icu",
@@ -119913,7 +119814,7 @@
   {
     "title": "downloads-anymovies",
     "url": "https://www.downloads-anymovies.co/",
-    "description": "Movies / Right Click to Save",
+    "description": "Movies / 1080p / Right Click to Save",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "downloads-anymovies.co",
@@ -119924,7 +119825,7 @@
   {
     "title": "UHDMovies",
     "url": "https://modlist.in/?type=uhdmovies",
-    "description": "Movies / 4K",
+    "description": "Movies / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "modlist.in",
@@ -119935,7 +119836,7 @@
   {
     "title": "Free Movies",
     "url": "https://free-movies.to/",
-    "description": "Movies / TV",
+    "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "free-movies.to",
@@ -119946,7 +119847,7 @@
   {
     "title": "FilmFans",
     "url": "https://filmfans.org/",
-    "description": "Movies / 4K",
+    "description": "Movies / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "filmfans.org",
@@ -119957,7 +119858,7 @@
   {
     "title": "WorldFree4u",
     "url": "https://worldfree4u.expert/",
-    "description": "Movies",
+    "description": "Movies / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "worldfree4u.expert",
@@ -119968,7 +119869,7 @@
   {
     "title": "SSR Movies",
     "url": "https://ssrmovies.blue/",
-    "description": "Movies / TV / Telegram",
+    "description": "Movies / TV / 4K / HEVC / Telegram",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "ssrmovies.blue",
@@ -119979,7 +119880,7 @@
   {
     "title": "Best-MovieZ",
     "url": "https://www.best-moviez.ws/",
-    "description": "Movies / TV",
+    "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "best-moviez.ws",
@@ -119990,7 +119891,7 @@
   {
     "title": "ShareBB",
     "url": "https://sharebb.me/",
-    "description": "Movies / TV / Requires Sign-Up",
+    "description": "Movies / TV / 4K / HEVC / Requires Sign-Up",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "sharebb.me",
@@ -120001,7 +119902,7 @@
   {
     "title": "SolidarityCinema",
     "url": "https://www.solidaritycinema.com/",
-    "description": "Movies / Discord",
+    "description": "Movies / 1080p / HEVC / Discord",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "solidaritycinema.com",
@@ -120012,7 +119913,7 @@
   {
     "title": "FilmGo",
     "url": "https://www.filmgo.live/",
-    "description": "Movies / TV / 720p",
+    "description": "Movies / TV / 1080p / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "filmgo.live",
@@ -120023,7 +119924,7 @@
   {
     "title": "TodayTVSeries",
     "url": "https://www.todaytvseries1.com/",
-    "description": "TV / 1080p",
+    "description": "TV / 1080p / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "todaytvseries1.com",
@@ -120034,7 +119935,7 @@
   {
     "title": "SubSL",
     "url": "https://subsl.top/",
-    "description": "Movies / TV / 720p / Telegram",
+    "description": "Movies / TV / 360p / Telegram",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "subsl.top",
@@ -120056,7 +119957,7 @@
   {
     "title": "Pahe",
     "url": "https://pahe.ink/",
-    "description": "Movies / TV / Anime / 4K / Warning / Discord",
+    "description": "Movies / TV / Anime / 4K / HEVC / Warning / Discord",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "pahe.ink",
@@ -120067,7 +119968,7 @@
   {
     "title": "TvShows4Mobile",
     "url": "https://tvshows4mobile.org/",
-    "description": "TV / Anime / 480p / Telegram",
+    "description": "TV / Anime / 360p / Telegram",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "tvshows4mobile.org",
@@ -120078,7 +119979,7 @@
   {
     "title": "Naijavault",
     "url": "https://www.naijavault.com/",
-    "description": "Movies / TV / 480p",
+    "description": "Movies / TV / 720p",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "naijavault.com",
@@ -120089,7 +119990,7 @@
   {
     "title": "Waploaded",
     "url": "https://films.waploaded.com/movie",
-    "description": "Movies / TV / 480p",
+    "description": "Movies / TV / 1080p / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "films.waploaded.com",
@@ -120307,6 +120208,17 @@
     "is_tip": false
   },
   {
+    "title": "PikaHD",
+    "url": "https://pikahd.co/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Downloading",
+    "domain": "pikahd.co",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "AniDL",
     "url": "https://anidl.org/",
     "description": "Sub / Dub / Discord / Telegram",
@@ -120478,7 +120390,7 @@
     "category": "video",
     "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120890,75 +120802,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠EntertainMe",
-    "url": "https://www.entertainme.fun/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "entertainme.fun",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "IMDb",
-    "url": "https://www.imdb.com/",
-    "description": "Movies / TV / Anime / Advanced Search / Frontend",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "imdb.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Rotten Tomatoes",
-    "url": "https://www.rottentomatoes.com/",
-    "description": "Movies / TV / Add to Sites / Add to IMDb",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "rottentomatoes.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Kinorium",
-    "url": "https://en.kinorium.com/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "en.kinorium.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "TMDb",
-    "url": "https://www.themoviedb.org/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "themoviedb.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠WeTrakr",
-    "url": "https://wetrakr.com/",
-    "description": "TV / Anime / Movies",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "wetrakr.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Trakt",
     "url": "https://app.trakt.tv/",
-    "description": "TV / Anime / Movies / Tools",
+    "description": "Movie / TV Tracking / Automatic Scrobbling / Watch History / Tools",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "app.trakt.tv",
@@ -120967,9 +120813,86 @@
     "is_tip": false
   },
   {
+    "title": "TVmaze",
+    "url": "https://www.tvmaze.com/",
+    "description": "TV Show / Episode Database / Airing Schedules / API",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "tvmaze.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "TMDb",
+    "url": "https://www.themoviedb.org/",
+    "description": "Community Movie / TV Database / Cast & Crew / API",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "themoviedb.org",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "TheTVDB",
+    "url": "https://thetvdb.com/",
+    "description": "Community TV / Movie Metadata Database / Episode Orders",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "thetvdb.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "AFI Catalog",
+    "url": "https://aficatalog.afi.com/",
+    "description": "Historical American Film Database / Cast & Crew / Production Histories",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "aficatalog.afi.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Kinorium",
+    "url": "https://en.kinorium.com/",
+    "description": "Movie / TV Tracking / Ratings / Recommendations",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "en.kinorium.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "WeTrakr",
+    "url": "https://wetrakr.com/",
+    "description": "Movie / TV / Anime Tracking / Automatic Scrobbling / Imports",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "wetrakr.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "EntertainMe",
+    "url": "https://www.entertainme.fun/",
+    "description": "Movie / TV / Anime Tracking / Recommendations",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "entertainme.fun",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Movieo",
     "url": "https://movieo.me/",
-    "description": "Movies / TV / Anime",
+    "description": "Movie Database / Advanced Filters / Watchlists / Reviews",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "movieo.me",
@@ -120980,7 +120903,7 @@
   {
     "title": "AllMovie",
     "url": "https://www.allmovie.com/",
-    "description": "Movies / TV / Anime",
+    "description": "Movie Database / Professional Reviews / Genres / Themes",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "allmovie.com",
@@ -120989,9 +120912,31 @@
     "is_tip": false
   },
   {
+    "title": "listal",
+    "url": "https://www.listal.com/",
+    "description": "Movie Database",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "listal.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Rotten Tomatoes",
+    "url": "https://www.rottentomatoes.com/",
+    "description": "Aggregated Critics' & Audience Reviews / Add to Sites / Add to IMDb",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "rottentomatoes.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Box Office Mojo",
     "url": "https://www.boxofficemojo.com/",
-    "description": "Box Office Earnings",
+    "description": "Movie Box Office Earnings / Historical Revenue Charts",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "boxofficemojo.com",
@@ -121000,53 +120945,9 @@
     "is_tip": false
   },
   {
-    "title": "GCDb",
-    "url": "https://www.grindhousedatabase.com/",
-    "description": "Grindhouse Cinema",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "grindhousedatabase.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Class Real",
-    "url": "https://www.classreal.com/",
-    "description": "Weird / Trippy Movies",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "classreal.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FFCritic",
-    "url": "https://foundfootagecritic.com/",
-    "description": "Found Footage",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "foundfootagecritic.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Spaghetti Western Database",
-    "url": "https://www.spaghetti-western.net/index.php/Main_Page",
-    "description": "Spaghetti Western",
-    "category": "video",
-    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "spaghetti-western.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠MyDramaList",
+    "title": "MyDramaList",
     "url": "https://mydramalist.com/",
-    "description": "Asian Dramas",
+    "description": "Asian Drama Database / Tracking / Reviews / Recommendations",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "mydramalist.com",
@@ -121057,7 +120958,7 @@
   {
     "title": "HKMDB",
     "url": "https://hkmdb.com/db/index.php",
-    "description": "Hong Kong Movies",
+    "description": "Hong Kong Cinema Database / Filmographies / Cast & Crew",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "hkmdb.com",
@@ -121066,12 +120967,45 @@
     "is_tip": false
   },
   {
-    "title": "namuwiki",
-    "url": "https://en.namu.wiki/",
-    "description": "Korean Media",
+    "title": "GCDb",
+    "url": "https://www.grindhousedatabase.com/",
+    "description": "Grindhouse / Exploitation Cinema Database",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "en.namu.wiki",
+    "domain": "grindhousedatabase.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Spaghetti Western Database",
+    "url": "https://www.spaghetti-western.net/index.php/Main_Page",
+    "description": "Spaghetti Western Films / Cast & Crew / Reviews",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "spaghetti-western.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "FFCritic",
+    "url": "https://foundfootagecritic.com/",
+    "description": "Found Footage Horror Database / Reviews / Ratings",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "foundfootagecritic.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Class Real",
+    "url": "https://www.classreal.com/",
+    "description": "Weird / Surreal / Psychedelic Movie Lists",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "classreal.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -121079,7 +121013,7 @@
   {
     "title": "IGMDB",
     "url": "https://igmdb.com/",
-    "description": "LGBT Movies",
+    "description": "LGBTQ+ Movie Database",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "igmdb.com",
@@ -121088,9 +121022,20 @@
     "is_tip": false
   },
   {
+    "title": "namuwiki",
+    "url": "https://en.namu.wiki/",
+    "description": "Korean Pop Culture / Entertainment Wiki",
+    "category": "video",
+    "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "en.namu.wiki",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "CageMatch",
     "url": "https://www.cagematch.net/",
-    "description": "Wrestling Promotion Database",
+    "description": "Professional Wrestling Database / Wrestlers / Matches / Promotions",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "cagematch.net",
@@ -121099,9 +121044,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠UKGameshows",
+    "title": "UKGameshows",
     "url": "https://www.ukgameshows.com/",
-    "description": "UK Game Show Database",
+    "description": "British Game Show Database / Presenters / Programme Histories",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "ukgameshows.com",
@@ -121112,7 +121057,7 @@
   {
     "title": "Netflix Top 10",
     "url": "https://www.netflix.com/tudum/top10",
-    "description": "Netflix Most-Watched Chart",
+    "description": "Weekly Netflix Viewing Rankings / Global & Country Charts",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "netflix.com",
@@ -121121,9 +121066,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Fameboxd",
+    "title": "Fameboxd",
     "url": "https://fameboxd.com/",
-    "description": "Letterboxd Celebrity Account Database",
+    "description": "Public Letterboxd Accounts of Actors / Directors / Celebrities",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "fameboxd.com",
@@ -121132,9 +121077,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Movie Mistakes",
+    "title": "Movie Mistakes",
     "url": "https://www.moviemistakes.com/",
-    "description": "Movie Mistakes Database w/ Community Voting",
+    "description": "Movie Continuity Errors / Goofs / Community Submissions",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "moviemistakes.com",
@@ -121209,31 +121154,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠FilmDilemma",
-    "url": "https://filmdilemma.com/",
-    "description": "Movie Recommendations",
-    "category": "video",
-    "subcategory": "▷ Recommendation Tools",
-    "domain": "filmdilemma.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "SuggestStream",
-    "url": "https://suggestream.com/",
-    "description": "Movie / TV Recommendations",
-    "category": "video",
-    "subcategory": "▷ Recommendation Tools",
-    "domain": "suggestream.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Taste.io",
     "url": "https://www.taste.io/",
-    "description": "Movie Recommendations",
+    "description": "Movie / TV Recommendations Based on Similar Users",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "taste.io",
@@ -121242,9 +121165,42 @@
     "is_tip": false
   },
   {
+    "title": "Cinetrii",
+    "url": "https://cinetrii.com/",
+    "description": "Discover Film Influences / Thematic & Cinematic Connections",
+    "category": "video",
+    "subcategory": "▷ Recommendation Tools",
+    "domain": "cinetrii.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "SuggestStream",
+    "url": "https://suggestream.com/",
+    "description": "Interactive Movie / TV Discovery / Swipe Recommendations",
+    "category": "video",
+    "subcategory": "▷ Recommendation Tools",
+    "domain": "suggestream.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "FilmDilemma",
+    "url": "https://filmdilemma.com/",
+    "description": "Movie Discovery / Comparisons / Curated Lists",
+    "category": "video",
+    "subcategory": "▷ Recommendation Tools",
+    "domain": "filmdilemma.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "BestSimilar",
     "url": "https://bestsimilar.com/",
-    "description": "Movie Recommendations",
+    "description": "Similar Movies / TV Shows by Plot & Theme",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "bestsimilar.com",
@@ -121253,31 +121209,9 @@
     "is_tip": false
   },
   {
-    "title": "MovieLens",
-    "url": "https://movielens.org/",
-    "description": "Movie Recommendations",
-    "category": "video",
-    "subcategory": "▷ Recommendation Tools",
-    "domain": "movielens.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Nothing To Watch",
-    "url": "https://nothing-to-watch.port80.ch/",
-    "description": "Interactive Movie Discovery Visualization / Uses 250MB / GitHub",
-    "category": "video",
-    "subcategory": "▷ Recommendation Tools",
-    "domain": "nothing-to-watch.port80.ch",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "r/MovieSuggestions",
     "url": "https://www.reddit.com/r/MovieSuggestions/",
-    "description": "Movie Recommendations",
+    "description": "Community Movie Recommendations",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "reddit.com",
@@ -121297,20 +121231,9 @@
     "is_tip": false
   },
   {
-    "title": "Cinetrii",
-    "url": "https://cinetrii.com/",
-    "description": "Discover Movies with Similar Themes",
-    "category": "video",
-    "subcategory": "▷ Recommendation Tools",
-    "domain": "cinetrii.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Simkl",
     "url": "https://simkl.com/",
-    "description": "Simkl History Based Recommendations",
+    "description": "Recommendations Based on Watch History",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "simkl.com",
@@ -121319,23 +121242,12 @@
     "is_tip": false
   },
   {
-    "title": "listal",
-    "url": "https://www.listal.com/",
-    "description": "Movies / TV",
+    "title": "Nothing To Watch",
+    "url": "https://nothing-to-watch.port80.ch/",
+    "description": "Interactive Movie Discovery Visualization / ~250MB Download / GitHub",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
-    "domain": "listal.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "RelatedAnime",
-    "url": "https://relatedanime.com/",
-    "description": "Related Anime Index",
-    "category": "video",
-    "subcategory": "▷ Recommendation Tools",
-    "domain": "relatedanime.com",
+    "domain": "nothing-to-watch.port80.ch",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -121343,7 +121255,7 @@
   {
     "title": "MRQE",
     "url": "https://www.mrqe.com/",
-    "description": "Movie Review Search Engine",
+    "description": "Movie Review Search Engine / Critics' Reviews",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "mrqe.com",
@@ -121352,9 +121264,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Phi Phenomenon",
+    "title": "Phi Phenomenon",
     "url": "https://phi-phenomenon.org/",
-    "description": "Multiple Top Movie Lists",
+    "description": "Aggregated Greatest Films Rankings / Genre & Era Lists",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "phi-phenomenon.org",
@@ -121365,7 +121277,7 @@
   {
     "title": "movy.fyi",
     "url": "https://movy.fyi/discover/",
-    "description": "Wikipedia Top 1000 List",
+    "description": "Wikipedia-Based Top 1000 Films",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "movy.fyi",
@@ -121376,7 +121288,7 @@
   {
     "title": "DigitalDreamDoor",
     "url": "https://digitaldreamdoor.com/pages/movie-home.html",
-    "description": "Greatest 100 Lists",
+    "description": "Greatest Films Lists by Genre & Era",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "digitaldreamdoor.com",
@@ -121387,7 +121299,7 @@
   {
     "title": "They Shoot Zombies",
     "url": "https://theyshootzombies.com/",
-    "description": "Horror Movie Top 1000 List",
+    "description": "Aggregated Greatest Horror Films / Top 1000",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "theyshootzombies.com",
@@ -121398,7 +121310,7 @@
   {
     "title": "ReelScary",
     "url": "https://www.reelscary.com/",
-    "description": "Scary Movie Ratings",
+    "description": "Horror Movie Ratings / Gore / Disturbing Content / Suspense",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "reelscary.com",
@@ -121407,9 +121319,20 @@
     "is_tip": false
   },
   {
+    "title": "RelatedAnime",
+    "url": "https://relatedanime.com/",
+    "description": "Anime Sequels / Prequels / Adaptations / Related Series",
+    "category": "video",
+    "subcategory": "▷ Recommendation Tools",
+    "domain": "relatedanime.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "cringeMDb",
     "url": "https://cringemdb.com/",
-    "description": "Find Movies Safe to Watch with Parents",
+    "description": "Find Movies Without Awkward Sexual Content / Parent-Friendly Viewing",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "cringemdb.com",
@@ -121420,7 +121343,7 @@
   {
     "title": "Age Rating JuJu",
     "url": "https://www.ageratingjuju.com/",
-    "description": "Media Age Ratings",
+    "description": "Movie / TV Age Ratings / Parents' Guides",
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "ageratingjuju.com",
