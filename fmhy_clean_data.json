@@ -490,7 +490,7 @@
     "category": "ai",
     "subcategory": "▷ Local AI Frontends",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -1249,7 +1249,7 @@
     "category": "ai",
     "subcategory": "▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_upscale_.2F_restore)",
     "domain": "flowmusic.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -1557,7 +1557,7 @@
     "category": "ai",
     "subcategory": "▷ Voice Removal / Separation",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2107,7 +2107,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -3845,7 +3845,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Radio",
     "domain": "scientificsound.asia",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -3944,7 +3944,7 @@
     "category": "audio",
     "subcategory": "▷ Genre Specific Radio",
     "domain": "kobold.messy.quest",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11083,7 +11083,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "deepseek.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11127,7 +11127,7 @@
     "category": "developer-tools",
     "subcategory": "▷ Coding Harnesses / Extensions",
     "domain": "t3.codes",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -23909,7 +23909,7 @@
     "category": "educational",
     "subcategory": "▷ Sign Languages",
     "domain": "isl.danfishgold.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32852,7 +32852,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Multiplayer Mods",
     "domain": "projectreclaimer.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77941,7 +77941,7 @@
     "category": "mobile",
     "subcategory": "▷ Telegram Channels",
     "domain": "t.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -83342,7 +83342,7 @@
     "category": "non-english",
     "subcategory": "▷ Torrenting",
     "domain": "isl.danfishgold.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115891,7 +115891,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "fedsr.us",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116683,7 +116683,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming Apps",
     "domain": "mizuki.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120214,7 +120214,7 @@
     "category": "video",
     "subcategory": "▷ Anime Downloading",
     "domain": "pikahd.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120841,7 +120841,7 @@
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "thetvdb.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120852,7 +120852,7 @@
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "aficatalog.afi.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
