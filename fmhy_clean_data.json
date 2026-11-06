@@ -3031,7 +3031,7 @@
     "category": "audio",
     "subcategory": "▷ Ambient / Relaxation",
     "domain": "ambiph.one",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -4021,7 +4021,7 @@
     "category": "audio",
     "subcategory": "▷ Lofi Radio",
     "domain": "loficities.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6639,7 +6639,7 @@
     "category": "audio",
     "subcategory": "▷ Curated Recommendations",
     "domain": "beehy.pe",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -7112,6 +7112,17 @@
     "category": "audio",
     "subcategory": "▷ Audio Players",
     "domain": "aggrocrab.itch.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Fooyin",
+    "url": "https://www.fooyin.org/",
+    "description": "Audio Player / Windows, Linux / GitHub",
+    "category": "audio",
+    "subcategory": "▷ Audio Players",
+    "domain": "fooyin.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -16055,7 +16066,7 @@
     "category": "educational",
     "subcategory": "▷ Streaming",
     "domain": "hackertube.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20889,17 +20900,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Wealth Shown to Scale",
-    "url": "https://evolving-thoughts.github.io/1-pixel-wealth/",
-    "description": "Global Wealth Inequality Visualization / GitHub",
-    "category": "educational",
-    "subcategory": "▷ Economics",
-    "domain": "evolving-thoughts.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Wealth Inequality in America",
     "url": "https://dreamagainusa.org/",
     "description": "America Wealth Inequality Visualization",
@@ -23964,7 +23964,7 @@
     "category": "educational",
     "subcategory": "▷ Sign Languages",
     "domain": "fundacioncnse-dilse.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -27792,7 +27792,7 @@
     "category": "file-tools",
     "subcategory": "▷ Archiving / Compression",
     "domain": "hatchzip.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28254,7 +28254,7 @@
     "category": "file-tools",
     "subcategory": "▷ File Backup",
     "domain": "luminescence-software.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28386,7 +28386,7 @@
     "category": "file-tools",
     "subcategory": "▷ File Recovery",
     "domain": "nirsoft.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28646,7 +28646,7 @@
   {
     "title": "DigiPDF",
     "url": "https://digipdf.app/?lang=en_US",
-    "description": "Client-Side / Codeberg",
+    "description": "Client-Side / Source Code",
     "category": "file-tools",
     "subcategory": "▷ Online PDF Toolkits",
     "domain": "digipdf.app",
@@ -29273,7 +29273,7 @@
   {
     "title": "⁠filedrop",
     "url": "https://r7zxn.cc/filedrop/",
-    "description": "10GB / 30 Days",
+    "description": "10GB / 30 Days / Source Code",
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "r7zxn.cc",
@@ -31592,56 +31592,23 @@
     "is_tip": false
   },
   {
-    "title": "⁠AxekinDB",
-    "url": "https://db.axekin.com/",
-    "description": "Game Data Database",
+    "title": "PlayTracker",
+    "url": "https://playtracker.net/",
+    "description": "Cross-Platform Game Library Tracking / Playtime / Achievements / Statistics",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "db.axekin.com",
+    "domain": "playtracker.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠EntertainMe",
-    "url": "https://www.entertainme.fun/",
-    "description": "Tracking / Database",
+    "title": "Exophase",
+    "url": "https://www.exophase.com/",
+    "description": "Cross-Platform Achievement / Trophy Tracking / Gaming Profiles",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "entertainme.fun",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "IGDB",
-    "url": "https://www.igdb.com/",
-    "description": "Game Database / Discord",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "igdb.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Moby Games",
-    "url": "https://www.mobygames.com/",
-    "description": "Game Database / Discord",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "mobygames.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "GiantBomb",
-    "url": "https://www.giantbomb.com/games/",
-    "description": "Game Database",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "giantbomb.com",
+    "domain": "exophase.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -31649,7 +31616,7 @@
   {
     "title": "RAWG",
     "url": "https://rawg.io/",
-    "description": "Tracking / Database",
+    "description": "Game Database / Personal Collections / Ratings / Recommendations",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "rawg.io",
@@ -31660,7 +31627,7 @@
   {
     "title": "Grouvee",
     "url": "https://www.grouvee.com/",
-    "description": "Tracking / Database",
+    "description": "Game Backlog Tracking / Ratings / Reviews / Shelves",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "grouvee.com",
@@ -31669,20 +31636,9 @@
     "is_tip": false
   },
   {
-    "title": "RankOne",
-    "url": "https://www.rankone.global/",
-    "description": "Tracking / Database",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "rankone.global",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "GG",
     "url": "https://ggapp.io/",
-    "description": "Tracking / Database",
+    "description": "Game Tracking / Reviews / Lists / Recommendations",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "ggapp.io",
@@ -31691,31 +31647,9 @@
     "is_tip": false
   },
   {
-    "title": "KeepTrackOfMyGames",
-    "url": "https://keeptrackofmygames.com/",
-    "description": "Tracking / Database",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "keeptrackofmygames.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "PlayTracker",
-    "url": "https://playtracker.net/",
-    "description": "Tracking / Database",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "playtracker.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Backloggery",
     "url": "https://backloggery.com/",
-    "description": "Tracking / Database",
+    "description": "Game Collection / Backlog / Completion Tracking",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "backloggery.com",
@@ -31724,34 +31658,56 @@
     "is_tip": false
   },
   {
-    "title": "Exophase",
-    "url": "https://www.exophase.com/",
-    "description": "Tracking / Database",
+    "title": "KeepTrackOfMyGames",
+    "url": "https://keeptrackofmygames.com/",
+    "description": "Personal Game Collection / Backlog Tracking",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "exophase.com",
+    "domain": "keeptrackofmygames.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "RiotPixels",
-    "url": "https://en.riotpixels.com/",
-    "description": "Tracking / Database",
+    "title": "RankOne",
+    "url": "https://www.rankone.global/",
+    "description": "Gaming Profiles / Collection Tracking",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "en.riotpixels.com",
+    "domain": "rankone.global",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "LaunchBox Games Database",
-    "url": "https://gamesdb.launchbox-app.com/",
-    "description": "Game Database",
+    "title": "EntertainMe",
+    "url": "https://www.entertainme.fun/",
+    "description": "Game / Movie / TV Tracking / Recommendations",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "gamesdb.launchbox-app.com",
+    "domain": "entertainme.fun",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Yamtrack",
+    "url": "https://github.com/FuzzyGrim/Yamtrack",
+    "description": "Self-Hosted Game / Media Tracker",
+    "category": "gaming-tools",
+    "subcategory": "▷ Git Gud",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Giant Bomb",
+    "url": "https://www.giantbomb.com/games/",
+    "description": "Game Database / Reviews / Community Information",
+    "category": "gaming-tools",
+    "subcategory": "▷ Git Gud",
+    "domain": "giantbomb.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -31759,7 +31715,7 @@
   {
     "title": "GameFAQs",
     "url": "https://gamefaqs.gamespot.com/",
-    "description": "Game Database",
+    "description": "Game Database / Walkthroughs / FAQs / Release Information",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "gamefaqs.gamespot.com",
@@ -31768,34 +31724,34 @@
     "is_tip": false
   },
   {
-    "title": "rate.house",
-    "url": "https://rate.house/chart/game",
-    "description": "Game Database",
+    "title": "LaunchBox Games Database",
+    "url": "https://gamesdb.launchbox-app.com/",
+    "description": "Community Game Metadata / Cover Art / Platform Information",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "rate.house",
+    "domain": "gamesdb.launchbox-app.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "listal",
-    "url": "https://www.listal.com/",
-    "description": "Game Database",
+    "title": "AxekinDB",
+    "url": "https://db.axekin.com/",
+    "description": "Video Game Information Database",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "listal.com",
+    "domain": "db.axekin.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "FrontierNav",
-    "url": "https://frontiernav.net/",
-    "description": "Game Database",
+    "title": "RiotPixels",
+    "url": "https://en.riotpixels.com/",
+    "description": "Game Database / Screenshots / Reviews",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "frontiernav.net",
+    "domain": "en.riotpixels.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -31803,7 +31759,7 @@
   {
     "title": "IMDb Advanced Search",
     "url": "https://www.imdb.com/search/",
-    "description": "Game Search",
+    "description": "Video Game Credits / Release Information / Advanced Search",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "imdb.com",
@@ -31812,12 +31768,23 @@
     "is_tip": false
   },
   {
-    "title": "Low Spec Games",
-    "url": "https://exefer.github.io/lowspecgames/",
-    "description": "Low Spec Game Database / Text Only / GitHub",
+    "title": "GOG Database",
+    "url": "https://www.gogdb.org/",
+    "description": "GOG Store Database / Game Metadata / Price Histories",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "exefer.github.io",
+    "domain": "gogdb.org",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "VNDB",
+    "url": "https://vndb.org/",
+    "description": "Visual Novel Database / Tags / Characters / Releases / API",
+    "category": "gaming-tools",
+    "subcategory": "▷ Git Gud",
+    "domain": "vndb.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -31836,7 +31803,7 @@
   {
     "title": "RPGCodex",
     "url": "https://rpgcodex.net/forums/",
-    "description": "RPG Database / Forum",
+    "description": "RPG Discussion / Reviews / Game Information",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "rpgcodex.net",
@@ -31845,7 +31812,18 @@
     "is_tip": false
   },
   {
-    "title": "⁠hoGAMEGATA",
+    "title": "FrontierNav",
+    "url": "https://frontiernav.net/",
+    "description": "Interactive Game Wikis / Maps / Databases",
+    "category": "gaming-tools",
+    "subcategory": "▷ Git Gud",
+    "domain": "frontiernav.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "hoGAMEGATA",
     "url": "https://gamegata.xyz/",
     "description": "Horror Game Database",
     "category": "gaming-tools",
@@ -31856,18 +31834,7 @@
     "is_tip": false
   },
   {
-    "title": "⁠GOG Database",
-    "url": "https://www.gogdb.org/",
-    "description": "GOG Game Database",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "gogdb.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠The Adventure Game Database",
+    "title": "The Adventure Game Database",
     "url": "https://adventuregamedb.com/",
     "description": "Graphic Adventure Game Database",
     "category": "gaming-tools",
@@ -31878,20 +31845,31 @@
     "is_tip": false
   },
   {
-    "title": "Tiny Best Selector",
-    "url": "https://go.madsoxgames.com/selector/",
-    "description": "Random Retro Game Suggestions",
+    "title": "SteamPeek",
+    "url": "https://steampeek.hu/",
+    "description": "Similar Steam Games / Indie Game Discovery",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "go.madsoxgames.com",
-    "is_new": false,
+    "domain": "steampeek.hu",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "IndieDB",
+    "url": "https://www.indiedb.com/",
+    "description": "Indie Game Database / Development Updates / Community Projects",
+    "category": "gaming-tools",
+    "subcategory": "▷ Git Gud",
+    "domain": "indiedb.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "DoesItPlay?",
     "url": "https://www.doesitplay.org/",
-    "description": "Offline Game Compatibility Database",
+    "description": "Physical Game Offline Playability / Download Requirements / Preservation Testing",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "doesitplay.org",
@@ -31900,9 +31878,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Backwards Compatible",
+    "title": "Backwards Compatible",
     "url": "https://www.backwards-compatible.com/",
-    "description": "PS4 / PS5 Backwards Compatibility Database",
+    "description": "PS4 Games on PS5 / Compatibility / Performance Information",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "backwards-compatible.com",
@@ -31911,7 +31889,7 @@
     "is_tip": false
   },
   {
-    "title": "⁠Works on WOA",
+    "title": "Works on WOA",
     "url": "https://www.worksonwoa.com/en/games/",
     "description": "Windows on ARM Game Compatibility Database",
     "category": "gaming-tools",
@@ -31922,9 +31900,20 @@
     "is_tip": false
   },
   {
-    "title": "⁠Dark Pattern Games",
+    "title": "Low Spec Games",
+    "url": "https://exefer.github.io/lowspecgames/",
+    "description": "Games for Low-End PCs / Text Only / GitHub",
+    "category": "gaming-tools",
+    "subcategory": "▷ Git Gud",
+    "domain": "exefer.github.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Dark Pattern Games",
     "url": "https://www.darkpattern.games/",
-    "description": "Addictive Mobile Game Mechanic Avoidance Database",
+    "description": "Mobile Games / Manipulative Monetisation & Engagement Mechanics",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "darkpattern.games",
@@ -31933,31 +31922,9 @@
     "is_tip": false
   },
   {
-    "title": "DC Media List",
-    "url": "https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/",
-    "description": "Full DC Media List (1935-2024)",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "docs.google.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "VNDB",
-    "url": "https://vndb.org/",
-    "description": "Visual Novel Database",
-    "category": "gaming-tools",
-    "subcategory": "▷ Git Gud",
-    "domain": "vndb.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Internet Game Cars Database",
     "url": "https://igcd.net/",
-    "description": "Game Vehicle Database",
+    "description": "Vehicle Appearances in Video Games",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "igcd.net",
@@ -31966,20 +31933,42 @@
     "is_tip": false
   },
   {
-    "title": "Yamtrack",
-    "url": "https://github.com/FuzzyGrim/Yamtrack",
-    "description": "Self-Hosted Media Tracker",
+    "title": "DC Media List",
+    "url": "https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/",
+    "description": "DC Comics Media Chronology / 1935–2024",
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
-    "domain": "github.com",
+    "domain": "docs.google.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "⁠itchdb",
+    "title": "Tiny Best Selector",
+    "url": "https://go.madsoxgames.com/selector/",
+    "description": "Random Retro Game Recommendations",
+    "category": "gaming-tools",
+    "subcategory": "▷ Git Gud",
+    "domain": "go.madsoxgames.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Steam 250",
+    "url": "https://steam250.com/",
+    "description": "Best-Rated Steam Games / Genre Rankings / Hidden Gems",
+    "category": "gaming-tools",
+    "subcategory": "▷ Curated Recommendations",
+    "domain": "steam250.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "itchdb",
     "url": "https://itchdb.info/hot?window=7d",
-    "description": "itch.io Ratings Chart",
+    "description": "Trending itch.io Games / Ratings Charts",
     "category": "gaming-tools",
     "subcategory": "▷ Curated Recommendations",
     "domain": "itchdb.info",
@@ -31988,9 +31977,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Nodal",
+    "title": "Nodal",
     "url": "https://nodal.gg/",
-    "description": "Game Recommendations",
+    "description": "Game Recommendations / Similar Game Discovery",
     "category": "gaming-tools",
     "subcategory": "▷ Curated Recommendations",
     "domain": "nodal.gg",
@@ -31999,9 +31988,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠/V/'s Recommended Games Wiki",
+    "title": "/v/'s Recommended Games Wiki",
     "url": "https://vsrecommendedgames.miraheze.org/",
-    "description": "Game Recommendations",
+    "description": "Community-Curated Game Recommendations / Genre Lists",
     "category": "gaming-tools",
     "subcategory": "▷ Curated Recommendations",
     "domain": "vsrecommendedgames.miraheze.org",
@@ -32010,9 +31999,9 @@
     "is_tip": false
   },
   {
-    "title": "⁠Emulation Collection",
+    "title": "Emulation Collection",
     "url": "https://docs.google.com/spreadsheets/d/1bYIhExnaQXYyWLnna1WJPLMvXnmSlq2tvazDL3eQ3z0",
-    "description": "Game Recommendation Chart / 7+ Metacritic",
+    "description": "Recommended Retro / Emulated Games / Metacritic 7+ Selection",
     "category": "gaming-tools",
     "subcategory": "▷ Curated Recommendations",
     "domain": "docs.google.com",
@@ -32023,21 +32012,10 @@
   {
     "title": "Can I Play That?",
     "url": "https://caniplaythat.com/",
-    "description": "Video Game Accessibility Reviews",
+    "description": "Video Game Accessibility Reviews / Accessibility Features",
     "category": "gaming-tools",
     "subcategory": "▷ Curated Recommendations",
     "domain": "caniplaythat.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MiniReview",
-    "url": "https://minireview.io/",
-    "description": "Mobile Game Recommendations / Reviews / Discord",
-    "category": "gaming-tools",
-    "subcategory": "▷ Curated Recommendations",
-    "domain": "minireview.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -34447,7 +34425,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Mod Packs / Indexes",
     "domain": "modgrade.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36786,7 +36764,7 @@
   {
     "title": "⁠Cracked-Games",
     "url": "https://cracked-games.org/",
-    "description": "Download / Discord",
+    "description": "Download / Use Adblock / Discord",
     "category": "gaming",
     "subcategory": "General",
     "domain": "cracked-games.org",
@@ -37516,7 +37494,7 @@
     "category": "gaming",
     "subcategory": "▷ Decomps / Ports",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -38473,7 +38451,7 @@
     "category": "gaming",
     "subcategory": "▷ ROM Resources",
     "domain": "dowdy.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -55682,17 +55660,6 @@
     "is_tip": false
   },
   {
-    "title": "Fooyin",
-    "url": "https://www.fooyin.org/",
-    "description": "Audio Player / GitHub",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Audio",
-    "domain": "fooyin.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Gapless",
     "url": "https://gitlab.gnome.org/neithern/g4music",
     "description": "Audio Player",
@@ -56019,6 +55986,17 @@
     "subcategory": "▷ Linux Gaming",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Conty",
+    "url": "https://github.com/kron4ek/conty",
+    "description": "Single-File Gaming Container for Any Distro",
+    "category": "linux-macos",
+    "subcategory": "▷ Linux Gaming",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -71572,7 +71550,7 @@
     "category": "mobile",
     "subcategory": "▷ Telegram Channels",
     "domain": "telegram.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72501,6 +72479,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠WM Keyboard",
+    "url": "https://wmkeyboard.app/",
+    "description": "Privacy-Focused Keyboard / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ Keyboard Tools",
+    "domain": "wmkeyboard.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "SwiftKey",
     "url": "https://www.microsoft.com/en-us/swiftkey",
     "description": "Keyboard",
@@ -72519,17 +72508,6 @@
     "subcategory": "▷ Keyboard Tools",
     "domain": "github.com",
     "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠WM Keyboard",
-    "url": "https://wmkeyboard.app/",
-    "description": "Privacy-Focused Keyboard / GitHub",
-    "category": "mobile",
-    "subcategory": "▷ Keyboard Tools",
-    "domain": "wmkeyboard.app",
-    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -74388,7 +74366,7 @@
     "category": "mobile",
     "subcategory": "▷ Productivity / App Blockers",
     "domain": "beeswax.getflourish.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75966,6 +75944,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "mobile",
+    "subcategory": "▷ Android Relaxation",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "CineHD",
     "url": "https://cinehd.dev/",
     "description": "Movies / TV / Anime / Drama / Live TV",
@@ -76010,24 +75999,13 @@
     "is_tip": false
   },
   {
-    "title": "⁠SkyStream",
-    "url": "https://github.com/akashdh11/skystream",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "mobile",
-    "subcategory": "▷ Android Relaxation",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Atlantic",
-    "url": "https://atlantic.st/android",
+    "url": "https://atlantic.bz/android",
     "description": "Movies / TV / Anime",
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
-    "domain": "atlantic.st",
-    "is_new": false,
+    "domain": "atlantic.bz",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76280,7 +76258,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Anime",
     "domain": "tatakai.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76431,17 +76409,6 @@
     "title": "BravePipe",
     "url": "https://github.com/bravepipeproject/BravePipe",
     "description": "Ad-Free YouTube / Peertube / media.ccc.de / Rumble / BitChute / ReturnYTDislikes",
-    "category": "mobile",
-    "subcategory": "▷ Android YouTube Apps",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FreeTube Android",
-    "url": "https://github.com/MarmadileManteater/FreeTubeAndroid",
-    "description": "YouTube Player",
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
@@ -78452,6 +78419,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "mobile",
+    "subcategory": "▷ iOS Relaxation",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Shiopa Mobile",
     "url": "https://help.shiopa.com/docs/",
     "description": "Movies / TV / Anime",
@@ -78491,17 +78469,6 @@
     "category": "mobile",
     "subcategory": "▷ iOS Relaxation",
     "domain": "apps.apple.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠SkyStream",
-    "url": "https://github.com/akashdh11/skystream",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "mobile",
-    "subcategory": "▷ iOS Relaxation",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -78623,7 +78590,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Anime",
     "domain": "tatakai.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79305,7 +79272,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / القراءة",
     "domain": "books.e3raf.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -88952,7 +88919,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading",
     "domain": "fundacioncnse-dilse.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91197,6 +91164,17 @@
     "subcategory": "▷ Reading",
     "domain": "t.me",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Ziyouz",
+    "url": "https://n.ziyouz.com/",
+    "description": "Books",
+    "category": "non-english",
+    "subcategory": "▷ Reading",
+    "domain": "n.ziyouz.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -100100,6 +100078,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Bookplate",
+    "url": "https://bookplate.eu/",
+    "description": "Private Reading Tracker / Notes",
+    "category": "reading",
+    "subcategory": "▷ Dharmic",
+    "domain": "bookplate.eu",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Libib",
     "url": "https://www.libib.com/",
     "description": "Personal Library Cataloguing / ISBN Scanning / Web & Mobile",
@@ -103087,7 +103076,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ YouTube Search",
     "domain": "hackertube.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104979,7 +104968,7 @@
     "category": "storage",
     "subcategory": "Free DNS Resolvers",
     "domain": "tiar.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113564,17 +113553,6 @@
     "is_tip": false
   },
   {
-    "title": "Rave.io",
-    "url": "https://rave.io/",
-    "description": "Online Extension",
-    "category": "video-tools",
-    "subcategory": "▷ Stream Sync",
-    "domain": "rave.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "MovieNight",
     "url": "https://github.com/zorchenhimer/MovieNight",
     "description": "Docker / Discord",
@@ -115258,6 +115236,17 @@
     "is_tip": false
   },
   {
+    "title": "Spacedom",
+    "url": "https://spacedom.live/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "spacedom.live",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "moanatv.",
     "url": "https://lfmx.app/",
     "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
@@ -115330,6 +115319,17 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "thugtv.online",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Bingr",
+    "url": "https://bingr.one/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "bingr.one",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115429,17 +115429,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cineapse.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Bingr",
-    "url": "https://bingr.one/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "bingr.one",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115863,6 +115852,17 @@
     "is_tip": false
   },
   {
+    "title": "AuroraScreen",
+    "url": "https://www.aurorascreen.org/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "aurorascreen.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Zencine",
     "url": "https://zencine.org/",
     "description": "Movies / TV / Anime / Discord",
@@ -115946,7 +115946,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "heartiveplaystv.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116089,7 +116089,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "download.duafile.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116111,7 +116111,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "flixfusion.cyou",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116545,6 +116545,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Streaming App / Extension-Based / Windows, macOS, Linux / Discord",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠FlyStream",
     "url": "https://flystream.net/apps",
     "description": "Streaming App / Windows, macOS, Linux / Discord",
@@ -116581,17 +116592,6 @@
     "title": "⁠Showberry",
     "url": "https://github.com/Dackerie/showberry",
     "description": "Streaming App / Windows, macOS, Linux",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠SkyStream",
-    "url": "https://github.com/akashdh11/skystream",
-    "description": "Streaming App / Extension-Based / Windows, macOS, Linux / Discord",
     "category": "video",
     "subcategory": "▷ Video Streaming",
     "domain": "github.com",
@@ -116705,7 +116705,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming Apps",
     "domain": "tatakai.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118228,17 +118228,6 @@
     "is_tip": false
   },
   {
-    "title": "Vegeta TV",
-    "url": "http://vegetatv.duckdns.org/",
-    "description": "TV / Sports",
-    "category": "video",
-    "subcategory": "▷ Live TV",
-    "domain": "vegetatv.duckdns.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Global Free TV",
     "url": "https://www.globalfreetv.com/",
     "description": "TV / Discord",
@@ -118378,6 +118367,17 @@
     "subcategory": "▷ Live Sports",
     "domain": "matchora.to",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Stability",
+    "url": "https://stability.taxidev.me/",
+    "description": "",
+    "category": "video",
+    "subcategory": "▷ Live Sports",
+    "domain": "stability.taxidev.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -119428,12 +119428,12 @@
   },
   {
     "title": "Atlantic",
-    "url": "https://atlantic.st/android",
+    "url": "https://atlantic.bz/android",
     "description": "Streaming App",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
-    "domain": "atlantic.st",
-    "is_new": false,
+    "domain": "atlantic.bz",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -119543,7 +119543,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "tatakai.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120621,7 +120621,7 @@
     "category": "video",
     "subcategory": "▷ Stremio Tools",
     "domain": "heartiveplaystv.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
