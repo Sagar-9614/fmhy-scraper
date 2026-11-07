@@ -2,7 +2,7 @@
   {
     "title": "Meta AI",
     "url": "https://www.meta.ai/",
-    "description": "Muse Spark 1.2 / Muse Glimmer 30B / Meta Sign-Up / Unlimited",
+    "description": "Muse Spark 1.3 / Muse Glimmer 30B / Meta Sign-Up / Unlimited",
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "meta.ai",
@@ -35,7 +35,7 @@
   {
     "title": "Tencent AI Studio",
     "url": "https://aistudio.tencent.com/",
-    "description": "Hy4 Preview / Unlimited / Sign-Up",
+    "description": "Hy4 / Unlimited / Sign-Up",
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "aistudio.tencent.com",
@@ -253,6 +253,17 @@
     "is_tip": false
   },
   {
+    "title": "Arena",
+    "url": "https://arena.ai/text/direct",
+    "description": "Multiple Models / Agent / Sign-Up / Limits / X / Discord",
+    "category": "ai",
+    "subcategory": "▷ Multiple Model Sites",
+    "domain": "arena.ai",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Perplexity",
     "url": "https://www.perplexity.ai/",
     "description": "AI Search Engine / Enhancements / Discord",
@@ -260,6 +271,17 @@
     "subcategory": "▷ Specialized Chatbots",
     "domain": "perplexity.ai",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Arena",
+    "url": "https://arena.ai/search/direct",
+    "description": "AI Search Engine / Sign-Up / X / Discord",
+    "category": "ai",
+    "subcategory": "▷ Specialized Chatbots",
+    "domain": "arena.ai",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -803,6 +825,17 @@
     "is_tip": false
   },
   {
+    "title": "Arena",
+    "url": "https://arena.ai/video",
+    "description": "2 Daily / Sign-Up / Random Models / End-Watermark / X / Discord",
+    "category": "ai",
+    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
+    "domain": "arena.ai",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Design Arena",
     "url": "https://www.designarena.ai/",
     "description": "Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / X / Discord",
@@ -1030,6 +1063,17 @@
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
     "domain": "photogpt.io",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Arena",
+    "url": "https://arena.ai/image/direct",
+    "description": "Multiple Generators / Editing / 15 Daily / Sign-Up / X / Discord",
+    "category": "ai",
+    "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
+    "domain": "arena.ai",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -1404,6 +1448,17 @@
     "subcategory": "▷ Voice Change / Clone",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Vonovox",
+    "url": "https://github.com/dr87/Vonovox",
+    "description": "Real-Time Voice Changer / NVIDIA GPUs / Windows",
+    "category": "ai",
+    "subcategory": "▷ Voice Change / Clone",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -2101,6 +2156,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Meiro",
+    "url": "https://meiro.elianiva.com/",
+    "description": "YouTube Music Client / GitHub",
+    "category": "audio",
+    "subcategory": "▷ Streaming Apps",
+    "domain": "meiro.elianiva.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Flow Desktop",
     "url": "https://github.com/Flow-Tube/Flow-Desktop",
     "description": "YouTube Music Client",
@@ -2207,6 +2273,17 @@
     "subcategory": "▷ Streaming Sites",
     "domain": "pandora.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠pointify",
+    "url": "https://pointify.qzz.io/",
+    "description": "Browser Music",
+    "category": "audio",
+    "subcategory": "▷ Streaming Sites",
+    "domain": "pointify.qzz.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -2816,97 +2893,20 @@
     "is_tip": false
   },
   {
-    "title": "⁠PodcastToMP3",
-    "url": "https://podcasttomp3.com/",
-    "description": "Podcast Downloads / Search",
-    "category": "audio",
-    "subcategory": "▷ Podcast Streaming",
-    "domain": "podcasttomp3.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Listen Notes",
-    "url": "https://www.listennotes.com/",
-    "description": "Podcast Search Engine",
-    "category": "audio",
-    "subcategory": "▷ Podcast Streaming",
-    "domain": "listennotes.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Rephonic",
-    "url": "https://rephonic.com/graph",
-    "description": "Find Similar Podcasts",
-    "category": "audio",
-    "subcategory": "▷ Podcast Streaming",
-    "domain": "rephonic.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Apple Podcasts",
-    "url": "https://podcasts.apple.com/us/home",
-    "description": "",
+    "url": "https://podcasts.apple.com/",
+    "description": "Podcast Streaming / Discovery / Charts / Transcripts",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podcasts.apple.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "PodParadise",
-    "url": "https://www.podparadise.com/",
-    "description": "",
-    "category": "audio",
-    "subcategory": "▷ Podcast Streaming",
-    "domain": "podparadise.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Podbean",
-    "url": "https://www.podbean.com/",
-    "description": "",
-    "category": "audio",
-    "subcategory": "▷ Podcast Streaming",
-    "domain": "podbean.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Podbay",
-    "url": "https://podbay.fm/",
-    "description": "",
-    "category": "audio",
-    "subcategory": "▷ Podcast Streaming",
-    "domain": "podbay.fm",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Player FM",
-    "url": "https://player.fm/",
-    "description": "",
-    "category": "audio",
-    "subcategory": "▷ Podcast Streaming",
-    "domain": "player.fm",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "Podcast Republic",
     "url": "https://www.podcastrepublic.net/",
-    "description": "",
+    "description": "Podcast Player / Playlists / Downloads / Custom RSS Feeds",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podcastrepublic.net",
@@ -2915,9 +2915,53 @@
     "is_tip": false
   },
   {
+    "title": "Player FM",
+    "url": "https://player.fm/",
+    "description": "Podcast Player / Discovery / Categories / Offline Listening",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "player.fm",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Podverse",
+    "url": "https://podverse.fm/",
+    "description": "Open-Source Podcast Player / RSS Feeds / Podcasting 2.0 / Web & Mobile",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "podverse.fm",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Podbean",
+    "url": "https://www.podbean.com/",
+    "description": "Podcast Streaming / Discovery / Hosting Platform",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "podbean.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "BBC Podcasts",
+    "url": "https://www.bbc.co.uk/sounds/podcasts",
+    "description": "BBC Podcast Streaming / Downloader",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "bbc.co.uk",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Relay.fm",
     "url": "https://www.relay.fm/",
-    "description": "",
+    "description": "Independent Podcast Network / Technology & Creative Shows",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "relay.fm",
@@ -2926,9 +2970,53 @@
     "is_tip": false
   },
   {
+    "title": "Podchaser",
+    "url": "https://www.podchaser.com/",
+    "description": "Podcast Database / Ratings / Reviews / Creator Credits",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "podchaser.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Podcast Index",
+    "url": "https://podcastindex.org/",
+    "description": "Open Podcast Directory / Podcasting 2.0 / API",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "podcastindex.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Podstatus",
+    "url": "https://podstatus.com/charts",
+    "description": "Apple Podcasts & Spotify Rankings / Country & Category Charts",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "podstatus.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Rephonic",
+    "url": "https://rephonic.com/graph",
+    "description": "Similar Podcast Discovery / Interactive Audience Graph",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "rephonic.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "PodScripts",
     "url": "https://podscripts.co/",
-    "description": "Podcast Transcript Search",
+    "description": "Searchable Podcast Transcripts",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podscripts.co",
@@ -2937,20 +3025,31 @@
     "is_tip": false
   },
   {
-    "title": "OpenPodcast",
-    "url": "https://openpodcast.dev",
-    "description": "Podcast Analytics",
+    "title": "PodcastToMP3",
+    "url": "https://podcasttomp3.com/",
+    "description": "Search & Download Podcast Episodes / MP3",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
-    "domain": "openpodcast.dev",
+    "domain": "podcasttomp3.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "PinePods",
+    "url": "https://pinepods.online/",
+    "description": "Self-Hosted Podcast Server / Multi-Device Sync / GitHub",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "pinepods.online",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "castero",
     "url": "https://github.com/xgi/castero",
-    "description": "TUI Terminal Podcast Client",
+    "description": "Terminal-Based Podcast Client",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "github.com",
@@ -2961,7 +3060,7 @@
   {
     "title": "EchoWalk",
     "url": "https://www.echowalk.com/",
-    "description": "Turn Articles / Webpages into Podcasts",
+    "description": "Turn Articles & Webpages into Spoken Audio",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "echowalk.com",
@@ -2970,9 +3069,20 @@
     "is_tip": false
   },
   {
-    "title": "⁠Podnews",
+    "title": "OpenPodcast",
+    "url": "https://openpodcast.dev/",
+    "description": "Podcast Analytics",
+    "category": "audio",
+    "subcategory": "▷ Podcast Streaming",
+    "domain": "openpodcast.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Podnews",
     "url": "https://podnews.net/",
-    "description": "Podcast News",
+    "description": "Podcast Industry News / Trends / New Releases",
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podnews.net",
@@ -3527,6 +3637,17 @@
     "subcategory": "▷ Internet Radio",
     "domain": "thelotradio.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Worldwide FM",
+    "url": "https://www.worldwidefm.net/",
+    "description": "Independent Internet Radio",
+    "category": "audio",
+    "subcategory": "▷ Internet Radio",
+    "domain": "worldwidefm.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -6706,6 +6827,17 @@
     "subcategory": "▷ Music Discovery",
     "domain": "hate5six.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠zig~zag",
+    "url": "https://www.zig-zag.fm/",
+    "description": "Music Discovery Map / Discord",
+    "category": "audio",
+    "subcategory": "▷ Music Discovery",
+    "domain": "zig-zag.fm",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -14346,7 +14478,7 @@
   {
     "title": "Unblob",
     "url": "https://unblob.org/",
-    "description": "Extraction Suite",
+    "description": "Extraction Suite / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ Static Page Hosting",
     "domain": "unblob.org",
@@ -14625,17 +14757,6 @@
     "category": "developer-tools",
     "subcategory": "▷ Web Security",
     "domain": "crt.name",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "SupaBase",
-    "url": "https://supabase.com/",
-    "description": "Database / Authentication Service",
-    "category": "developer-tools",
-    "subcategory": "▷ Web Security",
-    "domain": "supabase.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -29359,17 +29480,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Savedly",
-    "url": "https://savedly.net/",
-    "description": "Unlimited / 7 Days",
-    "category": "file-tools",
-    "subcategory": "▷ P2P Transfer",
-    "domain": "savedly.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Upload.bg",
     "url": "https://upload.bg/",
     "description": "10GB / 30 Days",
@@ -29607,6 +29717,17 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "fireload.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Savedly",
+    "url": "https://savedly.net/",
+    "description": "Unlimited / 7 Days",
+    "category": "file-tools",
+    "subcategory": "▷ P2P Transfer",
+    "domain": "savedly.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -31851,7 +31972,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "steampeek.hu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -31862,7 +31983,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Git Gud",
     "domain": "indiedb.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -31961,7 +32082,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Curated Recommendations",
     "domain": "steam250.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41301,6 +41422,17 @@
     "subcategory": "▷ Multi-Game Sites",
     "domain": "ported2browser.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Arcadia",
+    "url": "https://arcadia.baby/",
+    "description": "Browser PC Game Ports / Aggregator",
+    "category": "gaming",
+    "subcategory": "▷ Multi-Game Sites",
+    "domain": "arcadia.baby",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -52866,6 +52998,17 @@
     "is_tip": false
   },
   {
+    "title": "uBlacklist",
+    "url": "https://ublacklist.github.io/docs",
+    "description": "Google Search Results Filter / GitHub",
+    "category": "internet-tools",
+    "subcategory": "▷ Browser Extensions",
+    "domain": "ublacklist.github.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Always Visible",
     "url": "https://webextension.org/listing/always-active.html",
     "description": "Always Active / On-Top Window",
@@ -55996,7 +56139,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -58457,17 +58600,6 @@
     "title": "⁠Sikarugir",
     "url": "https://github.com/Sikarugir-App/Sikarugir",
     "description": "Create Wine Wrapped Game Ports for Mac",
-    "category": "linux-macos",
-    "subcategory": "▷ Mac Gaming",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠MacNativeGames",
-    "url": "https://github.com/ly05010419/MacNativeGames",
-    "description": "Run Switch Games Natively on Apple Silicon",
     "category": "linux-macos",
     "subcategory": "▷ Mac Gaming",
     "domain": "github.com",
@@ -63536,6 +63668,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠election.run",
+    "url": "https://election.run/",
+    "description": "Multi-Stream Election Streams / News",
+    "category": "misc",
+    "subcategory": "▷ Satellite / Earth Data",
+    "domain": "election.run",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠NCS",
     "url": "https://www.newscaststudio.com/",
     "description": "Television Broadcast Network News",
@@ -63889,12 +64032,12 @@
   },
   {
     "title": "Orange Juice",
-    "url": "https://oj-hn.com",
+    "url": "https://oj-hn.com/",
     "description": "Hacker News Features / Extension / GitHub",
     "category": "misc",
     "subcategory": "▷ Hacker News Tools",
     "domain": "oj-hn.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -72479,17 +72622,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠WM Keyboard",
-    "url": "https://wmkeyboard.app/",
-    "description": "Privacy-Focused Keyboard / GitHub",
-    "category": "mobile",
-    "subcategory": "▷ Keyboard Tools",
-    "domain": "wmkeyboard.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "SwiftKey",
     "url": "https://www.microsoft.com/en-us/swiftkey",
     "description": "Keyboard",
@@ -75372,17 +75504,6 @@
     "is_tip": false
   },
   {
-    "title": "Spotify (official)",
-    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
-    "description": "Spotify App / Warning",
-    "category": "mobile",
-    "subcategory": "▷ Android Manga",
-    "domain": "play.google.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "SoundCloud",
     "url": "https://play.google.com/store/apps/details?id=com.soundcloud.android",
     "description": "Streaming",
@@ -75966,17 +76087,6 @@
     "is_tip": false
   },
   {
-    "title": "Shiopa Mobile",
-    "url": "https://help.shiopa.com/docs/",
-    "description": "Movies / TV / Anime",
-    "category": "mobile",
-    "subcategory": "▷ Android Relaxation",
-    "domain": "help.shiopa.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠FlixQuest",
     "url": "https://flix.quest/",
     "description": "Movies / TV / Live TV / Telegram / GitHub",
@@ -76005,7 +76115,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
     "domain": "atlantic.bz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76567,6 +76677,17 @@
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "nxnative",
+    "url": "https://github.com/seedds/nxnative",
+    "description": "Run Switch Games on iOS",
+    "category": "mobile",
+    "subcategory": "▷ Android YouTube Apps",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -78425,17 +78546,6 @@
     "category": "mobile",
     "subcategory": "▷ iOS Relaxation",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Shiopa Mobile",
-    "url": "https://help.shiopa.com/docs/",
-    "description": "Movies / TV / Anime",
-    "category": "mobile",
-    "subcategory": "▷ iOS Relaxation",
-    "domain": "help.shiopa.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -91146,6 +91256,17 @@
     "is_tip": false
   },
   {
+    "title": "FreeKino",
+    "url": "https://freekino.net/",
+    "description": "Movies / TV",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "freekino.net",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "AsilMedia",
     "url": "https://asilmedia.org/",
     "description": "Movies / TV / Telegram",
@@ -91174,7 +91295,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading",
     "domain": "n.ziyouz.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91245,17 +91366,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Tram Phim",
-    "url": "https://tramphim.tech/",
-    "description": "Movies / TV / Anime / Sub / Dub / 1080p / 4K / Telegram",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / Phát trực tuyến",
-    "domain": "tramphim.tech",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Sofaflix",
     "url": "https://sofaflix.rest/",
     "description": "Movies / TV / Anime / Sub / Dub / 1080p / Telegram",
@@ -91285,6 +91395,17 @@
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "phim.nguonc.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Tram Phim",
+    "url": "https://tramphim.app/",
+    "description": "Movies / TV / Anime / Sub / Dub / 1080p / 4K / Telegram",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / Phát trực tuyến",
+    "domain": "tramphim.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -96668,6 +96789,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠YumeZone",
+    "url": "https://yumezone.live/manga/",
+    "description": "",
+    "category": "reading",
+    "subcategory": "▷ Manga",
+    "domain": "yumezone.live",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Mgread",
     "url": "https://mgread.io/",
     "description": "",
@@ -100084,7 +100216,7 @@
     "category": "reading",
     "subcategory": "▷ Dharmic",
     "domain": "bookplate.eu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104962,17 +105094,6 @@
     "is_tip": false
   },
   {
-    "title": "Tiarap",
-    "url": "https://tiar.app/",
-    "description": "Privacy-Friendly DNS Resolver",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "tiar.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Rethink DNS",
     "url": "https://rethinkdns.com/configure",
     "description": "",
@@ -105067,17 +105188,6 @@
     "category": "storage",
     "subcategory": "Free VPN Configs",
     "domain": "v2nodes.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "v2ray servers",
-    "url": "https://github.com/ebrasha/free-v2ray-public-list",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free VPN Configs",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115242,7 +115352,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "spacedom.live",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115276,6 +115386,17 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "moviebite.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "watched",
+    "url": "https://watched.cx/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "watched.cx",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115847,28 +115968,6 @@
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "downloads-anymovies.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "AuroraScreen",
-    "url": "https://www.aurorascreen.org/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "aurorascreen.org",
-    "is_new": true,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Zencine",
-    "url": "https://zencine.org/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "zencine.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116930,17 +117029,6 @@
     "is_tip": false
   },
   {
-    "title": "AniLight",
-    "url": "https://anilight.live/",
-    "description": "Sub / Dub / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "anilight.live",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "KickAssAnime",
     "url": "https://kaa.lt/",
     "description": "Sub / Dub / Auto-Next / Telegram / Discord",
@@ -117064,7 +117152,7 @@
   {
     "title": "Anikura",
     "url": "https://anikura.club/",
-    "description": "Sub / Dub / Telegram",
+    "description": "Sub / Dub / X / Telegram",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anikura.club",
@@ -118294,6 +118382,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠election.run",
+    "url": "https://election.run/",
+    "description": "Multi-Stream Election Streams / News",
+    "category": "video",
+    "subcategory": "▷ Live TV",
+    "domain": "election.run",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "SHOWROOM",
     "url": "https://showroom-live.com/",
     "description": "Live Performance Broadcasts",
@@ -118377,7 +118476,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "stability.taxidev.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119433,7 +119532,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "atlantic.bz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119747,12 +119846,12 @@
   },
   {
     "title": "PSArips",
-    "url": "https://psa.wf/",
+    "url": "https://psa.rip/",
     "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
-    "domain": "psa.wf",
-    "is_new": false,
+    "domain": "psa.rip",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -120155,7 +120254,7 @@
   {
     "title": "⁠Anime Tosho",
     "url": "https://animetosho.net/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / .onion",
     "category": "video",
     "subcategory": "▷ Anime Downloading",
     "domain": "animetosho.net",
