@@ -259,7 +259,7 @@
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "arena.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -281,7 +281,7 @@
     "category": "ai",
     "subcategory": "▷ Specialized Chatbots",
     "domain": "arena.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -831,7 +831,7 @@
     "category": "ai",
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
     "domain": "arena.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -1073,7 +1073,7 @@
     "category": "ai",
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
     "domain": "arena.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -1458,7 +1458,7 @@
     "category": "ai",
     "subcategory": "▷ Voice Change / Clone",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -1568,17 +1568,6 @@
     "category": "ai",
     "subcategory": "▷ Voice Removal / Separation",
     "domain": "goose-docs.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Paseo",
-    "url": "https://paseo.sh/",
-    "description": "Multi-Agent Coding Environment / All Platforms / GitHub",
-    "category": "ai",
-    "subcategory": "▷ Voice Removal / Separation",
-    "domain": "paseo.sh",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -2162,7 +2151,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "meiro.elianiva.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2283,7 +2272,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Sites",
     "domain": "pointify.qzz.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2427,6 +2416,17 @@
     "subcategory": "▷ Streaming Sites",
     "domain": "audionautix.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "LostMyspace",
+    "url": "http://lostmyspace.com/",
+    "description": "Lost Myspace Songs",
+    "category": "audio",
+    "subcategory": "▷ Streaming Sites",
+    "domain": "lostmyspace.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -2899,7 +2899,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podcasts.apple.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2932,7 +2932,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podverse.fm",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2954,7 +2954,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "bbc.co.uk",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2976,7 +2976,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podchaser.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2987,7 +2987,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podcastindex.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2998,7 +2998,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "podstatus.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -3042,7 +3042,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "pinepods.online",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -3075,7 +3075,7 @@
     "category": "audio",
     "subcategory": "▷ Podcast Streaming",
     "domain": "openpodcast.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -3647,7 +3647,7 @@
     "category": "audio",
     "subcategory": "▷ Internet Radio",
     "domain": "worldwidefm.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6837,7 +6837,7 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "zig-zag.fm",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -8542,17 +8542,6 @@
     "category": "developer-tools",
     "subcategory": "General",
     "domain": "indiehackers.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CyberArsenal",
-    "url": "https://cyberarsenal.org/",
-    "description": "Cybersecurity Forums",
-    "category": "developer-tools",
-    "subcategory": "General",
-    "domain": "cyberarsenal.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -11226,6 +11215,17 @@
     "category": "developer-tools",
     "subcategory": "▷ VSCode Tools",
     "domain": "oslo-vsc.netlify.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Paseo",
+    "url": "https://paseo.sh/",
+    "description": "Multi-Agent Coding Environment / All Platforms / GitHub",
+    "category": "developer-tools",
+    "subcategory": "▷ Coding Harnesses / Extensions",
+    "domain": "paseo.sh",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -14654,7 +14654,7 @@
   {
     "title": "DNSPerf",
     "url": "https://www.dnsperf.com/dns-providers-list/",
-    "description": "DNS Provider Rankings",
+    "description": "DNS Provider Rankings / Speed Benchmark",
     "category": "developer-tools",
     "subcategory": "▷ DNS Tools",
     "domain": "dnsperf.com",
@@ -39039,7 +39039,7 @@
     "is_tip": false
   },
   {
-    "title": "NXbrew",
+    "title": "NXBrew",
     "url": "https://nxbrew.net/",
     "description": "ROMs / Switch 2 / Switch",
     "category": "gaming",
@@ -41432,7 +41432,7 @@
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "arcadia.baby",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -42544,6 +42544,17 @@
     "subcategory": "▷ Text Adventures",
     "domain": "textadventures.co.uk",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "AI Dungeon",
+    "url": "https://aidungeon.com/",
+    "description": "Open World Text RPG / Subreddit / Discord,",
+    "category": "gaming",
+    "subcategory": "▷ Text Adventures",
+    "domain": "aidungeon.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -49842,12 +49853,12 @@
   },
   {
     "title": "⁠Midas QR",
-    "url": "https://midasqr.is-local.org/",
-    "description": "Generator / Customizable / GitHub",
+    "url": "https://midas-qr.vercel.app/",
+    "description": "Generator / Customizable",
     "category": "internet-tools",
     "subcategory": "▷ QR Code Tools",
-    "domain": "midasqr.is-local.org",
-    "is_new": false,
+    "domain": "midas-qr.vercel.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -53004,7 +53015,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Browser Extensions",
     "domain": "ublacklist.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -53587,17 +53598,6 @@
     "category": "internet-tools",
     "subcategory": "▷ Chrome Extensions",
     "domain": "smoothkeyscroll.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Page Pad",
-    "url": "https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn",
-    "description": "Web Page Note-Taking",
-    "category": "internet-tools",
-    "subcategory": "▷ Chrome Extensions",
-    "domain": "chromewebstore.google.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -59587,6 +59587,17 @@
     "is_tip": false
   },
   {
+    "title": "FMHY Android",
+    "url": "https://github.com/omeg4-dev/fmhy-android",
+    "description": "FMHY Android App",
+    "category": "misc",
+    "subcategory": "General",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Track Awesome List",
     "url": "https://www.trackawesomelist.com/",
     "description": "Daily Awesome List Updates",
@@ -63674,7 +63685,7 @@
     "category": "misc",
     "subcategory": "▷ Satellite / Earth Data",
     "domain": "election.run",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -64037,7 +64048,7 @@
     "category": "misc",
     "subcategory": "▷ Hacker News Tools",
     "domain": "oj-hn.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -73414,6 +73425,17 @@
     "is_tip": false
   },
   {
+    "title": "FMHY Android",
+    "url": "https://github.com/omeg4-dev/fmhy-android",
+    "description": "FMHY Android App",
+    "category": "mobile",
+    "subcategory": "▷ Android Utilities",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Catima",
     "url": "https://catima.app/",
     "description": "Loyalty Card Managers",
@@ -76687,7 +76709,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77750,7 +77772,7 @@
   {
     "title": "DNSecure",
     "url": "https://apps.apple.com/en/app/dnsecure/id1533413232",
-    "description": "Encrypted DNS / TestFlight / GitHub",
+    "description": "Encrypted DNS / GitHub",
     "category": "mobile",
     "subcategory": "▷ iOS Privacy",
     "domain": "apps.apple.com",
@@ -82192,17 +82214,6 @@
     "is_tip": false
   },
   {
-    "title": "French Stream",
-    "url": "https://fs27.lol/",
-    "description": "Movies / TV / Anime / Status",
-    "category": "non-english",
-    "subcategory": "▷ Streaming",
-    "domain": "fs27.lol",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Purstream",
     "url": "https://purstream.wiki/",
     "description": "Movies / TV / Anime",
@@ -82214,24 +82225,24 @@
     "is_tip": false
   },
   {
-    "title": "dulourd",
-    "url": "https://www.dulourd.boo/",
-    "description": "Movies / TV",
+    "title": "frembed",
+    "url": "https://frembed.uno/",
+    "description": "Movies / TV / Anime / Dub",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "dulourd.boo",
-    "is_new": false,
+    "domain": "frembed.uno",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "frembed",
-    "url": "https://frembed.surf/",
-    "description": "Movies / TV / Anime / Dub",
+    "title": "⁠Bowd",
+    "url": "https://bowdtv.com/",
+    "description": "Movies / TV / Live TV",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "frembed.surf",
-    "is_new": false,
+    "domain": "bowdtv.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -82308,17 +82319,6 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "myfluneo.eu",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠FlixVison",
-    "url": "https://flixvision.xyz/",
-    "description": "Movies / TV / Anime",
-    "category": "non-english",
-    "subcategory": "▷ Streaming",
-    "domain": "flixvision.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -84139,6 +84139,17 @@
     "is_tip": false
   },
   {
+    "title": "UniqueStream",
+    "url": "https://uniquestream.net/",
+    "description": "Movies / TV / Anime / 720p",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "uniquestream.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Screenscape",
     "url": "https://screenscape.me/",
     "description": "Movies / TV / Anime",
@@ -84778,12 +84789,12 @@
   },
   {
     "title": "StreamingUnity",
-    "url": "https://streamingunity.win/it",
+    "url": "https://streamingunity.fun/it",
     "description": "Movies / TV / Anime",
     "category": "non-english",
     "subcategory": "▷ Streaming",
-    "domain": "streamingunity.win",
-    "is_new": false,
+    "domain": "streamingunity.fun",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -85769,10 +85780,21 @@
   {
     "title": "OnDemandKorean",
     "url": "https://www.ondemandkorea.com/",
-    "description": "Korean Movies / TV / 720p",
+    "description": "Movies / TV / 720p",
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "ondemandkorea.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "UniqueStream",
+    "url": "https://uniquestream.net/",
+    "description": "Movies / TV / Anime / 720p",
+    "category": "non-english",
+    "subcategory": "▷ Streaming",
+    "domain": "uniquestream.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -91262,7 +91284,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "freekino.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91405,7 +91427,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "tramphim.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92136,17 +92158,6 @@
     "is_tip": false
   },
   {
-    "title": "hBlock",
-    "url": "https://hblock.molinero.dev/",
-    "description": "Blocklist Collection / GitHub",
-    "category": "privacy",
-    "subcategory": "▷ Adblock Filters",
-    "domain": "hblock.molinero.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "FMHY Filterlist",
     "url": "https://github.com/fmhy/FMHYFilterlist",
     "description": "Unsafe Sites Filter",
@@ -92169,31 +92180,20 @@
     "is_tip": false
   },
   {
-    "title": "Tiarap",
-    "url": "https://doh.tiar.app/",
-    "description": "DNS Adblocking / GitHub",
+    "title": "DNSTT.XYZ",
+    "url": "https://dnstt.xyz/",
+    "description": "DNS Tunnel Client / Telegram / GitHub / Windows, Linux, Android",
     "category": "privacy",
     "subcategory": "▷ DNS Adblocking",
-    "domain": "doh.tiar.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Rethink DNS",
-    "url": "https://rethinkdns.com/configure",
-    "description": "DNS Adblocking / Subreddit / Telegram",
-    "category": "privacy",
-    "subcategory": "▷ DNS Adblocking",
-    "domain": "rethinkdns.com",
-    "is_new": false,
+    "domain": "dnstt.xyz",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "Blocky",
     "url": "https://0xerr0r.github.io/blocky/latest/",
-    "description": "DNS Adblocking / GitHub",
+    "description": "DNS Adblocking / GitHub / Linux, Docker",
     "category": "privacy",
     "subcategory": "▷ DNS Adblocking",
     "domain": "0xerr0r.github.io",
@@ -92202,9 +92202,31 @@
     "is_tip": false
   },
   {
+    "title": "Technitium",
+    "url": "https://technitium.com/dns",
+    "description": "Self-Hosted DNS Server / Subreddit / GitHub / Windows, Linux",
+    "category": "privacy",
+    "subcategory": "▷ DNS Adblocking",
+    "domain": "technitium.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Unbound",
+    "url": "https://www.nlnetlabs.nl/projects/unbound/",
+    "description": "Self-Hosted, Validating, Recursive, Caching Resolver / GitHub",
+    "category": "privacy",
+    "subcategory": "▷ DNS Adblocking",
+    "domain": "nlnetlabs.nl",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "AdGuard DNS",
     "url": "https://adguard-dns.io/",
-    "description": "Customizable DNS Adblocking Service / X / Subreddit / Telegram",
+    "description": "Customizable DNS Adblocking Service / Public DNS / X / Subreddit / Telegram / GitHub",
     "category": "privacy",
     "subcategory": "▷ DNS Adblocking",
     "domain": "adguard-dns.io",
@@ -92224,20 +92246,9 @@
     "is_tip": false
   },
   {
-    "title": "LibreDNS",
-    "url": "https://libredns.gr/",
-    "description": "DNS Adblocking / GitLab",
-    "category": "privacy",
-    "subcategory": "▷ DNS Adblocking",
-    "domain": "libredns.gr",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "NextDNS",
     "url": "https://nextdns.io",
-    "description": "Customizable DNS Adblocking Service / Guide / GitHub",
+    "description": "Customizable DNS Adblocking Service / Provider Info / Guide / GitHub",
     "category": "privacy",
     "subcategory": "▷ DNS Adblocking",
     "domain": "nextdns.io",
@@ -92246,122 +92257,78 @@
     "is_tip": false
   },
   {
-    "title": "NxFilter",
-    "url": "https://nxfilter.org/",
-    "description": "Self-Hosted Customizable DNS Adblocking / Subreddit",
+    "title": "Artemis",
+    "url": "https://dns.fuzzing.uk/",
+    "description": "Piracy Site DNS Resolver / GitHub",
     "category": "privacy",
-    "subcategory": "▷ DNS Adblocking",
-    "domain": "nxfilter.org",
+    "subcategory": "▷ DNS Providers",
+    "domain": "dns.fuzzing.uk",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "TBlock",
-    "url": "https://tblock.me/",
-    "description": "DNS Adblocking Client / Source Code",
+    "title": "DNSBunker",
+    "url": "https://dnsbunker.org/",
+    "description": "Encrypted DNS Resolver with Ad, Tracker, Phishing & Malware Blocking",
     "category": "privacy",
-    "subcategory": "▷ DNS Adblocking",
-    "domain": "tblock.me",
+    "subcategory": "▷ DNS Providers",
+    "domain": "dnsbunker.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "YogaDNS",
-    "url": "https://yogadns.com/",
-    "description": "Custom DNS Client for Windows",
+    "title": "HaGeZi DNS",
+    "url": "https://github.com/hagezi/dns-servers",
+    "description": "Free, Non-Commercial EU DNS Servers",
     "category": "privacy",
-    "subcategory": "▷ DNS Adblocking",
-    "domain": "yogadns.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Diversion",
-    "url": "https://diversion.ch/",
-    "description": "Asuswrt-Merlin Router Adblock Manager",
-    "category": "privacy",
-    "subcategory": "▷ DNS Adblocking",
-    "domain": "diversion.ch",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Technitium",
-    "url": "https://technitium.com/dns",
-    "description": "Self-Hosted DNS Server / Subreddit / GitHub",
-    "category": "privacy",
-    "subcategory": "▷ DNS Adblocking",
-    "domain": "technitium.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "hBlock",
-    "url": "https://github.com/hectorm/hblock",
-    "description": "",
-    "category": "privacy",
-    "subcategory": "▷ DNS Filters",
+    "subcategory": "▷ DNS Providers",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "StevenBlack Hosts",
-    "url": "https://github.com/StevenBlack/hosts",
-    "description": "",
+    "title": "DNS for Family",
+    "url": "https://dnsforfamily.com/",
+    "description": "Family Filtering with Safe Search & Malware Protection",
     "category": "privacy",
-    "subcategory": "▷ DNS Filters",
-    "domain": "github.com",
+    "subcategory": "▷ DNS Providers",
+    "domain": "dnsforfamily.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "black-mirror",
-    "url": "https://github.com/T145/black-mirror",
-    "description": "",
+    "title": "DNS Forge",
+    "url": "https://dnsforge.de/",
+    "description": "German DNS Servers with Four Filtering Levels",
     "category": "privacy",
-    "subcategory": "▷ DNS Filters",
-    "domain": "github.com",
+    "subcategory": "▷ DNS Providers",
+    "domain": "dnsforge.de",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "Scam Blocklist",
-    "url": "https://github.com/durablenapkin/scamblocklist",
-    "description": "",
+    "title": "LibreDNS",
+    "url": "https://libredns.gr/",
+    "description": "DNS Adblocking",
     "category": "privacy",
-    "subcategory": "▷ DNS Filters",
-    "domain": "github.com",
+    "subcategory": "▷ DNS Providers",
+    "domain": "libredns.gr",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
   {
-    "title": "neodevhost",
-    "url": "https://github.com/neodevpro/neodevhost",
-    "description": "",
+    "title": "dns.sb",
+    "url": "https://dns.sb/",
+    "description": "Free, Fast & No-Log Public DNS Resolver",
     "category": "privacy",
-    "subcategory": "▷ DNS Filters",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Phishing Army",
-    "url": "https://phishing.army/",
-    "description": "DNS Phishing Blocklist / X",
-    "category": "privacy",
-    "subcategory": "▷ DNS Filters",
-    "domain": "phishing.army",
+    "subcategory": "▷ DNS Providers",
+    "domain": "dns.sb",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -96701,6 +96668,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠YumeZone",
+    "url": "https://yumezone.live/manga/",
+    "description": "Multi-Site Manga Aggregator",
+    "category": "reading",
+    "subcategory": "▷ Manga",
+    "domain": "yumezone.live",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cubari Proxy",
     "url": "https://proxy.cubari.moe/",
     "description": "Multi-Site Manga Aggregator / Discord",
@@ -96785,17 +96763,6 @@
     "subcategory": "▷ Manga",
     "domain": "mangahub.io",
     "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠YumeZone",
-    "url": "https://yumezone.live/manga/",
-    "description": "",
-    "category": "reading",
-    "subcategory": "▷ Manga",
-    "domain": "yumezone.live",
-    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -96899,12 +96866,100 @@
     "is_tip": false
   },
   {
-    "title": "Seanime",
-    "url": "https://seanime.app/",
-    "description": "Self-Hosted Manga App / Discord",
+    "title": "AllMangasReader",
+    "url": "https://allmangasreader.com/",
+    "description": "Manga Reader",
     "category": "reading",
-    "subcategory": "▷ Manga",
-    "domain": "seanime.app",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "allmangasreader.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Houdoku",
+    "url": "https://houdoku.org/",
+    "description": "Manga Reader / GitHub",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "houdoku.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Adolla",
+    "url": "https://github.com/AdollaApp/Adolla",
+    "description": "Manga Reader",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "OpenComic",
+    "url": "https://github.com/ollm/OpenComic",
+    "description": "Manga Reader",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Manga-Organizer",
+    "url": "https://gitgud.io/Nagru/Manga-Organizer",
+    "description": "Manga Reader",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "gitgud.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "MangaOnlineViewer",
+    "url": "https://github.com/TagoDR/MangaOnlineViewer",
+    "description": "Manga Reader",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "LANraragi",
+    "url": "https://github.com/Difegue/LANraragi",
+    "description": "Manga Reader",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Unyo",
+    "url": "https://github.com/K3vinb5/Unyo",
+    "description": "Manga Reader",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Manga-Manager",
+    "url": "https://github.com/MangaManagerORG/Manga-Manager",
+    "description": "Manga Manager",
+    "category": "reading",
+    "subcategory": "▷ Manga Readers / Tools",
+    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -96914,19 +96969,8 @@
     "url": "https://openuserjs.org/scripts/anka-213/Webcomic_Reader",
     "description": "Preloads Images, Remembers Progress and Keyboard Support",
     "category": "reading",
-    "subcategory": "▷ Manga",
+    "subcategory": "▷ Manga Readers / Tools",
     "domain": "openuserjs.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Manga-Manager",
-    "url": "https://github.com/MangaManagerORG/Manga-Manager",
-    "description": "Manga Managers",
-    "category": "reading",
-    "subcategory": "▷ Manga",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -105067,116 +105111,6 @@
     "category": "storage",
     "subcategory": "EmulatorJS / NeptunJS",
     "domain": "neogeofun.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Artemis",
-    "url": "https://dns.fuzzing.uk/",
-    "description": "Piracy Site DNS Resolver / GitHub",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "dns.fuzzing.uk",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Unbound",
-    "url": "https://www.nlnetlabs.nl/projects/unbound/",
-    "description": "Self-Hosted, Validating, Recursive, Caching Resolver / GitHub",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "nlnetlabs.nl",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Rethink DNS",
-    "url": "https://rethinkdns.com/configure",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "rethinkdns.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DNSBunker",
-    "url": "https://dnsbunker.org/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "dnsbunker.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "HaGeZi DNS",
-    "url": "https://github.com/hagezi/dns-servers",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DNS for Family",
-    "url": "https://dnsforfamily.com/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "dnsforfamily.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DNS Forge",
-    "url": "https://dnsforge.de/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "dnsforge.de",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Hurricane Electric",
-    "url": "https://dns.he.net/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "dns.he.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "UncensoredDNS",
-    "url": "https://blog.uncensoreddns.org/dns-servers/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "blog.uncensoreddns.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "dns.sb",
-    "url": "https://dns.sb/",
-    "description": "",
-    "category": "storage",
-    "subcategory": "Free DNS Resolvers",
-    "domain": "dns.sb",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115357,13 +115291,13 @@
     "is_tip": false
   },
   {
-    "title": "moanatv.",
-    "url": "https://lfmx.app/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
+    "title": "Movie Night",
+    "url": "https://movienig.ht/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
-    "domain": "lfmx.app",
-    "is_new": false,
+    "domain": "movienig.ht",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115396,7 +115330,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "watched.cx",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115407,6 +115341,17 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "moonflix.website",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Cinema (BZ)",
+    "url": "https://cinema.army/",
+    "description": "Movies / TV / Anime / Auto-Next / Telegram",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "cinema.army",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115451,17 +115396,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "bingr.one",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Cinema (BZ)",
-    "url": "https://cinema.army/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "cinema.army",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115528,28 +115462,6 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "hivex.stream",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Overlook",
-    "url": "https://overlook.cx/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "overlook.cx",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Cineapse",
-    "url": "https://www.cineapse.net/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "cineapse.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115775,13 +115687,24 @@
     "is_tip": false
   },
   {
-    "title": "Streaming Unity",
-    "url": "https://streamingunity.vip/",
-    "description": "Movies / TV / Anime",
+    "title": "Q62",
+    "url": "https://q62flix.ws/",
+    "description": "Movies / TV",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
-    "domain": "streamingunity.vip",
-    "is_new": false,
+    "domain": "q62flix.ws",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "StreamingUnity",
+    "url": "https://streamingunity.fun/",
+    "description": "Movies / TV / Anime / 720p",
+    "category": "video",
+    "subcategory": "▷ Dedicated-Server",
+    "domain": "streamingunity.fun",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115864,12 +115787,12 @@
   },
   {
     "title": "OnionPlay",
-    "url": "https://onionplay.st/",
+    "url": "https://onionplay.ae/",
     "description": "Movies / TV / Anime / Discord",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
-    "domain": "onionplay.st",
-    "is_new": false,
+    "domain": "onionplay.ae",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115880,28 +115803,6 @@
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "showbox.media",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "UniqueStream",
-    "url": "https://uniquestream.net/",
-    "description": "Movies / TV / Anime / 720p",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "uniquestream.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "BFLIX",
-    "url": "https://bbflix.one/",
-    "description": "Movies / TV",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "bbflix.one",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115942,7 +115843,7 @@
   {
     "title": "SubSL",
     "url": "https://subsl.top/",
-    "description": "Movies / TV / 720p / Telegram",
+    "description": "Movies / TV / Telegram",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "subsl.top",
@@ -116985,17 +116886,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Anixo",
-    "url": "https://anixo.online/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "anixo.online",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Senshi",
     "url": "https://senshi.to/",
     "description": "Sub / Dub / Auto-Next",
@@ -117042,7 +116932,7 @@
   {
     "title": "Zanix",
     "url": "https://zanix.tr/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "zanix.tr",
@@ -117130,7 +117020,7 @@
   {
     "title": "⁠AnimoTVSlash",
     "url": "https://animotvslash.org/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animotvslash.org",
@@ -117139,9 +117029,20 @@
     "is_tip": false
   },
   {
+    "title": "⁠2Dhive",
+    "url": "https://2dhive.com/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "2dhive.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠YumeZone",
     "url": "https://yumezone.live/",
-    "description": "Sub / Dub / Auto-Next / Discord",
+    "description": "Hard Subs / Soft Subs / Dub / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "yumezone.live",
@@ -117185,7 +117086,7 @@
   {
     "title": "AnimeDex",
     "url": "https://animedex.fun/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animedex.fun",
@@ -117207,7 +117108,7 @@
   {
     "title": "⁠anv",
     "url": "https://anv.to/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anv.to",
@@ -117218,7 +117119,7 @@
   {
     "title": "Tsukuyomi",
     "url": "https://tsukuyomi.tv/",
-    "description": "Sub / Dub / Discord",
+    "description": "Sub / Dub / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "tsukuyomi.tv",
@@ -117229,7 +117130,7 @@
   {
     "title": "⁠Kyren",
     "url": "https://kyren.moe/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "kyren.moe",
@@ -117262,7 +117163,7 @@
   {
     "title": "⁠WatchAnimeX",
     "url": "https://watchanimez.me/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "watchanimez.me",
@@ -117350,7 +117251,7 @@
   {
     "title": "⁠Zenbu",
     "url": "https://zen-bu.cc/",
-    "description": "Sub / Dub",
+    "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "zen-bu.cc",
@@ -117376,17 +117277,6 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "9animstv.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MultiAnime",
-    "url": "https://multinime.site/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "multinime.site",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118388,7 +118278,7 @@
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "election.run",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119851,7 +119741,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "psa.rip",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120045,7 +119935,7 @@
   {
     "title": "SubSL",
     "url": "https://subsl.top/",
-    "description": "Movies / TV / 360p / Telegram",
+    "description": "Movies / TV / Telegram",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "subsl.top",
