@@ -4059,17 +4059,6 @@
     "is_tip": false
   },
   {
-    "title": "J1 Radio",
-    "url": "https://rec.torontocast.stream/player/",
-    "description": "J-Pop Radio",
-    "category": "audio",
-    "subcategory": "▷ Genre Specific Radio",
-    "domain": "rec.torontocast.stream",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Kobold.FM",
     "url": "https://kobold.messy.quest/",
     "description": "Dungeon Synth & Fantasy Ambient Radio",
@@ -4736,17 +4725,6 @@
     "category": "audio",
     "subcategory": "▷ Audio Ripping Tools",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Mornye",
-    "url": "https://desktop.mornye.com/",
-    "description": "Amazon Music / Qobuz / Tidal / Deezer / GitHub",
-    "category": "audio",
-    "subcategory": "▷ Audio Ripping Tools",
-    "domain": "desktop.mornye.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -6551,7 +6529,7 @@
     "category": "audio",
     "subcategory": "▷ Game Soundtracks",
     "domain": "hasitleaked.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -10159,7 +10137,7 @@
     "category": "developer-tools",
     "subcategory": "▷ API Tools",
     "domain": "renderdoc.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -21324,7 +21302,7 @@
     "category": "educational",
     "subcategory": "▷ Philosophy",
     "domain": "philosophyexperiments.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -27654,6 +27632,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Compend",
+    "url": "https://compend.org/",
+    "description": "Comments / Reviews for Wikipedia Articles",
+    "category": "educational",
+    "subcategory": "▷ Wikipedia Tools",
+    "domain": "compend.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "wik",
     "url": "https://github.com/yashsinghcodes/wik",
     "description": "Wiki TUI",
@@ -30587,6 +30576,17 @@
     "subcategory": "▷ Game Launchers",
     "domain": "kryo.to",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Anker Launcher",
+    "url": "https://ankergames.net/launcher",
+    "description": "Game Launcher / Windows, Linux",
+    "category": "gaming-tools",
+    "subcategory": "▷ Game Launchers",
+    "domain": "ankergames.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -34876,7 +34876,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ MOBA Tools",
     "domain": "aramkit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36923,6 +36923,17 @@
     "subcategory": "General",
     "domain": "elenemigos.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Arkona",
+    "url": "https://arkona.dev/",
+    "description": "Download",
+    "category": "gaming",
+    "subcategory": "General",
+    "domain": "arkona.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -39107,7 +39118,7 @@
   {
     "title": "nswvault",
     "url": "https://nswvault.com/",
-    "description": "ROMs / Switch",
+    "description": "ROMs / Switch / Avoid Fake Download Buttons",
     "category": "gaming",
     "subcategory": "▷ Nintendo ROMs",
     "domain": "nswvault.com",
@@ -48807,6 +48818,17 @@
     "is_tip": false
   },
   {
+    "title": "Lutim",
+    "url": "https://lutim.ggc-project.de/",
+    "description": "Forever",
+    "category": "image-tools",
+    "subcategory": "▷ Image Hosts",
+    "domain": "lutim.ggc-project.de",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Img Fish",
     "url": "https://img.fish/",
     "description": "95MB / Forever",
@@ -49577,17 +49599,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Fluxer",
-    "url": "https://fluxer.app/",
-    "description": "Communication Platform / Discord Alt / Servers / Bots / Servers / Bots / Tools / Resources, 2 / Windows, macOS, Linux, Web",
-    "category": "internet-tools",
-    "subcategory": "▷ Chat Tools",
-    "domain": "fluxer.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Valour",
     "url": "https://valour.gg/",
     "description": "Communication Platform / Discord Alt / Windows, Linux, Android, Web / GitHub",
@@ -49606,6 +49617,17 @@
     "subcategory": "▷ Chat Tools",
     "domain": "miranda-ng.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Stoat",
+    "url": "https://stoat.chat/",
+    "description": "Communication Platform / Discord Alt / All Platforms / Bots / Resources",
+    "category": "internet-tools",
+    "subcategory": "▷ Chat Tools",
+    "domain": "stoat.chat",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -53676,6 +53698,17 @@
     "subcategory": "▷ Chrome Extensions",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Country Flag Fixer",
+    "url": "https://github.com/matthijs110/chromium-country-flags/",
+    "description": "Fix Browser Flag Emojis",
+    "category": "internet-tools",
+    "subcategory": "▷ Chrome Extensions",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -58047,17 +58080,6 @@
     "is_tip": false
   },
   {
-    "title": "ProperTree",
-    "url": "https://github.com/corpnewt/ProperTree",
-    "description": "GUI Plist Editor",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Themes",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Does It Arm?",
     "url": "https://doesitarm.com/",
     "description": "Apple Silicon App Compatibility Chart",
@@ -59077,6 +59099,28 @@
     "subcategory": "▷ System Tools",
     "domain": "pilotmoon.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ProperTree",
+    "url": "https://github.com/corpnewt/ProperTree",
+    "description": "GUI Plist Editor",
+    "category": "linux-macos",
+    "subcategory": "▷ System Tools",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "macOS defaults",
+    "url": "https://macos-defaults.com/",
+    "description": "macOS defaults Commands List / GitHub",
+    "category": "linux-macos",
+    "subcategory": "▷ System Tools",
+    "domain": "macos-defaults.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -66226,7 +66270,7 @@
     "category": "misc",
     "subcategory": "▷ Crypto",
     "domain": "redrecs.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -67964,7 +68008,7 @@
     "category": "misc",
     "subcategory": "▷ Productivity / Time Tracking",
     "domain": "projectkarma.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -70378,6 +70422,17 @@
     "is_tip": false
   },
   {
+    "title": "PoliticalTests",
+    "url": "https://politicaltests.github.io/",
+    "description": "Political Alignment Tests",
+    "category": "misc",
+    "subcategory": "▷ Interesting",
+    "domain": "politicaltests.github.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Emoji to Scale",
     "url": "https://javier.xyz/emoji-to-scale/",
     "description": "Emoji Size Scale",
@@ -71088,7 +71143,7 @@
     "category": "misc",
     "subcategory": "▷ Random",
     "domain": "experiments.withgoogle.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72001,7 +72056,7 @@
     "category": "mobile",
     "subcategory": "▷ App Launchers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72221,17 +72276,6 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "fedilab.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Fluxer",
-    "url": "https://github.com/fluxerapp/flutter_client",
-    "description": "⁠Fluxer Client",
-    "category": "mobile",
-    "subcategory": "▷ Social Media Apps",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -72937,6 +72981,17 @@
     "subcategory": "▷ Root / Flash",
     "domain": "xdaforums.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠GhostLock",
+    "url": "https://github.com/YuKongA/ghostlock-app",
+    "description": "One-Tap Temp Root",
+    "category": "mobile",
+    "subcategory": "▷ Root / Flash",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -78298,6 +78353,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Shrubify",
+    "url": "https://shrubify.pages.dev/",
+    "description": "Spotify / Ad-Free / Sideloaded / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ Social Media Apps",
+    "domain": "shrubify.pages.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Vitrine",
     "url": "https://github.com/My-Name-Is-Jeff/vitrine",
     "description": "Spotify / Ad-Free / Sideloaded",
@@ -79151,7 +79217,7 @@
     "category": "non-english",
     "subcategory": "▷ Downloading / تحميل",
     "domain": "topcinemaa.vip",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79217,7 +79283,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / البث",
     "domain": "topcinemaa.vip",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -82297,7 +82363,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "dulourd.boo",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -83166,28 +83232,6 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "aniworld.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FireAnime",
-    "url": "https://fireani.me/",
-    "description": "Anime / Sub",
-    "category": "non-english",
-    "subcategory": "▷ Streaming",
-    "domain": "fireani.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Fireani",
-    "url": "https://fireani.me/app",
-    "description": "Anime Android App",
-    "category": "non-english",
-    "subcategory": "▷ Streaming",
-    "domain": "fireani.me",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -85756,17 +85800,6 @@
     "is_tip": false
   },
   {
-    "title": "NAVER",
-    "url": "https://www.naver.com/",
-    "description": "Search",
-    "category": "non-english",
-    "subcategory": "▷ Reading / 読書",
-    "domain": "naver.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Free Korean Fonts",
     "url": "https://www.freekoreanfont.com/",
     "description": "Korean Fonts",
@@ -85883,17 +85916,6 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "chzzk.naver.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Naver",
-    "url": "https://tv.naver.com/",
-    "description": "",
-    "category": "non-english",
-    "subcategory": "▷ Streaming",
-    "domain": "tv.naver.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -90013,17 +90035,6 @@
     "is_tip": false
   },
   {
-    "title": "Tlnovelas",
-    "url": "https://tlnovelas.net/",
-    "description": "TV / Drama",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / Streamear",
-    "domain": "tlnovelas.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Series Peruanas",
     "url": "https://seriesperu.com/",
     "description": "TV / Drama",
@@ -92318,7 +92329,7 @@
     "category": "privacy",
     "subcategory": "▷ DNS Providers",
     "domain": "adguard-dns.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92362,7 +92373,7 @@
     "category": "privacy",
     "subcategory": "▷ DNS Providers",
     "domain": "controld.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -93539,7 +93550,7 @@
     "category": "privacy",
     "subcategory": "▷ Fingerprinting / Tracking",
     "domain": "urlcleaner.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94712,7 +94723,7 @@
   {
     "title": "Foxit",
     "url": "https://www.foxit.com/pdf-reader/",
-    "description": "PDF Reader / All Platforms / Features(search) / Warning",
+    "description": "PDF Reader / All Platforms / Features (search) / Warning",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "foxit.com",
@@ -101250,7 +101261,7 @@
     "category": "social-media-tools",
     "subcategory": "General",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105848,7 +105859,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "searx.fmhy.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105859,7 +105870,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "search.fuckoffgoogle.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105870,7 +105881,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "searx.neocities.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105881,7 +105892,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "monocles.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105892,7 +105903,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "searx.oloke.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105903,7 +105914,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "searxng.canine.tools",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105914,7 +105925,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "searloc.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105925,7 +105936,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "search.mdosch.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105936,7 +105947,7 @@
     "category": "storage",
     "subcategory": "Searx Instances",
     "domain": "gruble.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -106250,12 +106261,12 @@
   },
   {
     "title": "yasb",
-    "url": "https://github.com/amnweb/yasb",
-    "description": "Tweaked Taskbar",
+    "url": "https://yasb.dev/",
+    "description": "Tweaked Taskbar / GitHub",
     "category": "system-tools",
     "subcategory": "▷ System Tweaks",
-    "domain": "github.com",
-    "is_new": false,
+    "domain": "yasb.dev",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -108251,6 +108262,17 @@
     "is_tip": false
   },
   {
+    "title": "Hue Design",
+    "url": "https://perfecthue.com/",
+    "description": "Hand-Made Frutiger Aero Wallpapers ⁠Perfect",
+    "category": "system-tools",
+    "subcategory": "▷ Wallpapers",
+    "domain": "perfecthue.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Frutiger Aero Archive",
     "url": "https://frutigeraeroarchive.org/",
     "description": "2000s Style Wallpapers",
@@ -109703,17 +109725,6 @@
     "is_tip": false
   },
   {
-    "title": "Microsoft Whiteboard",
-    "url": "https://apps.microsoft.com/detail/9MSPC6MP8FM4",
-    "description": "Whiteboard",
-    "category": "text-tools",
-    "subcategory": "▷ Whiteboards / Handwritten",
-    "domain": "apps.microsoft.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "WBO",
     "url": "https://wbo.ophir.dev/",
     "description": "Whiteboard",
@@ -111062,7 +111073,7 @@
     "category": "text-tools",
     "subcategory": "▷ Markdown Editors",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111969,6 +111980,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Fonti",
+    "url": "https://fonti.cool/",
+    "description": "",
+    "category": "text-tools",
+    "subcategory": "▷ Unicode Text Generators",
+    "domain": "fonti.cool",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Aesthetic Font Generator",
     "url": "https://www.tesms.net/",
     "description": "",
@@ -112145,17 +112167,6 @@
     "is_tip": false
   },
   {
-    "title": "DaMagNet",
-    "url": "https://damag.net/",
-    "description": "DHT-Based",
-    "category": "torrenting",
-    "subcategory": "▷ Aggregators",
-    "domain": "damag.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "BT4G",
     "url": "https://bt4gprx.com/",
     "description": "",
@@ -112167,12 +112178,34 @@
     "is_tip": false
   },
   {
+    "title": "BTDigg",
+    "url": "https://btdig.com/",
+    "description": "",
+    "category": "torrenting",
+    "subcategory": "▷ Aggregators",
+    "domain": "btdig.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "FileMood",
     "url": "https://filemood.com/",
     "description": "",
     "category": "torrenting",
     "subcategory": "▷ Aggregators",
     "domain": "filemood.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "DaMagNet",
+    "url": "https://damag.net/",
+    "description": "DHT-Based",
+    "category": "torrenting",
+    "subcategory": "▷ Aggregators",
+    "domain": "damag.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115632,6 +115665,17 @@
     "is_tip": false
   },
   {
+    "title": "4Movie",
+    "url": "https://4movie.in/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "4movie.in",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "VaultPlayer",
     "url": "https://vaultplayer.co.uk/",
     "description": "Movies / TV / Auto-Next",
@@ -115676,13 +115720,13 @@
     "is_tip": false
   },
   {
-    "title": "All You Can Watch",
-    "url": "https://allyoucanwatch.net/",
-    "description": "Movies / TV / Anime / Telegram / Discord",
+    "title": "Sleepy",
+    "url": "https://sleepy.lat/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
-    "domain": "allyoucanwatch.net",
-    "is_new": false,
+    "domain": "sleepy.lat",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115753,23 +115797,34 @@
     "is_tip": false
   },
   {
-    "title": "Youplex",
-    "url": "https://youplex.site/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "youplex.site",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Zoryva X",
     "url": "https://zoryva.me/",
     "description": "Movies / TV / Anime",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "zoryva.me",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Kofi",
+    "url": "https://kofi.mov/",
+    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "kofi.mov",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Nxsha",
+    "url": "https://web.nxsha.app/",
+    "description": "Movies / TV / Anime / Telegram",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "web.nxsha.app",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115786,12 +115841,12 @@
     "is_tip": false
   },
   {
-    "title": "Kofi",
-    "url": "https://kofi.mov/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "title": "Youplex",
+    "url": "https://youplex.site/",
+    "description": "Movies / TV / Anime / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
-    "domain": "kofi.mov",
+    "domain": "youplex.site",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115819,17 +115874,6 @@
     "is_tip": false
   },
   {
-    "title": "Nxsha",
-    "url": "https://web.nxsha.app/",
-    "description": "Movies / TV / Anime / Telegram",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "web.nxsha.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Cinefork",
     "url": "https://cinefork.net/",
     "description": "Movies / TV / Anime / Auto-Next",
@@ -115847,17 +115891,6 @@
     "category": "video",
     "subcategory": "▷ P-Stream Forks",
     "domain": "fmfau.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "peestream",
-    "url": "https://peestream.in/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ P-Stream Forks",
-    "domain": "peestream.in",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -115892,6 +115925,17 @@
     "subcategory": "▷ Dedicated-Server",
     "domain": "flixtrz.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "CyberMovies",
+    "url": "https://cybermovies.ru/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Dedicated-Server",
+    "domain": "cybermovies.ru",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -116061,17 +116105,6 @@
     "is_tip": false
   },
   {
-    "title": "CineWave",
-    "url": "https://watch.cinewave.qzz.io/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "watch.cinewave.qzz.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Youflex",
     "url": "https://youflex.top/",
     "description": "Movies / TV / Anime",
@@ -116083,12 +116116,34 @@
     "is_tip": false
   },
   {
-    "title": "KaitoVault",
-    "url": "https://kaitotv.com/",
-    "description": "Movies / TV / Anime / Discord",
+    "title": "CandleStream",
+    "url": "https://candlestream.xyz/#home",
+    "description": "Movies / TV / Anime / Auto-Next",
     "category": "video",
     "subcategory": "▷ Multi-Server",
-    "domain": "kaitotv.com",
+    "domain": "candlestream.xyz",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Fireflix",
+    "url": "https://fireflix4.pages.dev/",
+    "description": "Movies / TV / Anime / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "fireflix4.pages.dev",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Heartive",
+    "url": "https://heartiveplaystv.pages.dev/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "heartiveplaystv.pages.dev",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116100,17 +116155,6 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "flyflix.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CandleStream",
-    "url": "https://candlestream.xyz/#home",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "candlestream.xyz",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116138,17 +116182,6 @@
     "is_tip": false
   },
   {
-    "title": "Heartive",
-    "url": "https://heartiveplaystv.pages.dev/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "heartiveplaystv.pages.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ONOFLIX",
     "url": "https://onoflix.live/",
     "description": "Movies / TV / Anime / Discord",
@@ -116171,6 +116204,28 @@
     "is_tip": false
   },
   {
+    "title": "Snowstream",
+    "url": "https://snowstream.vercel.app/",
+    "description": "Movies / TV / Anime / Telegram",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "snowstream.vercel.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "CineNest",
+    "url": "https://cine-nest-nine.vercel.app/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "cine-nest-nine.vercel.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Pawflix",
     "url": "https://pawflix.foo.ng/",
     "description": "Movies / TV / Anime / Invite",
@@ -116188,6 +116243,39 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "cinebytv.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "MilkBox",
+    "url": "https://milkbox.fyi/",
+    "description": "Movies / TV / Anime / Discord",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "milkbox.fyi",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "FishyStream",
+    "url": "https://fishystream-app.pages.dev/",
+    "description": "Movies / TV / Anime / GitHub",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "fishystream-app.pages.dev",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "DuaFile",
+    "url": "https://download.duafile.com/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "download.duafile.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116226,67 +116314,12 @@
     "is_tip": false
   },
   {
-    "title": "Zerostream",
-    "url": "https://zerostream.alwaysdata.net/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "zerostream.alwaysdata.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FishyStream",
-    "url": "https://fishystream-app.pages.dev/",
-    "description": "Movies / TV / Anime / GitHub",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "fishystream-app.pages.dev",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Snowstream",
-    "url": "https://snowstream.vercel.app/",
-    "description": "Movies / TV / Anime / Telegram",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "snowstream.vercel.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "WatchOrbit",
     "url": "https://watchorbit.me/",
     "description": "Movies / TV / Anime",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "watchorbit.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CineNest",
-    "url": "https://cine-nest-nine.vercel.app/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "cine-nest-nine.vercel.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DuaFile",
-    "url": "https://download.duafile.com/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "download.duafile.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116303,23 +116336,23 @@
     "is_tip": false
   },
   {
-    "title": "FluxFusion",
-    "url": "https://flixfusion.cyou/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "flixfusion.cyou",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Warflix",
     "url": "https://warflix.im/",
     "description": "Movies / TV / Anime / Mirrors / Telegram / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "warflix.im",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "FlixFusion",
+    "url": "https://flixfusion.cyou/",
+    "description": "Movies / TV / Anime",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "flixfusion.cyou",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116699,17 +116732,6 @@
     "is_tip": false
   },
   {
-    "title": "Naver",
-    "url": "https://tv.naver.com/",
-    "description": "",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "tv.naver.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ultimedia",
     "url": "https://www.ultimedia.com/",
     "description": "",
@@ -116743,198 +116765,11 @@
     "is_tip": false
   },
   {
-    "title": "⁠SkyStream",
-    "url": "https://github.com/akashdh11/skystream",
-    "description": "Streaming App / Extension-Based / Windows, macOS, Linux / Discord",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠FlyStream",
-    "url": "https://flystream.net/apps",
-    "description": "Streaming App / Windows, macOS, Linux / Discord",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "flystream.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Atlas",
-    "url": "https://atlas.hls.lol/",
-    "description": "Streaming App / Windows",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "atlas.hls.lol",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Vega-Desktop",
-    "url": "https://github.com/vega-org/vega-desktop",
-    "description": "Streaming App / Windows, macOS, Linux",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Showberry",
-    "url": "https://github.com/Dackerie/showberry",
-    "description": "Streaming App / Windows, macOS, Linux",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠WatchWave",
-    "url": "https://watchwave.pro/",
-    "description": "Streaming App / Download in Top Right / Windows",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "watchwave.pro",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠AIOStreams",
-    "url": "https://docs.aiostreams.viren070.me/apps/",
-    "description": "Streaming App / Debrid or Usenet Required / Windows, macOS, Linux",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "docs.aiostreams.viren070.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "mov-cli",
-    "url": "https://mov-cli.github.io/",
-    "description": "Streaming CLI / Plugins / Windows, macOS, Linux / Discord / GitHub",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "mov-cli.github.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Gir Society",
-    "url": "https://discord.gg/WHxeZ3aTtb",
-    "description": "Plex + Jellyfin Public Playlist / Windows, macOS, Linux",
-    "category": "video",
-    "subcategory": "▷ Video Streaming",
-    "domain": "discord.gg",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Seanime",
-    "url": "https://seanime.app/",
-    "description": "Anime Streaming App / Windows, macOS, Linux / Discord / GitHub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "seanime.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "AnymeX",
-    "url": "https://anymex.vercel.app/",
-    "description": "Anime Streaming App / Extension Guide / Windows, macOS, Linux / GitHub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "anymex.vercel.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Anikin",
-    "url": "https://github.com/jerry08/Anikin",
-    "description": "Anime Streaming App / Windows / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Mizuki",
-    "url": "http://mizuki.to/",
-    "description": "Anime Streaming App / Windows, macOS, Linux / GitHub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "mizuki.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Unyo",
-    "url": "https://github.com/K3vinb5/Unyo",
-    "description": "Anime Streaming App / Windows, macOS, Linux",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Tatakai",
-    "url": "https://tatakai.me/",
-    "description": "Anime Streaming App / Extension-Based / Windows, macOS, Linux / Discord / GitHub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "tatakai.me",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Miru",
-    "url": "https://miru.js.org/en/",
-    "description": "Anime Streaming App / Windows, macOS, Linux / Telegram / GitHub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "miru.js.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ani-cli",
-    "url": "https://github.com/pystardust/ani-cli",
-    "description": "Anime Streaming CLI / Windows, macOS, Linux",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming Apps",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Interactive Player",
     "url": "https://github.com/Eveep23/Interactive-Player",
     "description": "Interactive Content Player / Emulator / Archive / Discord",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -116945,7 +116780,7 @@
     "url": "https://www.li-ma.nl/",
     "description": "Short / Experimental Films",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "li-ma.nl",
     "is_new": false,
     "is_broken": false,
@@ -116956,7 +116791,7 @@
     "url": "https://lightcone.org/en",
     "description": "Short / Experimental Films",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "lightcone.org",
     "is_new": false,
     "is_broken": false,
@@ -116967,7 +116802,7 @@
     "url": "https://www.lecinemaclub.com/",
     "description": "Hand-Picked Indie Films / Archive",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "lecinemaclub.com",
     "is_new": false,
     "is_broken": false,
@@ -116978,7 +116813,7 @@
     "url": "https://www.panix.com/~hamiltro/links/",
     "description": "Experimental Films",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "panix.com",
     "is_new": false,
     "is_broken": false,
@@ -116989,7 +116824,7 @@
     "url": "https://zero1cine.com/",
     "description": "AI Generated Films",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "zero1cine.com",
     "is_new": false,
     "is_broken": false,
@@ -117000,7 +116835,7 @@
     "url": "https://www.homemovies100.it/en/",
     "description": "Home Movies",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "homemovies100.it",
     "is_new": false,
     "is_broken": false,
@@ -117011,7 +116846,7 @@
     "url": "https://www.panix.com/~footage/",
     "description": "Ephemeral Films / Archive",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "panix.com",
     "is_new": false,
     "is_broken": false,
@@ -117022,7 +116857,7 @@
     "url": "https://rentry.co/FMHYB64#3dsm",
     "description": "3D Movies for 3DS Handhelds",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "rentry.co",
     "is_new": false,
     "is_broken": false,
@@ -117033,7 +116868,7 @@
     "url": "https://globalshakespeares.mit.edu/",
     "description": "Shakespeare Performance Recordings",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "globalshakespeares.mit.edu",
     "is_new": false,
     "is_broken": false,
@@ -117044,7 +116879,7 @@
     "url": "https://www.youtube.com/@moviecommentaries",
     "description": "Movie / TV Director Commentaries",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "youtube.com",
     "is_new": false,
     "is_broken": false,
@@ -117055,7 +116890,7 @@
     "url": "https://audiovault.net/",
     "description": "Descriptive Audio for Blind Users",
     "category": "video",
-    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
+    "subcategory": "▷ Video Streaming",
     "domain": "audiovault.net",
     "is_new": false,
     "is_broken": false,
@@ -117068,28 +116903,6 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "lunarx.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Yenime",
-    "url": "https://yenime.net/",
-    "description": "Sub / Dub / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "yenime.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Senshi",
-    "url": "https://senshi.to/",
-    "description": "Sub / Dub / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "senshi.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117194,6 +117007,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠YumeZone",
+    "url": "https://yumezone.live/",
+    "description": "Hard Subs / Soft Subs / Dub / Auto-Next / Discord",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "yumezone.live",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Anime Nexus",
     "url": "https://anime.nexus/",
     "description": "Sub / Dub / Auto-Next / Discord",
@@ -117238,17 +117062,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠YumeZone",
-    "url": "https://yumezone.live/",
-    "description": "Hard Subs / Soft Subs / Dub / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "yumezone.live",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Anikura",
     "url": "https://anikura.club/",
     "description": "Sub / Dub / X / Telegram",
@@ -117260,34 +117073,12 @@
     "is_tip": false
   },
   {
-    "title": "⁠Aniclover",
-    "url": "https://aniclover.cc/",
-    "description": "Sub / Dub",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "aniclover.cc",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "AnimeParadise",
     "url": "https://www.animeparadise.moe/",
     "description": "Sub / Dub / Discord",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animeparadise.moe",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "AnimeDex",
-    "url": "https://animedex.fun/",
-    "description": "Sub / Dub / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "animedex.fun",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117337,6 +117128,28 @@
     "is_tip": false
   },
   {
+    "title": "⁠WatchAnimeX",
+    "url": "https://watchanimez.me/",
+    "description": "Sub / Dub / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "watchanimez.me",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Yenime",
+    "url": "https://yenime.net/",
+    "description": "Sub / Dub / Discord",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "yenime.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Shonen",
     "url": "https://shonen.to/",
     "description": "Sub / Dub / Auto-Next",
@@ -117359,12 +117172,23 @@
     "is_tip": false
   },
   {
-    "title": "⁠WatchAnimeX",
-    "url": "https://watchanimez.me/",
+    "title": "⁠Aniclover",
+    "url": "https://aniclover.cc/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "aniclover.cc",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "AnimeDex",
+    "url": "https://animedex.fun/",
     "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
-    "domain": "watchanimez.me",
+    "domain": "animedex.fun",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118273,12 +118097,12 @@
   },
   {
     "title": "Cinevid",
-    "url": "https://cinevid.st/channels",
-    "description": "TV / Sports",
+    "url": "https://cinevid.sbs/channels",
+    "description": "TV / Sports / Status",
     "category": "video",
     "subcategory": "▷ Live TV",
-    "domain": "cinevid.st",
-    "is_new": false,
+    "domain": "cinevid.sbs",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -118393,17 +118217,6 @@
     "is_tip": false
   },
   {
-    "title": "Zerostream",
-    "url": "https://zerostream.alwaysdata.net/",
-    "description": "TV",
-    "category": "video",
-    "subcategory": "▷ Live TV",
-    "domain": "zerostream.alwaysdata.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Global Free TV",
     "url": "https://www.globalfreetv.com/",
     "description": "TV / Discord",
@@ -118503,17 +118316,6 @@
     "is_tip": false
   },
   {
-    "title": "Cinevid",
-    "url": "https://cinevid.st/events",
-    "description": "",
-    "category": "video",
-    "subcategory": "▷ Live Sports",
-    "domain": "cinevid.st",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "LiveTV",
     "url": "https://livetv.sx/enx/",
     "description": "",
@@ -118553,17 +118355,6 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "matchora.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Stability",
-    "url": "https://stability.taxidev.me/",
-    "description": "",
-    "category": "video",
-    "subcategory": "▷ Live Sports",
-    "domain": "stability.taxidev.me",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -119472,12 +119263,12 @@
   },
   {
     "title": "PSArips",
-    "url": "https://psa.rip/",
+    "url": "https://psarips.com/",
     "description": "Movies / TV / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ IPTV Players",
-    "domain": "psa.rip",
-    "is_new": false,
+    "domain": "psarips.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -120021,11 +119812,198 @@
     "is_tip": false
   },
   {
+    "title": "⁠SkyStream",
+    "url": "https://github.com/akashdh11/skystream",
+    "description": "Streaming App / Extension-Based / Windows, macOS, Linux / Discord",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠FlyStream",
+    "url": "https://flystream.net/apps",
+    "description": "Streaming App / Windows, macOS, Linux / Discord",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "flystream.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Atlas",
+    "url": "https://atlas.hls.lol/",
+    "description": "Streaming App / Windows",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "atlas.hls.lol",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Vega-Desktop",
+    "url": "https://github.com/vega-org/vega-desktop",
+    "description": "Streaming App / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Showberry",
+    "url": "https://github.com/Dackerie/showberry",
+    "description": "Streaming App / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠WatchWave",
+    "url": "https://watchwave.pro/",
+    "description": "Streaming App / Download in Top Right / Windows",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "watchwave.pro",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠AIOStreams",
+    "url": "https://docs.aiostreams.viren070.me/apps/",
+    "description": "Streaming App / Debrid or Usenet Required / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "docs.aiostreams.viren070.me",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "mov-cli",
+    "url": "https://mov-cli.github.io/",
+    "description": "Streaming CLI / Plugins / Windows, macOS, Linux / Discord / GitHub",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "mov-cli.github.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Gir Society",
+    "url": "https://discord.gg/WHxeZ3aTtb",
+    "description": "Plex + Jellyfin Public Playlist / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "domain": "discord.gg",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Seanime",
+    "url": "https://seanime.app/",
+    "description": "Anime Streaming App / Windows, macOS, Linux / Discord / GitHub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "seanime.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "AnymeX",
+    "url": "https://anymex.vercel.app/",
+    "description": "Anime Streaming App / Extension Guide / Windows, macOS, Linux / GitHub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "anymex.vercel.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Anikin",
+    "url": "https://github.com/jerry08/Anikin",
+    "description": "Anime Streaming App / Windows / Discord",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Mizuki",
+    "url": "http://mizuki.to/",
+    "description": "Anime Streaming App / Windows, macOS, Linux / GitHub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "mizuki.to",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Unyo",
+    "url": "https://github.com/K3vinb5/Unyo",
+    "description": "Anime Streaming App / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Tatakai",
+    "url": "https://tatakai.me/",
+    "description": "Anime Streaming App / Extension-Based / Windows, macOS, Linux / Discord / GitHub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "tatakai.me",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Miru",
+    "url": "https://miru.js.org/en/",
+    "description": "Anime Streaming App / Windows, macOS, Linux / Telegram / GitHub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "miru.js.org",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ani-cli",
+    "url": "https://github.com/pystardust/ani-cli",
+    "description": "Anime Streaming CLI / Windows, macOS, Linux",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming Apps",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Wyzie Subs",
     "url": "https://sub.wyzie.io/",
     "description": "Subtitle Scraping API / Setup / Plugins / NPM Package / Docs",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "sub.wyzie.io",
     "is_new": false,
     "is_broken": false,
@@ -120036,7 +120014,7 @@
     "url": "https://github.com/RandomNinjaAtk/arr-scripts/",
     "description": "Torrent App Automation Scripts",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -120047,7 +120025,7 @@
     "url": "https://github.com/autobrr/autobrr",
     "description": "Autodownload Movie Torrents",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -120058,7 +120036,7 @@
     "url": "https://sportarr.net/",
     "description": "Sports PVR for Torrents + Usenet / Discord / GitHub",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "sportarr.net",
     "is_new": false,
     "is_broken": false,
@@ -120069,7 +120047,7 @@
     "url": "https://powder.media/",
     "description": "Torrent Streaming App",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "powder.media",
     "is_new": false,
     "is_broken": false,
@@ -120080,7 +120058,7 @@
     "url": "https://acestream.org/",
     "description": "Torrent Streaming App / Channels / Modded APK (search) / Docker Image / Mpv Script",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "acestream.org",
     "is_new": false,
     "is_broken": false,
@@ -120091,7 +120069,7 @@
     "url": "https://webtorrent.io/",
     "description": "Torrent Streaming App / GitHub",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "webtorrent.io",
     "is_new": false,
     "is_broken": false,
@@ -120102,7 +120080,7 @@
     "url": "https://wiztorrent.com/",
     "description": "Torrent Streaming App",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "wiztorrent.com",
     "is_new": false,
     "is_broken": false,
@@ -120113,7 +120091,7 @@
     "url": "https://github.com/chwair/magnolia",
     "description": "Torrent Streaming App",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -120124,7 +120102,7 @@
     "url": "https://github.com/akashdh11/skystream",
     "description": "Torrent Streaming App / Stremio Addon Support / Discord",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -120135,7 +120113,7 @@
     "url": "https://github.com/ikatson/rqbit/",
     "description": "Torrent Streaming App / UPnP Integration",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -120146,7 +120124,7 @@
     "url": "https://torlink.bairon.dev/",
     "description": "Torrent Search + Download CLI / GitHub",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "torlink.bairon.dev",
     "is_new": false,
     "is_broken": false,
@@ -120157,7 +120135,7 @@
     "url": "https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension",
     "description": "Sonarr/Radarr/Lidarr Autosearch Extension",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
@@ -120168,7 +120146,7 @@
     "url": "https://unpackerr.zip/",
     "description": "Automated Archive Extraction",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "unpackerr.zip",
     "is_new": false,
     "is_broken": false,
@@ -120179,7 +120157,7 @@
     "url": "https://github.com/mrxdst/webtorrent-mpv-hook",
     "description": "Stream Torrents in MPV",
     "category": "video",
-    "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
+    "subcategory": "▷ [iOS Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_streaming)",
     "domain": "github.com",
     "is_new": false,
     "is_broken": false,
