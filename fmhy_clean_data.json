@@ -27638,7 +27638,7 @@
     "category": "educational",
     "subcategory": "▷ Wikipedia Tools",
     "domain": "compend.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -30586,7 +30586,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Game Launchers",
     "domain": "ankergames.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36933,7 +36933,7 @@
     "category": "gaming",
     "subcategory": "General",
     "domain": "arkona.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -48824,7 +48824,7 @@
     "category": "image-tools",
     "subcategory": "▷ Image Hosts",
     "domain": "lutim.ggc-project.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -49627,7 +49627,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Chat Tools",
     "domain": "stoat.chat",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -53708,7 +53708,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Chrome Extensions",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -59120,7 +59120,7 @@
     "category": "linux-macos",
     "subcategory": "▷ System Tools",
     "domain": "macos-defaults.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -70428,7 +70428,7 @@
     "category": "misc",
     "subcategory": "▷ Interesting",
     "domain": "politicaltests.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72991,7 +72991,7 @@
     "category": "mobile",
     "subcategory": "▷ Root / Flash",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78359,7 +78359,7 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "shrubify.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94723,7 +94723,7 @@
   {
     "title": "Foxit",
     "url": "https://www.foxit.com/pdf-reader/",
-    "description": "PDF Reader / All Platforms / Features (search) / Warning",
+    "description": "PDF Reader / All Platforms / Features(search) / Warning",
     "category": "reading",
     "subcategory": "▷ Ebook Readers",
     "domain": "foxit.com",
@@ -101101,6 +101101,28 @@
     "is_tip": false
   },
   {
+    "title": "Pangu7",
+    "url": "https://ios.cfw.guide/installing-pangu7/",
+    "description": "Test warning icon / Warning",
+    "category": "sandbox",
+    "subcategory": "Critical note test",
+    "domain": "ios.cfw.guide",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Buster",
+    "url": "https://github.com/dessant/buster",
+    "description": "Test non-critical tooltip / Note",
+    "category": "sandbox",
+    "subcategory": "Critical note test",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Numblr",
     "url": "https://github.com/heyLu/numblr",
     "description": "Self-Hosted Frontend Redirect",
@@ -106266,7 +106288,7 @@
     "category": "system-tools",
     "subcategory": "▷ System Tweaks",
     "domain": "yasb.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -108268,7 +108290,7 @@
     "category": "system-tools",
     "subcategory": "▷ Wallpapers",
     "domain": "perfecthue.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -111986,7 +112008,7 @@
     "category": "text-tools",
     "subcategory": "▷ Unicode Text Generators",
     "domain": "fonti.cool",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -112184,7 +112206,7 @@
     "category": "torrenting",
     "subcategory": "▷ Aggregators",
     "domain": "btdig.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115671,7 +115693,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "4movie.in",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115726,7 +115748,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "sleepy.lat",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115935,7 +115957,7 @@
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "cybermovies.ru",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116133,7 +116155,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "fireflix4.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116254,7 +116276,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "milkbox.fyi",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118102,7 +118124,7 @@
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "cinevid.sbs",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119268,7 +119290,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "psarips.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
