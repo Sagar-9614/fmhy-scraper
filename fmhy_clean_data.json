@@ -596,7 +596,7 @@
   {
     "title": "AnythingLLM",
     "url": "https://anythingllm.com/",
-    "description": "Desktop App / Discord / GitHub",
+    "description": "Desktop App / GitHub",
     "category": "ai",
     "subcategory": "▷ Local AI Frontends",
     "domain": "anythingllm.com",
@@ -6760,17 +6760,6 @@
     "category": "audio",
     "subcategory": "▷ Curated Recommendations",
     "domain": "reddit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Talk Classical List",
-    "url": "https://talkclassical-list.github.io/",
-    "description": "Classical Music Recommendations / Spotify Playlist",
-    "category": "audio",
-    "subcategory": "▷ Curated Recommendations",
-    "domain": "talkclassical-list.github.io",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -13376,17 +13365,6 @@
     "is_tip": false
   },
   {
-    "title": "NakerApp",
-    "url": "https://app.naker.io/back/",
-    "description": "Interactive Background Maker",
-    "category": "developer-tools",
-    "subcategory": "▷ Frontend / UI Tools",
-    "domain": "app.naker.io",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "HTTP Cats",
     "url": "https://http.cat/",
     "description": "Put Cat Pictures in Your Status Codes",
@@ -15935,6 +15913,17 @@
     "subcategory": "General",
     "domain": "mediaburn.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠TokyVideo",
+    "url": "https://www.tokyvideo.com/documentaries",
+    "description": "",
+    "category": "educational",
+    "subcategory": "General",
+    "domain": "tokyvideo.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -28734,7 +28723,7 @@
   {
     "title": "⁠PDFKing",
     "url": "https://pdfking.app/",
-    "description": "Client-Side / Discord",
+    "description": "Client-Side",
     "category": "file-tools",
     "subcategory": "▷ Online PDF Toolkits",
     "domain": "pdfking.app",
@@ -29799,6 +29788,17 @@
     "is_tip": false
   },
   {
+    "title": "Send",
+    "url": "https://send.vis.ee/",
+    "description": "2.5GB / 3 Days / 30 Downloads / CLI / Instances",
+    "category": "file-tools",
+    "subcategory": "▷ P2P Transfer",
+    "domain": "send.vis.ee",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠JuiceBox",
     "url": "https://box.juicey.dev/",
     "description": "15GB / 14 Days",
@@ -29849,17 +29849,6 @@
     "category": "file-tools",
     "subcategory": "▷ P2P Transfer",
     "domain": "workupload.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Send",
-    "url": "https://send.vis.ee/",
-    "description": "2.5GB / 3 Days / 10 Downloads / CLI / Instances",
-    "category": "file-tools",
-    "subcategory": "▷ P2P Transfer",
-    "domain": "send.vis.ee",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -37455,17 +37444,6 @@
     "is_tip": false
   },
   {
-    "title": "Ninja Kiwi Archive",
-    "url": "https://ninjakiwi.com/archive",
-    "description": "Ninja Kiwi / Bloons Archive / Subreddit / Discord",
-    "category": "gaming",
-    "subcategory": "▷ Indie Games",
-    "domain": "ninjakiwi.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "C.A.G.E",
     "url": "https://discord.gg/cage",
     "description": "Abandonware / Requires Discord",
@@ -39393,7 +39371,7 @@
   {
     "title": "GFS Catalog",
     "url": "https://catalog.gfs-dlps.workers.dev/",
-    "description": "ROMs / PS5 / Telegram",
+    "description": "ROMs / PS5",
     "category": "gaming",
     "subcategory": "▷ Playstation ROMs",
     "domain": "catalog.gfs-dlps.workers.dev",
@@ -42020,6 +41998,17 @@
     "is_tip": false
   },
   {
+    "title": "Ivy",
+    "url": "https://ivy.rest/",
+    "description": "Browser Games / Ports / Discord",
+    "category": "gaming",
+    "subcategory": "▷ Unblocked Games",
+    "domain": "ivy.rest",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Truffled",
     "url": "https://truffled.lol/g",
     "description": "Browser Games / Ports / Discord",
@@ -42902,7 +42891,7 @@
   {
     "title": "Pixel Run",
     "url": "https://pixelrun.localplayer.dev/",
-    "description": "2D Pixel Runner / Platformer / Discord / GitHub",
+    "description": "2D Pixel Runner / Platformer / Discord",
     "category": "gaming",
     "subcategory": "▷ Platformer",
     "domain": "pixelrun.localplayer.dev",
@@ -51558,12 +51547,12 @@
   },
   {
     "title": "Meru",
-    "url": "https://github.com/timche/meru",
-    "description": "Gmail Desktop Client / Windows, macOS, Linux",
+    "url": "https://meru.so/",
+    "description": "Gmail Desktop Client / Windows, macOS, Linux / GitHub",
     "category": "internet-tools",
     "subcategory": "▷ Email Clients",
-    "domain": "github.com",
-    "is_new": false,
+    "domain": "meru.so",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -52008,17 +51997,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Anon.li",
-    "url": "https://anon.li/",
-    "description": "10 Shared / Catch-All",
-    "category": "internet-tools",
-    "subcategory": "▷ Email Aliasing",
-    "domain": "anon.li",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "addy.io",
     "url": "https://addy.io/",
     "description": "10 Shared / 10MB Monthly Bandwidth / Catch-All / GitHub",
@@ -52047,6 +52025,17 @@
     "category": "internet-tools",
     "subcategory": "▷ Email Aliasing",
     "domain": "33mail.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Anon.li",
+    "url": "https://anon.li/",
+    "description": "10 Shared",
+    "category": "internet-tools",
+    "subcategory": "▷ Email Aliasing",
+    "domain": "anon.li",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -54550,12 +54539,12 @@
   },
   {
     "title": "Social-Media-OSINT",
-    "url": "https://github.com/osintambition/Social-Media-OSINT-Tools-Collection",
+    "url": "https://github.com/SENSEiXENUS/Social-Media-OSINT-Tools-CollectionNow",
     "description": "Social Media Index",
     "category": "internet-tools",
     "subcategory": "▷ OSINT Collections",
     "domain": "github.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -57849,6 +57838,17 @@
     "is_tip": false
   },
   {
+    "title": "Latest",
+    "url": "https://github.com/mangerlahn/latest",
+    "description": "Software Updater",
+    "category": "linux-macos",
+    "subcategory": "▷ Linux Themes",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "OrbStack",
     "url": "https://orbstack.dev/",
     "description": "Docker Client",
@@ -58284,17 +58284,6 @@
     "category": "linux-macos",
     "subcategory": "▷ Software Sites",
     "domain": "sindresorhus.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Latest",
-    "url": "https://github.com/mangerlahn/latest",
-    "description": "Software Updater",
-    "category": "linux-macos",
-    "subcategory": "▷ Software Sites",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -63525,6 +63514,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Watched",
+    "url": "https://www.watched.earth/",
+    "description": "Satellite Location Image History",
+    "category": "misc",
+    "subcategory": "▷ Satellite / Earth Data",
+    "domain": "watched.earth",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Copernicus Browser",
     "url": "https://browser.dataspace.copernicus.eu/",
     "description": "Copernicus Satellite Image Map / Database",
@@ -65395,6 +65395,17 @@
     "is_tip": false
   },
   {
+    "title": "Remote First Jobs",
+    "url": "https://remotefirstjobs.com/",
+    "description": "Remote Jobs",
+    "category": "misc",
+    "subcategory": "▷ Remote Jobs",
+    "domain": "remotefirstjobs.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Remote Jobs",
     "url": "https://remotejobs.com/",
     "description": "Remote Jobs",
@@ -65478,17 +65489,6 @@
     "category": "misc",
     "subcategory": "▷ Remote Jobs",
     "domain": "remoteok.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "JobsCollider",
-    "url": "https://remotefirstjobs.com/",
-    "description": "Remote Jobs",
-    "category": "misc",
-    "subcategory": "▷ Remote Jobs",
-    "domain": "remotefirstjobs.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -76495,12 +76495,12 @@
   },
   {
     "title": "⁠Tatakai",
-    "url": "https://tatakai.me/",
+    "url": "https://tatakai.app/",
     "description": "Extension-Based / Discord / GitHub",
     "category": "mobile",
     "subcategory": "▷ Android Anime",
-    "domain": "tatakai.me",
-    "is_new": false,
+    "domain": "tatakai.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -78377,7 +78377,7 @@
   {
     "title": "⁠Taurus",
     "url": "https://github.com/samj-exe/taurus",
-    "description": "Spotify / Ad-Free / Sideloaded / Discord",
+    "description": "Spotify / Ad-Free / Sideloaded",
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "github.com",
@@ -78838,12 +78838,12 @@
   },
   {
     "title": "⁠Tatakai",
-    "url": "https://tatakai.me/",
+    "url": "https://tatakai.app/",
     "description": "Extension-Based / Discord / GitHub",
     "category": "mobile",
     "subcategory": "▷ iOS Anime",
-    "domain": "tatakai.me",
-    "is_new": false,
+    "domain": "tatakai.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -83129,7 +83129,7 @@
   {
     "title": "flixfilmplus",
     "url": "https://flixfilmplus.de/",
-    "description": "Movies / TV / Anime",
+    "description": "Movies / TV / Anime / Requires Sign-Up",
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "flixfilmplus.de",
@@ -89716,17 +89716,6 @@
     "is_tip": false
   },
   {
-    "title": "Cinubo",
-    "url": "https://cinubo.com/",
-    "description": "Movies / TV / Anime / Signup Required / Status / Telegram / Discord",
-    "category": "non-english",
-    "subcategory": "▷ Streaming / Streamear",
-    "domain": "cinubo.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Tubepelis",
     "url": "https://www.tubepelis.com/",
     "description": "Movies / TV",
@@ -92341,6 +92330,17 @@
     "subcategory": "▷ DNS Providers",
     "domain": "dnsbunker.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Rethink DNS Resolver",
+    "url": "https://rethinkdns.com/configure",
+    "description": "DNS Provider / Mix Multiple Blocklists / Subreddit / Telegram",
+    "category": "privacy",
+    "subcategory": "▷ DNS Providers",
+    "domain": "rethinkdns.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -101118,7 +101118,7 @@
     "category": "sandbox",
     "subcategory": "Critical note test",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -105721,17 +105721,6 @@
     "is_tip": false
   },
   {
-    "title": "Ichigo's Sheet Music",
-    "url": "https://ichigos.com/",
-    "description": "Video Game & Anime Sheet Music",
-    "category": "storage",
-    "subcategory": "Specific Music Sheets",
-    "domain": "ichigos.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "NinSheetMusic",
     "url": "https://www.ninsheetmusic.org/",
     "description": "Video Game Sheet Music",
@@ -106392,7 +106381,7 @@
     "is_tip": false
   },
   {
-    "title": "0Install",
+    "title": "Zero Install",
     "url": "https://0install.net/",
     "description": "Decentralized Cross-Platform Package Manager",
     "category": "system-tools",
@@ -108284,7 +108273,7 @@
     "is_tip": false
   },
   {
-    "title": "Hue Design",
+    "title": "Perfect Hue",
     "url": "https://perfecthue.com/",
     "description": "Hand-Made Frutiger Aero Wallpapers ⁠Perfect",
     "category": "system-tools",
@@ -115544,20 +115533,9 @@
     "is_tip": false
   },
   {
-    "title": "Movie Night",
-    "url": "https://movienig.ht/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "movienig.ht",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "BingeBang",
     "url": "https://bingebang.st/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Status / Discord",
+    "description": "4K / External Subs / Popup + Redirect Free / Status / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "bingebang.st",
@@ -115568,7 +115546,7 @@
   {
     "title": "MovieBite",
     "url": "https://moviebite.org/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
+    "description": "1080p / Ad-Toggle / Telegram / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "moviebite.org",
@@ -115577,20 +115555,9 @@
     "is_tip": false
   },
   {
-    "title": "watched",
-    "url": "https://watched.cx/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "watched.cx",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Koddo",
     "url": "https://koddo.to/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
+    "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "koddo.to",
@@ -115601,7 +115568,7 @@
   {
     "title": "Moonflix",
     "url": "https://moonflix.website/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
+    "description": "1080p / Dual Audio / Popup + Redirect Free / Telegram / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "moonflix.website",
@@ -115612,7 +115579,7 @@
   {
     "title": "Cinema (BZ)",
     "url": "https://cinema.army/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram",
+    "description": "1080p / Dual Audio / Ad-Toggle / Telegram",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cinema.army",
@@ -115623,7 +115590,7 @@
   {
     "title": "Zenox",
     "url": "https://zenox.lol/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
+    "description": "4K / Dual Audio / External Subs / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "zenox.lol",
@@ -115634,7 +115601,7 @@
   {
     "title": "Nexa",
     "url": "https://nexa.mov/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K / Discord",
+    "description": "4K / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "nexa.mov",
@@ -115645,7 +115612,7 @@
   {
     "title": "ThugTV",
     "url": "https://thugtv.online/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram / Discord",
+    "description": "1080p / Dual Audio / Ad-Toggle / Telegram / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "thugtv.online",
@@ -115656,7 +115623,7 @@
   {
     "title": "Bingr",
     "url": "https://bingr.one/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "1080p / Dual Audio / External Subs / Ad-Toggle / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "bingr.one",
@@ -115665,9 +115632,20 @@
     "is_tip": false
   },
   {
+    "title": "watched",
+    "url": "https://watched.cx/",
+    "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "watched.cx",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "RIVO",
     "url": "https://rivo.st/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "1080p / Dual Audio / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "rivo.st",
@@ -115678,7 +115656,7 @@
   {
     "title": "GreyBox",
     "url": "https://greyboxtv.pages.dev/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "1080p / Dual Audio / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "greyboxtv.pages.dev",
@@ -115687,9 +115665,20 @@
     "is_tip": false
   },
   {
+    "title": "Stellar",
+    "url": "https://stellar.rip/",
+    "description": "4K / External Subs / Popup + Redirect Free",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "stellar.rip",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "4Movie",
     "url": "https://4movie.in/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "1080p / Dual Audio / Ad-Toggle",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "4movie.in",
@@ -115700,7 +115689,7 @@
   {
     "title": "VaultPlayer",
     "url": "https://vaultplayer.co.uk/",
-    "description": "Movies / TV / Auto-Next",
+    "description": "1080p / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "vaultplayer.co.uk",
@@ -115711,7 +115700,7 @@
   {
     "title": "VidPlay",
     "url": "https://vidplay.to/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "1080p / External Subs / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "vidplay.to",
@@ -115722,7 +115711,7 @@
   {
     "title": "HiveX",
     "url": "https://hivex.stream/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "4K / Dual Audio / External Subs / Ad-Toggle",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "hivex.stream",
@@ -115731,20 +115720,9 @@
     "is_tip": false
   },
   {
-    "title": "Stellar (rip)",
-    "url": "https://stellar.rip/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "stellar.rip",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Sleepy",
     "url": "https://sleepy.lat/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "4K / External Subs / Pop up + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "sleepy.lat",
@@ -115755,7 +115733,7 @@
   {
     "title": "Willow",
     "url": "https://willowmovies.com/",
-    "description": "Movies / TV / Anime / Auto-Next / 4K Guide",
+    "description": "1080p / 4K Guide",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "willowmovies.com",
@@ -115764,9 +115742,20 @@
     "is_tip": false
   },
   {
+    "title": "Nxsha",
+    "url": "https://web.nxsha.app/",
+    "description": "1080p / Dual Audio / External Subs / Telegram",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "web.nxsha.app",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "cineruv",
     "url": "https://cineruv.website/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cineruv.website",
@@ -115777,7 +115766,7 @@
   {
     "title": "3eyedraven",
     "url": "https://3eyedraven.watch/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "1080p / Ad-Toggle",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "3eyedraven.watch",
@@ -115788,7 +115777,7 @@
   {
     "title": "Mapple",
     "url": "https://mapple.fun/",
-    "description": "Movies / TV / Anime / Telegram",
+    "description": "4K / External Subs / Telegram",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "mapple.fun",
@@ -115799,7 +115788,7 @@
   {
     "title": "Smashystream",
     "url": "https://smashystream.xyz/",
-    "description": "Movies / TV / Anime / Telegram",
+    "description": "1080p / External Subs / Telegram",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "smashystream.xyz",
@@ -115810,7 +115799,7 @@
   {
     "title": "NOVA",
     "url": "https://novahd.cc/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "1080p / Dual Audio / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "novahd.cc",
@@ -115821,7 +115810,7 @@
   {
     "title": "Zoryva X",
     "url": "https://zoryva.me/",
-    "description": "Movies / TV / Anime",
+    "description": "1080p / Dual Audio / External Subs",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "zoryva.me",
@@ -115832,7 +115821,7 @@
   {
     "title": "Kofi",
     "url": "https://kofi.mov/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "720p / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "kofi.mov",
@@ -115841,20 +115830,9 @@
     "is_tip": false
   },
   {
-    "title": "Nxsha",
-    "url": "https://web.nxsha.app/",
-    "description": "Movies / TV / Anime / Telegram",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "web.nxsha.app",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Screenscape",
     "url": "https://screenscape.me/",
-    "description": "Movies / TV / Anime / Auto-Next / Telegram",
+    "description": "1080p / Dual Audio / External Subs / Telegram",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "screenscape.me",
@@ -115865,7 +115843,7 @@
   {
     "title": "Youplex",
     "url": "https://youplex.site/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "1080p / Dual Audio / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "youplex.site",
@@ -115876,7 +115854,7 @@
   {
     "title": "frameXTV",
     "url": "https://framextv.xyz/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "4K / External Subs / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "framextv.xyz",
@@ -115887,7 +115865,7 @@
   {
     "title": "All About Movies",
     "url": "https://allaboutmovies.pages.dev/",
-    "description": "Movies / TV / Anime",
+    "description": "1080p",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "allaboutmovies.pages.dev",
@@ -115898,7 +115876,7 @@
   {
     "title": "⁠Cinefork",
     "url": "https://cinefork.net/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ P-Stream Forks",
     "domain": "cinefork.net",
@@ -115909,7 +115887,7 @@
   {
     "title": "⁠FMFAU",
     "url": "https://fmfau.com/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "1080p / External Subs / Dual Audio / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ P-Stream Forks",
     "domain": "fmfau.com",
@@ -115920,7 +115898,7 @@
   {
     "title": "Q62",
     "url": "https://q62flix.ws/",
-    "description": "Movies / TV",
+    "description": "1080p / Dual Audio / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "q62flix.ws",
@@ -115931,7 +115909,7 @@
   {
     "title": "StreamingUnity",
     "url": "https://streamingunity.fun/",
-    "description": "Movies / TV / Anime / 720p",
+    "description": "720p / Dual Audio / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "streamingunity.fun",
@@ -115940,53 +115918,9 @@
     "is_tip": false
   },
   {
-    "title": "Flixtrz",
-    "url": "https://flixtrz.com/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "flixtrz.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CyberMovies",
-    "url": "https://cybermovies.ru/",
-    "description": "Movies / TV / Anime / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "cybermovies.ru",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Abibli",
-    "url": "https://abibli.com/",
-    "description": "Movies / TV",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "abibli.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "SoapGo",
-    "url": "https://soapgo.to/",
-    "description": "Movies / TV / Anime",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "soapgo.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "CinemaCity",
     "url": "https://cinemacity.cc/",
-    "description": "Movies / TV / Anime / Requires Sign-Up / Telegram",
+    "description": "480p / Dual Audio / Popup + Redirect Free / Telegram",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "cinemacity.cc",
@@ -115995,12 +115929,34 @@
     "is_tip": false
   },
   {
-    "title": "arc018",
-    "url": "https://arc018.stream/",
-    "description": "Movies / TV / Anime",
+    "title": "Flixtrz",
+    "url": "https://flixtrz.com/",
+    "description": "720p / Dual Audio / Ad-Toggle",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
-    "domain": "arc018.stream",
+    "domain": "flixtrz.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ShowBox",
+    "url": "https://www.showbox.media/",
+    "description": "4K / Dual Audio / External Subs / Popup + Redirect Free / Use Throwaway Gmail",
+    "category": "video",
+    "subcategory": "▷ Dedicated-Server",
+    "domain": "showbox.media",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Abibli",
+    "url": "https://abibli.com/",
+    "description": "720p / Dual Audio / Popup + Redirect Free",
+    "category": "video",
+    "subcategory": "▷ Dedicated-Server",
+    "domain": "abibli.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -116008,7 +115964,7 @@
   {
     "title": "RidoMovies",
     "url": "https://ridomovies.is/",
-    "description": "Movies / TV",
+    "description": "1080p / External Subs",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "ridomovies.is",
@@ -116019,7 +115975,7 @@
   {
     "title": "Filmo",
     "url": "https://filmo.to/",
-    "description": "Movies / 3rd Party Host / Mirrors",
+    "description": "720p / Dual Audio / Popup + Redirect Free / Mirrors",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "filmo.to",
@@ -116030,7 +115986,7 @@
   {
     "title": "AZMovies",
     "url": "https://azmovies.to/",
-    "description": "Movies / TV / Anime / Some 3rd Party Hosts",
+    "description": "720p / External Subs / Some 3rd Party Hosts",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "azmovies.to",
@@ -116039,53 +115995,9 @@
     "is_tip": false
   },
   {
-    "title": "OnionPlay",
-    "url": "https://onionplay.ae/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "onionplay.ae",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ShowBox",
-    "url": "https://www.showbox.media/",
-    "description": "Movies / TV / Anime / Use Throwaway Gmail",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "showbox.media",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "FshareTV",
-    "url": "https://fsharetv.co/",
-    "description": "Movies",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "fsharetv.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MovieNestBD",
-    "url": "https://movienestbd.best/",
-    "description": "Movies / TV / Anime / Telegram",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "movienestbd.best",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "M4uHD",
     "url": "https://m4uhd.vip",
-    "description": "Movies / TV / Anime / Clones",
+    "description": "1080p / Popup + Redirect Free / Clones",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "m4uhd.vip",
@@ -116094,9 +116006,20 @@
     "is_tip": false
   },
   {
+    "title": "FshareTV",
+    "url": "https://fsharetv.co/",
+    "description": "1080p",
+    "category": "video",
+    "subcategory": "▷ Dedicated-Server",
+    "domain": "fsharetv.co",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "SubSL",
     "url": "https://subsl.top/",
-    "description": "Movies / TV / Telegram",
+    "description": "1080p / Telegram",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "subsl.top",
@@ -116107,7 +116030,7 @@
   {
     "title": "YesMovie",
     "url": "https://ww1.yesmovies.ag/",
-    "description": "Movies / TV / 720p",
+    "description": "720p",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "ww1.yesmovies.ag",
@@ -116118,7 +116041,7 @@
   {
     "title": "Downloads-Anymovies",
     "url": "https://www.downloads-anymovies.co/",
-    "description": "Movies",
+    "description": "1080p",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "downloads-anymovies.co",
@@ -116127,9 +116050,20 @@
     "is_tip": false
   },
   {
+    "title": "CineWave",
+    "url": "https://watch.cinewave.qzz.io/",
+    "description": "22 Sources",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "watch.cinewave.qzz.io",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Youflex",
     "url": "https://youflex.top/",
-    "description": "Movies / TV / Anime",
+    "description": "30 Sources / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "youflex.top",
@@ -116140,7 +116074,7 @@
   {
     "title": "CandleStream",
     "url": "https://candlestream.xyz/#home",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "21 Sources / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "candlestream.xyz",
@@ -116151,7 +116085,7 @@
   {
     "title": "Fireflix",
     "url": "https://fireflix4.pages.dev/",
-    "description": "Movies / TV / Anime / Auto-Next",
+    "description": "7 Sources",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "fireflix4.pages.dev",
@@ -116162,7 +116096,7 @@
   {
     "title": "Heartive",
     "url": "https://heartiveplaystv.pages.dev/",
-    "description": "Movies / TV / Anime",
+    "description": "12 Sources / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "heartiveplaystv.pages.dev",
@@ -116173,7 +116107,7 @@
   {
     "title": "Flyflix",
     "url": "https://flyflix.cc/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "23 Sources / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "flyflix.cc",
@@ -116184,7 +116118,7 @@
   {
     "title": "Bingeflix",
     "url": "https://bingeflix.tv/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "11 Sources / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "bingeflix.tv",
@@ -116195,7 +116129,7 @@
   {
     "title": "Consumit",
     "url": "https://consumit.online/",
-    "description": "Movies / TV / Anime / Auto-Next / Discord",
+    "description": "7 Sources / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "consumit.online",
@@ -116206,7 +116140,7 @@
   {
     "title": "ONOFLIX",
     "url": "https://onoflix.live/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "16 Sources / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "onoflix.live",
@@ -116217,7 +116151,7 @@
   {
     "title": "FLIKER",
     "url": "https://fliker.freebuff.app/",
-    "description": "Movies / TV / Anime",
+    "description": "17 Sources / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "fliker.freebuff.app",
@@ -116228,7 +116162,7 @@
   {
     "title": "Snowstream",
     "url": "https://snowstream.vercel.app/",
-    "description": "Movies / TV / Anime / Telegram",
+    "description": "21 Sources / Popup + Redirect Free / Telegram",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "snowstream.vercel.app",
@@ -116239,7 +116173,7 @@
   {
     "title": "CineNest",
     "url": "https://cine-nest-nine.vercel.app/",
-    "description": "Movies / TV / Anime",
+    "description": "32 Sources / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "cine-nest-nine.vercel.app",
@@ -116248,9 +116182,20 @@
     "is_tip": false
   },
   {
+    "title": "OnionPlay",
+    "url": "https://onionplay.ae/",
+    "description": "9 Sources / Discord",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "onionplay.ae",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Pawflix",
     "url": "https://pawflix.foo.ng/",
-    "description": "Movies / TV / Anime / Invite",
+    "description": "41 Sources / Redirect + Popup Free / Invite",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "pawflix.foo.ng",
@@ -116261,7 +116206,7 @@
   {
     "title": "CinebyTV",
     "url": "https://cinebytv.com",
-    "description": "Movies / TV / Anime / Note",
+    "description": "16 Sources / Note",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "cinebytv.com",
@@ -116272,7 +116217,7 @@
   {
     "title": "MilkBox",
     "url": "https://milkbox.fyi/",
-    "description": "Movies / TV / Anime / Discord",
+    "description": "40 Sources / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "milkbox.fyi",
@@ -116283,7 +116228,7 @@
   {
     "title": "FishyStream",
     "url": "https://fishystream-app.pages.dev/",
-    "description": "Movies / TV / Anime / GitHub",
+    "description": "24 Sources / Popup + Redirect Free / GitHub",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "fishystream-app.pages.dev",
@@ -116294,7 +116239,7 @@
   {
     "title": "DuaFile",
     "url": "https://download.duafile.com/",
-    "description": "Movies / TV / Anime",
+    "description": "57 Sources",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "download.duafile.com",
@@ -116305,7 +116250,7 @@
   {
     "title": "Meowly",
     "url": "https://meowly.qzz.io/",
-    "description": "Movies / TV / Anime / GitHub",
+    "description": "12 Sources / GitHub",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "meowly.qzz.io",
@@ -116316,7 +116261,7 @@
   {
     "title": "Movies To Watch",
     "url": "https://www.moviestowatch.top/",
-    "description": "Movies / TV / Anime",
+    "description": "25 Sources / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "moviestowatch.top",
@@ -116325,20 +116270,9 @@
     "is_tip": false
   },
   {
-    "title": "MilkBox",
-    "url": "https://milkbox.zapto.org/",
-    "description": "Movies / TV / Anime / Discord",
-    "category": "video",
-    "subcategory": "▷ Multi-Server",
-    "domain": "milkbox.zapto.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "WatchOrbit",
     "url": "https://watchorbit.me/",
-    "description": "Movies / TV / Anime",
+    "description": "51 Sources",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "watchorbit.me",
@@ -116349,7 +116283,7 @@
   {
     "title": "RabbitMeow",
     "url": "https://rabbitmeow.online/",
-    "description": "Movies / TV / Anime",
+    "description": "13 Sources",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "rabbitmeow.online",
@@ -116360,7 +116294,7 @@
   {
     "title": "Warflix",
     "url": "https://warflix.im/",
-    "description": "Movies / TV / Anime / Mirrors / Telegram / Discord",
+    "description": "29 Sources / Mirrors / Telegram / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "warflix.im",
@@ -116371,7 +116305,7 @@
   {
     "title": "FlixFusion",
     "url": "https://flixfusion.cyou/",
-    "description": "Movies / TV / Anime",
+    "description": "40 Sources",
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "flixfusion.cyou",
@@ -116743,6 +116677,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠TokyVideo",
+    "url": "https://www.tokyvideo.com/",
+    "description": "",
+    "category": "video",
+    "subcategory": "▷ Video Streaming",
+    "domain": "tokyvideo.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Tape",
     "url": "https://github.com/tapexyz/tape",
     "description": "",
@@ -116985,12 +116930,12 @@
     "is_tip": false
   },
   {
-    "title": "⁠MeguAnimes",
-    "url": "https://meguanime.com/",
+    "title": "⁠anv",
+    "url": "https://anv.to/",
     "description": "Sub / Dub / Auto-Next",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
-    "domain": "meguanime.com",
+    "domain": "anv.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117020,10 +116965,21 @@
   {
     "title": "AnimeStream",
     "url": "https://anime.uniquestream.net/",
-    "description": "Sub / 720p",
+    "description": "Sub",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anime.uniquestream.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠MeguAnimes",
+    "url": "https://meguanime.com/",
+    "description": "Sub / Dub / Auto-Next",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "meguanime.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -117073,6 +117029,17 @@
     "is_tip": false
   },
   {
+    "title": "Yenime",
+    "url": "https://yenime.net/",
+    "description": "Sub / Dub",
+    "category": "video",
+    "subcategory": "▷ Anime Streaming",
+    "domain": "yenime.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠2Dhive",
     "url": "https://2dhive.com/",
     "description": "Sub / Dub",
@@ -117117,17 +117084,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠anv",
-    "url": "https://anv.to/",
-    "description": "Sub / Dub / Auto-Next",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "anv.to",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Tsukuyomi",
     "url": "https://tsukuyomi.tv/",
     "description": "Sub / Dub / Auto-Next / Discord",
@@ -117161,17 +117117,6 @@
     "is_tip": false
   },
   {
-    "title": "Yenime",
-    "url": "https://yenime.net/",
-    "description": "Sub / Dub / Discord",
-    "category": "video",
-    "subcategory": "▷ Anime Streaming",
-    "domain": "yenime.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Shonen",
     "url": "https://shonen.to/",
     "description": "Sub / Dub / Auto-Next",
@@ -117185,7 +117130,7 @@
   {
     "title": "⁠Tatakai",
     "url": "https://tatakai.me/browse",
-    "description": "Sub / Dub / Extension-Based",
+    "description": "Sub / Dub",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "tatakai.me",
@@ -117229,7 +117174,7 @@
   {
     "title": "AnimeLover",
     "url": "https://animelover.site/",
-    "description": "Sub / Dub / Discord",
+    "description": "Sub / Dub",
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "animelover.site",
@@ -119296,12 +119241,12 @@
   },
   {
     "title": "HDHub4u",
-    "url": "https://hdhub4u.bi/",
+    "url": "https://hdhub4u.fr/",
     "description": "Movies / TV / 1080p / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ IPTV Players",
-    "domain": "hdhub4u.bi",
-    "is_new": false,
+    "domain": "hdhub4u.fr",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -119847,7 +119792,7 @@
   {
     "title": "⁠FlyStream",
     "url": "https://flystream.net/apps",
-    "description": "Streaming App / Windows, macOS, Linux / Discord",
+    "description": "Streaming App / Windows, macOS, Linux / Subreddit / Discord",
     "category": "video",
     "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "flystream.net",
@@ -119989,12 +119934,12 @@
   },
   {
     "title": "⁠Tatakai",
-    "url": "https://tatakai.me/",
+    "url": "https://tatakai.app/",
     "description": "Anime Streaming App / Extension-Based / Windows, macOS, Linux / Discord / GitHub",
     "category": "video",
     "subcategory": "▷ Anime Streaming Apps",
-    "domain": "tatakai.me",
-    "is_new": false,
+    "domain": "tatakai.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -120562,7 +120507,7 @@
   {
     "title": "⁠FlyStream",
     "url": "https://flystream.net/apps",
-    "description": "Streaming App / Discord",
+    "description": "Streaming App / Subreddit / Discord",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
     "domain": "flystream.net",
@@ -120881,7 +120826,7 @@
   {
     "title": "⁠StrexoPlayer",
     "url": "https://strexoplayer.onrender.com/",
-    "description": "Video Player w/ Stremio Sync / Discord",
+    "description": "Video Player w/ Stremio Sync",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "strexoplayer.onrender.com",
@@ -120935,12 +120880,12 @@
   },
   {
     "title": "⁠Tatakai",
-    "url": "https://tatakai.me/",
+    "url": "https://tatakai.app/",
     "description": "Anime Streaming App / Extension-Based / Discord / GitHub",
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
-    "domain": "tatakai.me",
-    "is_new": false,
+    "domain": "tatakai.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
