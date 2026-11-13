@@ -15923,7 +15923,7 @@
     "category": "educational",
     "subcategory": "General",
     "domain": "tokyvideo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -42004,7 +42004,7 @@
     "category": "gaming",
     "subcategory": "▷ Unblocked Games",
     "domain": "ivy.rest",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -51552,7 +51552,7 @@
     "category": "internet-tools",
     "subcategory": "▷ Email Clients",
     "domain": "meru.so",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -54544,7 +54544,7 @@
     "category": "internet-tools",
     "subcategory": "▷ OSINT Collections",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -63520,7 +63520,7 @@
     "category": "misc",
     "subcategory": "▷ Satellite / Earth Data",
     "domain": "watched.earth",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76500,7 +76500,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Anime",
     "domain": "tatakai.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78843,7 +78843,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Anime",
     "domain": "tatakai.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92340,7 +92340,7 @@
     "category": "privacy",
     "subcategory": "▷ DNS Providers",
     "domain": "rethinkdns.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116056,7 +116056,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "watch.cinewave.qzz.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116683,7 +116683,7 @@
     "category": "video",
     "subcategory": "▷ Video Streaming",
     "domain": "tokyvideo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119246,7 +119246,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "hdhub4u.fr",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119939,7 +119939,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming Apps",
     "domain": "tatakai.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -120885,7 +120885,7 @@
     "category": "video",
     "subcategory": "▷ Android TV / Firestick",
     "domain": "tatakai.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
