@@ -154,20 +154,9 @@
     "is_tip": false
   },
   {
-    "title": "ArceeAI",
-    "url": "https://chat.arcee.ai/chat",
-    "description": "Trinity Large Thinking / Unlimited / Discord",
-    "category": "ai",
-    "subcategory": "▷ Official Model Sites",
-    "domain": "chat.arcee.ai",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Sarvam",
     "url": "https://dashboard.sarvam.ai/chat",
-    "description": "Sarvam 105B / Unlimited / Sign-Up",
+    "description": "GLM 5.3 / DeepSeek V4.1 Flash 1017 / Sign-Up",
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "dashboard.sarvam.ai",
@@ -2622,7 +2611,7 @@
     "url": "https://www.jambase.com/videos",
     "description": "Concert Recordings",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "jambase.com",
     "is_new": false,
     "is_broken": false,
@@ -2633,7 +2622,7 @@
     "url": "https://relisten.net/",
     "description": "Concert Recordings / GitHub",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "relisten.net",
     "is_new": false,
     "is_broken": false,
@@ -2644,7 +2633,7 @@
     "url": "http://www.dimeadozen.org/",
     "description": "Concert Recordings / Torrents",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "dimeadozen.org",
     "is_new": false,
     "is_broken": false,
@@ -2655,7 +2644,7 @@
     "url": "https://www.guitars101.com/",
     "description": "Concert Recordings / Bootlegs",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "guitars101.com",
     "is_new": false,
     "is_broken": false,
@@ -2666,7 +2655,7 @@
     "url": "http://www.thetradersden.org/",
     "description": "Concert Recordings / Torrents",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "thetradersden.org",
     "is_new": false,
     "is_broken": false,
@@ -2677,7 +2666,7 @@
     "url": "https://www.shnflac.net/",
     "description": "Concert Recordings / Torrents",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "shnflac.net",
     "is_new": false,
     "is_broken": false,
@@ -2688,7 +2677,7 @@
     "url": "https://etreedb.org/",
     "description": "Concert Recordings / Torrents",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "etreedb.org",
     "is_new": false,
     "is_broken": false,
@@ -2699,7 +2688,7 @@
     "url": "https://www.musebootlegs.com/",
     "description": "Bootleg Concert Recordings / Torrents",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "musebootlegs.com",
     "is_new": false,
     "is_broken": false,
@@ -2710,7 +2699,7 @@
     "url": "https://livebootlegconcert.blogspot.com/",
     "description": "Bootleg Concert Recordings / Torrents",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "livebootlegconcert.blogspot.com",
     "is_new": false,
     "is_broken": false,
@@ -2721,7 +2710,7 @@
     "url": "https://volume.com/",
     "description": "Live Cam Concerts",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "volume.com",
     "is_new": false,
     "is_broken": false,
@@ -2732,7 +2721,7 @@
     "url": "http://www.cadenza.org/",
     "description": "Find Classical / Contemporary Concerts",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "cadenza.org",
     "is_new": false,
     "is_broken": false,
@@ -2743,7 +2732,7 @@
     "url": "https://www.konserthuset.se/en/play/",
     "description": "Orchestra Recordings",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "konserthuset.se",
     "is_new": false,
     "is_broken": false,
@@ -2754,7 +2743,7 @@
     "url": "https://www.worldconcerthall.com/en/schedule-list/",
     "description": "Concert Hall / Opera House Live Streams",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "worldconcerthall.com",
     "is_new": false,
     "is_broken": false,
@@ -2765,7 +2754,7 @@
     "url": "https://tooldriveproject.net/",
     "description": "Tool Live Archive",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "tooldriveproject.net",
     "is_new": false,
     "is_broken": false,
@@ -2776,7 +2765,7 @@
     "url": "https://ratm.live/",
     "description": "Rage Against the Machine Live Archive",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "ratm.live",
     "is_new": false,
     "is_broken": false,
@@ -2787,7 +2776,7 @@
     "url": "https://www.rhcplivearchive.com/",
     "description": "Red Hot Chili Peppers Live Archive",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "rhcplivearchive.com",
     "is_new": false,
     "is_broken": false,
@@ -2798,7 +2787,7 @@
     "url": "https://rentry.co/FMHYB64#radio-nowhere",
     "description": "Bruce Springsteen Concerts / Bootlegs",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "rentry.co",
     "is_new": false,
     "is_broken": false,
@@ -2809,7 +2798,7 @@
     "url": "https://phish.in/",
     "description": "Phish Live Archive / Discord",
     "category": "audio",
-    "subcategory": "▷ Concerts / Live Shows",
+    "subcategory": "▷ Concerts / Live Performances",
     "domain": "phish.in",
     "is_new": false,
     "is_broken": false,
@@ -2877,6 +2866,17 @@
     "category": "audio",
     "subcategory": "▷ DJ Mixes / Livesets",
     "domain": "rentry.co",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠The Cat Rave",
+    "url": "https://thecatrave.com/selector",
+    "description": "Random DJ Sets / Genre & Channel Filters / YouTube",
+    "category": "audio",
+    "subcategory": "▷ DJ Mixes / Livesets",
+    "domain": "thecatrave.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -4615,7 +4615,7 @@
     "category": "audio",
     "subcategory": "▷ Audio Ripping Sites",
     "domain": "riplet.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -6881,7 +6881,7 @@
     "category": "audio",
     "subcategory": "▷ Music Discovery",
     "domain": "thecatrave.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -11420,7 +11420,7 @@
   {
     "title": "Arena",
     "url": "https://arena.ai/code",
-    "description": "Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / X / Discord",
+    "description": "Multiple Models / Sign-Up (Direct mode) / X / Discord",
     "category": "developer-tools",
     "subcategory": "▷ AI Web Coding",
     "domain": "arena.ai",
@@ -11431,7 +11431,7 @@
   {
     "title": "Design Arena",
     "url": "https://www.designarena.ai/",
-    "description": "Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / Discord",
+    "description": "Multiple Models / No Direct Mode / Reset Limits / w Temp Mail / Discord",
     "category": "developer-tools",
     "subcategory": "▷ AI Web Coding",
     "domain": "designarena.ai",
@@ -11442,7 +11442,7 @@
   {
     "title": "⁠Z.ai",
     "url": "https://chat.z.ai/",
-    "description": "GLM-5.2 (Deep Think Max) / GLM-5 Turbo / Coding AI / Sign-Up / Discord",
+    "description": "GLM-5.3 (Sign-Up) / GLM-5.3-Flash (No Sign-Up) / Discord",
     "category": "developer-tools",
     "subcategory": "▷ AI Web Coding",
     "domain": "chat.z.ai",
@@ -11453,7 +11453,7 @@
   {
     "title": "Google AI Studio",
     "url": "https://aistudio.google.com/app/apps",
-    "description": "Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Coding AI / Subreddit / Discord",
+    "description": "Gemini 4 Hydrogen / Gemini 3.8 Flash / Gemini 3.5 Flash-Lite / Google Sign-Up / Subreddit / Discord",
     "category": "developer-tools",
     "subcategory": "▷ AI Web Coding",
     "domain": "aistudio.google.com",
@@ -11464,7 +11464,7 @@
   {
     "title": "Qwen",
     "url": "https://chat.qwen.ai/",
-    "description": "Qwen 3.8 Max (Thinking) / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / Subreddit / Discord / GitHub",
+    "description": "Qwen4-Max-Preview / Qwen3.8-Max / Qwen3.7-Plus / No Sign-Up / Unlimited / Subreddit / Discord / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ AI Web Coding",
     "domain": "chat.qwen.ai",
@@ -11475,7 +11475,7 @@
   {
     "title": "MiniMax AI",
     "url": "https://agent.minimax.io/",
-    "description": "MiniMax M3 (Thinking) / Coding AI / Sign-Up GitHub",
+    "description": "MiniMax M3.1-Flash (Max) / MiniMax M3 (Thinking) / Sign-Up / GitHub",
     "category": "developer-tools",
     "subcategory": "▷ AI Web Coding",
     "domain": "agent.minimax.io",
@@ -16159,17 +16159,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠HackerTube",
-    "url": "https://hackertube.org/",
-    "description": "Educational YouTube Videos",
-    "category": "educational",
-    "subcategory": "▷ Streaming",
-    "domain": "hackertube.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Course CSE",
     "url": "https://cse.google.com/cse?cx=67ed14bf7b99643e3",
     "description": "Multi-Site Course Search",
@@ -20213,7 +20202,7 @@
     "category": "educational",
     "subcategory": "▷ Military / Conflict History",
     "domain": "archives.nato.int",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -20378,7 +20367,7 @@
     "category": "educational",
     "subcategory": "▷ Military / Conflict History",
     "domain": "b17flyingfortress.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -30575,7 +30564,7 @@
     "category": "gaming-tools",
     "subcategory": "General",
     "domain": "rentry.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32478,7 +32467,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Client Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34623,7 +34612,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Minecraft Mods",
     "domain": "curseforge.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41476,7 +41465,7 @@
     "category": "gaming",
     "subcategory": "▷ Multi-Game Sites",
     "domain": "flasharch.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -43335,7 +43324,7 @@
     "category": "gaming",
     "subcategory": "▷ RPGs",
     "domain": "thedungeonrevealed.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60011,7 +60000,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "help.riseup.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60022,7 +60011,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "canine.tools",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60033,7 +60022,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "4d2.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60044,7 +60033,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "bloat.cat",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60055,7 +60044,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "tchncs.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60066,7 +60055,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "nolog.cz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60077,7 +60066,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "systemli.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60088,7 +60077,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "woodpeckersnest.space",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60099,7 +60088,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "nerdvpn.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60110,7 +60099,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "gravitywell.xyz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60121,7 +60110,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "privacyredirect.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60132,7 +60121,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "nadeko.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60143,7 +60132,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "meowing.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60154,7 +60143,7 @@
     "category": "misc",
     "subcategory": "▷  Frontend Indexes",
     "domain": "adminforge.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -60319,7 +60308,7 @@
     "category": "misc",
     "subcategory": "▷ Random Sites / Discovery",
     "domain": "reddit.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -62200,7 +62189,7 @@
     "category": "misc",
     "subcategory": "▷ Flights",
     "domain": "flights.theojaffee.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -66231,17 +66220,6 @@
     "is_tip": false
   },
   {
-    "title": "Weekly Market Recap",
-    "url": "https://am.jpmorgan.com/",
-    "description": "Stock Market Recaps",
-    "category": "misc",
-    "subcategory": "▷ Investing / Market Research",
-    "domain": "am.jpmorgan.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Simul8or",
     "url": "https://simul8or.com/",
     "description": "Trading Simulator",
@@ -68591,7 +68569,7 @@
     "category": "misc",
     "subcategory": "▷ Chat / Forums",
     "domain": "suntown.town",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72474,7 +72452,7 @@
     "category": "mobile",
     "subcategory": "▷ App Patchers & Modifiers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72482,17 +72460,6 @@
     "title": "ReVanced Magisk Module",
     "url": "https://github.com/j-hc/revanced-magisk-module",
     "description": "ReVanced Builder / Telegram",
-    "category": "mobile",
-    "subcategory": "▷ App Patchers & Modifiers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "ReVanced CLI",
-    "url": "https://github.com/ReVanced/revanced-cli",
-    "description": "CLI Patcher / Guide",
     "category": "mobile",
     "subcategory": "▷ App Patchers & Modifiers",
     "domain": "github.com",
@@ -72661,7 +72628,7 @@
     "category": "mobile",
     "subcategory": "▷ Telegram Clients",
     "domain": "arslan4k1390.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76452,7 +76419,7 @@
   {
     "title": "⁠FlixQuest",
     "url": "https://flix.quest/",
-    "description": "Movies / TV / Live TV / Telegram / GitHub",
+    "description": "Movies / TV / Live TV / Telegram",
     "category": "mobile",
     "subcategory": "▷ Android Relaxation",
     "domain": "flix.quest",
@@ -76813,13 +76780,24 @@
     "is_tip": false
   },
   {
-    "title": "⁠Flow",
-    "url": "https://flowapp-website.vercel.app/",
-    "description": "Ad-Free YouTube / GitHub",
+    "title": "Universal Patch Manager",
+    "url": "https://github.com/Jman-Github/Universal-Patch-Manager",
+    "description": "Ad-Free YouTube Patcher / Tools",
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
-    "domain": "flowapp-website.vercel.app",
+    "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Flow",
+    "url": "https://flow-tube.org/",
+    "description": "Ad-Free YouTube / Local Algorithm / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ Android YouTube Apps",
+    "domain": "flow-tube.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -84123,17 +84101,6 @@
     "category": "non-english",
     "subcategory": "▷ Downloading",
     "domain": "themoviesboss.fans",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠4KHDHub",
-    "url": "https://4khdhub.one/",
-    "description": "Movies / TV / 4K",
-    "category": "non-english",
-    "subcategory": "▷ Downloading",
-    "domain": "4khdhub.one",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -91570,7 +91537,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "uzmovi.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92567,7 +92534,7 @@
   {
     "title": "Rethink DNS Resolver",
     "url": "https://rethinkdns.com/configure",
-    "description": "DNS Provider / Mix Multiple Blocklists / Subreddit / Telegram",
+    "description": "DNS Provider / Mix Multiple Blocklists / Subreddit / Telegram / Note",
     "category": "privacy",
     "subcategory": "▷ DNS Providers",
     "domain": "rethinkdns.com",
@@ -100931,7 +100898,7 @@
     "category": "reading",
     "subcategory": "▷ Book Recommendations",
     "domain": "hackerbooks.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -103202,6 +103169,17 @@
     "is_tip": false
   },
   {
+    "title": "BlockTube",
+    "url": "https://github.com/amitbl/blocktube",
+    "description": "YouTube Content Blocker",
+    "category": "social-media-tools",
+    "subcategory": "▷ YouTube Customization",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "YouTube Fixes",
     "url": "https://greasyfork.org/en/scripts/405614",
     "description": "YouTube Tweaks",
@@ -103604,17 +103582,6 @@
     "category": "social-media-tools",
     "subcategory": "▷ YouTube Search",
     "domain": "likesearch.kaustlabs.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠HackerTube",
-    "url": "https://hackertube.org/",
-    "description": "Educational YouTube Videos",
-    "category": "social-media-tools",
-    "subcategory": "▷ YouTube Search",
-    "domain": "hackertube.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -112745,7 +112712,7 @@
     "category": "torrenting",
     "subcategory": "▷ Remote Torrenting",
     "domain": "torrentcheap.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115858,7 +115825,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "bingr.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116221,7 +116188,7 @@
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "soapgo.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116507,7 +116474,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "ev01.ws",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117849,7 +117816,7 @@
     "category": "video",
     "subcategory": "▷ Drama Streaming",
     "domain": "kissbae.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118597,7 +118564,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "scorezonetv.live",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119317,12 +119284,34 @@
     "is_tip": false
   },
   {
+    "title": "⁠4KHDHub",
+    "url": "https://4khdhub.one/",
+    "description": "Movies / TV / 4K / HEVC",
+    "category": "video",
+    "subcategory": "▷ IPTV Players",
+    "domain": "4khdhub.one",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cinetaro",
     "url": "https://cinetaro.to/",
     "description": "Movies / TV / Anime / 4K / HEVC / Discord",
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "cinetaro.to",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "HDHub4u",
+    "url": "https://hdhub4u.fr/",
+    "description": "Movies / TV / 4K / HEVC",
+    "category": "video",
+    "subcategory": "▷ IPTV Players",
+    "domain": "hdhub4u.fr",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -119339,34 +119328,12 @@
     "is_tip": false
   },
   {
-    "title": "HDHub4u",
-    "url": "https://hdhub4u.fr/",
-    "description": "Movies / TV / 1080p / 4K / HEVC",
-    "category": "video",
-    "subcategory": "▷ IPTV Players",
-    "domain": "hdhub4u.fr",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Vadapav",
     "url": "https://rentry.co/FMHYB64#vadapav",
     "description": "Movies / TV",
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "rentry.co",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠4KHDHub",
-    "url": "https://4khdhub.one/",
-    "description": "Movies / TV / 4K / HEVC",
-    "category": "video",
-    "subcategory": "▷ IPTV Players",
-    "domain": "4khdhub.one",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -119477,7 +119444,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "psarips.is",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -121567,7 +121534,7 @@
     "category": "video",
     "subcategory": "▷ Recommendation Tools",
     "domain": "mikeyguinness.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
