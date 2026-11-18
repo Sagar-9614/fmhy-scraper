@@ -1,5 +1,16 @@
 [
   {
+    "title": "DeepSeek",
+    "url": "https://chat.deepseek.com/",
+    "description": "DeepSeek V4.1 Flash 1017 / Sign-Up / Subreddit / Discord / GitHub",
+    "category": "ai",
+    "subcategory": "▷ Official Model Sites",
+    "domain": "chat.deepseek.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Meta AI",
     "url": "https://www.meta.ai/",
     "description": "Muse Spark 1.3 / Muse Glimmer 30B / Meta Sign-Up / Unlimited",
@@ -2152,6 +2163,17 @@
     "subcategory": "▷ Streaming Apps",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠ytm-rs",
+    "url": "https://grapedjuice.github.io/ytm-rs/",
+    "description": "YouTube Music Client / GitHub",
+    "category": "audio",
+    "subcategory": "▷ Streaming Apps",
+    "domain": "grapedjuice.github.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -16500,6 +16522,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Artnap",
+    "url": "https://artnap.com/",
+    "description": "Art Collections / Public-Domain Image Search",
+    "category": "educational",
+    "subcategory": "▷ Art Galleries / Collections",
+    "domain": "artnap.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Haltadefinizione",
     "url": "https://www.haltadefinizione.com/en/",
     "description": "High-Resolution Art Images / Italian Art",
@@ -26785,6 +26818,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠LearnHarness",
+    "url": "https://learnharness.ai/",
+    "description": "AI Learning Agent / GitHub",
+    "category": "educational",
+    "subcategory": "▷ Study Tools",
+    "domain": "learnharness.ai",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠Free Numerade Videos",
     "url": "https://discord.gg/nEYfaceEcU",
     "description": "Homework Help Videos",
@@ -30602,17 +30646,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠Faugus Launcher",
-    "url": "https://github.com/Faugus/faugus-launcher",
-    "description": "Game Launcher / Linux",
-    "category": "gaming-tools",
-    "subcategory": "▷ Game Launchers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "Launchbox",
     "url": "https://www.launchbox-app.com/",
     "description": "Retro / Console Game Library / Launcher / Windows, Android",
@@ -32368,7 +32401,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ History / Preservation",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33644,7 +33677,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Multiplayer Servers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36637,6 +36670,17 @@
     "subcategory": "▷ Geometry Dash Tools",
     "domain": "delugedrop.itch.io",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Nightcap",
+    "url": "https://coderdayton.github.io/nightcap/",
+    "description": "Roblox on Linux / Vinegar (Studio Only) / Discord / GitHub",
+    "category": "gaming-tools",
+    "subcategory": "▷ Roblox Tools",
+    "domain": "coderdayton.github.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -44781,6 +44825,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠BRIA RMBG 3.0",
+    "url": "https://huggingface.co/spaces/briaai/BRIA-RMBG-3.0",
+    "description": "Background Remover / Web",
+    "category": "image-tools",
+    "subcategory": "▷ Content Removers",
+    "domain": "huggingface.co",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Adobe Express Background Remover",
     "url": "https://www.adobe.com/express/feature/image/remove-background",
     "description": "Background Remover / Web",
@@ -49726,17 +49781,6 @@
     "category": "internet-tools",
     "subcategory": "▷ Chat Tools",
     "domain": "twist.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Altus",
-    "url": "https://github.com/amanharwara/altus",
-    "description": "WhatsApp Client / Windows, macOS, Linux",
-    "category": "internet-tools",
-    "subcategory": "▷ Chat Tools",
-    "domain": "github.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -56409,12 +56453,12 @@
   },
   {
     "title": "DLSS5VKLayer",
-    "url": "https://www.phoronix.com/news/DLSS5VKLayer",
-    "description": "Vulkan DLSS 5 Neural Rendering Layer / GitHub",
+    "url": "https://github.com/bmitch87/DLSS5VKLayerr",
+    "description": "Vulkan DLSS 5 Neural Rendering Layer",
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
-    "domain": "phoronix.com",
-    "is_new": false,
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -56514,6 +56558,17 @@
     "subcategory": "▷ Linux Gaming",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Nightcap",
+    "url": "https://coderdayton.github.io/nightcap/",
+    "description": "Roblox on Linux / Vinegar (Studio Only) / Discord / GitHub",
+    "category": "linux-macos",
+    "subcategory": "▷ Linux Gaming",
+    "domain": "coderdayton.github.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -59043,17 +59098,6 @@
     "category": "linux-macos",
     "subcategory": "▷ System Tools",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Pearcleaner",
-    "url": "https://itsalin.com/appInfo/?id=pearcleaner",
-    "description": "System Cleanup / Uninstaller / GitHub",
-    "category": "linux-macos",
-    "subcategory": "▷ System Tools",
-    "domain": "itsalin.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -65192,17 +65236,6 @@
     "category": "misc",
     "subcategory": "▷ Porn Quitting",
     "domain": "pluckyfilter.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "CleanBrowsing",
-    "url": "https://cleanbrowsing.org/filters/",
-    "description": "Family DNS Filters",
-    "category": "misc",
-    "subcategory": "▷ Porn Quitting",
-    "domain": "cleanbrowsing.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -72809,6 +72842,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Apple Walls",
+    "url": "https://applewalls.com/",
+    "description": "Apple Wallpapers",
+    "category": "mobile",
+    "subcategory": "▷ Customization",
+    "domain": "applewalls.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "r/Amoledbackgrounds",
     "url": "https://www.reddit.com/r/Amoledbackgrounds/",
     "description": "Amoled Wallpapers ⁠",
@@ -73216,17 +73260,6 @@
     "is_tip": false
   },
   {
-    "title": "Magisk",
-    "url": "https://github.com/topjohnwu/Magisk",
-    "description": "",
-    "category": "mobile",
-    "subcategory": "▷ Root Managers",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "SukiSU-Ultra",
     "url": "https://github.com/SukiSU-Ultra/SukiSU-Ultra",
     "description": "",
@@ -73317,7 +73350,7 @@
   {
     "title": "⁠AsteroidOS",
     "url": "https://asteroidos.org/",
-    "description": "Linux Distro for Smart Watches",
+    "description": "Linux Distro for Smart Watches / GitHub",
     "category": "mobile",
     "subcategory": "▷ Operating Systems",
     "domain": "asteroidos.org",
@@ -75676,6 +75709,17 @@
     "subcategory": "▷ Android Manga",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Spotify (official)",
+    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+    "description": "Spotify App / Warning",
+    "category": "mobile",
+    "subcategory": "▷ Android Manga",
+    "domain": "play.google.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -79845,6 +79889,17 @@
     "subcategory": "▷ Reading / القراءة",
     "domain": "aldiwan.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Torath",
+    "url": "https://arabicheritagearchive.org/",
+    "description": "Educational Periodicals",
+    "category": "non-english",
+    "subcategory": "▷ Reading / القراءة",
+    "domain": "arabicheritagearchive.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -91619,6 +91674,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Zalo Morphe Patches",
+    "url": "https://github.com/zeldrisho/morphe-patches",
+    "description": "Morphe Patches / Vietnamese",
+    "category": "non-english",
+    "subcategory": "▷ Reading",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠HocMai Hướng Nghiệp",
     "url": "https://huongnghiep.hocmai.vn/",
     "description": "Career + University Guidance",
@@ -91719,23 +91785,23 @@
   },
   {
     "title": "AnimeTVN",
-    "url": "https://animetvn.com/",
+    "url": "https://animetvn.gay/",
     "description": "Anime / Chinese Animation / Sub / 1080p",
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
-    "domain": "animetvn.com",
-    "is_new": false,
+    "domain": "animetvn.gay",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
   {
     "title": "AnimeVietsub",
-    "url": "https://animevietsub.link/",
+    "url": "https://animevietsub.bid/",
     "description": "Anime / Chinese Animation / Sub / 1080p / Telegram",
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
-    "domain": "animevietsub.link",
-    "is_new": false,
+    "domain": "animevietsub.bid",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92571,17 +92637,6 @@
     "category": "privacy",
     "subcategory": "▷ DNS Providers",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DNS for Family",
-    "url": "https://dnsforfamily.com/",
-    "description": "Family Filtering with Safe Search & Malware Protection / German + Finnish Servers",
-    "category": "privacy",
-    "subcategory": "▷ DNS Providers",
-    "domain": "dnsforfamily.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -104198,7 +104253,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Twitter/X Customization",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104462,17 +104517,6 @@
     "category": "social-media-tools",
     "subcategory": "▷ Twitter/X Customization",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Urlebird",
-    "url": "https://urlebird.com/",
-    "description": "TikTok Frontend / Viewer",
-    "category": "social-media-tools",
-    "subcategory": "▷ Viewers / Downloaders",
-    "domain": "urlebird.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -108489,6 +108533,17 @@
     "subcategory": "▷ Wallpapers",
     "domain": "frutigeraeroarchive.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Apple Walls",
+    "url": "https://applewalls.com/",
+    "description": "Apple Wallpapers",
+    "category": "system-tools",
+    "subcategory": "▷ Wallpapers",
+    "domain": "applewalls.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -114697,17 +114752,6 @@
     "is_tip": false
   },
   {
-    "title": "⁠CYBROX",
-    "url": "https://cybrox.pro/",
-    "description": "Multi-Site / Online",
-    "category": "video-tools",
-    "subcategory": "▷ Kodi Tools",
-    "domain": "cybrox.pro",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "vdwn.cloud",
     "url": "https://vdwn.cloud/",
     "description": "Multi-Site / Online",
@@ -115731,6 +115775,17 @@
     "is_tip": false
   },
   {
+    "title": "Bingr",
+    "url": "https://bingr.st/home",
+    "description": "1080p / Dual Audio / External Subs / Ad-Toggle / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "bingr.st",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Sleepy",
     "url": "https://sleepy.lat/",
     "description": "4K / External Subs / Pop up + Redirect Free / Discord",
@@ -115819,28 +115874,6 @@
     "is_tip": false
   },
   {
-    "title": "ThugTV",
-    "url": "https://thugtv.online/",
-    "description": "1080p / Dual Audio / Ad-Toggle / Telegram / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "thugtv.online",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Bingr",
-    "url": "https://bingr.st/home",
-    "description": "1080p / Dual Audio / External Subs / Ad-Toggle / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "bingr.st",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "watched",
     "url": "https://watched.cx/",
     "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free / Discord",
@@ -115870,6 +115903,28 @@
     "subcategory": "▷ Stream Aggregators",
     "domain": "greyboxtv.pages.dev",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Bowd",
+    "url": "https://bowdtv.com/",
+    "description": "1080p / Dual Audio / Pop up + Redirect Free",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "bowdtv.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Vumeto",
+    "url": "https://vumeto.live/",
+    "description": "4K / Dual Audio / Pop up + Redirect Free",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "vumeto.live",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -116171,6 +116226,17 @@
     "is_tip": false
   },
   {
+    "title": "Play4u",
+    "url": "https://play4u.org/",
+    "description": "1080p / Dual Audio / Popup + Redirect Free",
+    "category": "video",
+    "subcategory": "▷ Dedicated-Server",
+    "domain": "play4u.org",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "OnionPlay",
     "url": "https://onionplay.ae/",
     "description": "1080p / Switch to Dedicated First Player / Discord",
@@ -116299,6 +116365,17 @@
     "subcategory": "▷ Multi-Server",
     "domain": "fireflix4.pages.dev",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Comvie",
+    "url": "https://comvie.lol/",
+    "description": "39 Sources / Popup + Redirect Free",
+    "category": "video",
+    "subcategory": "▷ Multi-Server",
+    "domain": "comvie.lol",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
