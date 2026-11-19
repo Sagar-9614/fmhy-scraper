@@ -6,7 +6,7 @@
     "category": "ai",
     "subcategory": "▷ Official Model Sites",
     "domain": "chat.deepseek.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2173,7 +2173,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "grapedjuice.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -16528,7 +16528,7 @@
     "category": "educational",
     "subcategory": "▷ Art Galleries / Collections",
     "domain": "artnap.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -26824,7 +26824,7 @@
     "category": "educational",
     "subcategory": "▷ Study Tools",
     "domain": "learnharness.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -36680,7 +36680,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Roblox Tools",
     "domain": "coderdayton.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -44831,7 +44831,7 @@
     "category": "image-tools",
     "subcategory": "▷ Content Removers",
     "domain": "huggingface.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56458,7 +56458,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56568,7 +56568,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
     "domain": "coderdayton.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72848,7 +72848,7 @@
     "category": "mobile",
     "subcategory": "▷ Customization",
     "domain": "applewalls.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75719,7 +75719,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Manga",
     "domain": "play.google.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79899,7 +79899,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / القراءة",
     "domain": "arabicheritagearchive.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91680,7 +91680,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91790,7 +91790,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "animetvn.gay",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91801,7 +91801,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "animevietsub.bid",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -108543,7 +108543,7 @@
     "category": "system-tools",
     "subcategory": "▷ Wallpapers",
     "domain": "applewalls.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -115924,7 +115924,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "vumeto.live",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116232,7 +116232,7 @@
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "play4u.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116375,7 +116375,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "comvie.lol",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
