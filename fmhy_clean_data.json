@@ -1034,13 +1034,13 @@
     "is_tip": false
   },
   {
-    "title": "⁠MAI Playground",
-    "url": "https://playground.microsoft.ai/chat",
-    "description": "MAI-Image-2.5 / MAI-Image-2.5 Flash / MAI-Image-2.5-Pro / 10 Daily / Sign-Up",
+    "title": "⁠MAI Labs",
+    "url": "https://labs.microsoft.ai/chat?model=mai-image-2-7",
+    "description": "MAI-Image-2.7 / MAI-Image-2.7 Flash / 10 Daily / Sign-Up",
     "category": "ai",
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
-    "domain": "playground.microsoft.ai",
-    "is_new": false,
+    "domain": "labs.microsoft.ai",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -2790,6 +2790,17 @@
     "subcategory": "▷ Concerts / Live Performances",
     "domain": "worldconcerthall.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Aidoru Online",
+    "url": "https://aidoru-online.me/",
+    "description": "Japanese Idol Group Performances / Torrents / Signup Required",
+    "category": "audio",
+    "subcategory": "▷ Concerts / Live Performances",
+    "domain": "aidoru-online.me",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -5254,17 +5265,6 @@
     "subcategory": "▷ Download Sites",
     "domain": "xprm.net",
     "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "unreleased.world",
-    "url": "https://www.unreleased.world/",
-    "description": "Unreleased",
-    "category": "audio",
-    "subcategory": "▷ Download Sites",
-    "domain": "unreleased.world",
-    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -22259,7 +22259,7 @@
     "category": "educational",
     "subcategory": "▷ Rubiks Cube",
     "domain": "reco.nz",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -23491,7 +23491,7 @@
     "category": "educational",
     "subcategory": "▷ Korean",
     "domain": "90daykorean.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32517,12 +32517,12 @@
   },
   {
     "title": "⁠Lib Shammes",
-    "url": "https://github.com/Kirkland-Pickles/lib-shammes",
+    "url": "https://github.com/Kirkland-Pickles/Shammes",
     "description": "Find / Manage Game Art / Bulk Add Non-Steam Games",
     "category": "gaming-tools",
     "subcategory": "▷ Client Tools",
     "domain": "github.com",
-    "is_new": false,
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -33869,6 +33869,17 @@
     "is_tip": false
   },
   {
+    "title": "MarioCube",
+    "url": "https://mariocube.com/",
+    "description": "Gamecube Homebrew Resources",
+    "category": "gaming-tools",
+    "subcategory": "▷ CoD Multiplayer",
+    "domain": "mariocube.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "N64Brew",
     "url": "https://n64brew.dev/wiki/Main_Page",
     "description": "N64 Homebrew Wiki",
@@ -34045,6 +34056,17 @@
     "is_tip": false
   },
   {
+    "title": "MarioCube",
+    "url": "https://mariocube.com/",
+    "description": "Gamecube Homebrew Resources",
+    "category": "gaming-tools",
+    "subcategory": "▷ Wii U / Wii Homebrew",
+    "domain": "mariocube.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "⁠TinyWiiBackupManager",
     "url": "https://github.com/mq1/TinyWiiBackupManager",
     "description": "Wii Backup Manager / Homebrew App",
@@ -34084,7 +34106,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ 3DS / DS Homebrew",
     "domain": "sanrax.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35064,6 +35086,17 @@
     "subcategory": "▷ MOBA Tools",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Liquipedia Dota 2",
+    "url": "https://liquipedia.net/dota2/",
+    "description": "Dota 2 Wiki",
+    "category": "gaming-tools",
+    "subcategory": "▷ MOBA Tools",
+    "domain": "liquipedia.net",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -38039,12 +38072,12 @@
   },
   {
     "title": "Team Forever",
-    "url": "https://teamforeveronline.wixsite.com/home",
+    "url": "https://teamforeverdev.github.io/",
     "description": "Sonic 1 & 2 Enhanced / S1F Mods / S2A Mods / YouTube / BlueSky",
     "category": "gaming",
     "subcategory": "▷ Remakes / Recreations",
-    "domain": "teamforeveronline.wixsite.com",
-    "is_new": false,
+    "domain": "teamforeverdev.github.io",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -39061,6 +39094,17 @@
     "is_tip": false
   },
   {
+    "title": "MarioCube",
+    "url": "https://mariocube.com/",
+    "description": "Wii Game WADs",
+    "category": "gaming",
+    "subcategory": "▷ ROM Sites",
+    "domain": "mariocube.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Cah4e3",
     "url": "https://cah4e3.shedevr.org.ru/",
     "description": "Unlicensed ROMs / Bootlegs / Use Translator",
@@ -39177,7 +39221,7 @@
     "category": "gaming",
     "subcategory": "▷ Nintendo ROMs",
     "domain": "sakurashop.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -42939,7 +42983,7 @@
     "category": "gaming",
     "subcategory": "▷ Shooter",
     "domain": "rentry.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -46537,6 +46581,17 @@
     "subcategory": "▷ Textures / Patterns",
     "domain": "sharetextures.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠VasTexture",
+    "url": "https://sites.google.com/view/infinitexture/",
+    "description": "Textures",
+    "category": "image-tools",
+    "subcategory": "▷ Textures / Patterns",
+    "domain": "sites.google.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -52219,7 +52274,7 @@
   {
     "title": "Aionda Mail",
     "url": "https://mail.aionda.com/",
-    "description": "25 Shared / 10 Forwards Per Alias / 1 Month Expiry / Unlimited",
+    "description": "25 Shared / 10 Forwards Per Alias / 1 Month Expiry / Catch-All Unlimited",
     "category": "internet-tools",
     "subcategory": "▷ Email Aliasing",
     "domain": "mail.aionda.com",
@@ -57085,7 +57140,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Server / Selfhosting",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -57877,17 +57932,6 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Themes",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Ghostty",
-    "url": "https://ghostty.org/",
-    "description": "Terminal Emulator / GitHub",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Themes",
-    "domain": "ghostty.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -67249,7 +67293,7 @@
     "category": "misc",
     "subcategory": "▷ Gaming Equipment",
     "domain": "sanrax.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -67415,6 +67459,17 @@
     "subcategory": "▷ Physical Media / Streaming",
     "domain": "dvdcompare.net",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠DVD Double Dip",
+    "url": "https://www.dvddoubledip.com/",
+    "description": "Blu-ray & DVD Comparisons",
+    "category": "misc",
+    "subcategory": "▷ Physical Media / Streaming",
+    "domain": "dvddoubledip.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -68019,7 +68074,7 @@
     "category": "misc",
     "subcategory": "▷ Multi Tool Sites",
     "domain": "degooglisons-internet.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72881,7 +72936,7 @@
     "category": "mobile",
     "subcategory": "▷ Customization",
     "domain": "app.radiancewallpapers.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72915,6 +72970,17 @@
     "subcategory": "▷ Customization",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠PhWalls",
+    "url": "https://phwalls.com/",
+    "description": "Stock Device Wallpapers",
+    "category": "mobile",
+    "subcategory": "▷ Customization",
+    "domain": "phwalls.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76098,6 +76164,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Limusic",
+    "url": "https://limusic.app/#android",
+    "description": "YouTube Music Player / GitHub",
+    "category": "mobile",
+    "subcategory": "▷ YouTube Music",
+    "domain": "limusic.app",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "BitChord",
     "url": "https://bitchord.kushagrasingh.in",
     "description": "YouTube Music Player / Discord / GitHub",
@@ -76127,6 +76204,17 @@
     "subcategory": "▷ YouTube Music",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠ViWaves",
+    "url": "https://github.com/heyjumanji/ViWave",
+    "description": "YouTube Music Player",
+    "category": "mobile",
+    "subcategory": "▷ YouTube Music",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76181,7 +76269,7 @@
     "category": "mobile",
     "subcategory": "▷ Android Podcasts / Radio",
     "domain": "amaradio.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76979,12 +77067,12 @@
   },
   {
     "title": "⁠CAPlayground",
-    "url": "https://caplayground.vercel.app/",
-    "description": "Create & Download Custom Animated Wallpapers / Requires Nugget (or similar) / GitHub",
+    "url": "https://github.com/CAPlayground/CAPlayground",
+    "description": "Create & Download Custom Animated Wallpapers / Requires Nugget (or similar)",
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
-    "domain": "caplayground.vercel.app",
-    "is_new": false,
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -76995,7 +77083,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78051,7 +78139,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Sideloading",
     "domain": "sideloading.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79481,7 +79569,7 @@
     "category": "non-english",
     "subcategory": "General",
     "domain": "alfehrest.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -84838,7 +84926,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "gptrtv.site",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91350,7 +91438,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / İzleme",
     "domain": "yabancidizi.news",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91394,7 +91482,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / İzleme",
     "domain": "jetfilmizle.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91428,6 +91516,17 @@
     "subcategory": "▷ Streaming / İzleme",
     "domain": "asyaanimeleri.top",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Animpow",
+    "url": "https://animpow.com/",
+    "description": "Anime",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / İzleme",
+    "domain": "animpow.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92615,7 +92714,7 @@
     "category": "privacy",
     "subcategory": "▷ Adblock Filters",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92752,17 +92851,6 @@
     "is_tip": false
   },
   {
-    "title": "LibreDNS",
-    "url": "https://libredns.gr/",
-    "description": "DNS Adblocking / German Servers",
-    "category": "privacy",
-    "subcategory": "▷ DNS Providers",
-    "domain": "libredns.gr",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "dns.sb",
     "url": "https://dns.sb/",
     "description": "Free, Fast & No-Log Public DNS Resolver",
@@ -92858,6 +92946,17 @@
     "subcategory": "▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)",
     "domain": "github.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "ANY.RUN",
+    "url": "https://any.run/",
+    "description": "Online Sandbox / Contact them Discord / X for Signup",
+    "category": "privacy",
+    "subcategory": "▷ Sandboxes / VMs",
+    "domain": "any.run",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -93738,6 +93837,17 @@
     "subcategory": "▷ Encrypted Messengers",
     "domain": "delta.chat",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Molly",
+    "url": "https://github.com/mollyim/mollyim-android",
+    "description": "Android",
+    "category": "privacy",
+    "subcategory": "▷ Encrypted Messengers",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -97301,7 +97411,7 @@
     "category": "reading",
     "subcategory": "▷ Manga",
     "domain": "baetoon.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99403,6 +99513,17 @@
     "subcategory": "▷ Academic Papers",
     "domain": "rpubs.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Sign Language Dataset Compendium",
+    "url": "https://www.sign-lang.uni-hamburg.de/lr/compendium/index.html",
+    "description": "Sign Language Datasets",
+    "category": "reading",
+    "subcategory": "▷ Academic Papers",
+    "domain": "sign-lang.uni-hamburg.de",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -103688,7 +103809,7 @@
   {
     "title": "⁠fmhytube",
     "url": "https://fmhytube.suntown.town/",
-    "description": "Curated Video Directory / Based on YT Channel Spreadsheet",
+    "description": "Curated Video Directory / Based on YT Channel Spreadsheet / Discord",
     "category": "social-media-tools",
     "subcategory": "▷ Search / Recommendations",
     "domain": "fmhytube.suntown.town",
@@ -106497,7 +106618,7 @@
     "category": "system-tools",
     "subcategory": "General",
     "domain": "anoma.ly",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -108643,6 +108764,17 @@
     "subcategory": "▷ Wallpapers",
     "domain": "frutigeraeroarchive.org",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠PhWalls",
+    "url": "https://phwalls.com/",
+    "description": "Stock System Wallpapers",
+    "category": "system-tools",
+    "subcategory": "▷ Wallpapers",
+    "domain": "phwalls.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -115951,6 +116083,17 @@
     "is_tip": false
   },
   {
+    "title": "ThugTV",
+    "url": "https://thugtv.st",
+    "description": "720p / Dual Audio / Ad-Toggle / Telegram / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "thugtv.st",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "watched",
     "url": "https://watched.cx/",
     "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free / Discord",
@@ -116255,17 +116398,6 @@
     "subcategory": "▷ Dedicated-Server",
     "domain": "showbox.media",
     "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "LE MOVIE",
-    "url": "https://lemovie.site/",
-    "description": "1080p / Dual Audio / Pop up + Redirect Free",
-    "category": "video",
-    "subcategory": "▷ Dedicated-Server",
-    "domain": "lemovie.site",
-    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -118459,6 +118591,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Matchora",
+    "url": "https://matchora.to/channels",
+    "description": "TV / Sports",
+    "category": "video",
+    "subcategory": "▷ Live TV",
+    "domain": "matchora.to",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Xumo Play",
     "url": "https://play.xumo.com/networks",
     "description": "TV / US Only",
@@ -118635,6 +118778,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Matchora",
+    "url": "https://matchora.to/",
+    "description": "",
+    "category": "video",
+    "subcategory": "▷ Live Sports",
+    "domain": "matchora.to",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "WatchSports(su)",
     "url": "https://watchsports.su/",
     "description": "",
@@ -118674,17 +118828,6 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "v2.sportsurge.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠Matchora",
-    "url": "https://matchora.to/",
-    "description": "",
-    "category": "video",
-    "subcategory": "▷ Live Sports",
-    "domain": "matchora.to",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -118846,7 +118989,7 @@
   {
     "title": "FreeF1",
     "url": "https://freef1-live.vercel.app/",
-    "description": "Motorsports",
+    "description": "Motorsports / Discord",
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "freef1-live.vercel.app",
@@ -119086,6 +119229,17 @@
     "is_tip": false
   },
   {
+    "title": "MMA Replay All",
+    "url": "https://mmareplayall.com/",
+    "description": "MMA Replays",
+    "category": "video",
+    "subcategory": "▷ Sports Replays",
+    "domain": "mmareplayall.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "WatchProWrestling",
     "url": "https://watchprowrestling.store/",
     "description": "MMA / Wrestling / Boxing Replays",
@@ -119125,17 +119279,6 @@
     "category": "video",
     "subcategory": "▷ Sports Replays",
     "domain": "pwrestling.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "MMA Replay All",
-    "url": "https://rentry.co/FMHYB64#mrpa",
-    "description": "MMA Replays",
-    "category": "video",
-    "subcategory": "▷ Sports Replays",
-    "domain": "rentry.co",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
