@@ -1040,7 +1040,7 @@
     "category": "ai",
     "subcategory": "▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)",
     "domain": "labs.microsoft.ai",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2800,7 +2800,7 @@
     "category": "audio",
     "subcategory": "▷ Concerts / Live Performances",
     "domain": "aidoru-online.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32522,7 +32522,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Client Tools",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33875,7 +33875,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ CoD Multiplayer",
     "domain": "mariocube.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34062,7 +34062,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Wii U / Wii Homebrew",
     "domain": "mariocube.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35096,7 +35096,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ MOBA Tools",
     "domain": "liquipedia.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -38077,7 +38077,7 @@
     "category": "gaming",
     "subcategory": "▷ Remakes / Recreations",
     "domain": "teamforeverdev.github.io",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -39100,7 +39100,7 @@
     "category": "gaming",
     "subcategory": "▷ ROM Sites",
     "domain": "mariocube.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -46591,7 +46591,7 @@
     "category": "image-tools",
     "subcategory": "▷ Textures / Patterns",
     "domain": "sites.google.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -67469,7 +67469,7 @@
     "category": "misc",
     "subcategory": "▷ Physical Media / Streaming",
     "domain": "dvddoubledip.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72980,7 +72980,7 @@
     "category": "mobile",
     "subcategory": "▷ Customization",
     "domain": "phwalls.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76170,7 +76170,7 @@
     "category": "mobile",
     "subcategory": "▷ YouTube Music",
     "domain": "limusic.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76214,7 +76214,7 @@
     "category": "mobile",
     "subcategory": "▷ YouTube Music",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77072,7 +77072,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91526,7 +91526,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / İzleme",
     "domain": "animpow.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92956,7 +92956,7 @@
     "category": "privacy",
     "subcategory": "▷ Sandboxes / VMs",
     "domain": "any.run",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -93847,7 +93847,7 @@
     "category": "privacy",
     "subcategory": "▷ Encrypted Messengers",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -99523,7 +99523,7 @@
     "category": "reading",
     "subcategory": "▷ Academic Papers",
     "domain": "sign-lang.uni-hamburg.de",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -108774,7 +108774,7 @@
     "category": "system-tools",
     "subcategory": "▷ Wallpapers",
     "domain": "phwalls.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116089,7 +116089,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "thugtv.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118597,7 +118597,7 @@
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "matchora.to",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119235,7 +119235,7 @@
     "category": "video",
     "subcategory": "▷ Sports Replays",
     "domain": "mmareplayall.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
