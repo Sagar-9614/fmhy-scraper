@@ -2305,7 +2305,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Sites",
     "domain": "pflix.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2822,7 +2822,7 @@
     "category": "audio",
     "subcategory": "▷ Concerts / Live Performances",
     "domain": "ninlive.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -33864,7 +33864,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ CoD Multiplayer",
     "domain": "dolphindepot.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -46580,7 +46580,7 @@
     "category": "image-tools",
     "subcategory": "▷ Textures / Patterns",
     "domain": "texturecan.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72067,7 +72067,7 @@
     "category": "mobile",
     "subcategory": "▷ Modded APKs",
     "domain": "apkcombo.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72364,7 +72364,7 @@
     "category": "mobile",
     "subcategory": "▷ App Launchers",
     "domain": "kisslauncher.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -72694,7 +72694,7 @@
     "category": "mobile",
     "subcategory": "▷ Social Media Apps",
     "domain": "t.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -76203,7 +76203,7 @@
     "category": "mobile",
     "subcategory": "▷ YouTube Music",
     "domain": "lastwave.clashprojects.in",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78370,7 +78370,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Privacy",
     "domain": "iosboom.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -79723,7 +79723,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / البث",
     "domain": "m.myseed.tv",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -85630,7 +85630,7 @@
     "category": "non-english",
     "subcategory": "▷ Reading / Leggere",
     "domain": "freejapanesefont.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91471,7 +91471,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / İzleme",
     "domain": "diziizle.you",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91933,7 +91933,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "vuonphim.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -91966,7 +91966,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "tramphim.wtf",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -94694,7 +94694,7 @@
     "category": "reading",
     "subcategory": "General",
     "domain": "welib.gl",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -98060,7 +98060,7 @@
     "category": "reading",
     "subcategory": "▷ Magazines",
     "domain": "t.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107135,7 +107135,7 @@
     "category": "system-tools",
     "subcategory": "▷ Remote Desktop",
     "domain": "microsoft.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -107168,7 +107168,7 @@
     "category": "system-tools",
     "subcategory": "▷ Remote Desktop",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116122,7 +116122,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "reeflix.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116562,7 +116562,7 @@
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
     "domain": "q62flix.ws",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116595,7 +116595,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "tonkacine.watch",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116628,7 +116628,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "pieprime.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116661,7 +116661,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "cineshine.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116716,7 +116716,7 @@
     "category": "video",
     "subcategory": "▷ Multi-Server",
     "domain": "aloso.vercel.app",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119653,7 +119653,7 @@
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "app.hashtagiptv.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
