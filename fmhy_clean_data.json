@@ -2151,7 +2151,7 @@
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
     "domain": "metrolist.meowery.eu",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -2954,7 +2954,7 @@
     "category": "audio",
     "subcategory": "▷ DJ Mixes / Livesets",
     "domain": "mixcloud.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -19003,7 +19003,7 @@
     "category": "educational",
     "subcategory": "▷ Spacecraft",
     "domain": "boostertracker.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -23183,7 +23183,7 @@
     "category": "educational",
     "subcategory": "▷ English",
     "domain": "youglish.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -24239,7 +24239,7 @@
     "category": "educational",
     "subcategory": "▷ Constructed Languages",
     "domain": "frathwiki.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -28815,7 +28815,7 @@
     "category": "file-tools",
     "subcategory": "▷ Online PDF Toolkits",
     "domain": "fixmypdfs.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -32610,7 +32610,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ DLC Unlock / DRM Bypass",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -34645,7 +34645,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Mod Packs / Indexes",
     "domain": "rentry.co",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35547,7 +35547,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Tabletop Tools",
     "domain": "pitmaster.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -35910,7 +35910,7 @@
     "category": "gaming-tools",
     "subcategory": "▷ Visual Novel Tools",
     "domain": "lapwerks.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -41080,7 +41080,7 @@
     "category": "gaming",
     "subcategory": "▷ Card Games",
     "domain": "blackjackbreak.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -43786,7 +43786,7 @@
     "category": "gaming",
     "subcategory": "▷ Incremental / Idle",
     "domain": "armory-machine.whipple.ninja",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -48725,7 +48725,7 @@
     "category": "image-tools",
     "subcategory": "▷ Image Converters",
     "domain": "anyjxl.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -49165,7 +49165,7 @@
     "category": "image-tools",
     "subcategory": "▷ Image Hosts",
     "domain": "codefloe.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -55512,7 +55512,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Software Sites",
     "domain": "rlw.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -56601,7 +56601,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Linux Gaming",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -57437,7 +57437,7 @@
     "category": "linux-macos",
     "subcategory": "▷ Android on Linux",
     "domain": "denialwm.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -67271,7 +67271,7 @@
     "category": "misc",
     "subcategory": "▷ Keyboards / Mice",
     "domain": "shapefinder.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -70802,7 +70802,7 @@
     "category": "misc",
     "subcategory": "▷ Interesting",
     "domain": "openpsychometrics.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -75763,7 +75763,7 @@
     "category": "mobile",
     "subcategory": "▷ Linux on Android",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -77490,7 +77490,7 @@
     "category": "mobile",
     "subcategory": "▷ Android YouTube Apps",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -78216,7 +78216,7 @@
     "category": "mobile",
     "subcategory": "▷ iOS Sideloading",
     "domain": "github.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -83089,7 +83089,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "voiranime.cx",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -85443,7 +85443,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming",
     "domain": "streamingcommunityz.mov",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -88864,7 +88864,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Стриминг",
     "domain": "animego.me",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -90481,7 +90481,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Streamear",
     "domain": "verpeliculasonline.org",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92010,7 +92010,7 @@
     "category": "non-english",
     "subcategory": "▷ Streaming / Phát trực tuyến",
     "domain": "tramphim.beer",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -92098,7 +92098,7 @@
     "category": "non-english",
     "subcategory": "▷ Free w/ Ads / Miễn phí với quảng cáo",
     "domain": "hd1.xemtv.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -104253,7 +104253,7 @@
     "category": "social-media-tools",
     "subcategory": "▷ Twitch Players",
     "domain": "twitchunblock-web.pages.dev",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -112767,7 +112767,7 @@
     "category": "torrenting",
     "subcategory": "▷ Aggregators",
     "domain": "torrentproject.cc",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -113548,7 +113548,7 @@
     "category": "video-tools",
     "subcategory": "▷ Video File Hosts",
     "domain": "lulustream.com",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116221,7 +116221,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "kaizoku.site",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116265,7 +116265,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "pflix.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116276,7 +116276,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "tonitrus.online",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -116331,7 +116331,7 @@
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "cinebros.net",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -117728,7 +117728,7 @@
     "category": "video",
     "subcategory": "▷ Anime Streaming",
     "domain": "anime.way2movies.vip",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118223,7 +118223,7 @@
     "category": "video",
     "subcategory": "▷ Drama Streaming",
     "domain": "kissasian.com.gr",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118300,7 +118300,7 @@
     "category": "video",
     "subcategory": "▷ Drama Streaming",
     "domain": "kisskh.dk",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118696,7 +118696,7 @@
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "matchora.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -118872,7 +118872,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "matchora.st",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
@@ -119081,7 +119081,7 @@
     "category": "video",
     "subcategory": "▷ Live Sports",
     "domain": "flive.cc.cd",
-    "is_new": true,
+    "is_new": false,
     "is_broken": false,
     "is_tip": false
   },
