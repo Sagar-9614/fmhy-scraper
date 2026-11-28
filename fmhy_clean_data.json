@@ -11,17 +11,6 @@
     "is_tip": false
   },
   {
-    "title": "DeepSeek",
-    "url": "https://chat.deepseek.com/",
-    "description": "DeepSeek V4.1 Flash 1017 / Sign-Up / Subreddit / Discord / GitHub",
-    "category": "ai",
-    "subcategory": "▷ Official Model Sites",
-    "domain": "chat.deepseek.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "ChatGPT",
     "url": "https://chatgpt.com/",
     "description": "GPT-6 Luna / Unlimited / Add Features / r/OpenAI / r/ChatGPT / Discord",
@@ -156,7 +145,7 @@
   {
     "title": "Sarvam",
     "url": "https://dashboard.sarvam.ai/chat",
-    "description": "GLM 5.4 / DeepSeek V4.1 Flash 1017 / Sign-Up",
+    "description": "GLM 5.3 / DeepSeek V4.1 Flash 1017 / Sign-Up",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "dashboard.sarvam.ai",
@@ -167,7 +156,7 @@
   {
     "title": "⁠Lumo",
     "url": "https://lumo.proton.me/",
-    "description": "GLM 5.4 (Max, 20 Daily) / Qwen3.5 122B A10B (Lite, 100 Daily) / Sign-Up / Reasoning",
+    "description": "GLM 5.3 (Max, 20 Daily) / Qwen3.5 122B A10B (Lite, 100 Daily) / Sign-Up / Reasoning",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "lumo.proton.me",
@@ -178,7 +167,7 @@
   {
     "title": "⁠ISH",
     "url": "https://ish.chat/",
-    "description": "DeepSeek V4 Flash 0731 / GLM 5.4 Flash / 50K Tokens Daily / Subreddit / Discord",
+    "description": "DeepSeek V4 Flash 0731 / GLM 5.3 Flash / 50K Tokens Daily / Subreddit / Discord",
     "category": "ai",
     "subcategory": "▷ Multiple Model Sites",
     "domain": "ish.chat",
@@ -2146,12 +2135,12 @@
   },
   {
     "title": "⁠Metrolist",
-    "url": "https://metrolist.meowery.eu/",
+    "url": "https://metrolist.cc/",
     "description": "YouTube Music Client / Windows, macOS, Linux",
     "category": "audio",
     "subcategory": "▷ Streaming Apps",
-    "domain": "metrolist.meowery.eu",
-    "is_new": false,
+    "domain": "metrolist.cc",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -8063,6 +8052,17 @@
     "is_tip": false
   },
   {
+    "title": "Ensembles",
+    "url": "https://github.com/ensemblesaw/ensembles-app",
+    "description": "Musical Performance Arranger / Linux",
+    "category": "audio",
+    "subcategory": "▷ Audio Editors",
+    "domain": "github.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "plugdata",
     "url": "https://plugdata.org/",
     "description": "Visual Audio Editor / Discord",
@@ -8378,6 +8378,17 @@
     "subcategory": "▷ Audio Plugins",
     "domain": "reddit.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠yabridge",
+    "url": "https://github.com/robbert-vdh/yabridge",
+    "description": "Run VST2, VST3 & CLAP Plugins on Linux",
+    "category": "audio",
+    "subcategory": "▷ Audio Plugins",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -15274,17 +15285,6 @@
     "category": "downloading",
     "subcategory": "▷ Freeware Sites",
     "domain": "suckless.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "VETUSWARE",
-    "url": "https://vetusware.com/",
-    "description": "Abandonware / Operating Systems / Games",
-    "category": "downloading",
-    "subcategory": "▷ Freeware Sites",
-    "domain": "vetusware.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -42218,17 +42218,6 @@
     "is_tip": false
   },
   {
-    "title": "Truffled",
-    "url": "https://truffled.lol/g",
-    "description": "Browser Games / Ports / Discord",
-    "category": "gaming",
-    "subcategory": "▷ Unblocked Games",
-    "domain": "truffled.lol",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "fern",
     "url": "https://fern.best/",
     "description": "Browser Games / Ports / Discord",
@@ -42246,6 +42235,17 @@
     "category": "gaming",
     "subcategory": "▷ Unblocked Games",
     "domain": "ubg365.github.io",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "Truffled",
+    "url": "https://truffled.lol/g",
+    "description": "Browser Games / Ports / Disable Ads in Settings / Discord",
+    "category": "gaming",
+    "subcategory": "▷ Unblocked Games",
+    "domain": "truffled.lol",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -56144,39 +56144,6 @@
     "is_tip": false
   },
   {
-    "title": "Qtractor",
-    "url": "https://qtractor.org/",
-    "description": "Audio Editor",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Audio",
-    "domain": "qtractor.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Calf Studio Gear",
-    "url": "https://calf-studio-gear.org/",
-    "description": "Audio Production Plugins",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Audio",
-    "domain": "calf-studio-gear.org",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Ensembles",
-    "url": "https://github.com/ensemblesaw/ensembles-app",
-    "description": "Musical Performance Arranger",
-    "category": "linux-macos",
-    "subcategory": "▷ Linux Audio",
-    "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "JDSP4Linux",
     "url": "https://github.com/Audio4Linux/JDSP4Linux",
     "description": "Audio Processors",
@@ -58647,17 +58614,6 @@
     "category": "linux-macos",
     "subcategory": "▷ Mac Audio",
     "domain": "github.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Garageband",
-    "url": "https://apps.apple.com/us/app/garageband/id682658836?mt=12",
-    "description": "Audio Editor",
-    "category": "linux-macos",
-    "subcategory": "▷ Mac Audio",
-    "domain": "apps.apple.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -73865,6 +73821,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠Iris Gallery",
+    "url": "https://github.com/MohamadOday/iris-gallery",
+    "description": "Photo / Video Gallery",
+    "category": "mobile",
+    "subcategory": "▷ Image Galleries",
+    "domain": "github.com",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Ente",
     "url": "https://ente.com/",
     "description": "Photo / Video Gallery / 10GB Free / GitHub",
@@ -76094,6 +76061,17 @@
     "subcategory": "▷ Android Manga",
     "domain": "play.google.com",
     "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠QuickBuds",
+    "url": "https://github.com/spizganed/QuickBuds",
+    "description": "Wireless Earbud Manager + Equalizer",
+    "category": "mobile",
+    "subcategory": "▷ Android Manga",
+    "domain": "github.com",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -92037,6 +92015,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠XemTV",
+    "url": "https://hd1.xemtv.net/",
+    "description": "Live TV / 720p",
+    "category": "non-english",
+    "subcategory": "▷ Streaming / Phát trực tuyến",
+    "domain": "hd1.xemtv.net",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "HCMUT ⁠Courseware",
     "url": "https://www.hcmut-courseware.org/courses",
     "description": "Unofficial HCMUT Courses",
@@ -92087,17 +92076,6 @@
     "category": "non-english",
     "subcategory": "▷ Free w/ Ads / Miễn phí với quảng cáo",
     "domain": "danet.vn",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "⁠XemTV",
-    "url": "https://hd1.xemtv.net/",
-    "description": "Live TV",
-    "category": "non-english",
-    "subcategory": "▷ Free w/ Ads / Miễn phí với quảng cáo",
-    "domain": "hd1.xemtv.net",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -94558,7 +94536,7 @@
   {
     "title": "Throne",
     "url": "https://throneproj.github.io/",
-    "description": "Proxy Client / Sing-Box GUI / Windows, macOS, Linux / GitHub",
+    "description": "Proxy Client / Sing-Box GUI / Windows, macOS, Linux / Android / GitHub",
     "category": "privacy",
     "subcategory": "▷ Proxy Clients",
     "domain": "throneproj.github.io",
@@ -101112,6 +101090,28 @@
     "is_tip": false
   },
   {
+    "title": "DC Media List",
+    "url": "https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/",
+    "description": "Full DC Media List (1935-2024)",
+    "category": "reading",
+    "subcategory": "▷ Comic Tracking / Databases",
+    "domain": "docs.google.com",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
+    "title": "⁠Uncanny X-Men",
+    "url": "https://uncannyxmen.net/",
+    "description": "X-Men Comics Database + Summaries",
+    "category": "reading",
+    "subcategory": "▷ Comic Tracking / Databases",
+    "domain": "uncannyxmen.net",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "The Webcomic List",
     "url": "https://www.thewebcomiclist.com/",
     "description": "Webcomic Database / Release Tracker",
@@ -101371,17 +101371,6 @@
     "category": "reading",
     "subcategory": "▷ Comic Recommendations",
     "domain": "reddit.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "DC Media List",
-    "url": "https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/",
-    "description": "Full DC Media List (1935-2024)",
-    "category": "reading",
-    "subcategory": "▷ Comic Recommendations",
-    "domain": "docs.google.com",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -109980,7 +109969,7 @@
   {
     "title": "OneNote",
     "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us",
-    "description": "Markdown Note-Taking / Math Support / Android",
+    "description": "Markdown Note-Taking / Math Support / Microsoft Login Required / Android",
     "category": "text-tools",
     "subcategory": "▷ Note-Taking",
     "domain": "play.google.com",
@@ -113454,17 +113443,6 @@
     "is_tip": false
   },
   {
-    "title": "Vidoza",
-    "url": "https://vidoza.net/",
-    "description": "15GB / 15 Days / Requires Sign-Up",
-    "category": "video-tools",
-    "subcategory": "▷ Video File Hosts",
-    "domain": "vidoza.net",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "⁠Streamain",
     "url": "https://streamain.com/",
     "description": "Unlimited / Forever",
@@ -113531,7 +113509,7 @@
     "is_tip": false
   },
   {
-    "title": "UQLOAD",
+    "title": "Uqload",
     "url": "https://uqload.vc/",
     "description": "5GB / Forever",
     "category": "video-tools",
@@ -113542,7 +113520,7 @@
     "is_tip": false
   },
   {
-    "title": "Luluvdoo",
+    "title": "LuluStream",
     "url": "https://lulustream.com/",
     "description": "15GB / 60 Days Since Last Download",
     "category": "video-tools",
@@ -116050,6 +116028,17 @@
     "is_tip": false
   },
   {
+    "title": "Reeflix",
+    "url": "https://reeflix.st/",
+    "description": "4K / Dual Audio / External Subs / Ad-Toggle / Mirrors / Discord",
+    "category": "video",
+    "subcategory": "▷ Stream Aggregators",
+    "domain": "reeflix.st",
+    "is_new": false,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "Movie Night",
     "url": "https://movienig.ht/",
     "description": "1080p / Ad-Toggle / Discord",
@@ -116149,20 +116138,9 @@
     "is_tip": false
   },
   {
-    "title": "Reeflix",
-    "url": "https://reeflix.st/",
-    "description": "4K / Dual Audio / External Subs / Ad-Toggle / Discord",
-    "category": "video",
-    "subcategory": "▷ Stream Aggregators",
-    "domain": "reeflix.st",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
     "title": "watched",
     "url": "https://watched.cx/",
-    "description": "1080p / Dual Audio / External Subs / Popup + Redirect Free / Discord",
+    "description": "4K / Dual Audio / External Subs / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
     "domain": "watched.cx",
@@ -116425,12 +116403,12 @@
   },
   {
     "title": "frameXTV",
-    "url": "https://framextv.xyz/",
+    "url": "https://framextv.cc/",
     "description": "4K / External Subs / Discord",
     "category": "video",
     "subcategory": "▷ Stream Aggregators",
-    "domain": "framextv.xyz",
-    "is_new": false,
+    "domain": "framextv.cc",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -116469,12 +116447,12 @@
   },
   {
     "title": "StreamingUnity",
-    "url": "https://streamingunity.fun/",
+    "url": "https://streamingunity.day/",
     "description": "720p / Dual Audio / Popup + Redirect Free",
     "category": "video",
     "subcategory": "▷ Dedicated-Server",
-    "domain": "streamingunity.fun",
-    "is_new": false,
+    "domain": "streamingunity.day",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -116755,12 +116733,12 @@
   },
   {
     "title": "Flyflix",
-    "url": "https://flyflix.cc/",
+    "url": "https://flyflix.app/",
     "description": "23 Sources / Popup + Redirect Free / Discord",
     "category": "video",
     "subcategory": "▷ Multi-Server",
-    "domain": "flyflix.cc",
-    "is_new": false,
+    "domain": "flyflix.app",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -118284,12 +118262,12 @@
   },
   {
     "title": "Vidbox",
-    "url": "https://vidbox.vc/asian-drama",
+    "url": "https://vidbox.wtf/asian-drama",
     "description": "TV / Movies / Discord",
     "category": "video",
     "subcategory": "▷ Drama Streaming",
-    "domain": "vidbox.vc",
-    "is_new": false,
+    "domain": "vidbox.wtf",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -118718,17 +118696,6 @@
     "category": "video",
     "subcategory": "▷ Live TV",
     "domain": "freetvgarden.com",
-    "is_new": false,
-    "is_broken": false,
-    "is_tip": false
-  },
-  {
-    "title": "Watchott Live",
-    "url": "https://iptv.watchott.org/",
-    "description": "TV / Sports / PW: FREE-MEDIA",
-    "category": "video",
-    "subcategory": "▷ Live TV",
-    "domain": "iptv.watchott.org",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -119284,6 +119251,17 @@
     "is_tip": false
   },
   {
+    "title": "⁠HooFoot",
+    "url": "https://hoofoot.net/",
+    "description": "Football Highlights / Discord",
+    "category": "video",
+    "subcategory": "▷ Sports Replays",
+    "domain": "hoofoot.net",
+    "is_new": true,
+    "is_broken": false,
+    "is_tip": false
+  },
+  {
     "title": "RuTracker Sports",
     "url": "https://rutracker.org/forum/index.php?c=28",
     "description": "Sports Replays / Torrents / Tools",
@@ -119494,11 +119472,11 @@
   },
   {
     "title": "F1 Live",
-    "url": "https://f1live.dpdns.org/",
+    "url": "https://flive.cc.cd/",
     "description": "Motorsports Replays",
     "category": "video",
     "subcategory": "▷ Sports Replays",
-    "domain": "f1live.dpdns.org",
+    "domain": "flive.cc.cd",
     "is_new": false,
     "is_broken": false,
     "is_tip": false
@@ -119944,13 +119922,13 @@
     "is_tip": false
   },
   {
-    "title": "1Shows",
-    "url": "http://1shows.org",
+    "title": "1Waves",
+    "url": "http://1waves.gd/",
     "description": "Movies / TV / Anime / 4K / HEVC",
     "category": "video",
     "subcategory": "▷ IPTV Players",
-    "domain": "1shows.org",
-    "is_new": false,
+    "domain": "1waves.gd",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -120067,7 +120045,7 @@
   {
     "title": "Pahe",
     "url": "https://pahe.ink/",
-    "description": "Movies / TV / Anime / 4K / HEVC / Warning / Discord",
+    "description": "Movies / TV / Anime / 4K / HEVC / Shortlink Bypass / Discord",
     "category": "video",
     "subcategory": "▷ IPTV Players",
     "domain": "pahe.ink",
@@ -120462,12 +120440,12 @@
   },
   {
     "title": "⁠AIOStreams",
-    "url": "https://docs.aiostreams.viren070.me/apps/",
+    "url": "https://aiostreams.org/",
     "description": "Streaming App / Debrid or Usenet Required / Windows, macOS, Linux",
     "category": "video",
     "subcategory": "▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "docs.aiostreams.viren070.me",
-    "is_new": false,
+    "domain": "aiostreams.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -120792,12 +120770,12 @@
   },
   {
     "title": "⁠AIOStreams",
-    "url": "https://docs.aiostreams.viren070.me/",
+    "url": "https://aiostreams.org/",
     "description": "Multi-Source Addon + Debrid Aggregator / Discord / GitHub",
     "category": "video",
     "subcategory": "▷ Stremio / Nuvio Tools",
-    "domain": "docs.aiostreams.viren070.me",
-    "is_new": false,
+    "domain": "aiostreams.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
@@ -121133,12 +121111,12 @@
   },
   {
     "title": "⁠AIOStreams",
-    "url": "https://docs.aiostreams.viren070.me/apps/",
+    "url": "https://aiostreams.org/",
     "description": "Streaming App / Debrid or Usenet Required",
     "category": "video",
     "subcategory": "▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)",
-    "domain": "docs.aiostreams.viren070.me",
-    "is_new": false,
+    "domain": "aiostreams.org",
+    "is_new": true,
     "is_broken": false,
     "is_tip": false
   },
